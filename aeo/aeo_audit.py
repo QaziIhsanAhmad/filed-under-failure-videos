@@ -103,7 +103,7 @@ def audit_page(url, host):
     links = [urljoin(url, a["href"]) for a in soup.find_all("a", href=True)]
     internal = [l.split("#")[0] for l in links if urlparse(l).netloc == host]
     external = [l for l in links if urlparse(l).netloc and urlparse(l).netloc != host]
-    imgs = soup.find_all("img"); no_alt = [i for i in imgs if not i.get("alt")]
+    imgs = main.find_all("img"); no_alt = [i for i in imgs if i.get("alt") is None]
     types = jsonld_types(soup)
     has_date = bool(soup.find("time") or soup.find("meta", attrs={"property": "article:modified_time"})) or "dateModified" in r.text
     has_table = bool(main.find("table")); has_list = bool(main.find(["ol", "ul"]))
