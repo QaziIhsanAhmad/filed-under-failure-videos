@@ -19,15 +19,19 @@
  "sitemaps": [
   "https://xenovasolutions.com/wp-sitemap.xml"
  ],
- "score": 75,
+ "score": 92,
  "top_issues": [
   [
-   "N images without alt",
-   20
+   "thin content (<N words)",
+   4
   ],
   [
-   "thin content (<N words)",
-   6
+   "not reachable / not HTML",
+   2
+  ],
+  [
+   "orphan (no internal links found to it)",
+   2
   ],
   [
    "title over N chars",
@@ -38,10 +42,9 @@
   {
    "url": "https://xenovasolutions.com/ai-chatbot-cost/",
    "status": 200,
-   "ms": 591,
+   "ms": 290,
    "issues": [
-    "title over 65 chars",
-    "3 images without alt"
+    "title over 65 chars"
    ],
    "title": "How Much Does an AI Chatbot Cost in 2026? A Plain-English Guide for UK & US Businesses \u00b7 Xenova Solutions",
    "title_len": 105,
@@ -50,7 +53,7 @@
    "words": 1038,
    "internal_links": 17,
    "external_links": 4,
-   "img_no_alt": 3,
+   "img_no_alt": 0,
    "schema": [
     "Organization",
     "WebSite",
@@ -64,37 +67,18 @@
   },
   {
    "url": "https://xenovasolutions.com/sample-page/",
-   "status": 200,
-   "ms": 470,
+   "status": 404,
+   "ms": 357,
    "issues": [
-    "thin content (<300 words)",
-    "1 images without alt"
-   ],
-   "title": "Sample Page \u00b7 Xenova Solutions",
-   "title_len": 30,
-   "desc_len": 155,
-   "h1": 1,
-   "words": 161,
-   "internal_links": 18,
-   "external_links": 4,
-   "img_no_alt": 1,
-   "schema": [
-    "Organization",
-    "WebSite",
-    "BreadcrumbList"
-   ],
-   "canonical": "https://xenovasolutions.com/sample-page/",
-   "question_headings": 0,
-   "has_table": false,
-   "has_date": false
+    "not reachable / not HTML",
+    "orphan (no internal links found to it)"
+   ]
   },
   {
    "url": "https://xenovasolutions.com/",
    "status": 200,
-   "ms": 281,
-   "issues": [
-    "1 images without alt"
-   ],
+   "ms": 466,
+   "issues": [],
    "title": "AI & Software Development Company for UK Businesses | Xenova",
    "title_len": 60,
    "desc_len": 143,
@@ -102,7 +86,7 @@
    "words": 1324,
    "internal_links": 16,
    "external_links": 5,
-   "img_no_alt": 1,
+   "img_no_alt": 0,
    "schema": [
     "Organization",
     "WebSite"
@@ -115,10 +99,9 @@
   {
    "url": "https://xenovasolutions.com/insights/",
    "status": 200,
-   "ms": 438,
+   "ms": 349,
    "issues": [
-    "thin content (<300 words)",
-    "1 images without alt"
+    "thin content (<300 words)"
    ],
    "title": "Insights \u00b7 Xenova Solutions",
    "title_len": 27,
@@ -127,7 +110,7 @@
    "words": 71,
    "internal_links": 17,
    "external_links": 4,
-   "img_no_alt": 1,
+   "img_no_alt": 0,
    "schema": [
     "Organization",
     "WebSite"
@@ -140,10 +123,8 @@
   {
    "url": "https://xenovasolutions.com/about/",
    "status": 200,
-   "ms": 462,
-   "issues": [
-    "1 images without alt"
-   ],
+   "ms": 366,
+   "issues": [],
    "title": "About Xenova Solutions | AI & Software Engineering Team",
    "title_len": 55,
    "desc_len": 136,
@@ -151,7 +132,7 @@
    "words": 347,
    "internal_links": 16,
    "external_links": 4,
-   "img_no_alt": 1,
+   "img_no_alt": 0,
    "schema": [
     "Organization",
     "WebSite",
@@ -165,10 +146,8 @@
   {
    "url": "https://xenovasolutions.com/services/",
    "status": 200,
-   "ms": 460,
-   "issues": [
-    "1 images without alt"
-   ],
+   "ms": 374,
+   "issues": [],
    "title": "AI & Software Development Services | Xenova Solutions",
    "title_len": 53,
    "desc_len": 134,
@@ -176,7 +155,7 @@
    "words": 390,
    "internal_links": 16,
    "external_links": 4,
-   "img_no_alt": 1,
+   "img_no_alt": 0,
    "schema": [
     "Organization",
     "WebSite",
@@ -190,10 +169,8 @@
   {
    "url": "https://xenovasolutions.com/industries/",
    "status": 200,
-   "ms": 445,
-   "issues": [
-    "1 images without alt"
-   ],
+   "ms": 381,
+   "issues": [],
    "title": "Industries We Build AI & Software For | Xenova Solutions",
    "title_len": 56,
    "desc_len": 131,
@@ -201,7 +178,7 @@
    "words": 348,
    "internal_links": 16,
    "external_links": 4,
-   "img_no_alt": 1,
+   "img_no_alt": 0,
    "schema": [
     "Organization",
     "WebSite",
@@ -215,10 +192,8 @@
   {
    "url": "https://xenovasolutions.com/work/",
    "status": 200,
-   "ms": 564,
-   "issues": [
-    "1 images without alt"
-   ],
+   "ms": 487,
+   "issues": [],
    "title": "Case Studies: AI & Software Projects | Xenova Solutions",
    "title_len": 55,
    "desc_len": 144,
@@ -226,7 +201,7 @@
    "words": 488,
    "internal_links": 16,
    "external_links": 4,
-   "img_no_alt": 1,
+   "img_no_alt": 0,
    "schema": [
     "Organization",
     "WebSite",
@@ -240,10 +215,9 @@
   {
    "url": "https://xenovasolutions.com/contact/",
    "status": 200,
-   "ms": 474,
+   "ms": 400,
    "issues": [
-    "thin content (<300 words)",
-    "1 images without alt"
+    "thin content (<300 words)"
    ],
    "title": "Contact Xenova Solutions | Start Your AI or Software Project",
    "title_len": 60,
@@ -252,7 +226,7 @@
    "words": 196,
    "internal_links": 16,
    "external_links": 4,
-   "img_no_alt": 1,
+   "img_no_alt": 0,
    "schema": [
     "Organization",
     "WebSite",
@@ -266,10 +240,8 @@
   {
    "url": "https://xenovasolutions.com/services/ai-machine-learning/",
    "status": 200,
-   "ms": 429,
-   "issues": [
-    "1 images without alt"
-   ],
+   "ms": 390,
+   "issues": [],
    "title": "Machine Learning Development Company | Xenova Solutions",
    "title_len": 55,
    "desc_len": 147,
@@ -277,7 +249,7 @@
    "words": 336,
    "internal_links": 16,
    "external_links": 4,
-   "img_no_alt": 1,
+   "img_no_alt": 0,
    "schema": [
     "Organization",
     "WebSite",
@@ -292,10 +264,8 @@
   {
    "url": "https://xenovasolutions.com/services/generative-ai-agents/",
    "status": 200,
-   "ms": 453,
-   "issues": [
-    "1 images without alt"
-   ],
+   "ms": 371,
+   "issues": [],
    "title": "AI Agent & RAG Chatbot Development Company | Xenova",
    "title_len": 51,
    "desc_len": 145,
@@ -303,7 +273,7 @@
    "words": 339,
    "internal_links": 16,
    "external_links": 4,
-   "img_no_alt": 1,
+   "img_no_alt": 0,
    "schema": [
     "Organization",
     "WebSite",
@@ -318,10 +288,8 @@
   {
    "url": "https://xenovasolutions.com/services/software-development/",
    "status": 200,
-   "ms": 453,
-   "issues": [
-    "1 images without alt"
-   ],
+   "ms": 391,
+   "issues": [],
    "title": "Custom Software Development Company | Xenova Solutions",
    "title_len": 54,
    "desc_len": 139,
@@ -329,7 +297,7 @@
    "words": 323,
    "internal_links": 16,
    "external_links": 4,
-   "img_no_alt": 1,
+   "img_no_alt": 0,
    "schema": [
     "Organization",
     "WebSite",
@@ -344,10 +312,8 @@
   {
    "url": "https://xenovasolutions.com/services/full-stack-development/",
    "status": 200,
-   "ms": 430,
-   "issues": [
-    "1 images without alt"
-   ],
+   "ms": 339,
+   "issues": [],
    "title": "Full-Stack Development Services (Django, Next.js) | Xenova",
    "title_len": 58,
    "desc_len": 141,
@@ -355,7 +321,7 @@
    "words": 317,
    "internal_links": 16,
    "external_links": 4,
-   "img_no_alt": 1,
+   "img_no_alt": 0,
    "schema": [
     "Organization",
     "WebSite",
@@ -370,10 +336,8 @@
   {
    "url": "https://xenovasolutions.com/services/web-mobile-applications/",
    "status": 200,
-   "ms": 463,
-   "issues": [
-    "1 images without alt"
-   ],
+   "ms": 352,
+   "issues": [],
    "title": "Web & Mobile App Development Company | Xenova Solutions",
    "title_len": 55,
    "desc_len": 122,
@@ -381,7 +345,7 @@
    "words": 323,
    "internal_links": 16,
    "external_links": 4,
-   "img_no_alt": 1,
+   "img_no_alt": 0,
    "schema": [
     "Organization",
     "WebSite",
@@ -396,10 +360,8 @@
   {
    "url": "https://xenovasolutions.com/services/data-science-analytics/",
    "status": 200,
-   "ms": 451,
-   "issues": [
-    "1 images without alt"
-   ],
+   "ms": 378,
+   "issues": [],
    "title": "Data Science & Analytics Services | Xenova Solutions",
    "title_len": 52,
    "desc_len": 126,
@@ -407,7 +369,7 @@
    "words": 322,
    "internal_links": 16,
    "external_links": 4,
-   "img_no_alt": 1,
+   "img_no_alt": 0,
    "schema": [
     "Organization",
     "WebSite",
@@ -422,10 +384,8 @@
   {
    "url": "https://xenovasolutions.com/services/cloud-devops/",
    "status": 200,
-   "ms": 417,
-   "issues": [
-    "1 images without alt"
-   ],
+   "ms": 384,
+   "issues": [],
    "title": "Cloud & DevOps Services (AWS, Azure, GCP) | Xenova",
    "title_len": 50,
    "desc_len": 129,
@@ -433,7 +393,7 @@
    "words": 315,
    "internal_links": 16,
    "external_links": 4,
-   "img_no_alt": 1,
+   "img_no_alt": 0,
    "schema": [
     "Organization",
     "WebSite",
@@ -448,10 +408,8 @@
   {
    "url": "https://xenovasolutions.com/services/ai-consulting/",
    "status": 200,
-   "ms": 431,
-   "issues": [
-    "1 images without alt"
-   ],
+   "ms": 354,
+   "issues": [],
    "title": "AI Consulting Services for SMEs | Xenova Solutions",
    "title_len": 50,
    "desc_len": 136,
@@ -459,7 +417,7 @@
    "words": 334,
    "internal_links": 16,
    "external_links": 4,
-   "img_no_alt": 1,
+   "img_no_alt": 0,
    "schema": [
     "Organization",
     "WebSite",
@@ -474,10 +432,9 @@
   {
    "url": "https://xenovasolutions.com/packages/",
    "status": 200,
-   "ms": 434,
+   "ms": 392,
    "issues": [
-    "thin content (<300 words)",
-    "1 images without alt"
+    "thin content (<300 words)"
    ],
    "title": "AI Chatbot & RAG Development Packages (UK) | Xenova",
    "title_len": 51,
@@ -486,7 +443,7 @@
    "words": 287,
    "internal_links": 16,
    "external_links": 4,
-   "img_no_alt": 1,
+   "img_no_alt": 0,
    "schema": [
     "Organization",
     "WebSite",
@@ -500,10 +457,9 @@
   {
    "url": "https://xenovasolutions.com/category/ai-automation/",
    "status": 200,
-   "ms": 434,
+   "ms": 196,
    "issues": [
-    "thin content (<300 words)",
-    "1 images without alt"
+    "thin content (<300 words)"
    ],
    "title": "AI & Automation \u00b7 Xenova Solutions",
    "title_len": 34,
@@ -512,7 +468,7 @@
    "words": 77,
    "internal_links": 18,
    "external_links": 4,
-   "img_no_alt": 1,
+   "img_no_alt": 0,
    "schema": [
     "Organization",
     "WebSite"
@@ -524,28 +480,12 @@
   },
   {
    "url": "https://xenovasolutions.com/author/admin/",
-   "status": 200,
-   "ms": 421,
+   "status": 404,
+   "ms": 357,
    "issues": [
-    "thin content (<300 words)",
-    "1 images without alt"
-   ],
-   "title": "Xenova Solutions Team \u00b7 Xenova Solutions",
-   "title_len": 40,
-   "desc_len": 131,
-   "h1": 1,
-   "words": 82,
-   "internal_links": 18,
-   "external_links": 4,
-   "img_no_alt": 1,
-   "schema": [
-    "Organization",
-    "WebSite"
-   ],
-   "canonical": "https://xenovasolutions.com/author/admin/",
-   "question_headings": 0,
-   "has_table": false,
-   "has_date": true
+    "not reachable / not HTML",
+    "orphan (no internal links found to it)"
+   ]
   }
  ]
 }
