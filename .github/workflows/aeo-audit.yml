@@ -16,7 +16,7 @@ jobs:
         with: { python-version: "3.12" }
       - run: pip install requests beautifulsoup4 lxml
       - run: |
-          d=$(date -u +%Y-%m)
+          mkdir -p aeo/reports; d=$(date -u +%Y-%m)
           python aeo/aeo_audit.py https://xenovasolutions.com --max 150 --out aeo/reports/$d
           cp aeo/reports/$d.json aeo/reports/latest.json
           cp aeo/reports/$d.html aeo/reports/latest.html
