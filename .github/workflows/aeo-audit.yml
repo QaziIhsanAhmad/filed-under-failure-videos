@@ -3,6 +3,8 @@ on:
   schedule:
     - cron: "17 3 1 * *"   # 1st of each month, 03:17 UTC
   workflow_dispatch:
+  push:
+    paths: ["aeo/aeo_audit.py", ".github/workflows/aeo-audit.yml"]
 permissions:
   contents: write
 jobs:
