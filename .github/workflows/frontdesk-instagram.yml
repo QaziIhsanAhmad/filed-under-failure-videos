@@ -1,10 +1,13 @@
-name: FrontDesk Flows Instagram
+name: FrontDesk Flows Instagram feed
 
+# Every hour, rebuild frontdesk-ig/feed.xml from frontdesk-ig/queue/.
+# Make.com watches the feed and posts new items to @frontdeskflows.
 on:
   schedule:
-    - cron: "23 * * * *"      # hourly: publish the next due post
-    - cron: "41 2 * * 1"      # Mondays: refresh the access token
+    - cron: "23 * * * *"
   workflow_dispatch:
+  push:
+    paths: ["frontdesk-ig/queue/**", "frontdesk-ig/build_feed.py"]
 
 permissions:
   contents: write
@@ -14,50 +17,14 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  publish:
-    if: github.event.schedule != '41 2 * * 1'
+  feed:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Check secrets
-        id: chk
-        env:
-          T: ${{ secrets.IG_ACCESS_TOKEN }}
-          U: ${{ secrets.IG_USER_ID }}
-        run: |
-          if [ -z "$T" ] || [ -z "$U" ]; then echo "IG secrets not set yet; skipping."; echo "ok=false" >> "$GITHUB_OUTPUT"; else echo "ok=true" >> "$GITHUB_OUTPUT"; fi
-      - name: Publish next due post
-        if: steps.chk.outputs.ok == 'true'
-        env:
-          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
-          IG_USER_ID: ${{ secrets.IG_USER_ID }}
-        run: python frontdesk-ig/post.py
-      - name: Commit queue changes
-        if: steps.chk.outputs.ok == 'true'
-        run: |
+      - run: python frontdesk-ig/build_feed.py
+      - run: |
           git config user.name "frontdesk-ig-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add -A frontdesk-ig
-          git commit -m "Instagram: published post" || exit 0
+          git add frontdesk-ig/feed.xml
+          git commit -m "Instagram feed: update" || exit 0
           git pull --rebase -q && git push
-
-  refresh-token:
-    if: github.event.schedule == '41 2 * * 1' || github.event_name == 'workflow_dispatch'
-    runs-on: ubuntu-latest
-    env:
-      HAS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN != '' }}
-      HAS_PAT: ${{ secrets.GH_PAT != '' }}
-    steps:
-      - uses: actions/checkout@v4
-      - name: Refresh token
-        id: r
-        if: env.HAS_TOKEN == 'true'
-        env:
-          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
-        run: python frontdesk-ig/refresh_token.py
-      - name: Save refreshed token
-        if: env.HAS_TOKEN == 'true' && env.HAS_PAT == 'true'
-        env:
-          GH_TOKEN: ${{ secrets.GH_PAT }}
-          NEW: ${{ steps.r.outputs.token }}
-        run: printf '%s' "$NEW" | gh secret set IG_ACCESS_TOKEN --repo "$GITHUB_REPOSITORY"

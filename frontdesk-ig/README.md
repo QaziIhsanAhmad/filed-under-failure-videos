@@ -1,9 +1,15 @@
 # FrontDesk Flows Instagram queue
 
-`.github/workflows/frontdesk-instagram.yml` publishes posts for @frontdeskflows.
+How posts reach @frontdeskflows:
 
-- Add a post: commit a JSON file to `queue/` (format in `post.py`). Media must be public URLs, e.g. files in `media/` via raw.githubusercontent.com.
-- Every hour the workflow publishes at most one post whose `publish_after` time has passed and moves it to `posted/` with its Instagram link.
-- Every Monday it refreshes the access token (tokens last ~60 days). Saving the refreshed token needs the optional `GH_PAT` secret; without it the old token keeps working until it expires.
+1. A post is a JSON file in `queue/` (time, caption, image URL). Images live in `media/`.
+2. Every hour, `.github/workflows/frontdesk-instagram.yml` runs `build_feed.py`, which writes `feed.xml` with every post whose `publish_after` time has passed.
+3. Make.com (free plan) watches https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/frontdesk-ig/feed.xml and posts each new item to Instagram (photo URL = enclosure URL, caption = description).
 
-Secrets: `IG_ACCESS_TOKEN`, `IG_USER_ID`, optional `GH_PAT` (fine-grained token, this repo only, "Secrets: read and write").
+Queue file format:
+
+    {"publish_after": "2026-10-02T13:00:00+05:00",
+     "caption": "Text with #hashtags",
+     "media": [{"type": "image", "url": "https://raw.githubusercontent.com/.../media/xxx.jpg"}]}
+
+Images: JPEG, 1080x1350 (4:5) or 1080x1080. Don't edit or rename a queue file after its time has passed, because Make may post it again.

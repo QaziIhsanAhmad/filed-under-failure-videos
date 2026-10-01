@@ -1,0 +1,5 @@
+{
+  "publish_after": "2026-10-02T13:00:00+05:00",
+  "caption": "Most clinic front desks lose hours every week to the same three jobs.\n\n1. Answering website enquiries: AI sorts each message (booking, question, urgent) and replies using only your clinic's own details. Urgent messages go straight to staff.\n2. Appointment reminders: an automatic email or SMS the day before, so fewer patients miss their slot.\n3. Review requests: a polite follow-up after each visit with your Google review link.\n\nWe're building these as ready-to-import n8n workflows for clinics, and for the freelancers and agencies who set up automation for them.\n\nFollow @frontdeskflows for the free sample when it's released.\n\n#n8n #automation #clinicmanagement #physiotherapy #smallbusiness #workflowautomation",
+  "media": [{"type": "image", "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/frontdesk-ig/media/001-front-desk-jobs.jpg"}]
+}
