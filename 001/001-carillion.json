@@ -1,0 +1,1127 @@
+{
+ "slug": "001-carillion",
+ "title": "Carillion: How Britain's Biggest Builder Ran Out of Money",
+ "voice": "bm_george",
+ "speed": 0.95,
+ "scenes": [
+  {
+   "chapter": "The collapse",
+   "say": "On 15 January 2018, one of the British government's biggest contractors went into liquidation.",
+   "visual": {
+    "type": "title",
+    "kicker": "15 January 2018",
+    "text": "Carillion goes into liquidation",
+    "stamp": "LIQUIDATED",
+    "src": "National Audit Office, June 2018"
+   }
+  },
+  {
+   "say": "It ran around 420 public-sector contracts. It employed around 43,000 people worldwide, around 18,000 to 19,000 of them in the UK.",
+   "visual": {
+    "type": "stats",
+    "items": [
+     [
+      "420",
+      "UK public-sector contracts"
+     ],
+     [
+      "43,000",
+      "staff worldwide"
+     ],
+     [
+      "18–19k",
+      "staff in the UK"
+     ]
+    ],
+    "src": "NAO (2018); company figures via Wikipedia"
+   }
+  },
+  {
+   "say": "It had liabilities of almost seven billion pounds. And it reportedly had just 29 million pounds of cash left.",
+   "pause": 0.8,
+   "visual": {
+    "type": "bars",
+    "title": "What it owed vs. what it had",
+    "items": [
+     [
+      "Liabilities",
+      7000,
+      "£~7bn"
+     ],
+     [
+      "Cash",
+      29,
+      "£29m"
+     ]
+    ],
+    "hi": 1,
+    "src": "Company figures as reported, via Wikipedia"
+   }
+  },
+  {
+   "say": "Four months later, two committees of MPs gave their verdict. Carillion's rise and spectacular fall, they wrote, was a story of recklessness, hubris and greed.",
+   "visual": {
+    "type": "quote",
+    "text": "Carillion's rise and spectacular fall was a story of recklessness, hubris and greed.",
+    "by": "Work and Pensions and BEIS Committees, 16 May 2018",
+    "src": "House of Commons committees report, May 2018"
+   }
+  },
+  {
+   "say": "This is how a company that built hospitals, schools and railways ran out of money, and who was left to pay.",
+   "pause": 0.9,
+   "visual": {
+    "type": "title",
+    "text": "How Britain's biggest builder ran out of money",
+    "sub": "Told from the official record"
+   }
+  },
+  {
+   "chapter": "Building an empire",
+   "say": "Carillion was born in July 1999, when the construction group Tarmac split off its building business. Its headquarters were in Wolverhampton.",
+   "visual": {
+    "type": "chapter",
+    "n": 1,
+    "text": "Building an empire"
+   }
+  },
+  {
+   "say": "From the start, it grew by buying. In 2006 it bought the builder Mowlem for around 350 million pounds.",
+   "visual": {
+    "type": "timeline",
+    "date": "2006",
+    "text": "Buys Mowlem for about £350m",
+    "src": "Wikipedia (company history)"
+   }
+  },
+  {
+   "say": "In 2008 came Alfred McAlpine, for 572 million. In 2011, the energy-services firm Eaga, for 306 million.",
+   "visual": {
+    "type": "bars",
+    "title": "Growth by acquisition",
+    "items": [
+     [
+      "Mowlem (2006)",
+      350,
+      "£350m"
+     ],
+     [
+      "Alfred McAlpine (2008)",
+      572,
+      "£572m"
+     ],
+     [
+      "Eaga (2011)",
+      306,
+      "£306m"
+     ]
+    ],
+    "src": "Wikipedia (company history)"
+   }
+  },
+  {
+   "say": "By 2016, Carillion's revenue was around 5.2 billion pounds a year.",
+   "visual": {
+    "type": "stat",
+    "value": "£5.2bn",
+    "label": "Revenue in 2016",
+    "src": "Carillion 2016 figures via Wikipedia"
+   }
+  },
+  {
+   "say": "It did everything from building roads and hospitals to maintaining prisons and serving school dinners. To the government, it looked like a safe pair of hands.",
+   "pause": 0.8,
+   "visual": {
+    "type": "list",
+    "title": "What Carillion did",
+    "items": [
+     "Built roads, railways and hospitals",
+     "Maintained prisons and public buildings",
+     "Served school dinners"
+    ]
+   }
+  },
+  {
+   "chapter": "The dash for cash",
+   "say": "But the MPs' report described a very different business underneath.",
+   "visual": {
+    "type": "chapter",
+    "n": 2,
+    "text": "The dash for cash"
+   }
+  },
+  {
+   "say": "They called its model a relentless dash for cash, driven by acquisitions, rising debt, expansion into new markets and exploitation of suppliers.",
+   "visual": {
+    "type": "quote",
+    "text": "Its business model was a relentless dash for cash, driven by acquisitions, rising debt, expansion into new markets and exploitation of suppliers.",
+    "by": "Committees' report, May 2018",
+    "src": "House of Commons committees report, May 2018"
+   }
+  },
+  {
+   "say": "The numbers back that up. The House of Commons Library found that Carillion's debt rose more than fivefold, from 242 million pounds in December 2009 to around 1.3 billion by January 2018.",
+   "visual": {
+    "type": "line",
+    "title": "Carillion's debt",
+    "points": [
+     [
+      "Dec 2009",
+      242,
+      "£242m"
+     ],
+     [
+      "Jan 2018",
+      1300,
+      "£1.3bn"
+     ]
+    ],
+    "src": "House of Commons Library, Jan 2018"
+   }
+  },
+  {
+   "say": "Over the same years, it kept paying shareholders: 554 million pounds in dividends between 2009 and 2016.",
+   "visual": {
+    "type": "stat",
+    "value": "£554m",
+    "label": "Paid in dividends, 2009–2016",
+    "src": "House of Commons Library, Jan 2018"
+   }
+  },
+  {
+   "say": "Between 2012 and 2016, the Library calculated, dividends were 63 million pounds more than the cash its operations actually generated.",
+   "pause": 0.7,
+   "visual": {
+    "type": "stat",
+    "value": "+£63m",
+    "red": true,
+    "label": "Dividends above cash from operations",
+    "sub": "2012 to 2016",
+    "src": "House of Commons Library, Jan 2018"
+   }
+  },
+  {
+   "say": "So where did the cash come from? Partly from the people it owed.",
+   "visual": {
+    "type": "title",
+    "text": "Where did the cash come from?"
+   }
+  },
+  {
+   "say": "Carillion signed the government's Prompt Payment Code, yet it imposed standard payment terms of 120 days on its suppliers.",
+   "visual": {
+    "type": "document",
+    "header": "Standard supplier terms",
+    "title": "Payment due: 120 days",
+    "lines": [
+     "Signatory: Prompt Payment Code",
+     "!Standard payment terms imposed: 120 days"
+    ],
+    "stamp": "UNPAID",
+    "src": "Commons committees, 14 May 2018"
+   }
+  },
+  {
+   "say": "Suppliers who wanted their money sooner could use an early payment facility, but only by accepting less than they were owed.",
+   "visual": {
+    "type": "list",
+    "title": "The early payment facility",
+    "items": [
+     "Suppliers could be paid sooner",
+     "But only at a discount",
+     "Accepting less than they were owed"
+    ],
+    "src": "Commons committees, 14 May 2018"
+   }
+  },
+  {
+   "say": "Rachel Reeves, then chair of the business committee, said Carillion's early payment facility ripped off their suppliers, forcing them to accept a cut in what they were owed.",
+   "pause": 0.8,
+   "visual": {
+    "type": "quote",
+    "text": "Carillion's early payment facility ripped off their suppliers, forcing them to accept a cut in what they were owed.",
+    "by": "Rachel Reeves MP, Chair, BEIS Committee, May 2018",
+    "src": "Commons committees, 14 May 2018"
+   }
+  },
+  {
+   "chapter": "10 July 2017",
+   "say": "On 10 July 2017, the cracks became public.",
+   "visual": {
+    "type": "chapter",
+    "n": 3,
+    "text": "10 July 2017"
+   }
+  },
+  {
+   "say": "In a trading update, Carillion announced a provision of 845 million pounds against its contracts: 375 million in the UK and 470 million overseas.",
+   "visual": {
+    "type": "bars",
+    "title": "£845m contract provision",
+    "items": [
+     [
+      "UK",
+      375,
+      "£375m"
+     ],
+     [
+      "Overseas",
+      470,
+      "£470m"
+     ]
+    ],
+    "src": "House of Commons Library, Jan 2018"
+   }
+  },
+  {
+   "say": "There would be no dividend that year. The chief executive, Richard Howson, stepped down, and Keith Cochrane took over as interim chief executive.",
+   "visual": {
+    "type": "list",
+    "title": "The same day",
+    "items": [
+     "No dividend for 2017",
+     "Chief executive Richard Howson steps down",
+     "Keith Cochrane becomes interim chief executive"
+    ],
+    "src": "Commons Library; Wikipedia"
+   }
+  },
+  {
+   "say": "Investors ran. Over the announcement and the following two days, the shares lost 70 per cent of their value.",
+   "visual": {
+    "type": "stat",
+    "value": "−70%",
+    "red": true,
+    "label": "Share value lost in three days",
+    "src": "House of Commons Library, Jan 2018"
+   }
+  },
+  {
+   "say": "And yet, in the weeks after that warning, the government kept handing Carillion work.",
+   "visual": {
+    "type": "title",
+    "text": "And yet, the contracts kept coming"
+   }
+  },
+  {
+   "say": "The National Audit Office later counted four new central government contracts and three extensions, worth around 1.9 billion pounds, announced after the profit warning.",
+   "pause": 0.8,
+   "visual": {
+    "type": "stats",
+    "items": [
+     [
+      "4",
+      "new central government contracts"
+     ],
+     [
+      "3",
+      "contract extensions"
+     ],
+     [
+      "£1.9bn",
+      "total value"
+     ]
+    ],
+    "hi": 2,
+    "src": "National Audit Office, June 2018"
+   }
+  },
+  {
+   "chapter": "The last six months",
+   "say": "The bad news kept coming.",
+   "visual": {
+    "type": "chapter",
+    "n": 4,
+    "text": "The last six months"
+   }
+  },
+  {
+   "say": "On 29 September 2017, Carillion reported losses of 1.15 billion pounds for the first half of the year, after a further 200-million-pound provision on its support services contracts.",
+   "visual": {
+    "type": "timeline",
+    "date": "29 Sep 2017",
+    "text": "Half-year loss of £1.15bn",
+    "src": "Wikipedia; Daily Business, 29 Sep 2017"
+   }
+  },
+  {
+   "say": "On 17 November, it warned it would breach its banking covenants, and the shares fell by more than half.",
+   "visual": {
+    "type": "timeline",
+    "date": "17 Nov 2017",
+    "text": "Warns it will breach banking covenants",
+    "src": "Wikipedia"
+   }
+  },
+  {
+   "say": "In early January 2018, Carillion asked the government for 223 million pounds to keep it going until April.",
+   "visual": {
+    "type": "document",
+    "header": "January 2018",
+    "title": "Request for support",
+    "lines": [
+     "!Amount requested: £223 million",
+     "To keep trading until April 2018"
+    ],
+    "src": "National Audit Office, June 2018"
+   }
+  },
+  {
+   "say": "The Cabinet Office declined, deciding instead that Carillion should go into liquidation.",
+   "pause": 0.9,
+   "visual": {
+    "type": "document",
+    "header": "January 2018",
+    "title": "Request for support",
+    "lines": [
+     "Amount requested: £223 million",
+     "!Decision: declined"
+    ],
+    "stamp": "DECLINED",
+    "src": "National Audit Office, June 2018"
+   }
+  },
+  {
+   "chapter": "15 January 2018",
+   "say": "On 15 January 2018, Carillion went into compulsory liquidation. According to reports at the time, it would have run out of cash within days.",
+   "visual": {
+    "type": "chapter",
+    "n": 5,
+    "text": "15 January 2018"
+   }
+  },
+  {
+   "say": "The effects spread fast. Around 30,000 suppliers were owed roughly a billion pounds.",
+   "visual": {
+    "type": "stats",
+    "items": [
+     [
+      "30,000",
+      "suppliers owed money"
+     ],
+     [
+      "£~1bn",
+      "owed to them"
+     ]
+    ],
+    "hi": 1,
+    "src": "Wikipedia (press reports)"
+   }
+  },
+  {
+   "say": "Work stopped on two hospitals being built under private finance deals: the new Royal Liverpool University Hospital and the Midland Metropolitan hospital near Birmingham were both hit, and Midland Metropolitan was already running well behind schedule.",
+   "pause": 0.8,
+   "visual": {
+    "type": "list",
+    "title": "Hospital building work stopped",
+    "items": [
+     "Royal Liverpool University Hospital",
+     "Midland Metropolitan University Hospital, near Birmingham (already running late)"
+    ],
+    "src": "NAO, June 2018; Wikipedia"
+   }
+  },
+  {
+   "chapter": "Who paid",
+   "say": "The workforce paid first.",
+   "visual": {
+    "type": "chapter",
+    "n": 6,
+    "text": "Who paid"
+   }
+  },
+  {
+   "say": "By June 2018, the National Audit Office reported that around 11,600 of Carillion's UK staff had found new work, about 2,300 had been made redundant, and around 3,000 were still working for the company in liquidation.",
+   "visual": {
+    "type": "stats",
+    "items": [
+     [
+      "11,638",
+      "found new work"
+     ],
+     [
+      "2,332",
+      "made redundant"
+     ],
+     [
+      "~3,000",
+      "still employed in liquidation"
+     ]
+    ],
+    "hi": 1,
+    "src": "National Audit Office, June 2018"
+   }
+  },
+  {
+   "say": "Pensioners were next. Carillion's UK pension schemes covered around 27,000 members, and about 2.6 billion pounds of liabilities passed to the Pension Protection Fund.",
+   "visual": {
+    "type": "stats",
+    "items": [
+     [
+      "27,000",
+      "pension scheme members"
+     ],
+     [
+      "£2.6bn",
+      "liabilities to the Pension Protection Fund"
+     ]
+    ],
+    "hi": 1,
+    "src": "Wikipedia (PPF figures)"
+   }
+  },
+  {
+   "say": "The MPs said the company's pension obligations had been treated with contempt.",
+   "visual": {
+    "type": "quote",
+    "text": "Long term obligations, such as adequately funding its pension schemes, were treated with contempt.",
+    "by": "Committees' report, May 2018",
+    "src": "House of Commons committees report, May 2018"
+   }
+  },
+  {
+   "say": "And taxpayers paid too. The National Audit Office estimated a loss to the government of around 148 million pounds, and warned the figure was uncertain.",
+   "pause": 0.9,
+   "visual": {
+    "type": "stat",
+    "value": "£148m",
+    "label": "Estimated loss to the government",
+    "sub": "Subject to a range of uncertainties",
+    "src": "National Audit Office, June 2018"
+   }
+  },
+  {
+   "chapter": "The verdict",
+   "say": "The MPs' report, published on 16 May 2018, spared almost no one.",
+   "visual": {
+    "type": "chapter",
+    "n": 7,
+    "text": "The verdict"
+   }
+  },
+  {
+   "say": "It found Carillion's board both responsible and culpable for the failure, and pointed to a rotten corporate culture.",
+   "visual": {
+    "type": "quote",
+    "text": "Carillion's board are both responsible and culpable for the company's failure.",
+    "by": "Committees' report, May 2018",
+    "src": "House of Commons committees report, May 2018"
+   }
+  },
+  {
+   "say": "It said the directors presented themselves as self-pitying victims of a maelstrom of coincidental and unforeseeable mishaps.",
+   "visual": {
+    "type": "quote",
+    "text": "They presented to us as self-pitying victims of a maelstrom of coincidental and unforeseeable mishaps.",
+    "by": "Committees' report, May 2018",
+    "src": "House of Commons committees report, May 2018"
+   }
+  },
+  {
+   "say": "It said the auditor, KPMG, had been complacently signing off the directors' increasingly fantastical figures.",
+   "visual": {
+    "type": "quote",
+    "text": "...complacently signing off the directors' increasingly fantastical figures.",
+    "by": "Committees' report on KPMG, May 2018",
+    "src": "House of Commons committees report, May 2018"
+   }
+  },
+  {
+   "say": "It said the Pensions Regulator had failed, and criticised the government for lacking the decisiveness or bravery to pursue the reforms they recommended.",
+   "visual": {
+    "type": "list",
+    "title": "Also criticised",
+    "items": [
+     "The Pensions Regulator: failed in its objectives",
+     "Government: lacked \"the decisiveness or bravery\" to pursue recommended reforms"
+    ],
+    "src": "House of Commons committees report, May 2018"
+   }
+  },
+  {
+   "say": "The regulators followed. In October 2023, the Financial Reporting Council fined KPMG a record 21 million pounds over its Carillion audit work.",
+   "visual": {
+    "type": "document",
+    "header": "Financial Reporting Council · October 2023",
+    "title": "KPMG fined £21m",
+    "lines": [
+     "!A record fine over Carillion audit work"
+    ],
+    "stamp": "FINED",
+    "src": "Public Finance, 12 Oct 2023"
+   }
+  },
+  {
+   "say": "In January 2026, the Financial Conduct Authority fined two former finance directors, Richard Adam and Zafar Khan, 232,800 and 138,900 pounds.",
+   "visual": {
+    "type": "bars",
+    "title": "FCA fines, January 2026",
+    "items": [
+     [
+      "Richard Adam",
+      232800,
+      "£232,800"
+     ],
+     [
+      "Zafar Khan",
+      138900,
+      "£138,900"
+     ]
+    ],
+    "src": "Financial Conduct Authority"
+   }
+  },
+  {
+   "say": "On 16 February 2026, it fined Richard Howson 237,700 pounds, finding he acted recklessly and was knowingly concerned in breaches by Carillion over misleading announcements to investors.",
+   "pause": 0.9,
+   "visual": {
+    "type": "document",
+    "header": "Financial Conduct Authority · 16 February 2026",
+    "title": "Former CEO fined £237,700",
+    "lines": [
+     "!\"acted recklessly and was knowingly concerned in breaches by Carillion\"",
+     "Misleading announcements to investors"
+    ],
+    "stamp": "FINED",
+    "src": "FCA press release, 16 Feb 2026"
+   }
+  },
+  {
+   "chapter": "What it means",
+   "say": "Carillion wasn't brought down by one bad contract. On the MPs' account, it was years of growth by acquisition, rising debt, generous dividends and suppliers paid late, held together by accounts that looked better than the cash.",
+   "visual": {
+    "type": "list",
+    "title": "Not one bad contract",
+    "items": [
+     "Growth by acquisition",
+     "Rising debt",
+     "Generous dividends",
+     "Suppliers paid late",
+     "Accounts that looked better than the cash"
+    ]
+   }
+  },
+  {
+   "say": "The warning signs were in the public record all along. The question is who is reading them now.",
+   "pause": 1.0,
+   "visual": {
+    "type": "title",
+    "text": "The warning signs were in the public record all along"
+   }
+  },
+  {
+   "say": "If you want the next collapse told from the paperwork, subscribe. The sources for everything in this video are in the description.",
+   "pause": 1.5,
+   "visual": {
+    "type": "title",
+    "kicker": "Filed Under Failure",
+    "text": "Subscribe for the next case file",
+    "sub": "All sources are in the description"
+   }
+  }
+ ],
+ "summary": "In January 2018, Carillion, one of the UK government's biggest contractors, collapsed with liabilities of almost £7 billion. Using the official reports, we trace how a company that built hospitals and railways ran out of money, and who paid for it.",
+ "thumb": [
+  "£7BN HOLE",
+  "£29M LEFT",
+  "COLLAPSED",
+  "Carillion"
+ ],
+ "tags": [
+  "Carillion",
+  "Carillion collapse",
+  "business documentary",
+  "UK business",
+  "corporate collapse",
+  "construction",
+  "KPMG",
+  "liquidation"
+ ],
+ "sources": [
+  "House of Commons Work and Pensions and BEIS Committees, Carillion report (16 May 2018): https://publications.parliament.uk/pa/cm201719/cmselect/cmworpen/769/76903.htm",
+  "Committees' statement on Carillion's suppliers (14 May 2018): https://committees.parliament.uk/work/5425/carillion-joint-inquiry/news/97957/carillion-used-its-suppliers-to-prop-up-failing-business-model/",
+  "National Audit Office, Investigation into the government's handling of the collapse of Carillion (June 2018): https://www.nao.org.uk/press-releases/investigation-into-the-governments-handling-of-the-collapse-of-carillion/",
+  "House of Commons Library, Carillion collapse: what went wrong? (19 Jan 2018): https://commonslibrary.parliament.uk/carillion-collapse-what-went-wrong/",
+  "Carillion company history and figures: https://en.wikipedia.org/wiki/Carillion",
+  "Financial Conduct Authority (16 Feb 2026): https://www.fca.org.uk/news/press-releases/fca-fines-former-chief-executive-carillion-plc-liquidation",
+  "Public Finance, KPMG fined £21m (12 Oct 2023): https://www.publicfinance.co.uk/news/2023/10/kpmg-handed-record-ps21m-fine-failures-carillion-audit",
+  "Daily Business, Carillion half-year loss (29 Sep 2017): https://dailybusinessgroup.co.uk/2017/09/carillion-plunges-to-1-15-billion-half-year-loss/"
+ ],
+ "shorts": [
+  {
+   "id": "a",
+   "hook": "£554m to shareholders",
+   "title": "Carillion paid £554m in dividends while its debt rose fivefold #Shorts",
+   "blurb": "How Carillion kept paying shareholders as its debt grew, according to the House of Commons Library.",
+   "scenes": [
+    {
+     "say": "Carillion paid shareholders 554 million pounds in dividends between 2009 and 2016.",
+     "visual": {
+      "type": "stat",
+      "value": "£554m",
+      "label": "Paid in dividends, 2009–2016",
+      "src": "House of Commons Library, Jan 2018"
+     },
+     "caption": "£554m in dividends, 2009 to 2016"
+    },
+    {
+     "say": "Over the same years, the House of Commons Library found its debt rose more than fivefold, from 242 million pounds to around 1.3 billion.",
+     "visual": {
+      "type": "line",
+      "title": "Carillion's debt",
+      "points": [
+       [
+        "Dec 2009",
+        242,
+        "£242m"
+       ],
+       [
+        "Jan 2018",
+        1300,
+        "£1.3bn"
+       ]
+      ],
+      "src": "House of Commons Library, Jan 2018"
+     },
+     "caption": "Debt: £242m to around £1.3bn"
+    },
+    {
+     "say": "Between 2012 and 2016, dividends were 63 million pounds more than the cash its operations actually generated.",
+     "visual": {
+      "type": "stat",
+      "value": "+£63m",
+      "red": true,
+      "label": "Dividends above cash from operations",
+      "sub": "2012 to 2016",
+      "src": "House of Commons Library, Jan 2018"
+     },
+     "caption": "Dividends beat operating cash by £63m"
+    },
+    {
+     "say": "Then, on 10 July 2017, it announced an 845 million pound provision against its contracts, and there would be no dividend that year.",
+     "visual": {
+      "type": "bars",
+      "title": "£845m contract provision",
+      "items": [
+       [
+        "UK",
+        375,
+        "£375m"
+       ],
+       [
+        "Overseas",
+        470,
+        "£470m"
+       ]
+      ],
+      "src": "House of Commons Library, Jan 2018"
+     },
+     "caption": "£845m provision. No dividend for 2017."
+    },
+    {
+     "say": "In January 2018, Carillion went into liquidation. The full story is on our channel.",
+     "visual": {
+      "type": "title",
+      "kicker": "15 January 2018",
+      "text": "Carillion goes into liquidation",
+      "stamp": "LIQUIDATED",
+      "src": "National Audit Office, June 2018"
+     },
+     "caption": "Liquidated in January 2018"
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "hook": "Paid in 120 days",
+   "title": "Carillion made suppliers wait 120 days to be paid #Shorts",
+   "blurb": "Carillion signed the Prompt Payment Code but imposed 120-day payment terms, MPs found.",
+   "scenes": [
+    {
+     "say": "Carillion signed the government's Prompt Payment Code, yet it imposed standard payment terms of 120 days on its suppliers.",
+     "visual": {
+      "type": "document",
+      "header": "Standard supplier terms",
+      "title": "Payment due: 120 days",
+      "lines": [
+       "Signatory: Prompt Payment Code",
+       "!Standard payment terms imposed: 120 days"
+      ],
+      "stamp": "UNPAID",
+      "src": "Commons committees, 14 May 2018"
+     },
+     "caption": "Signed the Prompt Payment Code. Paid in 120 days."
+    },
+    {
+     "say": "Suppliers who wanted their money sooner could use an early payment facility, but only by accepting less than they were owed.",
+     "visual": {
+      "type": "list",
+      "title": "The early payment facility",
+      "items": [
+       "Suppliers could be paid sooner",
+       "But only at a discount",
+       "Accepting less than they were owed"
+      ],
+      "src": "Commons committees, 14 May 2018"
+     },
+     "caption": "Paid sooner, but only at a discount"
+    },
+    {
+     "say": "Rachel Reeves, then chair of the business committee, said the facility ripped off their suppliers, forcing them to accept a cut in what they were owed.",
+     "visual": {
+      "type": "quote",
+      "text": "Carillion's early payment facility ripped off their suppliers, forcing them to accept a cut in what they were owed.",
+      "by": "Rachel Reeves MP, Chair, BEIS Committee, May 2018",
+      "src": "Commons committees, 14 May 2018"
+     },
+     "caption": "MPs: suppliers were ripped off"
+    },
+    {
+     "say": "When Carillion collapsed, around 30,000 suppliers were owed roughly a billion pounds. The full story is on our channel.",
+     "visual": {
+      "type": "stats",
+      "items": [
+       [
+        "30,000",
+        "suppliers owed money"
+       ],
+       [
+        "£~1bn",
+        "owed to them"
+       ]
+      ],
+      "hi": 1,
+      "src": "Wikipedia (press reports)"
+     },
+     "caption": "30,000 suppliers owed about £1bn"
+    }
+   ]
+  },
+  {
+   "id": "c",
+   "hook": "After the warning",
+   "title": "After Carillion's profit warning, government still gave it £1.9bn of work #Shorts",
+   "blurb": "The National Audit Office counted new contracts and extensions announced after Carillion's July 2017 profit warning.",
+   "scenes": [
+    {
+     "say": "On 10 July 2017, Carillion announced a provision of 845 million pounds against its contracts.",
+     "visual": {
+      "type": "bars",
+      "title": "£845m contract provision",
+      "items": [
+       [
+        "UK",
+        375,
+        "£375m"
+       ],
+       [
+        "Overseas",
+        470,
+        "£470m"
+       ]
+      ],
+      "src": "House of Commons Library, Jan 2018"
+     },
+     "caption": "£845m provision, 10 July 2017"
+    },
+    {
+     "say": "Over the announcement and the following two days, the shares lost 70 per cent of their value.",
+     "visual": {
+      "type": "stat",
+      "value": "−70%",
+      "red": true,
+      "label": "Share value lost in three days",
+      "src": "House of Commons Library, Jan 2018"
+     },
+     "caption": "Shares lost 70% in three days"
+    },
+    {
+     "say": "The chief executive, Richard Howson, stepped down.",
+     "visual": {
+      "type": "list",
+      "title": "The same day",
+      "items": [
+       "No dividend for 2017",
+       "Chief executive Richard Howson steps down",
+       "Keith Cochrane becomes interim chief executive"
+      ],
+      "src": "Commons Library; Wikipedia"
+     }
+    },
+    {
+     "say": "And yet, the National Audit Office later counted four new central government contracts and three extensions, worth around 1.9 billion pounds, announced after the profit warning.",
+     "visual": {
+      "type": "stats",
+      "items": [
+       [
+        "4",
+        "new central government contracts"
+       ],
+       [
+        "3",
+        "contract extensions"
+       ],
+       [
+        "£1.9bn",
+        "total value"
+       ]
+      ],
+      "hi": 2,
+      "src": "National Audit Office, June 2018"
+     },
+     "caption": "Then: 4 new contracts, 3 extensions, £1.9bn"
+    },
+    {
+     "say": "Six months later, Carillion was in liquidation. The full story is on our channel.",
+     "visual": {
+      "type": "title",
+      "kicker": "15 January 2018",
+      "text": "Carillion goes into liquidation",
+      "stamp": "LIQUIDATED",
+      "src": "National Audit Office, June 2018"
+     },
+     "caption": "Liquidated six months later"
+    }
+   ]
+  },
+  {
+   "id": "d",
+   "hook": "The £223m request",
+   "title": "Carillion asked the government for £223m. The answer was no. #Shorts",
+   "blurb": "In January 2018 Carillion asked for £223m to keep trading; the Cabinet Office declined, the NAO reported.",
+   "scenes": [
+    {
+     "say": "In early January 2018, Carillion asked the government for 223 million pounds to keep it going until April.",
+     "visual": {
+      "type": "document",
+      "header": "January 2018",
+      "title": "Request for support",
+      "lines": [
+       "!Amount requested: £223 million",
+       "To keep trading until April 2018"
+      ],
+      "src": "National Audit Office, June 2018"
+     },
+     "caption": "Asked for £223m to last until April"
+    },
+    {
+     "say": "The Cabinet Office declined, deciding instead that Carillion should go into liquidation.",
+     "visual": {
+      "type": "document",
+      "header": "January 2018",
+      "title": "Request for support",
+      "lines": [
+       "Amount requested: £223 million",
+       "!Decision: declined"
+      ],
+      "stamp": "DECLINED",
+      "src": "National Audit Office, June 2018"
+     },
+     "caption": "Declined"
+    },
+    {
+     "say": "At the time, Carillion ran around 420 public-sector contracts and employed around 43,000 people worldwide.",
+     "visual": {
+      "type": "stats",
+      "items": [
+       [
+        "420",
+        "UK public-sector contracts"
+       ],
+       [
+        "43,000",
+        "staff worldwide"
+       ],
+       [
+        "18–19k",
+        "staff in the UK"
+       ]
+      ],
+      "src": "NAO (2018); company figures via Wikipedia"
+     },
+     "caption": "420 contracts. 43,000 staff."
+    },
+    {
+     "say": "It had liabilities of almost seven billion pounds, and reportedly just 29 million pounds of cash left.",
+     "visual": {
+      "type": "bars",
+      "title": "What it owed vs. what it had",
+      "items": [
+       [
+        "Liabilities",
+        7000,
+        "£~7bn"
+       ],
+       [
+        "Cash",
+        29,
+        "£29m"
+       ]
+      ],
+      "hi": 1,
+      "src": "Company figures as reported, via Wikipedia"
+     },
+     "caption": "Owed ~£7bn. Cash: £29m."
+    },
+    {
+     "say": "On 15 January 2018, it went into compulsory liquidation. The full story is on our channel.",
+     "visual": {
+      "type": "title",
+      "kicker": "15 January 2018",
+      "text": "Carillion goes into liquidation",
+      "stamp": "LIQUIDATED",
+      "src": "National Audit Office, June 2018"
+     },
+     "caption": "Liquidated, 15 January 2018"
+    }
+   ]
+  },
+  {
+   "id": "e",
+   "hook": "Who paid the bill",
+   "title": "Who paid when Carillion collapsed? Staff, pensioners and taxpayers #Shorts",
+   "blurb": "Jobs, pensions and public money after Carillion's collapse, from National Audit Office and pension figures.",
+   "scenes": [
+    {
+     "say": "When Carillion collapsed, the workforce paid first.",
+     "visual": {
+      "type": "chapter",
+      "n": 6,
+      "text": "Who paid"
+     }
+    },
+    {
+     "say": "By June 2018, the National Audit Office reported about 2,300 UK staff made redundant, while around 11,600 had found new work and around 3,000 were still working for the company in liquidation.",
+     "visual": {
+      "type": "stats",
+      "items": [
+       [
+        "11,638",
+        "found new work"
+       ],
+       [
+        "2,332",
+        "made redundant"
+       ],
+       [
+        "~3,000",
+        "still employed in liquidation"
+       ]
+      ],
+      "hi": 1,
+      "src": "National Audit Office, June 2018"
+     },
+     "caption": "About 2,300 made redundant"
+    },
+    {
+     "say": "Carillion's UK pension schemes covered around 27,000 members, and about 2.6 billion pounds of liabilities passed to the Pension Protection Fund.",
+     "visual": {
+      "type": "stats",
+      "items": [
+       [
+        "27,000",
+        "pension scheme members"
+       ],
+       [
+        "£2.6bn",
+        "liabilities to the Pension Protection Fund"
+       ]
+      ],
+      "hi": 1,
+      "src": "Wikipedia (PPF figures)"
+     },
+     "caption": "£2.6bn of pensions to the PPF"
+    },
+    {
+     "say": "And the National Audit Office estimated a loss to the government of around 148 million pounds, and warned the figure was uncertain. The full story is on our channel.",
+     "visual": {
+      "type": "stat",
+      "value": "£148m",
+      "label": "Estimated loss to the government",
+      "sub": "Subject to a range of uncertainties",
+      "src": "National Audit Office, June 2018"
+     },
+     "caption": "Taxpayers: about £148m, uncertain"
+    }
+   ]
+  },
+  {
+   "id": "f",
+   "hook": "Recklessness, hubris, greed",
+   "title": "MPs' verdict on Carillion: recklessness, hubris and greed #Shorts",
+   "blurb": "What MPs concluded about Carillion in May 2018, and the fines that followed from the FRC and FCA.",
+   "scenes": [
+    {
+     "say": "Carillion's rise and spectacular fall, two committees of MPs wrote, was a story of recklessness, hubris and greed.",
+     "visual": {
+      "type": "quote",
+      "text": "Carillion's rise and spectacular fall was a story of recklessness, hubris and greed.",
+      "by": "Work and Pensions and BEIS Committees, 16 May 2018",
+      "src": "House of Commons committees report, May 2018"
+     },
+     "caption": "MPs: recklessness, hubris and greed"
+    },
+    {
+     "say": "Their report found Carillion's board both responsible and culpable for the failure.",
+     "visual": {
+      "type": "quote",
+      "text": "Carillion's board are both responsible and culpable for the company's failure.",
+      "by": "Committees' report, May 2018",
+      "src": "House of Commons committees report, May 2018"
+     },
+     "caption": "Board: responsible and culpable"
+    },
+    {
+     "say": "In October 2023, the Financial Reporting Council fined the auditor, KPMG, a record 21 million pounds over its Carillion audit work.",
+     "visual": {
+      "type": "document",
+      "header": "Financial Reporting Council · October 2023",
+      "title": "KPMG fined £21m",
+      "lines": [
+       "!A record fine over Carillion audit work"
+      ],
+      "stamp": "FINED",
+      "src": "Public Finance, 12 Oct 2023"
+     },
+     "caption": "KPMG fined a record £21m"
+    },
+    {
+     "say": "In January 2026, the Financial Conduct Authority fined two former finance directors.",
+     "visual": {
+      "type": "bars",
+      "title": "FCA fines, January 2026",
+      "items": [
+       [
+        "Richard Adam",
+        232800,
+        "£232,800"
+       ],
+       [
+        "Zafar Khan",
+        138900,
+        "£138,900"
+       ]
+      ],
+      "src": "Financial Conduct Authority"
+     },
+     "caption": "FCA fines two former finance directors"
+    },
+    {
+     "say": "And in February 2026, it fined former chief executive Richard Howson 237,700 pounds. The full story is on our channel.",
+     "visual": {
+      "type": "document",
+      "header": "Financial Conduct Authority · 16 February 2026",
+      "title": "Former CEO fined £237,700",
+      "lines": [
+       "!\"acted recklessly and was knowingly concerned in breaches by Carillion\"",
+       "Misleading announcements to investors"
+      ],
+      "stamp": "FINED",
+      "src": "FCA press release, 16 Feb 2026"
+     },
+     "caption": "Former CEO fined £237,700"
+    }
+   ]
+  }
+ ]
+}
