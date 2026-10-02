@@ -3,4 +3,22 @@
 <title>FrontDesk Flows Instagram queue</title>
 <link>https://www.instagram.com/frontdeskflows/</link>
 <description>Posts due for @frontdeskflows</description>
+<item>
+<title>2026-10-02-1300-front-desk-jobs</title>
+<guid isPermaLink="false">2026-10-02-1300-front-desk-jobs</guid>
+<link>https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/frontdesk-ig/media/001-front-desk-jobs.jpg</link>
+<pubDate>Fri, 02 Oct 2026 13:00:00 +0500</pubDate>
+<description>Most clinic front desks lose hours every week to the same three jobs.
+
+1. Answering website enquiries: AI sorts each message (booking, question, urgent) and replies using only your clinic's own details. Urgent messages go straight to staff.
+2. Appointment reminders: an automatic email or SMS the day before, so fewer patients miss their slot.
+3. Review requests: a polite follow-up after each visit with your Google review link.
+
+We're building these as ready-to-import n8n workflows for clinics, and for the freelancers and agencies who set up automation for them.
+
+Follow @frontdeskflows for the free sample when it's released.
+
+#n8n #automation #clinicmanagement #physiotherapy #smallbusiness #workflowautomation</description>
+<enclosure url="https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/frontdesk-ig/media/001-front-desk-jobs.jpg" type="image/jpeg" length="0"/>
+</item>
 </channel></rss>
