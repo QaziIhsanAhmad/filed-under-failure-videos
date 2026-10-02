@@ -1,0 +1,447 @@
+{
+ "month": "2026-10",
+ "date": "2026-10-02",
+ "method": "WebSearch (US results list, no pages opened), exact question text",
+ "visibility": {
+  "xenova_found": 0,
+  "of": 25,
+  "last_month": 0,
+  "baseline": 0,
+  "change_vs_last_month": 0,
+  "change_vs_baseline": 0,
+  "top_competitors": {
+   "signitysolutions.com": 2,
+   "elfsight.com": 2,
+   "designrush.com": 2,
+   "github.com": 2,
+   "ronins.co.uk": 1,
+   "andersenlab.co.uk": 1,
+   "clavax.com": 1,
+   "devstree.co.uk": 1
+  },
+  "winning_page_types": {
+   "agency service page": 6,
+   "guide": 6,
+   "listicle": 3,
+   "directory": 2,
+   "vendor product page": 5,
+   "other": 3
+  },
+  "note": "Lists were 9-10 results; #1 page type judged from title/URL only."
+ },
+ "site_health": {
+  "crawl_score": 92,
+  "crawl_score_last": 75,
+  "lighthouse_mobile": {
+   "performance": 82,
+   "accessibility": 91,
+   "best_practices": 100,
+   "seo": 100,
+   "lcp_s": 3.5,
+   "tbt_ms": 180
+  },
+  "ai_referrals": {
+   "months": [],
+   "recent": []
+  },
+  "posts_published_this_month": 0,
+  "published_posts_total": 1,
+  "audit_issues": [
+   "thin: /insights/ 71w (archive), /contact/ 196w, /packages/ 287w, /category/ai-automation/ 77w (archive)",
+   "404 in sitemap: /author/admin/, /sample-page/",
+   "title >65 chars: /ai-chatbot-cost/"
+  ]
+ },
+ "wordpress_write_test": {
+  "result": "passed (200)",
+  "warning": "Page 85 is now the PUBLISHED /frontdesk-flows/ product page, not a private draft. The test overwrote its content; restored from revision 294 within ~90 s (verified). Future runs need a non-destructive write test."
+ },
+ "fixes_applied": [
+  "Theme: removed users provider from core sitemap so 404 /author/admin/ is no longer listed (draft->preview->publish, backup xenova-solutions-wpvibe-backup; verified live sitemap index)",
+  "/packages/ (page 64): added 'Which package is right for you?' section using only existing package facts + internal links to /ai-chatbot-cost/ and /work/ (~150 words)",
+  "IndexNow: submitted /packages/ and /frontdesk-flows/ (200)"
+ ],
+ "not_changed": [
+  "/sample-page/ 404 still reported in Sept and Oct crawls; not in page list (publish/draft/private) - re-check next month after sitemap change",
+  "/ai-chatbot-cost/ title 89 chars: excerpt already present; title owned by blog routine",
+  "Inconsistency to review: post says '15-minute scoping call', /packages/ says '30-minute'",
+  "No posts older than 90 days to refresh; only 1 published post so internal-link rule (3 related posts) not applicable yet"
+ ],
+ "per_question": [
+  {
+   "n": 1,
+   "question": "AI chatbot development company UK",
+   "xenova_found": false,
+   "xenova_url": null,
+   "position": null,
+   "top5": [
+    "ronins.co.uk",
+    "andersenlab.co.uk",
+    "clavax.com",
+    "devstree.co.uk",
+    "quantumxl.co.uk"
+   ],
+   "top1_type": "agency service page"
+  },
+  {
+   "n": 2,
+   "question": "how much does an AI chatbot cost for a small business UK",
+   "xenova_found": false,
+   "xenova_url": null,
+   "position": null,
+   "top5": [
+    "launchworkdigital.co.uk",
+    "trisec.io",
+    "delegait.co.uk",
+    "ai-optimised.co.uk",
+    "askmind.co.uk"
+   ],
+   "top1_type": "guide"
+  },
+  {
+   "n": 3,
+   "question": "RAG chatbot development services",
+   "xenova_found": false,
+   "xenova_url": null,
+   "position": null,
+   "top5": [
+    "infyom.com",
+    "beyondkey.com",
+    "scand.com",
+    "signitysolutions.com",
+    "uvik.net"
+   ],
+   "top1_type": "agency service page"
+  },
+  {
+   "n": 4,
+   "question": "custom AI agent development for SMEs",
+   "xenova_found": false,
+   "xenova_url": null,
+   "position": null,
+   "top5": [
+    "wits.com",
+    "azumo.com",
+    "signitysolutions.com",
+    "rapidinnovation.io",
+    "appinventiv.com"
+   ],
+   "top1_type": "listicle"
+  },
+  {
+   "n": 5,
+   "question": "hire AI developers for a startup UK",
+   "xenova_found": false,
+   "xenova_url": null,
+   "position": null,
+   "top5": [
+    "ecommercefastlane.com",
+    "ventionteams.com",
+    "chilliapple.co.uk",
+    "wedowebapps.co.uk",
+    "bytestechnolab.com"
+   ],
+   "top1_type": "guide"
+  },
+  {
+   "n": 6,
+   "question": "AI automation agency for small businesses USA",
+   "xenova_found": false,
+   "xenova_url": null,
+   "position": null,
+   "top5": [
+    "prismetric.com",
+    "uforocks.com",
+    "m8l.com",
+    "innofied.com",
+    "factoryjet.com"
+   ],
+   "top1_type": "agency service page"
+  },
+  {
+   "n": 7,
+   "question": "how much does a custom AI chatbot cost in 2026",
+   "xenova_found": false,
+   "xenova_url": null,
+   "position": null,
+   "top5": [
+    "masterofcode.com",
+    "cmarix.com",
+    "kellton.com",
+    "heeya.fr",
+    "zappiqai.com"
+   ],
+   "top1_type": "guide"
+  },
+  {
+   "n": 8,
+   "question": "best AI chatbot for customer support small business",
+   "xenova_found": false,
+   "xenova_url": null,
+   "position": null,
+   "top5": [
+    "elfsight.com",
+    "mirrorfly.com",
+    "fin.ai",
+    "eesel.ai",
+    "lindy.ai"
+   ],
+   "top1_type": "listicle"
+  },
+  {
+   "n": 9,
+   "question": "RAG vs fine-tuning which is better for a business chatbot",
+   "xenova_found": false,
+   "xenova_url": null,
+   "position": null,
+   "top5": [
+    "customgpt.ai",
+    "medium.com",
+    "chatbase.co",
+    "matillion.com",
+    "montecarlo.ai"
+   ],
+   "top1_type": "guide"
+  },
+  {
+   "n": 10,
+   "question": "offshore AI development company Pakistan",
+   "xenova_found": false,
+   "xenova_url": null,
+   "position": null,
+   "top5": [
+    "10pearls.com",
+    "designrush.com",
+    "techbehemoths.com",
+    "techbehemoths.com",
+    "techbehemoths.com"
+   ],
+   "top1_type": "listicle"
+  },
+  {
+   "n": 11,
+   "question": "Django and Next.js development agency",
+   "xenova_found": false,
+   "xenova_url": null,
+   "position": null,
+   "top5": [
+    "designrush.com",
+    "leanware.co",
+    "gitnation.com",
+    "naturaily.com",
+    "eseospace.com"
+   ],
+   "top1_type": "directory"
+  },
+  {
+   "n": 12,
+   "question": "AI voice agent for appointment booking",
+   "xenova_found": false,
+   "xenova_url": null,
+   "position": null,
+   "top5": [
+    "vapi.ai",
+    "telli.com",
+    "cloudtalk.io",
+    "techcommunity.microsoft.com",
+    "intouchnow.ai"
+   ],
+   "top1_type": "vendor product page"
+  },
+  {
+   "n": 13,
+   "question": "document Q&A chatbot for company documents",
+   "xenova_found": false,
+   "xenova_url": null,
+   "position": null,
+   "top5": [
+    "github.com",
+    "analyticsvidhya.com",
+    "denser.ai",
+    "fastcompany.com",
+    "topai.tools"
+   ],
+   "top1_type": "other"
+  },
+  {
+   "n": 14,
+   "question": "physiotherapy clinic website with online booking UK",
+   "xenova_found": false,
+   "xenova_url": null,
+   "position": null,
+   "top5": [
+    "complete-physio.co.uk",
+    "achillesheel.co.uk",
+    "bupa.co.uk",
+    "ascenti.co.uk",
+    "complete-physio.co.uk"
+   ],
+   "top1_type": "other"
+  },
+  {
+   "n": 15,
+   "question": "website design for physiotherapy clinic",
+   "xenova_found": false,
+   "xenova_url": null,
+   "position": null,
+   "top5": [
+    "weblium.com",
+    "healthhosts.com",
+    "aalpha.net",
+    "gmrwebteam.com",
+    "patientpartners.co"
+   ],
+   "top1_type": "vendor product page"
+  },
+  {
+   "n": 16,
+   "question": "chiropractor website with online booking USA",
+   "xenova_found": false,
+   "xenova_url": null,
+   "position": null,
+   "top5": [
+    "bookedin.com",
+    "setmore.com",
+    "onlinechiro.com",
+    "en.wikipedia.org",
+    "chirobooked.com"
+   ],
+   "top1_type": "vendor product page"
+  },
+  {
+   "n": 17,
+   "question": "AI receptionist for clinics",
+   "xenova_found": false,
+   "xenova_url": null,
+   "position": null,
+   "top5": [
+    "getfreed.ai",
+    "omnimd.com",
+    "sully.ai",
+    "smith.ai",
+    "sully.ai"
+   ],
+   "top1_type": "vendor product page"
+  },
+  {
+   "n": 18,
+   "question": "how to add an AI chatbot to a clinic website",
+   "xenova_found": false,
+   "xenova_url": null,
+   "position": null,
+   "top5": [
+    "github.com",
+    "elfsight.com",
+    "elfsight.com",
+    "crescendo.ai",
+    "elfsight.com"
+   ],
+   "top1_type": "other"
+  },
+  {
+   "n": 19,
+   "question": "dental clinic website redesign UK",
+   "xenova_found": false,
+   "xenova_url": null,
+   "position": null,
+   "top5": [
+    "alignmedia.co.uk",
+    "dominatedental.com",
+    "dotitmedia.co.uk",
+    "design-hero.com",
+    "head45dental.co.uk"
+   ],
+   "top1_type": "agency service page"
+  },
+  {
+   "n": 20,
+   "question": "what is answer engine optimization",
+   "xenova_found": false,
+   "xenova_url": null,
+   "position": null,
+   "top5": [
+    "tryprofound.com",
+    "semrush.com",
+    "vested.marketing",
+    "frase.io",
+    "neilpatel.com"
+   ],
+   "top1_type": "guide"
+  },
+  {
+   "n": 21,
+   "question": "how to get my business recommended by ChatGPT",
+   "xenova_found": false,
+   "xenova_url": null,
+   "position": null,
+   "top5": [
+    "impactplus.com",
+    "community.openai.com",
+    "sitepoint.com",
+    "wsiworld.com",
+    "clickforest.com"
+   ],
+   "top1_type": "guide"
+  },
+  {
+   "n": 22,
+   "question": "answer engine optimization audit UK",
+   "xenova_found": false,
+   "xenova_url": null,
+   "position": null,
+   "top5": [
+    "whitehat-seo.co.uk",
+    "whitehat-seo.co.uk",
+    "clickintelligence.co.uk",
+    "pushgroup.co.uk",
+    "en-gb.wordpress.org"
+   ],
+   "top1_type": "agency service page"
+  },
+  {
+   "n": 23,
+   "question": "identity verification software with face recognition and OCR development",
+   "xenova_found": false,
+   "xenova_url": null,
+   "position": null,
+   "top5": [
+    "faceplusplus.com",
+    "cyberlink.com",
+    "adaptiverecognition.com",
+    "idanalyzer.com",
+    "gartner.com"
+   ],
+   "top1_type": "vendor product page"
+  },
+  {
+   "n": 24,
+   "question": "HR management system custom development",
+   "xenova_found": false,
+   "xenova_url": null,
+   "position": null,
+   "top5": [
+    "selleo.com",
+    "chudovo.com",
+    "sysgears.com",
+    "devsquad.com",
+    "itechcraft.com"
+   ],
+   "top1_type": "agency service page"
+  },
+  {
+   "n": 25,
+   "question": "AI proof of concept cost UK",
+   "xenova_found": false,
+   "xenova_url": null,
+   "position": null,
+   "top5": [
+    "applytosupply.digitalmarketplace.service.gov.uk",
+    "pixelfield.co.uk",
+    "applytosupply.digitalmarketplace.service.gov.uk",
+    "softomatesolutions.com",
+    "fulminous.co.uk"
+   ],
+   "top1_type": "directory"
+  }
+ ]
+}
