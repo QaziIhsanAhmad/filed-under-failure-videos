@@ -1,0 +1,24 @@
+name: Xenova social feed (Make overflow lane)
+on:
+  schedule:
+    - cron: "5 * * * *"
+  workflow_dispatch:
+  push:
+    paths: ["xenova/social-queue.json", "xenova/build_feed.py"]
+permissions:
+  contents: write
+concurrency: xenova-social
+jobs:
+  feed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          git config user.name "xenova-feed-bot"; git config user.email "actions@users.noreply.github.com"
+          for n in 1 2 3; do
+            python3 xenova/build_feed.py
+            git add xenova; git commit -qm "Xenova social feed update" || exit 0
+            git pull --rebase -q && git push && exit 0
+            git rebase --abort 2>/dev/null; git fetch -q && git reset -q --hard origin/main; sleep 5
+          done
+          exit 1
