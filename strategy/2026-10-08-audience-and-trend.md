@@ -27,14 +27,30 @@
   - Sun 18 to Fri 23 Oct 21:00 PKT: six Theranos Shorts, each a different court/regulator fact
 - Success measures (from YouTube analytics via Metricool, judged after 7 full days): views per Short vs SVB week (control), % viewed, subscribers gained per 1,000 views, share of episode traffic from YouTube search. Continue news pegs if Theranos beats SVB on views per Short by 30%+.
 
-## Evidence-based comparison (replaces the earlier speaker-percentage table)
-Method: on 8 Oct 2026 a GitHub Action collected the top 20 YouTube search results for 12 content-specific queries (5 English, 4 Hindi, 3 Urdu) with the region set to US, GB, CA, AU, IN, PK, BD and AE (Hindi/Urdu: IN, PK, AE, US). Raw data: research/yt-search-2026-10-08.json. Limits: one snapshot; lifetime views of top-ranked videos (survivorship), not monthly searches; no subscriber or retention data; YouTube personalises results.
+## Preliminary evidence (8 Oct 2026 snapshot): treat as indicative, not proof
+Method: a GitHub Action collected the top 20 logged-out YouTube search results for 12 content queries (5 English, 4 Hindi, 3 Urdu), region set to US, GB, CA, AU, IN, PK, BD, AE (Hindi/Urdu: IN, PK, AE, US). Data: research/yt-search-2026-10-08.json; analysis: research/analyse.py.
+Limits: one day; logged-out search only (not recommendations or Shorts feed, where most new-channel views come from); lifetime views of surviving top results; "views per day" = lifetime views / age, which overstates older spikes; no subscriber, retention or search-volume data; small n for some rows.
 
-Findings:
-1. Country is not the lever. The same videos rank in all 8 regions for each query (e.g. SVB: WSJ first everywhere). YouTube serves this content by language and topic, not country, so a country-targeted test would mostly measure noise.
-2. Topic demand differs 1,000x. Median views of the top 10: "theranos documentary" 1.5-2.0M (an Entertainment Tonight clip 2 weeks old already has 543K, so the film is driving interest now); "silicon valley bank collapse explained" ~150K (mostly 3-year-old videos from WSJ and similar); "company collapse documentary" 0.1-1.3M; "carillion collapse" ~1K (this explains Carillion's weak start).
-3. Hindi has real demand with concentrated competition: "business case study hindi" top-10 median ~380K with only 5-6 channels in the top 10 (HinExp, Think School Hindi); "company kyu doob gayi" 256K-729K; SVB in Hindi ~92K (one 5.4M video dominates).
-4. Urdu-labelled searches are small: medians 400-9,400 views. That suggests Urdu speakers find this content through Hindi or English search terms, so an Urdu/Hindi channel should use Hindi/Roman search wording in titles.
-5. Competition for English big topics is strong (WSJ, Yahoo Finance and established documentary channels hold the top results), so a new channel wins on a fresh angle and timing, not on the topic alone.
+| Query | Lang | Top-10 median age | Share < 1 year | Recent (<1 y) median views/day | Distinct channels in top 10 | Top-10 overlap with US |
+|---|---|---|---|---|---|---|
+| silicon valley bank collapse explained | en | 1095 d | 15% | 288 (n=2) | 9 | 90% |
+| theranos documentary | en | 150 d | 57% | 46,872 (n=8) | 10 | 80% |
+| carillion collapse | en | 2190 d | 38% | 1 (n=8) | 9.5 | 90% |
+| company collapse documentary | en | 912 d | 27% | 579 (n=6) | 9 | 60% |
+| why did this company fail | en | 730 d | 24% | 432 (n=6) | 10 | 70% |
+| silicon valley bank collapse hindi | hi | 1095 d | 7% | 189,778 (n=1) | 10 | 70% |
+| theranos hindi | hi | 1277 d | 17% | 4 (n=2) | 10 | 100% |
+| business case study hindi | hi | 90 d | 71% | 7,575 (n=10) | 5.5 | 80% |
+| company kyu doob gayi | hi | 150 d | 54% | 604 (n=7) | 9 | 90% |
+| silicon valley bank urdu | ur | 1095 d | 0% | 0 (n=0) | 10 | 80% |
+| business case study urdu | ur | 365 d | 31% | 87 (n=4) | 8 | 90% |
+| company collapse urdu | ur | 547 d | 38% | 5,240 (n=6) | 10 | 70% |
 
-What this means: pick topics by measured search demand first (rule: top-10 median 100K+ views, or a current news peg), keep English as the main channel, and treat Hindi-language Shorts as the most promising second-language test. Practical test: the Theranos trend week, judged with the playbook evaluation rules (medians, % viewed, subscribers per 1,000 views, traffic source; under 2x = inconclusive).
+
+Reading it carefully:
+- Current demand: "theranos documentary" is the only English query with mostly recent results (57% under 1 year, median ~47K views/day), consistent with interest building before the 16 Oct film. SVB and Carillion queries are dominated by old videos with low recent views/day, so their current search demand looks weak (SVB's Saturday episode should be judged with that in mind).
+- Competition: English top 10s hold 9-10 different channels including major outlets (WSJ, Yahoo Finance, Entertainment Tonight); "business case study hindi" is concentrated in ~5-6 channels with mostly recent uploads (71% under 1 year, ~7.6K views/day), i.e. an active market led by a few strong channels.
+- Country: top-10 overlap with the US result set is 60-100%, so logged-out search looks similar across these regions; this does NOT show country is irrelevant (recommendations, language settings and Shorts distribution can differ). Country effects should be read from our own YouTube Analytics after the pilot.
+- Urdu-labelled queries show little recent activity except "company collapse urdu" (~5K views/day, small n).
+
+Pilot choice: Theranos week (English), because it is the only option with clear current demand and a dated news peg. Judge it with the playbook evaluation rules (medians; % viewed; subscribers per 1,000 views; traffic source; country split; under 2x = inconclusive; repeat before concluding).
