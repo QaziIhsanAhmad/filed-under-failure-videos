@@ -120,6 +120,18 @@
    "status": "planned",
    "description": "",
    "metricoolUuid": "-8498617703484276679"
+  },
+  {
+   "id": "test-001",
+   "date": "2026-10-08",
+   "time": "18:00",
+   "type": "short",
+   "title": "Upload test - delete me",
+   "file": "yt/test/upload-test.mp4",
+   "lane": "make",
+   "status": "planned",
+   "test": true,
+   "description": "Free upload route test. Set privacy to Unlisted for this run, then delete the video."
   }
  ],
  "history": [
