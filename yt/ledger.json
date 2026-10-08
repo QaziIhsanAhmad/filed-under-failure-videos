@@ -129,7 +129,7 @@
    "title": "Upload test - delete me",
    "file": "yt/test/upload-test.mp4",
    "lane": "make",
-   "status": "planned",
+   "status": "released",
    "test": true,
    "description": "Free upload route test. Set privacy to Unlisted for this run, then delete the video."
   },
@@ -141,7 +141,7 @@
    "title": "Upload test 2 large file - delete me",
    "file": "yt/test/upload-test-large.mp4",
    "lane": "make",
-   "status": "planned",
+   "status": "released",
    "test": true,
    "description": "Free upload route test with a large file (about 60 MB, like a weekly episode). Unlisted; delete afterwards."
   }
