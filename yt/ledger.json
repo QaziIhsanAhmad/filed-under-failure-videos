@@ -200,5 +200,17 @@
    "id": "001-d",
    "url": "https://www.youtube.com/shorts/90ByqlGonLI"
   }
+ ],
+ "unmatched": [
+  {
+   "at": "2026-10-08T18:42:47.228013+05:00",
+   "event": "yt-uploaded",
+   "payload": {
+    "guid": "selftest-svb",
+    "privacy": "x",
+    "uploadStatus": "e29iamVjdH0=",
+    "videoId": "e29iamVjdH0="
+   }
+  }
  ]
 }
