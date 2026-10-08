@@ -184,5 +184,15 @@
    "id": "001-d",
    "url": "https://www.youtube.com/shorts/90ByqlGonLI"
   }
+ ],
+ "unmatched": [
+  {
+   "at": "2026-10-08T12:05:59.793669+05:00",
+   "event": "yt-failed",
+   "payload": {
+    "error": "dispatch self-test",
+    "guid": "selftest-000"
+   }
+  }
  ]
 }
