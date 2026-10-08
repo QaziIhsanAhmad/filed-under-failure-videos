@@ -29,9 +29,9 @@
 
 ## Preliminary evidence (8 Oct 2026 snapshot): treat as indicative, not proof
 Method: a GitHub Action collected the top 20 logged-out YouTube search results for 12 content queries (5 English, 4 Hindi, 3 Urdu), region set to US, GB, CA, AU, IN, PK, BD, AE (Hindi/Urdu: IN, PK, AE, US). Data: research/yt-search-2026-10-08.json; analysis: research/analyse.py.
-Limits: one day; logged-out search only (not recommendations or Shorts feed, where most new-channel views come from); lifetime views of surviving top results; "views per day" = lifetime views / age, which overstates older spikes; no subscriber, retention or search-volume data; small n for some rows.
+Limits: one day; logged-out search only (not recommendations or Shorts feed, where most new-channel views come from); lifetime views of surviving top results; "views per day" is a LIFETIME AVERAGE (lifetime views ÷ age), not measured recent growth; it hides whether a video is still growing; no subscriber, retention or search-volume data; small n for some rows.
 
-| Query | Lang | Top-10 median age | Share < 1 year | Recent (<1 y) median views/day | Distinct channels in top 10 | Top-10 overlap with US |
+| Query | Lang | Top-10 median age | Share < 1 year | Lifetime-average views per day (lifetime views ÷ age), videos <1 y old, median | Distinct channels in top 10 | Top-10 overlap with US |
 |---|---|---|---|---|---|---|
 | silicon valley bank collapse explained | en | 1095 d | 15% | 288 (n=2) | 9 | 90% |
 | theranos documentary | en | 150 d | 57% | 46,872 (n=8) | 10 | 80% |
@@ -48,9 +48,9 @@ Limits: one day; logged-out search only (not recommendations or Shorts feed, whe
 
 
 Reading it carefully:
-- Current demand: "theranos documentary" is the only English query with mostly recent results (57% under 1 year, median ~47K views/day), consistent with interest building before the 16 Oct film. SVB and Carillion queries are dominated by old videos with low recent views/day, so their current search demand looks weak (SVB's Saturday episode should be judged with that in mind).
-- Competition: English top 10s hold 9-10 different channels including major outlets (WSJ, Yahoo Finance, Entertainment Tonight); "business case study hindi" is concentrated in ~5-6 channels with mostly recent uploads (71% under 1 year, ~7.6K views/day), i.e. an active market led by a few strong channels.
+- Current demand: "theranos documentary" is the only English query with mostly recent results (57% under 1 year, lifetime-average ~47K views/day), consistent with interest building before the 16 Oct film. SVB and Carillion queries are dominated by old videos with low recent views/day, so their current search demand looks weak (SVB's Saturday episode should be judged with that in mind).
+- Competition: English top 10s hold 9-10 different channels including major outlets (WSJ, Yahoo Finance, Entertainment Tonight); "business case study hindi" is concentrated in ~5-6 channels with mostly recent uploads (71% under 1 year, ~7.6K lifetime-average views/day), i.e. an active market led by a few strong channels.
 - Country: top-10 overlap with the US result set is 60-100%, so logged-out search looks similar across these regions; this does NOT show country is irrelevant (recommendations, language settings and Shorts distribution can differ). Country effects should be read from our own YouTube Analytics after the pilot.
-- Urdu-labelled queries show little recent activity except "company collapse urdu" (~5K views/day, small n).
+- Urdu-labelled queries show little recent activity except "company collapse urdu" (~5K lifetime-average views/day, small n).
 
 Pilot choice: Theranos week (English), because it is the only option with clear current demand and a dated news peg. Judge it with the playbook evaluation rules (medians; % viewed; subscribers per 1,000 views; traffic source; country split; under 2x = inconclusive; repeat before concluding).

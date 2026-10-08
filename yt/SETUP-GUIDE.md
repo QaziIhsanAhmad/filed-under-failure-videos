@@ -6,7 +6,7 @@ All times are Pakistan time (PKT). Everything here is free: Make.com free plan, 
 2. At 21:00 PKT your Make scenario reads the feed and uploads the video to YouTube as Public.
 3. Make immediately reports the result to GitHub (video ID and upload status, or the error). GitHub records it in the ledger.
 4. Every hour GitHub also checks the public channel page and records live video IDs. A video missing from the page is "unverified", never "failed".
-5. If Make reported an error, or reported nothing by 23:30, GitHub checks the channel twice. Only if the video is still not there does it re-release it under a new ID ("<id>-r1"), so Make's "already seen" memory cannot silently skip a failed upload. After 2 retries it stops and asks you.
+5. If Make reported an error, or reported nothing by 23:30, the item is PAUSED (never re-released automatically: the video could still be processing, private or unlisted). Claude asks you to check Make History or YouTube Studio. Only after that confirms no video was created is it released once more under a new ID ("<id>-r1"), so Make's "already seen" memory cannot skip it.
 Old posts already scheduled in Metricool (8 to 16 Oct) are never put in this feed.
 
 Feeds:
@@ -19,8 +19,8 @@ Make free plan limits: 1,000 credits/month, 2 active scenarios, 5 MB max file si
 github.com > profile picture > Settings > Developer settings > Personal access tokens > Fine-grained tokens > Generate new token.
 - Name: make-youtube-results. Expiration: 1 year.
 - Repository access: Only select repositories > QaziIhsanAhmad/filed-under-failure-videos.
-- Permissions > Repository permissions > Contents: Read and write. Nothing else.
-- Generate, copy the token. Paste it only into Make (Step 3). Never send it in chat.
+- Permissions > Repository permissions > Contents: Read and write (Metadata: Read-only is added automatically). Nothing else.
+- Generate, copy the token. Paste it only into the Make HTTP header field. Never put it in chat, GitHub files, or screenshots (crop or blur the header when sending Make screenshots).
 
 ## Step 2. Reels scenario: once a day (1 minute)
 Make > "Integration RSS" > clock icon on the RSS module > Run scenario: Every day, 22:30 > OK > Save.
@@ -67,7 +67,7 @@ Claude sends a kit link each week (yt/native/NNN.md) with the files and text.
 Free way to remove this: if the large-file test passes, episodes go through Make like the Shorts.
 
 ## Recovery
-- A Short did not appear: nothing to do; GitHub reconciles and re-releases it once it confirms it is missing. Claude asks you only if it gives up after 2 retries.
+- A Short did not appear: it is paused automatically. Check YouTube Studio > Content (including Private/Unlisted/processing) and Make History, then tell Claude what you see. Claude re-releases it only if no video exists.
 - Make turned the scenario off after errors: open it, check History, switch it back on.
 - Token expired (yearly): create a new one (Step 1) and replace it in both HTTP modules.
 - Credits low: Make > Organization > Usage; expected about 120/month of 1,000.

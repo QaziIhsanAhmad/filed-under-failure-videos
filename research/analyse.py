@@ -6,7 +6,7 @@ def days(a):
     return int(m.group(1))*U[m.group(2)] if m else None
 rows=collections.defaultdict(dict)
 for r in d['results']: rows[(r['lang'],r['q'])][r['gl']]=r['items']
-print("| Query | Lang | Top-10 median age | Share < 1 year | Recent (<1 y) median views/day | Distinct channels in top 10 | Top-10 overlap with US |")
+print("| Query | Lang | Top-10 median age | Share < 1 year | Lifetime-average views per day (lifetime views ÷ age), videos <1 y old, median | Distinct channels in top 10 | Top-10 overlap with US |")
 print("|---|---|---|---|---|---|---|")
 for (lang,q),regs in rows.items():
     allit={i['id']:i for its in regs.values() for i in its[:10]}.values()

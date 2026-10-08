@@ -6,10 +6,11 @@ Only lane=make rows enter yt/feed.xml. Test clips live in yt/tests.json -> yt/te
 Row status flow (lane make):
   planned -> released (in feed) -> uploaded (Make reported videoId via repository_dispatch)
           -> published (seen on the public channel page or confirmed by Make callback + page)
-  failed  (Make reported an error) or noresult (no report by 23:30 PKT on its day)
-          -> reconcile: if the title is on the channel page, record it (no retry);
-             otherwise after a second check re-release under a NEW guid "<id>-rN" (max 2 retries),
-             so Make's "already seen" memory can never silently swallow a failed upload.
+  failed  (Make reported an error)            -> paused-failed
+  no report from Make by 23:30 PKT on its day -> paused-unverified
+  Paused items are NEVER re-released automatically. Only after a confirmed failure (Make History or
+  YouTube Studio shows no video was created) is the status set to "retry"; the item is then released
+  once under a NEW guid "<id>-rN" so Make's "already seen" memory cannot skip it.
 Missing from the channel page alone = "unverified", never "failed".
 """
 import datetime as dt, json, os, re, urllib.request, xml.etree.ElementTree as ET
@@ -21,7 +22,6 @@ CHANNEL = "UCI7G8N3yKI7pOyQU2glaJrQ"
 HANDLE = "@FiledUnderFailure-d6j"
 RELEASE_HOUR = 12      # enters the feed 12:00 PKT on its date (Make runs 21:00 PKT: 9 h margin)
 RESULT_DEADLINE = dt.time(23, 30)
-MAX_RETRIES = 2
 RAW = "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/"
 HDR = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36", "Accept-Language": "en"}
 
@@ -86,24 +86,24 @@ def main():
         if seen and it.get("status") != "published":
             it.update(status="published", url=seen["url"], videoId=seen["videoId"], verifiedAt=now.isoformat(), verification="channel page")
             continue
-        if it["lane"] != "make" or it.get("status") in ("published", "uploaded", "gaveup"):
+        if it["lane"] != "make" or it.get("status") in ("published", "uploaded") or str(it.get("status","")).startswith("paused"):
             continue
         day = dt.date.fromisoformat(it["date"])
         due = dt.datetime.combine(day, RESULT_DEADLINE, PKT)
         if it.get("status") == "released" and now > due:
-            it["status"] = "noresult"
-        if it.get("status") in ("failed", "noresult"):
-            if live is None:
-                continue                      # cannot reconcile without the channel page
-            checks = it.get("reconcileChecks", 0) + 1
-            it["reconcileChecks"] = checks
-            if checks >= 2:                    # two hourly checks, still not on the channel page
-                if it.get("retries", 0) >= MAX_RETRIES:
-                    it["status"] = "gaveup"; it["note"] = "needs Qazi: check Make History and YouTube Studio"
-                else:
-                    it["retries"] = it.get("retries", 0) + 1
-                    it["status"] = "planned"; it["reconcileChecks"] = 0
-                    it["date"] = (now.date() if now.hour < 20 else now.date() + dt.timedelta(days=1)).isoformat()
+            # No report from Make. The upload may still be processing, private/unlisted, or simply
+            # missing from the public page, so this is NOT a failure: pause and wait for review.
+            it["status"] = "paused-unverified"
+            it["note"] = "no result from Make by 23:30 PKT; check Make History / YouTube Studio before any retry"
+        elif it.get("status") == "failed":
+            it["status"] = "paused-failed"
+            it["note"] = "Make reported an error; confirm in YouTube Studio that no video was created, then set status 'retry'"
+        elif it.get("status") == "retry":
+            # Set only by a person or the monitor AFTER confirming (Make History / YouTube Studio) that
+            # no video exists. Re-released once under a new guid so Make treats it as new.
+            it["retries"] = it.get("retries", 0) + 1
+            it["status"] = "planned"
+            it["date"] = (now.date() if now.hour < 20 else now.date() + dt.timedelta(days=1)).isoformat()
 
     feed = []
     for it in led["items"]:
