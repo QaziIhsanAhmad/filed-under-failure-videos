@@ -1,0 +1,97 @@
+{
+ "slug": "002-svb-hi",
+ "title": "Silicon Valley Bank: 1 din mein $40 arab kaise nikle?",
+ "summary": "",
+ "tags": [
+  "Silicon Valley Bank",
+  "SVB",
+  "bank run"
+ ],
+ "sources": [
+  "Federal Reserve Board, Review of the Supervision and Regulation of Silicon Valley Bank (28 Apr 2023): https://www.federalreserve.gov/publications/files/svb-review-20230428.pdf",
+  "Federal Reserve Board, Executive Summary (28 Apr 2023): https://www.federalreserve.gov/publications/2023-April-SVB-Executive-Summary.htm"
+ ],
+ "shorts": [
+  {
+   "id": "hi",
+   "lang": "hi",
+   "voice": "hm_omega",
+   "speed": 1.0,
+   "cta": "Poori kahani hamare channel par",
+   "hook": "1 din, $40 arab gaye",
+   "title": "Silicon Valley Bank: 1 din mein $40 arab kaise nikle? #Shorts",
+   "blurb": "Silicon Valley Bank ka bank run, Federal Reserve ki official report se. The 2023 Silicon Valley Bank run, from the Federal Reserve's own review.",
+   "scenes": [
+    {
+     "say": "नौ मार्च दो हज़ार तेईस को, सिलिकॉन वैली बैंक से एक ही दिन में चालीस अरब डॉलर से ज़्यादा निकाल लिए गए।",
+     "caption": "Ek din mein $40 arab dollar se zyada nikle",
+     "visual": {
+      "type": "stat",
+      "value": "$40bn+",
+      "red": true,
+      "label": "Withdrawn on 9 March 2023",
+      "src": "Fed review, Apr 2023"
+     }
+    },
+    {
+     "say": "अगले दिन, सौ अरब डॉलर और निकलने की उम्मीद थी। यानी कुल जमा का लगभग पचासी प्रतिशत।",
+     "caption": "Agle din $100 arab aur: kul jama ka ~85%",
+     "visual": {
+      "type": "stat",
+      "value": ">$100bn",
+      "red": true,
+      "label": "Expected the next day",
+      "src": "Fed review, Apr 2023"
+     }
+    },
+    {
+     "say": "फ़ेडरल रिज़र्व के मुताबिक़, बैंक के लगभग चौरानवे प्रतिशत जमा पैसे का बीमा नहीं था।",
+     "caption": "94% jama paise ka bima nahin tha",
+     "visual": {
+      "type": "stat",
+      "value": "94%",
+      "red": true,
+      "label": "of deposits uninsured, end of 2022",
+      "src": "Fed review, Apr 2023"
+     }
+    },
+    {
+     "say": "बैंक की आधे से ज़्यादा संपत्ति बॉन्ड जैसी सिक्योरिटीज़ में थी। ब्याज दरें बढ़ीं, तो पुराने बॉन्ड की क़ीमत गिर गई।",
+     "caption": "55% assets bonds mein. Rates badhe, keemat giri",
+     "visual": {
+      "type": "bars",
+      "title": "Securities as share of assets",
+      "items": [
+       [
+        "SVB",
+        55,
+        "55%"
+       ],
+       [
+        "Large banks",
+        25,
+        "25%"
+       ]
+      ],
+      "hi": 0,
+      "src": "Fed review, Apr 2023"
+     }
+    },
+    {
+     "say": "दस मार्च को कैलिफ़ोर्निया के रेगुलेटर ने बैंक बंद कर दिया। पूरी कहानी हमारे चैनल पर है।",
+     "caption": "10 March: bank band. Poori kahani channel par.",
+     "visual": {
+      "type": "document",
+      "header": "California DFPI, 10 March 2023",
+      "title": "Silicon Valley Bank",
+      "lines": [
+       "Bank closed by the state regulator"
+      ],
+      "stamp": "CLOSED",
+      "src": "Fed review, Apr 2023"
+     }
+    }
+   ]
+  }
+ ]
+}
