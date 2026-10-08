@@ -61,14 +61,18 @@
    "title": "Silicon Valley Bank: $40 Billion Gone in One Day",
    "file": "002/002-svb-upload-v2.mp4",
    "lane": "native",
-   "status": "planned",
+   "status": "scheduled",
    "description": "",
    "metricoolUuid": "3268318533952685639",
    "altered": {
     "disclose": false,
     "reason": "Generic synthetic narrator (not imitating a real person), original charts/text graphics, original code-generated background music; no real person shown saying anything, no altered real footage, no realistic invented scenes."
    },
-   "laneNote": "Metricool limit reached; 70 MB is over Make free 5 MB -> upload in YouTube Studio (yt/native kit)"
+   "laneNote": "Metricool limit reached; 70 MB is over Make free 5 MB -> upload in YouTube Studio (yt/native kit)",
+   "videoId": "5fPvAEfxo6w",
+   "url": "https://youtu.be/5fPvAEfxo6w",
+   "publishAt": "2026-10-10T16:00:00Z",
+   "note": "uploaded by Qazi 8 Oct; metadata, thumbnail, schedule set via Make YouTube API; captions pending"
   },
   {
    "id": "002-a",
