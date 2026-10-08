@@ -211,6 +211,16 @@
     "uploadStatus": "V29ycmllZCBBSSB3aWxsIHJlcGxhY2UgeW91ciB0ZWFtPwoKSXQncw==",
     "videoId": "urn:li:share:7513950889066516481"
    }
+  },
+  {
+   "at": "2026-10-08T18:27:33.817133+05:00",
+   "event": "yt-uploaded",
+   "payload": {
+    "guid": "selftest-ig-18072007478739986",
+    "privacy": "2026-10-08T13:22:05.000Z REELS",
+    "uploadStatus": "QW4gQUkgYXNzaXN0YW50IHNob3VsZCBuZXZlciBwbGF5IGRvY3Rvci4KCldoZW4gYSA=",
+    "videoId": "https://www.instagram.com/reel/DePB39eiMxQ/"
+   }
   }
  ]
 }
