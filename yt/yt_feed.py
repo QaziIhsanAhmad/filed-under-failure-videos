@@ -20,9 +20,12 @@ def published():
     url = f"https://www.youtube.com/feeds/videos.xml?channel_id={CHANNEL}"
     ns = {"a": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/schemas/2015"}
     try:
-        root = ET.fromstring(urllib.request.urlopen(url, timeout=30).read())
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36", "Accept-Language": "en"})
+        root = ET.fromstring(urllib.request.urlopen(req, timeout=30).read())
     except Exception as e:  # keep previous record if YouTube is unreachable
+        open("yt/check.log", "w").write(f"{dt.datetime.now(PKT).isoformat()} channel feed error: {e}\n")
         print("channel feed error:", e); return None
+    open("yt/check.log", "w").write(f"{dt.datetime.now(PKT).isoformat()} channel feed ok\n")
     out = []
     for en in root.findall("a:entry", ns):
         vid = en.find("yt:videoId", ns).text
