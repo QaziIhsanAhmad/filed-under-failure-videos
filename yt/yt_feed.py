@@ -77,7 +77,15 @@ def main():
         for it in led["items"]:
             p = live.get(it["title"].strip().lower())
             if p and it.get("status") != "published":
-                it.update(status="published", url=p["url"], publishedAt=p["published"])
+                it.update(status="published", url=p["url"], videoId=p["videoId"], verifiedAt=now.isoformat(), verification="channel page")
+                it.pop("verificationNote", None)
+            elif not p and it.get("status") != "published" and not it.get("test"):
+                due = dt.datetime.combine(dt.date.fromisoformat(it["date"]), dt.time.fromisoformat(it["time"]), PKT)
+                if now > due + dt.timedelta(hours=6):
+                    # Not seen on the public channel page. This is NOT proof of failure (page parsing can miss
+                    # items, long videos are not parsed yet, YouTube may still be processing): mark unverified.
+                    it["verification"] = "unverified"
+                    it["verificationNote"] = "not found on public channel page; confirm via Metricool publicUrl, Make History or oEmbed"
     feed = []
     for it in led["items"]:
         if it["lane"] != "make" or it.get("status") == "published":

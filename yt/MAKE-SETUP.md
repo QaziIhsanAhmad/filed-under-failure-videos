@@ -1,24 +1,27 @@
-# Free YouTube route: Make.com setup (about 10 minutes, once)
+# Free YouTube route: Make.com setup and test (about 10 minutes, once)
 
-Why this route: Make's free plan has 1,000 credits/month, 2 active scenarios, a 15-minute minimum interval, 512 MB transfer and a 5 MB file limit. A daily Short is under 4.5 MB and uses about 2-3 credits a day. The 67 MB weekly episode is over the limit, so it is scheduled natively in YouTube Studio from a ready kit (yt/native/NNN.md), about 5 minutes a week. YouTube's own API is not used because uploads from unverified API projects stay private until a Google audit.
+How timing works: GitHub releases each day's Short into the feed at 12:00 PKT. The Make scenario runs once a day at 21:00 PKT and uploads whatever is in the feed with Privacy = Public, so the Short goes public at about 21:00 PKT (the same slot Metricool uses now). Nothing depends on a scheduled-publish field. On Saturdays the feed also holds the episode if the large-file test passes.
 
-Budget: Reels scenario at once a day (~60 credits/month) + this scenario at once a day (~90) = ~150 of 1,000.
+Make free plan (make.com/pricing): 1,000 credits/month, 2 active scenarios, 15-minute minimum interval, 512 MB data transfer, 5 MB max file size. Expected use: about 2 credits per daily run (1 to check the feed, 1 per upload): roughly 60-70/month for this scenario and about 30-60 for Reels once it runs daily. Confirm the real numbers in each scenario's History after the test.
 
-## A. Save credits on the Reels scenario (do this first)
-1. Open "Integration RSS" > click the clock on the RSS module > Run scenario: "Every day", Time: 22:30. Save.
+## A. Reels scenario: cut credit use (1 minute)
+"Integration RSS" > clock icon on the RSS module > Run scenario: Every day, at 22:30 > OK > Save.
 
-## B. Create the YouTube scenario
+## B. New YouTube scenario
 1. Scenarios > Create a new scenario.
-2. Add RSS > "Watch RSS feed items". URL:
-   https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/yt/feed.xml
-   Maximum number of returned items: 3. OK. Choose where to start: "All RSS feed items" (the feed only ever contains today's item).
-3. Add YouTube > "Upload a Video". Connection: Add, sign in with the Google account that owns Filed Under Failure, pick that channel.
-   - Video source / File: choose URL (download from URL) and map the RSS item's URL.
-   - Title: map Title. Description: map Description.
-   - Privacy status: Unlisted for the first test run; change to Public after the test.
-   - Made for kids: No. Category: Education (27), if offered.
-4. Clock on the RSS module: "Every day", Time: 18:00. Save. Switch ON.
-5. Test now: click "Run once". It should upload the 6-second clip "Upload test - delete me" as Unlisted. Check YouTube Studio > Content, then delete the test video.
-6. Change Privacy status to Public. Save. Send Claude a screenshot of the scenario's History.
+2. Add RSS > Watch RSS feed items. URL: https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/yt/feed.xml . Maximum number of returned items: 3. Choose where to start: All RSS feed items.
+3. Add YouTube > Upload a Video. Connection: Add > sign in with the Google account that owns Filed Under Failure > choose that channel.
+   - File / video source: the option to upload from a URL; map the RSS item URL.
+   - Title = Title; Description = Description; Privacy status = Unlisted (tests only); Made for kids = No; Category = Education if offered.
+4. Save (do not switch ON yet).
 
-From then on: each day at 12:00 PKT GitHub releases that day's Short into the feed; Make uploads it publicly at 18:00 PKT; GitHub records the live link hourly in yt/published.json.
+## C. Tests (after 12:41 PKT today, when both test clips are in the feed)
+1. Click Run once. Two uploads are attempted:
+   - "Upload test - delete me" (0.1 MB, a Short) proves URL upload works.
+   - "Upload test 2 large file - delete me" (62 MB, episode-sized) shows whether Make's 5 MB limit blocks episodes.
+2. YouTube Studio > Content: check which test videos arrived, then delete them.
+3. Screenshot the scenario History (it shows credits used and any error) and send it to Claude.
+
+## D. Go live
+1. Upload a Video > Privacy status = Public. 2. RSS clock > Every day at 21:00. 3. Save and switch ON.
+Real Shorts start with the Theranos week (Sat 17 Oct). Earlier days are already scheduled in Metricool and are never put in this feed.

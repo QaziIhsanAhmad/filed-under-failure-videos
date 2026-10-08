@@ -1,0 +1,4 @@
+{
+ "episodes_via_make": false,
+ "note": "Set true only after test-002 (60 MB) uploads successfully through Make."
+}
