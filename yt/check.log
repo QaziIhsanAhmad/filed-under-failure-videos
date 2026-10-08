@@ -1,6 +1,7 @@
-2026-10-08T11:33:58.752803+05:00
-handle page error: <urlopen error Tunnel connection failed: 403 Forbidden>
-<urlopen error Tunnel connection failed: 403 Forbidden> https://www.youtube.com/feeds/videos.xml?channel_id=UCI7G8N3yKI7pOyQU2glaJrQ
-<urlopen error Tunnel connection failed: 403 Forbidden> https://www.youtube.com/feeds/videos.xml?playlist_id=UUI7G8N3yKI7pOyQU2glaJrQ
-videos tab error: <urlopen error Tunnel connection failed: 403 Forbidden>
-shorts tab error: <urlopen error Tunnel connection failed: 403 Forbidden>
+2026-10-08T11:35:01.816363+05:00
+handle -> UCI7G8N3yKI7pOyQU2glaJrQ
+HTTP Error 404: Not Found https://www.youtube.com/feeds/videos.xml?channel_id=UCI7G8N3yKI7pOyQU2glaJrQ
+HTTP Error 404: Not Found https://www.youtube.com/feeds/videos.xml?playlist_id=UUI7G8N3yKI7pOyQU2glaJrQ
+HTTP Error 404: Not Found https://www.youtube.com/feeds/videos.xml?channel_id=UCI7G8N3yKI7pOyQU2glaJrQ
+videos: 0 found
+shorts: 4 found
