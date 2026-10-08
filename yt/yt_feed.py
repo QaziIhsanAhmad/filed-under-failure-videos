@@ -57,7 +57,7 @@ def write_feed(path, title, items, now):
            f"<title>{escape(title)}</title>", f"<link>https://www.youtube.com/{HANDLE}</link>",
            "<description>Filed Under Failure uploads</description>"]
     for it in items:
-        url = RAW + it["file"]
+        url = it["file"] if it["file"].startswith("http") else RAW + it["file"]
         out += ["<item>", f"<title>{escape(it['title'])}</title>",
                 f'<guid isPermaLink="false">{escape(guid(it))}</guid>',
                 f"<link>{escape(url)}</link>", f"<pubDate>{format_datetime(it.get('_rel', now))}</pubDate>",
