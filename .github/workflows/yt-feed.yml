@@ -1,0 +1,22 @@
+name: YouTube free lane (feed + publication check)
+on:
+  schedule:
+    - cron: "41 * * * *"   # hourly
+  workflow_dispatch:
+  push:
+    paths: ["yt/ledger.json", "yt/yt_feed.py", ".github/workflows/yt-feed.yml"]
+permissions:
+  contents: write
+concurrency: yt-feed
+jobs:
+  feed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 yt/yt_feed.py
+      - run: |
+          git config user.name "yt-feed-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add yt
+          git commit -m "YouTube lane: feed/publication update $(date -u +%F)" || echo "no change"
+          git pull --rebase -q && git push

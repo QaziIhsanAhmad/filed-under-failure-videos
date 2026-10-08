@@ -1,0 +1,148 @@
+{
+ "note": "One row per planned upload. lane: metricool | make | native. Only lane=make rows ever enter yt/feed.xml.",
+ "items": [
+  {
+   "id": "001-e",
+   "date": "2026-10-08",
+   "time": "21:00",
+   "type": "short",
+   "title": "Who paid when Carillion collapsed? Staff, pensioners and taxpayers #Shorts",
+   "file": "001/001-carillion-short-e.mp4",
+   "lane": "metricool",
+   "status": "planned",
+   "description": "",
+   "metricoolUuid": "-514389782219570220"
+  },
+  {
+   "id": "001-f",
+   "date": "2026-10-09",
+   "time": "21:00",
+   "type": "short",
+   "title": "MPs' verdict on Carillion: recklessness, hubris and greed #Shorts",
+   "file": "001/001-carillion-short-f.mp4",
+   "lane": "metricool",
+   "status": "planned",
+   "description": "",
+   "metricoolUuid": "-7257899094082302401"
+  },
+  {
+   "id": "002-g",
+   "date": "2026-10-10",
+   "time": "18:00",
+   "type": "short",
+   "title": "Silicon Valley Bank took 40 years to build and two days to fall #Shorts",
+   "file": "002/002-svb-short-g.mp4",
+   "lane": "metricool",
+   "status": "planned",
+   "description": "",
+   "metricoolUuid": "2498934116919888509"
+  },
+  {
+   "id": "002-ep",
+   "date": "2026-10-10",
+   "time": "21:00",
+   "type": "video",
+   "title": "Silicon Valley Bank: $40 Billion Gone in One Day",
+   "file": "002/002-svb-upload-v2.mp4",
+   "lane": "metricool",
+   "status": "planned",
+   "description": "",
+   "metricoolUuid": "3268318533952685639"
+  },
+  {
+   "id": "002-a",
+   "date": "2026-10-11",
+   "time": "21:00",
+   "type": "short",
+   "title": "Customers pulled $40 billion from Silicon Valley Bank in one day #Shorts",
+   "file": "002/002-svb-short-a.mp4",
+   "lane": "metricool",
+   "status": "planned",
+   "description": "",
+   "metricoolUuid": "6470601755274134589"
+  },
+  {
+   "id": "002-b",
+   "date": "2026-10-12",
+   "time": "21:00",
+   "type": "short",
+   "title": "94% of Silicon Valley Bank's deposits were uninsured #Shorts",
+   "file": "002/002-svb-short-b.mp4",
+   "lane": "metricool",
+   "status": "planned",
+   "description": "",
+   "metricoolUuid": "-8354077937466260567"
+  },
+  {
+   "id": "002-c",
+   "date": "2026-10-13",
+   "time": "21:00",
+   "type": "short",
+   "title": "Silicon Valley Bank had 31 open supervisory findings when it failed #Shorts",
+   "file": "002/002-svb-short-c.mp4",
+   "lane": "metricool",
+   "status": "planned",
+   "description": "",
+   "metricoolUuid": "1469044956930460231"
+  },
+  {
+   "id": "002-d",
+   "date": "2026-10-14",
+   "time": "21:00",
+   "type": "short",
+   "title": "Silicon Valley Bank put 55% of its assets into securities #Shorts",
+   "file": "002/002-svb-short-d.mp4",
+   "lane": "metricool",
+   "status": "planned",
+   "description": "",
+   "metricoolUuid": "1639461645498140226"
+  },
+  {
+   "id": "002-e",
+   "date": "2026-10-15",
+   "time": "21:00",
+   "type": "short",
+   "title": "Who paid for the Silicon Valley Bank collapse? #Shorts",
+   "file": "002/002-svb-short-e.mp4",
+   "lane": "metricool",
+   "status": "planned",
+   "description": "",
+   "metricoolUuid": "-1708951579365979279"
+  },
+  {
+   "id": "002-f",
+   "date": "2026-10-16",
+   "time": "21:00",
+   "type": "short",
+   "title": "Did social media cause the Silicon Valley Bank run? Two reviews disagree #Shorts",
+   "file": "002/002-svb-short-f.mp4",
+   "lane": "metricool",
+   "status": "planned",
+   "description": "",
+   "metricoolUuid": "-8498617703484276679"
+  }
+ ],
+ "history": [
+  {
+   "id": "001-ep",
+   "title": "Carillion: How Britain's Biggest Builder Ran Out of Money",
+   "url": "https://www.youtube.com/watch?v=EgM6A2U6Qag"
+  },
+  {
+   "id": "001-a",
+   "url": "https://www.youtube.com/watch?v=nAPJEMBh1Rk"
+  },
+  {
+   "id": "001-b",
+   "url": "https://www.youtube.com/shorts/l1QDHr0GoUY"
+  },
+  {
+   "id": "001-c",
+   "url": "https://www.youtube.com/shorts/MvUDWLKMasI"
+  },
+  {
+   "id": "001-d",
+   "url": "https://www.youtube.com/shorts/90ByqlGonLI"
+  }
+ ]
+}
