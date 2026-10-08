@@ -1,0 +1,1159 @@
+{
+ "slug": "002-svb",
+ "title": "Silicon Valley Bank: $40 Billion Gone in One Day",
+ "voice": "bm_george",
+ "speed": 0.95,
+ "summary": "Silicon Valley Bank collapse explained from regulator records.\nOn 9 March 2023, customers withdrew more than $40 billion from Silicon Valley Bank in a single day; the next day it was closed. Using the Federal Reserve's 2023 review, its inspector general, the FDIC and a new 2026 independent review, we trace what went wrong, who saw it coming, and who paid.",
+ "thumb": [
+  "$40BN GONE",
+  "IN ONE DAY",
+  "BANK RUN",
+  "SVB"
+ ],
+ "tags": [
+  "Silicon Valley Bank",
+  "SVB collapse",
+  "bank run",
+  "business documentary",
+  "Federal Reserve",
+  "FDIC",
+  "banking crisis 2023",
+  "what went wrong"
+ ],
+ "sources": [
+  "Federal Reserve Board, Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank (28 Apr 2023): https://www.federalreserve.gov/publications/files/svb-review-20230428.pdf",
+  "Federal Reserve Board, Executive Summary of the review (28 Apr 2023): https://www.federalreserve.gov/publications/2023-April-SVB-Executive-Summary.htm",
+  "Federal Reserve Board press release on the review's results (28 Apr 2023): https://www.federalreserve.gov/newsevents/pressreleases/bcreg20230428a.htm",
+  "Joint Statement by Treasury, Federal Reserve and FDIC (12 Mar 2023): https://www.federalreserve.gov/newsevents/pressreleases/monetary20230312b.htm",
+  "FDIC, First-Citizens Bank & Trust to assume all deposits and loans of Silicon Valley Bridge Bank (Mar 2023): https://www.fdic.gov/news/press-releases/2023/pr23023.html",
+  "FDIC, Final Rule on Special Assessment Pursuant to Systemic Risk Determination (Nov 2023): https://www.fdic.gov/news/press-releases/2023/pr23092.html",
+  "Federal Reserve OIG, Material Loss Review of Silicon Valley Bank, summary (25 Sep 2023): https://oig.federalreserve.gov/reports/board-material-loss-review-silicon-valley-bank-summary-sep2023.pdf",
+  "Speech by Fed Vice Chair for Supervision Michelle Bowman on initial findings from the independent review of SVB (18 Sep 2026): https://www.federalreserve.gov/newsevents/speech/bowman20260918b.htm",
+  "FDIC, Understanding Deposit Insurance: https://www.fdic.gov/resources/deposit-insurance/understanding-deposit-insurance"
+ ],
+ "scenes": [
+  {
+   "say": "On the ninth of March 2023, customers pulled more than 40 billion dollars out of Silicon Valley Bank. In a single day.",
+   "visual": {
+    "type": "title",
+    "kicker": "9 March 2023",
+    "text": "$40 billion withdrawn in one day",
+    "stamp": "BANK RUN",
+    "src": "Federal Reserve review, executive summary, Apr 2023"
+   },
+   "chapter": "The run"
+  },
+  {
+   "say": "The next morning, its managers expected more than 100 billion dollars to follow. Together, that was roughly 85 per cent of all its deposits.",
+   "visual": {
+    "type": "stat",
+    "value": ">$100bn",
+    "red": true,
+    "label": "Expected to leave the next day",
+    "sub": "With 9 March: roughly 85% of the deposit base",
+    "src": "Federal Reserve review, executive summary, Apr 2023"
+   }
+  },
+  {
+   "say": "On the tenth of March, California's financial regulator closed it. A banking group with about 212 billion dollars of assets had lost its bank, two days after announcing a plan to raise money.",
+   "visual": {
+    "type": "timeline",
+    "date": "10 Mar 2023",
+    "text": "California regulator closes Silicon Valley Bank",
+    "src": "Federal Reserve review, executive summary, Apr 2023"
+   }
+  },
+  {
+   "say": "This was not a small lender. It had tripled in size in two years. And about 94 per cent of its deposits were uninsured.",
+   "visual": {
+    "type": "stats",
+    "items": [
+     [
+      "$212bn",
+      "group assets at failure"
+     ],
+     [
+      "3x",
+      "growth, 2019 to 2021"
+     ],
+     [
+      "94%",
+      "of deposits uninsured"
+     ]
+    ],
+    "hi": 2,
+    "src": "Federal Reserve review, Apr 2023"
+   }
+  },
+  {
+   "say": "So how does a group that size run out of money in two days? And who saw it coming?",
+   "visual": {
+    "type": "title",
+    "text": "How does a $212bn bank group fail in two days?"
+   },
+   "pause": 0.8
+  },
+  {
+   "say": "The newest official review says supervisors knew, or should have known, about its weaknesses as early as March 2022. A full year before the run.",
+   "visual": {
+    "type": "document",
+    "header": "Independent review, Sep 2026",
+    "title": "Preliminary findings",
+    "lines": [
+     "!Staff knew, or should have known, about these vulnerabilities as early as March 2022",
+     "Staff did not take prompt and decisive action"
+    ],
+    "stamp": "MISSED",
+    "src": "Fed Vice Chair Bowman on independent review, Sep 2026"
+   }
+  },
+  {
+   "say": "This is the story of Silicon Valley Bank, told from the regulators' own records.",
+   "visual": {
+    "type": "title",
+    "kicker": "Filed Under Failure",
+    "text": "Silicon Valley Bank",
+    "sub": "Told from the regulators' own records"
+   },
+   "pause": 0.8
+  },
+  {
+   "say": "Silicon Valley Bank was founded in 1983, and was based in Santa Clara, California.",
+   "visual": {
+    "type": "chapter",
+    "n": 1,
+    "text": "The start-up bank"
+   },
+   "chapter": "The start-up bank"
+  },
+  {
+   "say": "At the end of its first year, it had about 18 million dollars of assets.",
+   "visual": {
+    "type": "stat",
+    "value": "$18m",
+    "label": "Assets at the end of 1983",
+    "src": "Federal Reserve review, Apr 2023"
+   }
+  },
+  {
+   "say": "It built its business around one kind of customer: technology and life-sciences companies, many of them young start-ups backed by venture capital.",
+   "visual": {
+    "type": "list",
+    "title": "Who banked with SVB",
+    "items": [
+     "Technology companies",
+     "Life-sciences firms",
+     "Venture-backed, early-stage start-ups"
+    ],
+    "src": "Federal Reserve review, Apr 2023"
+   }
+  },
+  {
+   "say": "That focus was its strength. But it also meant its customers had a great deal in common. The Federal Reserve later described the client base as heavily concentrated.",
+   "visual": {
+    "type": "quote",
+    "text": "heavily concentrated in venture capital-backed (VC-backed) and early-stage start-up firms",
+    "by": "Federal Reserve review, April 2023",
+    "src": "Federal Reserve review, Apr 2023"
+   }
+  },
+  {
+   "say": "Then the money poured in. Between 2019 and 2021, the group's assets grew from 71 billion dollars to 211 billion.",
+   "visual": {
+    "type": "line",
+    "title": "SVB Financial Group: total assets",
+    "points": [
+     [
+      "2019",
+      71,
+      "$71bn"
+     ],
+     [
+      "2021",
+      211,
+      "$211bn"
+     ]
+    ],
+    "src": "Federal Reserve review, Apr 2023"
+   }
+  },
+  {
+   "say": "From April 2020 to the end of 2021, its deposits grew at an annual rate of about 89 per cent.",
+   "visual": {
+    "type": "stat",
+    "value": "89%",
+    "label": "Annual deposit growth rate",
+    "sub": "April 2020 to December 2021",
+    "src": "Federal Reserve review, Apr 2023"
+   }
+  },
+  {
+   "say": "A bank cannot leave deposits sitting idle. It lends them out, or invests them, so that it earns more than it pays its customers.",
+   "visual": {
+    "type": "list",
+    "title": "What a bank does with deposits",
+    "items": [
+     "Lends them out",
+     "Invests them, often in bonds",
+     "Keeps some as cash for withdrawals"
+    ]
+   }
+  },
+  {
+   "say": "Silicon Valley Bank made an unusual choice about where to put its money.",
+   "visual": {
+    "type": "title",
+    "text": "Where did the money go?"
+   },
+   "pause": 0.7
+  },
+  {
+   "say": "By the end of 2022, securities made up 55 per cent of the group's total assets.",
+   "visual": {
+    "type": "chapter",
+    "n": 2,
+    "text": "The bet on bonds"
+   },
+   "chapter": "The bet on bonds"
+  },
+  {
+   "say": "At large banking organisations, the typical share was about 25 per cent. Silicon Valley Bank's was more than double.",
+   "visual": {
+    "type": "bars",
+    "title": "Securities as a share of total assets, end of 2022",
+    "items": [
+     [
+      "SVB Financial Group",
+      55,
+      "55%"
+     ],
+     [
+      "Large banking organisations",
+      25,
+      "25%"
+     ]
+    ],
+    "hi": 0,
+    "src": "Federal Reserve review, Apr 2023"
+   }
+  },
+  {
+   "say": "And 78 per cent of those securities were classed as held to maturity: long-dated bonds the bank intended to keep until they paid out.",
+   "visual": {
+    "type": "stat",
+    "value": "78%",
+    "label": "of its securities were held to maturity",
+    "src": "Federal Reserve review, Apr 2023"
+   }
+  },
+  {
+   "say": "Long-dated bonds have a weakness. When interest rates rise, new bonds pay more, so older bonds that pay less lose value.",
+   "visual": {
+    "type": "title",
+    "kicker": "How bonds lose value",
+    "text": "Rates go up. Old bond prices go down."
+   }
+  },
+  {
+   "say": "As interest rates rose in 2022, the Federal Reserve's review found the group saw a rapid increase in unrealized losses on its bond portfolios.",
+   "visual": {
+    "type": "quote",
+    "text": "SVBFG saw a rapid increase in unrealized losses on both its HTM and available-for-sale (AFS) portfolios",
+    "by": "Federal Reserve review, April 2023",
+    "src": "Federal Reserve review, Apr 2023"
+   }
+  },
+  {
+   "say": "An unrealized loss only becomes real if you have to sell. As long as depositors stayed, the bank could wait.",
+   "visual": {
+    "type": "title",
+    "text": "A paper loss. Until you have to sell."
+   }
+  },
+  {
+   "say": "There was also an accounting detail. The review notes that if unrealized losses on its available-for-sale bonds had been counted, the group's regulatory capital at the end of 2022 would have been 1.9 billion dollars lower.",
+   "visual": {
+    "type": "stat",
+    "value": "-$1.9bn",
+    "red": true,
+    "label": "Lower regulatory capital, end of 2022",
+    "sub": "If unrealized losses on available-for-sale bonds had been counted",
+    "src": "Federal Reserve review, Apr 2023"
+   }
+  },
+  {
+   "say": "But the bank also changed how it measured the danger. The review says it made counterintuitive modelling assumptions about how long deposits would stay. And it removed interest-rate hedges that would have protected it against rising rates.",
+   "visual": {
+    "type": "document",
+    "header": "Federal Reserve review, April 2023",
+    "title": "Risk management",
+    "lines": [
+     "!Counterintuitive modeling assumptions about the duration of deposits",
+     "!Removed interest rate hedges that would have protected against rising interest rates"
+    ],
+    "src": "Federal Reserve review, Apr 2023"
+   }
+  },
+  {
+   "say": "Meanwhile, the review found, senior managers' pay through 2022 was tied to short-term earnings and equity returns, and did not include risk metrics.",
+   "visual": {
+    "type": "quote",
+    "text": "Compensation packages of senior management through 2022 were tied to short-term earnings and equity returns and did not include risk metrics.",
+    "by": "Federal Reserve review, April 2023",
+    "src": "Federal Reserve review, Apr 2023"
+   }
+  },
+  {
+   "say": "The Fed's inspector general later summed up the pattern: management emphasised growth, and failed to put in place the controls needed to manage the risks.",
+   "visual": {
+    "type": "quote",
+    "text": "Its management emphasized growth and failed to implement the controls necessary to effectively mitigate the risks",
+    "by": "Federal Reserve Office of Inspector General, September 2023",
+    "src": "Federal Reserve OIG, Sep 2023"
+   }
+  },
+  {
+   "say": "The losses were real, even if they were unrealized. The preliminary findings of a later independent review say that they exceeded the bank's capital.",
+   "visual": {
+    "type": "quote",
+    "text": "real but unrealized accounting losses on its securities portfolio that exceeded its capital",
+    "by": "Independent review, as described by Fed Vice Chair Michelle Bowman, September 2026",
+    "src": "Fed Vice Chair Bowman on independent review, Sep 2026"
+   }
+  },
+  {
+   "say": "Silicon Valley Bank was supervised by the Federal Reserve, through the Federal Reserve Bank of San Francisco.",
+   "visual": {
+    "type": "chapter",
+    "n": 3,
+    "text": "The warnings"
+   },
+   "chapter": "The warnings"
+  },
+  {
+   "say": "In 2021, it was moved into the Fed's portfolio for large banking organisations. The San Francisco Fed's team watching it grew from about eight people to 20.",
+   "visual": {
+    "type": "stats",
+    "items": [
+     [
+      "2021",
+      "moved to the large-bank portfolio"
+     ],
+     [
+      "~8",
+      "supervisors before"
+     ],
+     [
+      "20",
+      "supervisors after"
+     ]
+    ],
+    "src": "Federal Reserve review, executive summary, Apr 2023"
+   }
+  },
+  {
+   "say": "But the inspector general found that the supervisory approach had not evolved with the bank's growth, and that the move to the large-bank portfolio was not handled effectively.",
+   "visual": {
+    "type": "quote",
+    "text": "the RBO supervisory approach for SVB did not evolve with SVB's growth and increased complexity.",
+    "by": "Federal Reserve Office of Inspector General, September 2023",
+    "src": "Federal Reserve OIG, Sep 2023"
+   }
+  },
+  {
+   "say": "Supervisors did find problems. When the bank failed, it had 31 open supervisory findings. That was about triple the number at peer firms.",
+   "visual": {
+    "type": "stat",
+    "value": "31",
+    "red": true,
+    "label": "Open supervisory findings at failure",
+    "sub": "About triple the number at peer firms",
+    "src": "Federal Reserve review, executive summary, Apr 2023"
+   }
+  },
+  {
+   "say": "Yet the inspector general found the Fed did not downgrade the bank's overall rating until August 2022.",
+   "visual": {
+    "type": "timeline",
+    "date": "Aug 2022",
+    "text": "SVB's supervisory ratings are downgraded",
+    "src": "Federal Reserve OIG, Sep 2023"
+   }
+  },
+  {
+   "say": "The Fed's own review, led by its Vice Chair for Supervision, Michael Barr, was blunt about the Fed itself.",
+   "visual": {
+    "type": "quote",
+    "text": "Supervisors did not fully appreciate the extent of the vulnerabilities as Silicon Valley Bank grew in size and complexity.",
+    "by": "Federal Reserve review, April 2023",
+    "src": "Federal Reserve review, executive summary, Apr 2023"
+   }
+  },
+  {
+   "say": "And when supervisors did find problems, the review said, they did not take sufficient steps to make sure the bank fixed them quickly enough.",
+   "visual": {
+    "type": "quote",
+    "text": "did not take sufficient steps to ensure that Silicon Valley Bank fixed those problems quickly enough.",
+    "by": "Federal Reserve review, April 2023",
+    "src": "Federal Reserve review, executive summary, Apr 2023"
+   }
+  },
+  {
+   "say": "By early 2023, the bank had large losses on its bonds, a concentrated customer base, and almost all of its deposits uninsured. It only needed a spark.",
+   "visual": {
+    "type": "title",
+    "text": "All it needed was a spark"
+   },
+   "pause": 0.8
+  },
+  {
+   "say": "On the eighth of March 2023, the group announced a plan to shore up its finances.",
+   "visual": {
+    "type": "chapter",
+    "n": 4,
+    "text": "Forty-eight hours"
+   },
+   "chapter": "Forty-eight hours"
+  },
+  {
+   "say": "It had sold 21 billion dollars of securities, booking a 1.8 billion dollar loss after tax. It planned to increase its borrowing by 15 to 30 billion dollars, and to raise 2.25 billion dollars of new capital.",
+   "visual": {
+    "type": "list",
+    "title": "The 8 March announcement",
+    "items": [
+     "Sold $21bn of available-for-sale securities",
+     "A $1.8bn after-tax loss",
+     "Planned: $15bn to $30bn more borrowing",
+     "Planned: a $2.25bn capital raise"
+    ],
+    "src": "Federal Reserve review, executive summary, Apr 2023"
+   }
+  },
+  {
+   "say": "The inspector general later found that management's ineffective public communications about that plan contributed to the deposit outflows.",
+   "visual": {
+    "type": "quote",
+    "text": "management's ineffective public communications of its plan to raise additional capital",
+    "by": "Federal Reserve Office of Inspector General, September 2023",
+    "src": "Federal Reserve OIG, Sep 2023"
+   }
+  },
+  {
+   "say": "Government deposit insurance covers 250,000 dollars per depositor, per bank, for each ownership category. Above that, there is no guarantee.",
+   "visual": {
+    "type": "stat",
+    "value": "$250,000",
+    "label": "FDIC deposit insurance limit",
+    "sub": "Per depositor, per bank, per ownership category",
+    "src": "FDIC"
+   }
+  },
+  {
+   "say": "At Silicon Valley Bank, most deposits sat above that line. The Fed's 2023 review described depositors who, fuelled by social media, withdrew uninsured deposits in a coordinated manner.",
+   "visual": {
+    "type": "quote",
+    "text": "fueled by social media, withdrew uninsured deposits in a coordinated manner",
+    "by": "Federal Reserve review, April 2023",
+    "src": "Federal Reserve review, executive summary, Apr 2023"
+   }
+  },
+  {
+   "say": "On the ninth of March, more than 40 billion dollars left the bank.",
+   "visual": {
+    "type": "stat",
+    "value": "$40bn+",
+    "red": true,
+    "label": "Withdrawn on 9 March 2023",
+    "src": "Federal Reserve review, executive summary, Apr 2023"
+   },
+   "pause": 0.8
+  },
+  {
+   "say": "For comparison, the review noted that in 2008, Wachovia lost about 10 billion dollars over eight days, and Washington Mutual 19 billion over 16 days.",
+   "visual": {
+    "type": "bars",
+    "title": "Deposit outflows in bank runs",
+    "items": [
+     [
+      "Wachovia, 2008 (8 days)",
+      10,
+      "~$10bn"
+     ],
+     [
+      "Washington Mutual, 2008 (16 days)",
+      19,
+      "$19bn"
+     ],
+     [
+      "Silicon Valley Bank, 2023 (1 day)",
+      40,
+      "$40bn+"
+     ]
+    ],
+    "hi": 2,
+    "src": "Federal Reserve review, executive summary, Apr 2023"
+   }
+  },
+  {
+   "say": "And for the next day, management expected more than 100 billion dollars of further withdrawals.",
+   "visual": {
+    "type": "stat",
+    "value": ">$100bn",
+    "red": true,
+    "label": "Further withdrawals expected on 10 March",
+    "src": "Federal Reserve review, executive summary, Apr 2023"
+   }
+  },
+  {
+   "say": "On the tenth of March, California's Department of Financial Protection and Innovation closed Silicon Valley Bank.",
+   "visual": {
+    "type": "document",
+    "header": "California DFPI, 10 March 2023",
+    "title": "Silicon Valley Bank",
+    "lines": [
+     "Bank closed by the state regulator",
+     "Group total assets: about $212bn"
+    ],
+    "stamp": "CLOSED",
+    "src": "Federal Reserve review, executive summary, Apr 2023"
+   }
+  },
+  {
+   "say": "Two days later, on the twelfth of March, state regulators also closed Signature Bank.",
+   "visual": {
+    "type": "timeline",
+    "date": "12 Mar 2023",
+    "text": "Signature Bank is closed too",
+    "src": "Treasury, Fed and FDIC joint statement, 12 Mar 2023"
+   }
+  },
+  {
+   "say": "That Sunday evening, the Treasury, the Federal Reserve and the FDIC issued a joint statement.",
+   "visual": {
+    "type": "chapter",
+    "n": 5,
+    "text": "Who paid"
+   },
+   "chapter": "Who paid"
+  },
+  {
+   "say": "Depositors, it said, would have access to all of their money starting Monday, the thirteenth of March. That included deposits above the insurance limit.",
+   "visual": {
+    "type": "quote",
+    "text": "all of their money starting Monday, March 13.",
+    "by": "Joint statement by Treasury, Federal Reserve and FDIC, 12 March 2023",
+    "src": "Treasury, Fed and FDIC joint statement, 12 Mar 2023"
+   }
+  },
+  {
+   "say": "And, the agencies said, no losses associated with the resolution of Silicon Valley Bank would be borne by the taxpayer.",
+   "visual": {
+    "type": "quote",
+    "text": "No losses associated with the resolution of Silicon Valley Bank will be borne by the taxpayer.",
+    "by": "Joint statement, 12 March 2023",
+    "src": "Treasury, Fed and FDIC joint statement, 12 Mar 2023"
+   }
+  },
+  {
+   "say": "So who did lose? Shareholders and certain unsecured debtholders were not protected. Senior management was removed.",
+   "visual": {
+    "type": "list",
+    "title": "Not protected",
+    "items": [
+     "Shareholders",
+     "Certain unsecured debtholders",
+     "Senior management: removed"
+    ],
+    "src": "Treasury, Fed and FDIC joint statement, 12 Mar 2023"
+   }
+  },
+  {
+   "say": "On the seventeenth of March, the parent company, SVB Financial Group, filed for bankruptcy.",
+   "visual": {
+    "type": "timeline",
+    "date": "17 Mar 2023",
+    "text": "SVB Financial Group files for bankruptcy",
+    "src": "Federal Reserve review, Apr 2023"
+   }
+  },
+  {
+   "say": "Over that weekend and the days after, the FDIC ran the business as a temporary bridge bank. As of the tenth of March, it had about 167 billion dollars of assets and about 119 billion dollars of deposits.",
+   "visual": {
+    "type": "stats",
+    "items": [
+     [
+      "$167bn",
+      "bridge bank assets"
+     ],
+     [
+      "$119bn",
+      "bridge bank deposits"
+     ]
+    ],
+    "src": "FDIC press release, Mar 2023"
+   }
+  },
+  {
+   "say": "A buyer emerged. First Citizens bought about 72 billion dollars of the failed bank's assets, at a discount of 16.5 billion dollars. About 90 billion dollars of securities and other assets stayed with the FDIC.",
+   "visual": {
+    "type": "stats",
+    "items": [
+     [
+      "$72bn",
+      "assets bought by First Citizens"
+     ],
+     [
+      "$16.5bn",
+      "discount"
+     ],
+     [
+      "~$90bn",
+      "left with the FDIC"
+     ]
+    ],
+    "src": "FDIC press release, Mar 2023"
+   }
+  },
+  {
+   "say": "The 17 former branches reopened under the First Citizens name on the twenty-seventh of March. The FDIC estimated the cost to its Deposit Insurance Fund at about 20 billion dollars.",
+   "visual": {
+    "type": "stat",
+    "value": "~$20bn",
+    "label": "Estimated cost to the Deposit Insurance Fund",
+    "sub": "FDIC estimate, March 2023; final figure set when the receivership ends",
+    "src": "FDIC press release, Mar 2023"
+   }
+  },
+  {
+   "say": "Of the cost of the SVB and Signature failures, about 16.3 billion dollars came from protecting uninsured depositors. The FDIC decided that banks would pay it back, through a special assessment.",
+   "visual": {
+    "type": "document",
+    "header": "FDIC final rule, November 2023",
+    "title": "Special assessment",
+    "lines": [
+     "!About $16.3bn of losses from protecting uninsured depositors (SVB and Signature)",
+     "13.4 basis points a year",
+     "About 114 banking organisations pay"
+    ],
+    "src": "FDIC special assessment final rule, Nov 2023"
+   }
+  },
+  {
+   "say": "Banking organisations with less than 5 billion dollars of assets would pay nothing. So the bill for protecting uninsured depositors went to the larger banks.",
+   "visual": {
+    "type": "stat",
+    "value": "114",
+    "label": "Banking organisations expected to pay",
+    "sub": "None with total assets under $5bn",
+    "src": "FDIC special assessment final rule, Nov 2023"
+   },
+   "pause": 0.8
+  },
+  {
+   "say": "In April 2023, the Federal Reserve published its own review, along with more than two dozen documents of confidential supervisory information.",
+   "visual": {
+    "type": "chapter",
+    "n": 6,
+    "text": "Two verdicts"
+   },
+   "chapter": "Two verdicts"
+  },
+  {
+   "say": "It named four causes. The board and management failed to manage their risks. Supervisors did not fully appreciate the vulnerabilities. They did not act quickly enough. And the Board's tailoring rules, together with a shift in supervisory policy, had reduced standards and promoted a less assertive approach.",
+   "visual": {
+    "type": "list",
+    "title": "The Fed's four takeaways, 2023",
+    "items": [
+     "Board and management failed to manage risks",
+     "Supervisors did not fully appreciate the vulnerabilities",
+     "Problems were not fixed quickly enough",
+     "Tailoring rules and a policy shift: lower standards"
+    ],
+    "src": "Federal Reserve review, executive summary, Apr 2023"
+   }
+  },
+  {
+   "say": "Michael Barr wrote that the Fed must strengthen its supervision and regulation based on what it had learned.",
+   "visual": {
+    "type": "quote",
+    "text": "we must strengthen the Federal Reserve's supervision and regulation based on what we have learned.",
+    "by": "Michael Barr, Federal Reserve Vice Chair for Supervision, 28 April 2023",
+    "src": "Federal Reserve press release, 28 Apr 2023"
+   }
+  },
+  {
+   "say": "In September 2026, a second account arrived. Fed Vice Chair for Supervision Michelle Bowman described the first, preliminary findings of an independent review by the Starling Advisory Group.",
+   "visual": {
+    "type": "title",
+    "kicker": "September 2026",
+    "text": "A second review",
+    "sub": "Preliminary findings by the Starling Advisory Group",
+    "src": "Fed Vice Chair Bowman on independent review, Sep 2026"
+   }
+  },
+  {
+   "say": "It found that staff knew, or should have known, about the bank's vulnerabilities as early as March 2022, and did not take prompt and decisive action to get the bank to reduce its interest-rate risk.",
+   "visual": {
+    "type": "timeline",
+    "date": "Mar 2022",
+    "text": "When staff knew, or should have known",
+    "src": "Fed Vice Chair Bowman on independent review, Sep 2026"
+   }
+  },
+  {
+   "say": "But on two points, it pointed in a different direction. It found the delays were not caused by the regulatory tailoring rules, or by any directive from the Fed's former Vice Chair for Supervision.",
+   "visual": {
+    "type": "list",
+    "title": "What the 2026 review says did not cause the delays",
+    "items": [
+     "The regulatory tailoring mandate",
+     "Any directive from the former Vice Chair for Supervision"
+    ],
+    "src": "Fed Vice Chair Bowman on independent review, Sep 2026"
+   }
+  },
+  {
+   "say": "Instead, it pointed to culture. Staff, it found, believed it was personally safer to take no action unless they were certain the action was exactly right.",
+   "visual": {
+    "type": "quote",
+    "text": "it was personally safer to take no action unless they were certain the action was exactly right.",
+    "by": "Independent review, as described by Michelle Bowman, September 2026",
+    "src": "Fed Vice Chair Bowman on independent review, Sep 2026"
+   }
+  },
+  {
+   "say": "And on social media, it reached a different conclusion. An analysis for the review found that 96 per cent of the relevant online chatter appeared after the bank's failure was already inevitable.",
+   "visual": {
+    "type": "stat",
+    "value": "96%",
+    "red": true,
+    "label": "of relevant chatter came after failure was inevitable",
+    "sub": "Charles River Associates analysis for the independent review",
+    "src": "Fed Vice Chair Bowman on independent review, Sep 2026"
+   }
+  },
+  {
+   "say": "So the 2023 review said social media fuelled the run. The 2026 findings say social media did not trigger it, and found no evidence it accelerated it. One is the Fed's own review. The other is the preliminary findings of an independent review. They do not agree.",
+   "visual": {
+    "type": "title",
+    "text": "Two reviews. Two answers.",
+    "sub": "2023: fuelled by social media. 2026: did not trigger it; no evidence it accelerated it."
+   },
+   "pause": 0.9
+  },
+  {
+   "say": "Bowman said the Fed had already issued a statement of supervisory operating principles, without waiting for the review. She also announced monthly escalation reports from examination teams to the heads of supervision and their Reserve Banks.",
+   "visual": {
+    "type": "list",
+    "title": "The Fed's 2026 changes",
+    "items": [
+     "Supervisory Operating Principles (issued before the review)",
+     "Wider supervisory options, including observations",
+     "New: monthly escalation reports from examination teams"
+    ],
+    "src": "Fed Vice Chair Bowman on independent review, Sep 2026"
+   }
+  },
+  {
+   "say": "So what does the record actually show?",
+   "visual": {
+    "type": "chapter",
+    "n": 7,
+    "text": "What the paperwork shows"
+   },
+   "chapter": "What the paperwork shows"
+  },
+  {
+   "say": "Set the arguments aside, and the documents agree on the basics. A bank that grew very fast. Deposits concentrated in one industry, almost all of them uninsured. A large bet on long-dated bonds, with the hedges removed. And warnings that were not acted on quickly enough.",
+   "visual": {
+    "type": "list",
+    "title": "Where the records agree",
+    "items": [
+     "Very fast growth",
+     "Concentrated, mostly uninsured deposits",
+     "A large bet on long-dated bonds",
+     "Warnings not acted on quickly enough"
+    ]
+   }
+  },
+  {
+   "say": "Our reading is that the run was the last step, not the cause. The losses that made the bank fragile were, the latest review says, visible to supervisors a year earlier.",
+   "visual": {
+    "type": "title",
+    "kicker": "Our analysis",
+    "text": "The run was the last step, not the cause."
+   }
+  },
+  {
+   "say": "Three lessons stand out. For businesses: know how much of your cash is actually insured. For banks: depositors who think alike can leave together. For supervisors: finding a problem is not the same as fixing it.",
+   "visual": {
+    "type": "list",
+    "title": "Three lessons",
+    "items": [
+     "Businesses: know how much of your cash is insured",
+     "Banks: depositors who think alike can leave together",
+     "Supervisors: finding a problem is not fixing it"
+    ]
+   }
+  },
+  {
+   "say": "Silicon Valley Bank took 40 years to build. It took two days to fall. And the warning signs, the records show, were on file long before the run began.",
+   "visual": {
+    "type": "title",
+    "text": "40 years to build. Two days to fall."
+   },
+   "pause": 1.0
+  },
+  {
+   "say": "Next on Filed Under Failure: another collapse, from the public record. Subscribe so you don't miss it. Every source for this episode is listed in the description.",
+   "visual": {
+    "type": "title",
+    "kicker": "Filed Under Failure",
+    "text": "Subscribe for the next case file",
+    "sub": "Every source is listed in the description"
+   },
+   "pause": 1.5
+  }
+ ],
+ "shorts": [
+  {
+   "id": "a",
+   "hook": "$40bn in one day",
+   "title": "Customers pulled $40 billion from Silicon Valley Bank in one day #Shorts",
+   "blurb": "The size of the 2023 run on Silicon Valley Bank, from the Federal Reserve's review.",
+   "scenes": [
+    {
+     "say": "More than 40 billion dollars left Silicon Valley Bank on a single day: the ninth of March 2023.",
+     "visual": {
+      "type": "stat",
+      "value": "$40bn+",
+      "red": true,
+      "label": "Withdrawn on 9 March 2023",
+      "src": "Federal Reserve review, executive summary, Apr 2023"
+     },
+     "caption": "$40bn+ withdrawn on 9 March 2023"
+    },
+    {
+     "say": "For the next day, its managers expected more than 100 billion dollars of further withdrawals. Together, roughly 85 per cent of all its deposits.",
+     "visual": {
+      "type": "stat",
+      "value": ">$100bn",
+      "red": true,
+      "label": "Expected the next day",
+      "src": "Federal Reserve review, executive summary, Apr 2023"
+     },
+     "caption": ">$100bn more expected the next day"
+    },
+    {
+     "say": "For comparison, the Federal Reserve noted that in 2008, Wachovia lost about 10 billion dollars over eight days, and Washington Mutual 19 billion over 16 days.",
+     "visual": {
+      "type": "bars",
+      "title": "Bank run outflows",
+      "items": [
+       [
+        "Wachovia (8 days)",
+        10,
+        "~$10bn"
+       ],
+       [
+        "WaMu (16 days)",
+        19,
+        "$19bn"
+       ],
+       [
+        "SVB (1 day)",
+        40,
+        "$40bn+"
+       ]
+      ],
+      "hi": 2,
+      "src": "Federal Reserve review, executive summary, Apr 2023"
+     },
+     "caption": "Wachovia: $10bn in 8 days. WaMu: $19bn in 16."
+    },
+    {
+     "say": "On the tenth of March, California's regulator closed the bank. The full story is on our channel.",
+     "visual": {
+      "type": "document",
+      "header": "California DFPI, 10 March 2023",
+      "title": "Silicon Valley Bank",
+      "lines": [
+       "Bank closed by the state regulator"
+      ],
+      "stamp": "CLOSED",
+      "src": "Federal Reserve review, executive summary, Apr 2023"
+     }
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "hook": "94% uninsured",
+   "title": "94% of Silicon Valley Bank's deposits were uninsured #Shorts",
+   "blurb": "Why Silicon Valley Bank's depositors had so much reason to run, from the Federal Reserve's review.",
+   "scenes": [
+    {
+     "say": "About 94 per cent of Silicon Valley Bank's deposits were uninsured at the end of 2022, the Federal Reserve found.",
+     "visual": {
+      "type": "stat",
+      "value": "94%",
+      "red": true,
+      "label": "of deposits uninsured, end of 2022",
+      "src": "Federal Reserve review, Apr 2023"
+     },
+     "caption": "94% of deposits uninsured"
+    },
+    {
+     "say": "Government insurance covers 250,000 dollars per depositor, per bank, for each ownership category. Above that, there is no guarantee.",
+     "visual": {
+      "type": "stat",
+      "value": "$250,000",
+      "label": "FDIC insurance limit",
+      "sub": "Per depositor, per bank, per ownership category",
+      "src": "FDIC"
+     },
+     "caption": "Insured up to $250,000"
+    },
+    {
+     "say": "And its clients were heavily concentrated in venture-backed technology and life-sciences start-ups.",
+     "visual": {
+      "type": "list",
+      "title": "Who banked with SVB",
+      "items": [
+       "Technology companies",
+       "Life-sciences firms",
+       "Venture-backed start-ups"
+      ],
+      "src": "Federal Reserve review, Apr 2023"
+     },
+     "caption": "Clients concentrated in VC-backed start-ups"
+    },
+    {
+     "say": "When those depositors moved, more than 40 billion dollars left in a single day, and the bank was closed the next day. The full story is on our channel.",
+     "visual": {
+      "type": "stat",
+      "value": "$40bn+",
+      "red": true,
+      "label": "Withdrawn on 9 March 2023",
+      "src": "Federal Reserve review, executive summary, Apr 2023"
+     },
+     "caption": "$40bn+ gone in one day"
+    }
+   ]
+  },
+  {
+   "id": "c",
+   "hook": "31 open warnings",
+   "title": "Silicon Valley Bank had 31 open supervisory findings when it failed #Shorts",
+   "blurb": "What the Federal Reserve's supervisors found at Silicon Valley Bank, and what happened next.",
+   "scenes": [
+    {
+     "say": "When Silicon Valley Bank failed, it had 31 open supervisory findings. That was about triple the number at peer firms.",
+     "visual": {
+      "type": "stat",
+      "value": "31",
+      "red": true,
+      "label": "Open supervisory findings at failure",
+      "sub": "About triple the number at peer firms",
+      "src": "Federal Reserve review, executive summary, Apr 2023"
+     },
+     "caption": "31 open findings: triple its peers"
+    },
+    {
+     "say": "Yet the Fed's inspector general found its overall rating was not downgraded until August 2022.",
+     "visual": {
+      "type": "timeline",
+      "date": "Aug 2022",
+      "text": "SVB's composite rating downgraded",
+      "src": "Federal Reserve OIG, Sep 2023"
+     },
+     "caption": "Not downgraded until August 2022"
+    },
+    {
+     "say": "The Fed's own review said supervisors did not take sufficient steps to make sure the bank fixed its problems quickly enough.",
+     "visual": {
+      "type": "quote",
+      "text": "did not take sufficient steps to ensure that Silicon Valley Bank fixed those problems quickly enough.",
+      "by": "Federal Reserve review, April 2023",
+      "src": "Federal Reserve review, executive summary, Apr 2023"
+     },
+     "caption": "Problems not fixed quickly enough"
+    },
+    {
+     "say": "And the preliminary findings of a 2026 independent review say staff knew, or should have known, of its weaknesses as early as March 2022. The full story is on our channel.",
+     "visual": {
+      "type": "timeline",
+      "date": "Mar 2022",
+      "text": "When staff knew, or should have known",
+      "src": "Fed Vice Chair Bowman on independent review, Sep 2026"
+     },
+     "caption": "Known as early as March 2022"
+    }
+   ]
+  },
+  {
+   "id": "d",
+   "hook": "The bond bet",
+   "title": "Silicon Valley Bank put 55% of its assets into securities #Shorts",
+   "blurb": "How Silicon Valley Bank's bet on long-dated bonds left it exposed when rates rose.",
+   "scenes": [
+    {
+     "say": "By the end of 2022, securities made up 55 per cent of Silicon Valley Bank's group assets. At large banking organisations, the share was about 25.",
+     "visual": {
+      "type": "bars",
+      "title": "Securities as share of assets",
+      "items": [
+       [
+        "SVB",
+        55,
+        "55%"
+       ],
+       [
+        "Large banks",
+        25,
+        "25%"
+       ]
+      ],
+      "hi": 0,
+      "src": "Federal Reserve review, Apr 2023"
+     },
+     "caption": "55% in securities vs 25% at large banks"
+    },
+    {
+     "say": "Most were long-dated bonds: 78 per cent of its securities were held to maturity, meant to be kept until they paid out.",
+     "visual": {
+      "type": "stat",
+      "value": "78%",
+      "label": "of securities held to maturity",
+      "src": "Federal Reserve review, Apr 2023"
+     }
+    },
+    {
+     "say": "When interest rates rise, older bonds lose value. And the bank had removed interest-rate hedges that would have protected it against rising rates.",
+     "visual": {
+      "type": "document",
+      "header": "Federal Reserve review, April 2023",
+      "title": "Risk management",
+      "lines": [
+       "!Removed interest rate hedges that would have protected against rising interest rates"
+      ],
+      "src": "Federal Reserve review, Apr 2023"
+     },
+     "caption": "Hedges against rising rates: removed"
+    },
+    {
+     "say": "A later independent review found its unrealized losses exceeded its capital. The full story is on our channel.",
+     "visual": {
+      "type": "quote",
+      "text": "real but unrealized accounting losses on its securities portfolio that exceeded its capital",
+      "by": "Independent review, as described by Michelle Bowman, Sep 2026",
+      "src": "Fed Vice Chair Bowman on independent review, Sep 2026"
+     },
+     "caption": "Losses bigger than its capital"
+    }
+   ]
+  },
+  {
+   "id": "e",
+   "hook": "Who paid for SVB?",
+   "title": "Who paid for the Silicon Valley Bank collapse? #Shorts",
+   "blurb": "Who paid for protecting Silicon Valley Bank's uninsured depositors, from FDIC and government records.",
+   "scenes": [
+    {
+     "say": "Protecting uninsured depositors at Silicon Valley Bank and Signature Bank cost about 16.3 billion dollars, according to the FDIC.",
+     "visual": {
+      "type": "stat",
+      "value": "$16.3bn",
+      "red": true,
+      "label": "Cost of protecting uninsured depositors",
+      "sub": "SVB and Signature Bank",
+      "src": "FDIC special assessment final rule, Nov 2023"
+     },
+     "caption": "$16.3bn to protect uninsured depositors"
+    },
+    {
+     "say": "The government gave depositors access to all of their money from the thirteenth of March, and said no losses from the resolution would be borne by the taxpayer.",
+     "visual": {
+      "type": "quote",
+      "text": "No losses associated with the resolution of Silicon Valley Bank will be borne by the taxpayer.",
+      "by": "Joint statement, 12 March 2023",
+      "src": "Treasury, Fed and FDIC joint statement, 12 Mar 2023"
+     },
+     "caption": "No losses for the taxpayer, agencies said"
+    },
+    {
+     "say": "Instead, the FDIC charged a special assessment. About 114 banking organisations pay it. Those with less than 5 billion dollars of assets pay nothing.",
+     "visual": {
+      "type": "stat",
+      "value": "114",
+      "label": "Banking organisations expected to pay",
+      "sub": "None with assets under $5bn",
+      "src": "FDIC special assessment final rule, Nov 2023"
+     },
+     "caption": "114 banks pay. None under $5bn."
+    },
+    {
+     "say": "Shareholders and certain unsecured debtholders were not protected. The full story is on our channel.",
+     "visual": {
+      "type": "list",
+      "title": "Not protected",
+      "items": [
+       "Shareholders",
+       "Certain unsecured debtholders"
+      ],
+      "src": "Treasury, Fed and FDIC joint statement, 12 Mar 2023"
+     }
+    }
+   ]
+  },
+  {
+   "id": "f",
+   "hook": "Was it social media?",
+   "title": "Did social media cause the Silicon Valley Bank run? Two reviews disagree #Shorts",
+   "blurb": "The 2023 and 2026 official reviews of Silicon Valley Bank reach opposite conclusions on social media.",
+   "scenes": [
+    {
+     "say": "In 2023, the Federal Reserve's own review said that depositors, fuelled by social media, withdrew uninsured deposits in a coordinated manner.",
+     "visual": {
+      "type": "quote",
+      "text": "fueled by social media, withdrew uninsured deposits in a coordinated manner",
+      "by": "Federal Reserve review, April 2023",
+      "src": "Federal Reserve review, executive summary, Apr 2023"
+     },
+     "caption": "2023: run fuelled by social media"
+    },
+    {
+     "say": "In 2026, the preliminary findings of an independent review said social media did not trigger the run, and found no evidence it accelerated it.",
+     "visual": {
+      "type": "title",
+      "kicker": "September 2026",
+      "text": "Social media did not trigger the run",
+      "src": "Fed Vice Chair Bowman on independent review, Sep 2026"
+     },
+     "caption": "2026: social media didn't trigger it"
+    },
+    {
+     "say": "An analysis for that review found 96 per cent of the relevant chatter appeared after the failure was already inevitable.",
+     "visual": {
+      "type": "stat",
+      "value": "96%",
+      "red": true,
+      "label": "of chatter came after failure was inevitable",
+      "src": "Fed Vice Chair Bowman on independent review, Sep 2026"
+     },
+     "caption": "96% of chatter came after"
+    },
+    {
+     "say": "That review blamed supervisory delays on a culture where staff felt it was personally safer to take no action. The full story is on our channel.",
+     "visual": {
+      "type": "quote",
+      "text": "it was personally safer to take no action unless they were certain the action was exactly right.",
+      "by": "Independent review, as described by Michelle Bowman, Sep 2026",
+      "src": "Fed Vice Chair Bowman on independent review, Sep 2026"
+     },
+     "caption": "Staff felt safer taking no action"
+    }
+   ]
+  }
+ ]
+}
