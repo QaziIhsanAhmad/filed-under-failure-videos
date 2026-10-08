@@ -45,7 +45,7 @@
    "file": "002/002-svb-short-g.mp4",
    "lane": "make",
    "status": "planned",
-   "description": "Silicon Valley Bank took 40 years to build and two days to fall #Shorts\n\nThe 48 hours that ended Silicon Valley Bank, from the Federal Reserve's review.\n\nFull episode: \"Silicon Valley Bank: $40 Billion Gone in One Day\" on Filed Under Failure.\nSources: Federal Reserve Board, Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank (28 Apr 2023); Federal Reserve Board, Executive Summary of the review (28 Apr 2023); Federal Reserve Board press release on the review's results (28 Apr 2023) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #SiliconValleyBank #SVBcollapse #bankrun",
+   "description": "Silicon Valley Bank took 40 years to build and two days to fall #Shorts\n\nThe 48 hours that ended Silicon Valley Bank, from the Federal Reserve's review.\n\nFull episode: \"Silicon Valley Bank: $40 Billion Gone in One Day\" on Filed Under Failure: https://youtu.be/5fPvAEfxo6w\nSources: Federal Reserve Board, Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank (28 Apr 2023); Federal Reserve Board, Executive Summary of the review (28 Apr 2023); Federal Reserve Board press release on the review's results (28 Apr 2023) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #SiliconValleyBank #SVBcollapse #bankrun",
    "metricoolUuid": "2498934116919888509",
    "altered": {
     "disclose": false,
@@ -61,7 +61,7 @@
    "title": "Silicon Valley Bank: $40 Billion Gone in One Day",
    "file": "002/002-svb-upload-v2.mp4",
    "lane": "native",
-   "status": "scheduled",
+   "status": "published",
    "description": "",
    "metricoolUuid": "3268318533952685639",
    "altered": {
@@ -71,8 +71,8 @@
    "laneNote": "Metricool limit reached; 70 MB is over Make free 5 MB -> upload in YouTube Studio (yt/native kit)",
    "videoId": "5fPvAEfxo6w",
    "url": "https://youtu.be/5fPvAEfxo6w",
-   "publishAt": "2026-10-10T16:00:00Z",
-   "note": "uploaded by Qazi 8 Oct; metadata, thumbnail, schedule set via Make YouTube API; captions pending"
+   "note": "Published early at owner request; captions + custom thumbnail verified via API",
+   "published_at": "2026-10-08T14:07:00Z"
   },
   {
    "id": "002-a",
@@ -83,7 +83,7 @@
    "file": "002/002-svb-short-a-make.mp4",
    "lane": "make",
    "status": "planned",
-   "description": "Customers pulled $40 billion from Silicon Valley Bank in one day #Shorts\n\nThe size of the 2023 run on Silicon Valley Bank, from the Federal Reserve's review.\n\nFull episode: \"Silicon Valley Bank: $40 Billion Gone in One Day\" on Filed Under Failure.\nSources: Federal Reserve Board, Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank (28 Apr 2023); Federal Reserve Board, Executive Summary of the review (28 Apr 2023); Federal Reserve Board press release on the review's results (28 Apr 2023) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #SiliconValleyBank #SVBcollapse #bankrun",
+   "description": "Customers pulled $40 billion from Silicon Valley Bank in one day #Shorts\n\nThe size of the 2023 run on Silicon Valley Bank, from the Federal Reserve's review.\n\nFull episode: \"Silicon Valley Bank: $40 Billion Gone in One Day\" on Filed Under Failure: https://youtu.be/5fPvAEfxo6w\nSources: Federal Reserve Board, Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank (28 Apr 2023); Federal Reserve Board, Executive Summary of the review (28 Apr 2023); Federal Reserve Board press release on the review's results (28 Apr 2023) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #SiliconValleyBank #SVBcollapse #bankrun",
    "metricoolUuid": "6470601755274134589",
    "altered": {
     "disclose": false,
@@ -101,7 +101,7 @@
    "file": "002/002-svb-short-b.mp4",
    "lane": "make",
    "status": "planned",
-   "description": "94% of Silicon Valley Bank's deposits were uninsured #Shorts\n\nWhy Silicon Valley Bank's depositors had so much reason to run, from the Federal Reserve's review.\n\nFull episode: \"Silicon Valley Bank: $40 Billion Gone in One Day\" on Filed Under Failure.\nSources: Federal Reserve Board, Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank (28 Apr 2023); Federal Reserve Board, Executive Summary of the review (28 Apr 2023); Federal Reserve Board press release on the review's results (28 Apr 2023) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #SiliconValleyBank #SVBcollapse #bankrun",
+   "description": "94% of Silicon Valley Bank's deposits were uninsured #Shorts\n\nWhy Silicon Valley Bank's depositors had so much reason to run, from the Federal Reserve's review.\n\nFull episode: \"Silicon Valley Bank: $40 Billion Gone in One Day\" on Filed Under Failure: https://youtu.be/5fPvAEfxo6w\nSources: Federal Reserve Board, Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank (28 Apr 2023); Federal Reserve Board, Executive Summary of the review (28 Apr 2023); Federal Reserve Board press release on the review's results (28 Apr 2023) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #SiliconValleyBank #SVBcollapse #bankrun",
    "metricoolUuid": "-8354077937466260567",
    "altered": {
     "disclose": false,
@@ -118,7 +118,7 @@
    "file": "002/002-svb-short-c-make.mp4",
    "lane": "make",
    "status": "planned",
-   "description": "Silicon Valley Bank had 31 open supervisory findings when it failed #Shorts\n\nWhat the Federal Reserve's supervisors found at Silicon Valley Bank, and what happened next.\n\nFull episode: \"Silicon Valley Bank: $40 Billion Gone in One Day\" on Filed Under Failure.\nSources: Federal Reserve Board, Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank (28 Apr 2023); Federal Reserve Board, Executive Summary of the review (28 Apr 2023); Federal Reserve Board press release on the review's results (28 Apr 2023) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #SiliconValleyBank #SVBcollapse #bankrun",
+   "description": "Silicon Valley Bank had 31 open supervisory findings when it failed #Shorts\n\nWhat the Federal Reserve's supervisors found at Silicon Valley Bank, and what happened next.\n\nFull episode: \"Silicon Valley Bank: $40 Billion Gone in One Day\" on Filed Under Failure: https://youtu.be/5fPvAEfxo6w\nSources: Federal Reserve Board, Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank (28 Apr 2023); Federal Reserve Board, Executive Summary of the review (28 Apr 2023); Federal Reserve Board press release on the review's results (28 Apr 2023) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #SiliconValleyBank #SVBcollapse #bankrun",
    "metricoolUuid": "1469044956930460231",
    "altered": {
     "disclose": false,
@@ -136,7 +136,7 @@
    "file": "002/002-svb-short-d-make.mp4",
    "lane": "make",
    "status": "planned",
-   "description": "Silicon Valley Bank put 55% of its assets into securities #Shorts\n\nHow Silicon Valley Bank's bet on long-dated bonds left it exposed when rates rose.\n\nFull episode: \"Silicon Valley Bank: $40 Billion Gone in One Day\" on Filed Under Failure.\nSources: Federal Reserve Board, Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank (28 Apr 2023); Federal Reserve Board, Executive Summary of the review (28 Apr 2023); Federal Reserve Board press release on the review's results (28 Apr 2023) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #SiliconValleyBank #SVBcollapse #bankrun",
+   "description": "Silicon Valley Bank put 55% of its assets into securities #Shorts\n\nHow Silicon Valley Bank's bet on long-dated bonds left it exposed when rates rose.\n\nFull episode: \"Silicon Valley Bank: $40 Billion Gone in One Day\" on Filed Under Failure: https://youtu.be/5fPvAEfxo6w\nSources: Federal Reserve Board, Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank (28 Apr 2023); Federal Reserve Board, Executive Summary of the review (28 Apr 2023); Federal Reserve Board press release on the review's results (28 Apr 2023) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #SiliconValleyBank #SVBcollapse #bankrun",
    "metricoolUuid": "1639461645498140226",
    "altered": {
     "disclose": false,
@@ -154,7 +154,7 @@
    "file": "002/002-svb-short-e-make.mp4",
    "lane": "make",
    "status": "planned",
-   "description": "Who paid for the Silicon Valley Bank collapse? #Shorts\n\nWho paid for protecting Silicon Valley Bank's uninsured depositors, from FDIC and government records.\n\nFull episode: \"Silicon Valley Bank: $40 Billion Gone in One Day\" on Filed Under Failure.\nSources: Federal Reserve Board, Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank (28 Apr 2023); Federal Reserve Board, Executive Summary of the review (28 Apr 2023); Federal Reserve Board press release on the review's results (28 Apr 2023) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #SiliconValleyBank #SVBcollapse #bankrun",
+   "description": "Who paid for the Silicon Valley Bank collapse? #Shorts\n\nWho paid for protecting Silicon Valley Bank's uninsured depositors, from FDIC and government records.\n\nFull episode: \"Silicon Valley Bank: $40 Billion Gone in One Day\" on Filed Under Failure: https://youtu.be/5fPvAEfxo6w\nSources: Federal Reserve Board, Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank (28 Apr 2023); Federal Reserve Board, Executive Summary of the review (28 Apr 2023); Federal Reserve Board press release on the review's results (28 Apr 2023) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #SiliconValleyBank #SVBcollapse #bankrun",
    "metricoolUuid": "-1708951579365979279",
    "altered": {
     "disclose": false,
@@ -172,7 +172,7 @@
    "file": "002/002-svb-short-f-make.mp4",
    "lane": "make",
    "status": "planned",
-   "description": "Did social media cause the Silicon Valley Bank run? Two reviews disagree #Shorts\n\nThe Fed's 2023 review and the preliminary findings of a 2026 independent review disagree on social media's role.\n\nFull episode: \"Silicon Valley Bank: $40 Billion Gone in One Day\" on Filed Under Failure.\nSources: Federal Reserve Board, Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank (28 Apr 2023); Federal Reserve Board, Executive Summary of the review (28 Apr 2023); Federal Reserve Board press release on the review's results (28 Apr 2023) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #SiliconValleyBank #SVBcollapse #bankrun",
+   "description": "Did social media cause the Silicon Valley Bank run? Two reviews disagree #Shorts\n\nThe Fed's 2023 review and the preliminary findings of a 2026 independent review disagree on social media's role.\n\nFull episode: \"Silicon Valley Bank: $40 Billion Gone in One Day\" on Filed Under Failure: https://youtu.be/5fPvAEfxo6w\nSources: Federal Reserve Board, Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank (28 Apr 2023); Federal Reserve Board, Executive Summary of the review (28 Apr 2023); Federal Reserve Board press release on the review's results (28 Apr 2023) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #SiliconValleyBank #SVBcollapse #bankrun",
    "metricoolUuid": "-8498617703484276679",
    "altered": {
     "disclose": false,
@@ -204,5 +204,15 @@
    "id": "001-d",
    "url": "https://www.youtube.com/shorts/90ByqlGonLI"
   }
- ]
+ ],
+ "playlists": {
+  "full_documentaries": {
+   "title": "Business Collapses Explained | Full Documentaries",
+   "id_prefix": "PLEZeukE-BVC4"
+  },
+  "shorts": {
+   "title": "Corporate Collapse Shorts | 60-Second Explainers",
+   "id_prefix": "PLAzXTYt41bIk"
+  }
+ }
 }
