@@ -211,6 +211,16 @@
     "uploadStatus": "R29vZ2xlIGhhcyBhbm5vdW5jZWQgR2VtaW5pIDQuIE1vc3QgYnVzaW5lc3NlcyBjYW4ndCB1c2UgaXQgeWV0LgoKT24gMzAgU2VwdGVtYmU=",
     "videoId": "2026-10-03T08:02:55.223Z"
    }
+  },
+  {
+   "at": "2026-10-08T18:17:10.490792+05:00",
+   "event": "yt-uploaded",
+   "payload": {
+    "guid": "selftest-li",
+    "privacy": "PUBLISHED",
+    "uploadStatus": "V2hhdCdzIHRoZSBvbmUgdGFzayB5b3VyIHRlYW0gc2lnaHMgYWJvdXQgZXZlcnkgc2luZ2xlIHdlZWs/CgpUaGF0J3MgcHJvYmFibHkgd2g=",
+    "videoId": "2026-10-06T08:02:37.052Z"
+   }
   }
  ]
 }
