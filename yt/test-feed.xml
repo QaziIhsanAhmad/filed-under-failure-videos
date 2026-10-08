@@ -7,7 +7,7 @@
 <title>Upload test - delete me</title>
 <guid isPermaLink="false">test-001</guid>
 <link>https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/yt/test/upload-test.mp4</link>
-<pubDate>Thu, 08 Oct 2026 19:11:08 +0500</pubDate>
+<pubDate>Fri, 09 Oct 2026 01:06:54 +0500</pubDate>
 <description>Free upload route test. Set privacy to Unlisted for this run, then delete the video.</description>
 <enclosure url="https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/yt/test/upload-test.mp4" type="video/mp4" length="0"/>
 </item>
@@ -15,7 +15,7 @@
 <title>Upload test 2 large file - delete me</title>
 <guid isPermaLink="false">test-002</guid>
 <link>https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/yt/test/upload-test-large.mp4</link>
-<pubDate>Thu, 08 Oct 2026 19:11:08 +0500</pubDate>
+<pubDate>Fri, 09 Oct 2026 01:06:54 +0500</pubDate>
 <description>Free upload route test with a large file (about 60 MB, like a weekly episode). Unlisted; delete afterwards.</description>
 <enclosure url="https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/yt/test/upload-test-large.mp4" type="video/mp4" length="0"/>
 </item>
