@@ -10,8 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: python3 yt/yt_result.py
       - run: |
           git config user.name "yt-feed-bot"; git config user.email "actions@users.noreply.github.com"
-          git add yt; git commit -m "YouTube lane: Make result ${{ github.event.action }}" || echo none
-          git pull --rebase -q && git push
+          for n in 1 2 3 4; do
+            python3 yt/yt_result.py
+            git add yt; git commit -qm "YouTube lane: Make result ${{ github.event.action }}" || { echo none; exit 0; }
+            git pull --rebase -q && git push && exit 0
+            git rebase --abort 2>/dev/null; git fetch -q && git reset -q --hard origin/main; sleep 7
+          done
+          exit 1
