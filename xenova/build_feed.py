@@ -8,7 +8,7 @@ q = json.load(open("xenova/social-queue.json"))
 out = ['<?xml version="1.0" encoding="UTF-8"?>', '<rss version="2.0"><channel>', "<title>Xenova social</title>",
        "<link>https://xenovasolutions.com</link>", "<description>Xenova FB+IG queue</description>"]
 for i in sorted(q["items"], key=lambda i: i["date"]):
-    rel = dt.datetime.combine(dt.date.fromisoformat(i["date"]), dt.time(12), PKT)
+    rel = dt.datetime.fromisoformat(i["release"]) if i.get("release") else dt.datetime.combine(dt.date.fromisoformat(i["date"]), dt.time(12), PKT)
     if i["status"] != "planned" or now < rel:
         continue
     out += ["<item>", f"<title>{escape(i['id'])}</title>", f'<guid isPermaLink="false">{escape(i["id"])}</guid>',
