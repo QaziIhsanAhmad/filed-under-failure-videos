@@ -1,5 +1,5 @@
 {
- "note": "One row per planned upload. lane: metricool | make | native. Only lane=make rows enter yt/feed.xml (released 12:00 PKT on their date; Make uploads them publicly at its 21:00 PKT run). videoId is recorded when the public channel page shows the video; missing = 'unverified', never 'failed'.",
+ "note": "One row per planned upload (lane metricool | make | native). Test clips are in yt/tests.json, never here. See yt/yt_feed.py for the status flow.",
  "items": [
   {
    "id": "001-e",
@@ -11,7 +11,11 @@
    "lane": "metricool",
    "status": "planned",
    "description": "",
-   "metricoolUuid": "-514389782219570220"
+   "metricoolUuid": "-514389782219570220",
+   "altered": {
+    "disclose": false,
+    "reason": "Generic synthetic narrator (not imitating a real person), original charts/text graphics, original code-generated background music; no real person shown saying anything, no altered real footage, no realistic invented scenes."
+   }
   },
   {
    "id": "001-f",
@@ -23,7 +27,11 @@
    "lane": "metricool",
    "status": "planned",
    "description": "",
-   "metricoolUuid": "-7257899094082302401"
+   "metricoolUuid": "-7257899094082302401",
+   "altered": {
+    "disclose": false,
+    "reason": "Generic synthetic narrator (not imitating a real person), original charts/text graphics, original code-generated background music; no real person shown saying anything, no altered real footage, no realistic invented scenes."
+   }
   },
   {
    "id": "002-g",
@@ -35,7 +43,11 @@
    "lane": "metricool",
    "status": "planned",
    "description": "",
-   "metricoolUuid": "2498934116919888509"
+   "metricoolUuid": "2498934116919888509",
+   "altered": {
+    "disclose": false,
+    "reason": "Generic synthetic narrator (not imitating a real person), original charts/text graphics, original code-generated background music; no real person shown saying anything, no altered real footage, no realistic invented scenes."
+   }
   },
   {
    "id": "002-ep",
@@ -47,7 +59,11 @@
    "lane": "metricool",
    "status": "planned",
    "description": "",
-   "metricoolUuid": "3268318533952685639"
+   "metricoolUuid": "3268318533952685639",
+   "altered": {
+    "disclose": false,
+    "reason": "Generic synthetic narrator (not imitating a real person), original charts/text graphics, original code-generated background music; no real person shown saying anything, no altered real footage, no realistic invented scenes."
+   }
   },
   {
    "id": "002-a",
@@ -59,7 +75,11 @@
    "lane": "metricool",
    "status": "planned",
    "description": "",
-   "metricoolUuid": "6470601755274134589"
+   "metricoolUuid": "6470601755274134589",
+   "altered": {
+    "disclose": false,
+    "reason": "Generic synthetic narrator (not imitating a real person), original charts/text graphics, original code-generated background music; no real person shown saying anything, no altered real footage, no realistic invented scenes."
+   }
   },
   {
    "id": "002-b",
@@ -71,7 +91,11 @@
    "lane": "metricool",
    "status": "planned",
    "description": "",
-   "metricoolUuid": "-8354077937466260567"
+   "metricoolUuid": "-8354077937466260567",
+   "altered": {
+    "disclose": false,
+    "reason": "Generic synthetic narrator (not imitating a real person), original charts/text graphics, original code-generated background music; no real person shown saying anything, no altered real footage, no realistic invented scenes."
+   }
   },
   {
    "id": "002-c",
@@ -83,7 +107,11 @@
    "lane": "metricool",
    "status": "planned",
    "description": "",
-   "metricoolUuid": "1469044956930460231"
+   "metricoolUuid": "1469044956930460231",
+   "altered": {
+    "disclose": false,
+    "reason": "Generic synthetic narrator (not imitating a real person), original charts/text graphics, original code-generated background music; no real person shown saying anything, no altered real footage, no realistic invented scenes."
+   }
   },
   {
    "id": "002-d",
@@ -95,7 +123,11 @@
    "lane": "metricool",
    "status": "planned",
    "description": "",
-   "metricoolUuid": "1639461645498140226"
+   "metricoolUuid": "1639461645498140226",
+   "altered": {
+    "disclose": false,
+    "reason": "Generic synthetic narrator (not imitating a real person), original charts/text graphics, original code-generated background music; no real person shown saying anything, no altered real footage, no realistic invented scenes."
+   }
   },
   {
    "id": "002-e",
@@ -107,7 +139,11 @@
    "lane": "metricool",
    "status": "planned",
    "description": "",
-   "metricoolUuid": "-1708951579365979279"
+   "metricoolUuid": "-1708951579365979279",
+   "altered": {
+    "disclose": false,
+    "reason": "Generic synthetic narrator (not imitating a real person), original charts/text graphics, original code-generated background music; no real person shown saying anything, no altered real footage, no realistic invented scenes."
+   }
   },
   {
    "id": "002-f",
@@ -119,31 +155,11 @@
    "lane": "metricool",
    "status": "planned",
    "description": "",
-   "metricoolUuid": "-8498617703484276679"
-  },
-  {
-   "id": "test-001",
-   "date": "2026-10-08",
-   "time": "21:00",
-   "type": "short",
-   "title": "Upload test - delete me",
-   "file": "yt/test/upload-test.mp4",
-   "lane": "make",
-   "status": "released",
-   "test": true,
-   "description": "Free upload route test. Set privacy to Unlisted for this run, then delete the video."
-  },
-  {
-   "id": "test-002",
-   "date": "2026-10-08",
-   "time": "21:00",
-   "type": "video",
-   "title": "Upload test 2 large file - delete me",
-   "file": "yt/test/upload-test-large.mp4",
-   "lane": "make",
-   "status": "released",
-   "test": true,
-   "description": "Free upload route test with a large file (about 60 MB, like a weekly episode). Unlisted; delete afterwards."
+   "metricoolUuid": "-8498617703484276679",
+   "altered": {
+    "disclose": false,
+    "reason": "Generic synthetic narrator (not imitating a real person), original charts/text graphics, original code-generated background music; no real person shown saying anything, no altered real footage, no realistic invented scenes."
+   }
   }
  ],
  "history": [

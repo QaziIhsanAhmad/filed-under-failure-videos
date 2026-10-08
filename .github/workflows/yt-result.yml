@@ -1,0 +1,17 @@
+name: YouTube lane - record Make upload result
+on:
+  repository_dispatch:
+    types: [yt-uploaded, yt-failed]
+permissions:
+  contents: write
+concurrency: yt-feed
+jobs:
+  record:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 yt/yt_result.py
+      - run: |
+          git config user.name "yt-feed-bot"; git config user.email "actions@users.noreply.github.com"
+          git add yt; git commit -m "YouTube lane: Make result ${{ github.event.action }}" || echo none
+          git pull --rebase -q && git push

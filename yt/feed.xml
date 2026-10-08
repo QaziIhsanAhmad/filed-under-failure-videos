@@ -1,22 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel>
 <title>Filed Under Failure uploads</title>
-<link>https://www.youtube.com/channel/UCI7G8N3yKI7pOyQU2glaJrQ</link>
-<description>Videos due today</description>
-<item>
-<title>Upload test - delete me</title>
-<guid isPermaLink="false">test-001</guid>
-<link>https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/yt/test/upload-test.mp4</link>
-<pubDate>Thu, 08 Oct 2026 12:00:00 +0500</pubDate>
-<description>Free upload route test. Set privacy to Unlisted for this run, then delete the video.</description>
-<enclosure url="https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/yt/test/upload-test.mp4" type="video/mp4" length="0"/>
-</item>
-<item>
-<title>Upload test 2 large file - delete me</title>
-<guid isPermaLink="false">test-002</guid>
-<link>https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/yt/test/upload-test-large.mp4</link>
-<pubDate>Thu, 08 Oct 2026 12:00:00 +0500</pubDate>
-<description>Free upload route test with a large file (about 60 MB, like a weekly episode). Unlisted; delete afterwards.</description>
-<enclosure url="https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/yt/test/upload-test-large.mp4" type="video/mp4" length="0"/>
-</item>
+<link>https://www.youtube.com/@FiledUnderFailure-d6j</link>
+<description>Filed Under Failure uploads</description>
 </channel></rss>

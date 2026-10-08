@@ -1,0 +1,21 @@
+{
+ "note": "Test clips only. Served from yt/test-feed.xml. Results are recorded by Make's callback, then mark status 'deleted' after the videos are removed from YouTube.",
+ "items": [
+  {
+   "id": "test-001",
+   "type": "short",
+   "title": "Upload test - delete me",
+   "file": "yt/test/upload-test.mp4",
+   "status": "ready",
+   "description": "Free upload route test. Set privacy to Unlisted for this run, then delete the video."
+  },
+  {
+   "id": "test-002",
+   "type": "video",
+   "title": "Upload test 2 large file - delete me",
+   "file": "yt/test/upload-test-large.mp4",
+   "status": "ready",
+   "description": "Free upload route test with a large file (about 60 MB, like a weekly episode). Unlisted; delete afterwards."
+  }
+ ]
+}
