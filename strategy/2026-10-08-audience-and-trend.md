@@ -27,18 +27,14 @@
   - Sun 18 to Fri 23 Oct 21:00 PKT: six Theranos Shorts, each a different court/regulator fact
 - Success measures (from YouTube analytics via Metricool, judged after 7 full days): views per Short vs SVB week (control), % viewed, subscribers gained per 1,000 views, share of episode traffic from YouTube search. Continue news pegs if Theranos beats SVB on views per Short by 30%+.
 
-## Country comparison (English channel)
-| Country | Demand (YouTube reach / English speakers) | Language fit for English narration | Competition | Subscriber potential for this channel |
-|---|---|---|---|---|
-| US | 253-259M users / ~299M | Native | Highest (big English business-doc channels) | High value, hard to break into; needs US/global topics |
-| UK | ~57M users / ~64M | Native | Medium | Good for UK collapses (Carillion) |
-| Canada | not verified / ~30M | Native | Same English channels | Moderate, small pool |
-| Australia | not verified / ~23M | Native | Same English channels | Moderate, small pool |
-| India | 491-518M users / ~270M (19%) | Good for urban English speakers; mass audience prefers Hindi | Very high in Hindi (Think School 6.6M subs) | Large reach possible, low value per view |
-| Pakistan | ~59M users / ~108M (~49%) | Good among educated viewers; Urdu for mass reach | Low for faceless, source-cited English business content | Moderate; Urdu channel could grow faster |
-| Bangladesh | not verified / ~11M (6.5%) | Weak (Bengali needed) | n/a | Low for English |
-| UAE | not verified | Good (English, Hindi and Urdu-speaking expatriates) | Served by Indian/Pakistani channels | Small but mixed-language |
+## Evidence-based comparison (replaces the earlier speaker-percentage table)
+Method: on 8 Oct 2026 a GitHub Action collected the top 20 YouTube search results for 12 content-specific queries (5 English, 4 Hindi, 3 Urdu) with the region set to US, GB, CA, AU, IN, PK, BD and AE (Hindi/Urdu: IN, PK, AE, US). Raw data: research/yt-search-2026-10-08.json. Limits: one snapshot; lifetime views of top-ranked videos (survivorship), not monthly searches; no subscriber or retention data; YouTube personalises results.
 
-Sources: DataReportal via SQ Magazine (India 491M, US 253M, early 2025); Statista via DemandSage (India 518M, US 259M, Pakistan 58.9M, UK 57.4M, Aug 2026); Wikipedia list of countries by English-speaking population; Qoruz (Think School, Oct 2026). "Not verified" means no reliable 2025-26 figure was found.
+Findings:
+1. Country is not the lever. The same videos rank in all 8 regions for each query (e.g. SVB: WSJ first everywhere). YouTube serves this content by language and topic, not country, so a country-targeted test would mostly measure noise.
+2. Topic demand differs 1,000x. Median views of the top 10: "theranos documentary" 1.5-2.0M (an Entertainment Tonight clip 2 weeks old already has 543K, so the film is driving interest now); "silicon valley bank collapse explained" ~150K (mostly 3-year-old videos from WSJ and similar); "company collapse documentary" 0.1-1.3M; "carillion collapse" ~1K (this explains Carillion's weak start).
+3. Hindi has real demand with concentrated competition: "business case study hindi" top-10 median ~380K with only 5-6 channels in the top 10 (HinExp, Think School Hindi); "company kyu doob gayi" 256K-729K; SVB in Hindi ~92K (one 5.4M video dominates).
+4. Urdu-labelled searches are small: medians 400-9,400 views. That suggests Urdu speakers find this content through Hindi or English search terms, so an Urdu/Hindi channel should use Hindi/Roman search wording in titles.
+5. Competition for English big topics is strong (WSJ, Yahoo Finance and established documentary channels hold the top results), so a new channel wins on a fresh angle and timing, not on the topic alone.
 
-One practical test: the Theranos trend week (English). Read YouTube Analytics > Audience > Top geographies and subscriber sources after 7 days and compare with the SVB week, rather than choosing a country in advance. Evaluation rules: medians per Short; views, % viewed, subscribers per 1,000 views, traffic source; differences under 2x are inconclusive unless repeated.
+What this means: pick topics by measured search demand first (rule: top-10 median 100K+ views, or a current news peg), keep English as the main channel, and treat Hindi-language Shorts as the most promising second-language test. Practical test: the Theranos trend week, judged with the playbook evaluation rules (medians, % viewed, subscribers per 1,000 views, traffic source; under 2x = inconclusive).
