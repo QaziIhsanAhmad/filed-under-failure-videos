@@ -39,9 +39,26 @@ def published():
         except Exception as e:
             log.append(f"{e} {url}")
     open("yt/check.log", "w").write(dt.datetime.now(PKT).isoformat() + "\n" + "\n".join(log) + "\n")
-    if root is None:
-        return None
     out = []
+    if root is None:
+        # Fallback: read the public channel tabs (videos + shorts)
+        import re
+        for tab in ("videos", "shorts"):
+            try:
+                html = urllib.request.urlopen(urllib.request.Request(f"https://www.youtube.com/@FiledUnderFailure-d6j/{tab}", headers=hdr), timeout=30).read().decode("utf-8", "ignore")
+            except Exception as e:
+                log.append(f"{tab} tab error: {e}"); continue
+            if tab == "videos":
+                pairs = re.findall(r'"videoRenderer":\{"videoId":"([\w-]{11})".*?"title":\{"runs":\[\{"text":"(.*?)"\}', html)
+            else:
+                pairs = [(v, t) for t, v in re.findall(r'"accessibilityText":"(.*?), [\d.,KM]+ views?[^"]*".{0,1500}?"videoId":"([\w-]{11})"', html)]
+            for vid, title in pairs:
+                title = json.loads('"' + title + '"')
+                if all(o["videoId"] != vid for o in out):
+                    out.append({"title": title, "videoId": vid, "url": f"https://www.youtube.com/watch?v={vid}" if tab == "videos" else f"https://www.youtube.com/shorts/{vid}", "published": "", "tab": tab})
+            log.append(f"{tab}: {len(pairs)} found")
+        open("yt/check.log", "w").write(dt.datetime.now(PKT).isoformat() + "\n" + "\n".join(log) + "\n")
+        return out or None
     for en in root.findall("a:entry", ns):
         vid = en.find("yt:videoId", ns).text
         out.append({"title": en.find("a:title", ns).text, "videoId": vid,
