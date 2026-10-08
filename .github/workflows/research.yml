@@ -1,0 +1,17 @@
+name: One-off YouTube search research
+on:
+  workflow_dispatch:
+  push:
+    paths: ["research/yt_search.py"]
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 research/yt_search.py
+      - run: |
+          git config user.name "research-bot"; git config user.email "actions@users.noreply.github.com"
+          git add research; git commit -m "Research: YouTube search snapshot" || echo none
+          git pull --rebase -q && git push
