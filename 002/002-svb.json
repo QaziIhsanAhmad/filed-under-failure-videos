@@ -722,22 +722,22 @@
    }
   },
   {
-   "say": "And on social media, it reached a different conclusion. An analysis for the review found that 96 per cent of the relevant online chatter appeared after the bank's failure was already inevitable.",
+   "say": "And on social media, it reached a different conclusion. Bowman said Charles River Associates, analysing the question at Starling's request, found that 96 per cent of the social media chatter about the run appeared after the bank's failure was inevitable.",
    "visual": {
     "type": "stat",
     "value": "96%",
     "red": true,
     "label": "of relevant chatter came after failure was inevitable",
-    "sub": "Charles River Associates analysis for the independent review",
+    "sub": "Charles River Associates, at Starling's request (per Bowman)",
     "src": "Fed Vice Chair Bowman on independent review, Sep 2026"
    }
   },
   {
-   "say": "So the 2023 review said social media fuelled the run. The 2026 findings say social media did not trigger it, and found no evidence it accelerated it. One is the Fed's own review. The other is the preliminary findings of an independent review. They do not agree.",
+   "say": "So the Fed's 2023 review said social media fuelled the run. The 2026 findings, as Bowman described them, say social media did not trigger it, and found no evidence it accelerated it. Her speech does not name the 2023 review. But on this point, the two accounts do not agree.",
    "visual": {
     "type": "title",
     "text": "Two reviews. Two answers.",
-    "sub": "2023: fuelled by social media. 2026: did not trigger it; no evidence it accelerated it."
+    "sub": "2023 Fed review: fuelled by social media. 2026 findings (per Bowman): did not trigger it; no evidence it accelerated it."
    },
    "pause": 0.9
   },
@@ -1152,6 +1152,62 @@
       "src": "Fed Vice Chair Bowman on independent review, Sep 2026"
      },
      "caption": "Staff felt safer taking no action"
+    }
+   ]
+  },
+  {
+   "id": "g",
+   "hook": "Two days to fall",
+   "title": "Silicon Valley Bank took 40 years to build and two days to fall #Shorts",
+   "blurb": "The 48 hours that ended Silicon Valley Bank, from the Federal Reserve's review.",
+   "scenes": [
+    {
+     "say": "Silicon Valley Bank was founded in 1983. It took two days to fall.",
+     "visual": {
+      "type": "title",
+      "kicker": "1983 to 2023",
+      "text": "40 years to build. Two days to fall."
+     },
+     "caption": "40 years to build. Two days to fall."
+    },
+    {
+     "say": "On the eighth of March 2023, it said it had sold 21 billion dollars of securities at a 1.8 billion dollar loss, and planned to raise 2.25 billion dollars.",
+     "visual": {
+      "type": "list",
+      "title": "8 March 2023",
+      "items": [
+       "Sold $21bn of securities",
+       "$1.8bn after-tax loss",
+       "Planned $2.25bn capital raise"
+      ],
+      "src": "Federal Reserve review, Apr 2023"
+     },
+     "caption": "8 March: a $1.8bn loss and a capital raise"
+    },
+    {
+     "say": "The next day, more than 40 billion dollars of deposits left the bank.",
+     "visual": {
+      "type": "stat",
+      "value": "$40bn+",
+      "red": true,
+      "label": "Withdrawn on 9 March 2023",
+      "src": "Federal Reserve review, Apr 2023"
+     },
+     "caption": "9 March: $40bn+ withdrawn"
+    },
+    {
+     "say": "On the tenth of March, California's regulator closed it. The full story is on our channel.",
+     "visual": {
+      "type": "document",
+      "header": "California DFPI, 10 March 2023",
+      "title": "Silicon Valley Bank",
+      "lines": [
+       "Bank closed by the state regulator"
+      ],
+      "stamp": "CLOSED",
+      "src": "Federal Reserve review, Apr 2023"
+     },
+     "caption": "10 March: closed"
     }
    ]
   }
