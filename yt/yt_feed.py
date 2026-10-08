@@ -17,15 +17,30 @@ RELEASE_HOUR = 12  # item enters the feed at 12:00 PKT on its day; Make runs at 
 RAW = "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/"
 
 def published():
-    url = f"https://www.youtube.com/feeds/videos.xml?channel_id={CHANNEL}"
     ns = {"a": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/schemas/2015"}
+    hdr = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36", "Accept-Language": "en"}
+    log, root = [], None
+    cands = [f"https://www.youtube.com/feeds/videos.xml?channel_id={CHANNEL}",
+             f"https://www.youtube.com/feeds/videos.xml?playlist_id=UU{CHANNEL[2:]}"]
+    # resolve the channel id from the public handle page as a fallback
     try:
-        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36", "Accept-Language": "en"})
-        root = ET.fromstring(urllib.request.urlopen(req, timeout=30).read())
-    except Exception as e:  # keep previous record if YouTube is unreachable
-        open("yt/check.log", "w").write(f"{dt.datetime.now(PKT).isoformat()} channel feed error: {e}\n")
-        print("channel feed error:", e); return None
-    open("yt/check.log", "w").write(f"{dt.datetime.now(PKT).isoformat()} channel feed ok\n")
+        html = urllib.request.urlopen(urllib.request.Request("https://www.youtube.com/@FiledUnderFailure-d6j", headers=hdr), timeout=30).read().decode("utf-8", "ignore")
+        import re
+        m = re.search(r'"(?:channelId|externalId)":"(UC[\w-]{22})"', html)
+        if m:
+            log.append(f"handle -> {m.group(1)}")
+            cands.append(f"https://www.youtube.com/feeds/videos.xml?channel_id={m.group(1)}")
+    except Exception as e:
+        log.append(f"handle page error: {e}")
+    for url in cands:
+        try:
+            root = ET.fromstring(urllib.request.urlopen(urllib.request.Request(url, headers=hdr), timeout=30).read())
+            log.append(f"ok {url}"); break
+        except Exception as e:
+            log.append(f"{e} {url}")
+    open("yt/check.log", "w").write(dt.datetime.now(PKT).isoformat() + "\n" + "\n".join(log) + "\n")
+    if root is None:
+        return None
     out = []
     for en in root.findall("a:entry", ns):
         vid = en.find("yt:videoId", ns).text
