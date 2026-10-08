@@ -6,16 +6,26 @@
    "type": "short",
    "title": "Upload test - delete me",
    "file": "yt/test/upload-test.mp4",
-   "status": "ready",
-   "description": "Free upload route test. Set privacy to Unlisted for this run, then delete the video."
+   "status": "tested",
+   "description": "Free upload route test. Set privacy to Unlisted for this run, then delete the video.",
+   "result": "uploaded",
+   "videoId": "AzcXA6rs6K4",
+   "privacy": "unlisted",
+   "channelId": "UCI7G8N3yKI7pOyQU2glaJrQ",
+   "testedAt": "2026-10-08T08:24Z",
+   "note": "Run by Claude via Make connector; callback not sent (token not yet in Make). Delete in Studio."
   },
   {
    "id": "test-002",
    "type": "video",
    "title": "Upload test 2 large file - delete me",
    "file": "yt/test/upload-test-large.mp4",
-   "status": "ready",
-   "description": "Free upload route test with a large file (about 60 MB, like a weekly episode). Unlisted; delete afterwards."
+   "status": "tested",
+   "description": "Free upload route test with a large file (about 60 MB, like a weekly episode). Unlisted; delete afterwards.",
+   "result": "failed",
+   "error": "MaxFileSizeExceededError at HTTP Get a file (Make free plan 5 MB limit)",
+   "testedAt": "2026-10-08T08:24Z",
+   "note": "Expected. Episodes stay on YouTube Studio; Shorts over 4.5 MB are auto re-encoded by yt/fit_make.py"
   }
  ]
 }

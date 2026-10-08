@@ -4,7 +4,7 @@ on:
     - cron: "41 * * * *"   # hourly
   workflow_dispatch:
   push:
-    paths: ["yt/ledger.json", "yt/yt_feed.py", ".github/workflows/yt-feed.yml"]
+    paths: ["yt/ledger.json", "yt/yt_feed.py", "yt/fit_make.py", ".github/workflows/yt-feed.yml"]
 permissions:
   contents: write
 concurrency: yt-feed
@@ -13,10 +13,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - run: which ffmpeg || (sudo apt-get update -q && sudo apt-get install -y -q ffmpeg)
+      - run: python3 yt/fit_make.py
       - run: python3 yt/yt_feed.py
       - run: |
           git config user.name "yt-feed-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add yt
+          git add -A yt 0* pilots 2>/dev/null || git add -A yt
           git commit -m "YouTube lane: feed/publication update $(date -u +%F)" || echo "no change"
           git pull --rebase -q && git push
