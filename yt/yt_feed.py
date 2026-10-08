@@ -50,6 +50,7 @@ def published():
                 log.append(f"{tab} tab error: {e}"); continue
             if tab == "videos":
                 pairs = re.findall(r'"videoRenderer":\{"videoId":"([\w-]{11})".*?"title":\{"runs":\[\{"text":"(.*?)"\}', html)
+                pairs += re.findall(r'"contentId":"([\w-]{11})".{0,3000}?"title":\{"content":"(.*?)"', html)
             else:
                 pairs = [(v, t) for t, v in re.findall(r'"accessibilityText":"(.*?), [\d.,KM]+ views?[^"]*".{0,1500}?"videoId":"([\w-]{11})"', html)]
             for vid, title in pairs:
