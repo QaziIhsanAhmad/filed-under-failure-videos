@@ -221,6 +221,16 @@
     "uploadStatus": "fHw=",
     "videoId": "cHJpdmF0ZXwyMDI2LTEwLTEwVDE2OjAwOjAwWnwyN3xTaWxpY29uIFZhbGxleSBCYW5rOiAkNDAgQmlsbGlvbiBHb25lIGluIE9uZSBEYXk="
    }
+  },
+  {
+   "at": "2026-10-08T18:46:31.523921+05:00",
+   "event": "yt-uploaded",
+   "payload": {
+    "guid": "selftest-ch",
+    "privacy": "x",
+    "uploadStatus": "UEt8ZW58",
+    "videoId": "dGh1bWI6dHJ1ZXxwcml2YXRlfDIwMjYtMTAtMTBUMTY6MDA6MDBa"
+   }
   }
  ]
 }
