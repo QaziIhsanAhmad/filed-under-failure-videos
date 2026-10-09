@@ -28,7 +28,7 @@
    "title": "MPs' verdict on Carillion: recklessness, hubris and greed #Shorts",
    "file": "https://static.metricool.com/planner/202610/7133423-file-7956984952700497736.mp4",
    "lane": "make",
-   "status": "released",
+   "status": "failed",
    "description": "MPs' verdict on Carillion: recklessness, hubris and greed #Shorts\n\nWhat MPs concluded about Carillion in May 2018, and the fines that followed from the FRC and FCA.\n\nFull episode: \"Carillion: How Britain's Biggest Builder Ran Out of Money\" on Filed Under Failure.\nSources: House of Commons Work and Pensions and BEIS Committees, Carillion report (16 May 2018); Committees' statement on Carillion's suppliers (14 May 2018); National Audit Office, Investigation into the government's handling of the collapse of Carillion (June 2018) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #Carillion #Carillioncollapse #businessdocumentary",
    "metricoolUuid": "-7257899094082302401",
    "altered": {
@@ -36,7 +36,18 @@
     "reason": "Generic synthetic narrator (not imitating a real person), original charts/text graphics, original code-generated background music; no real person shown saying anything, no altered real footage, no realistic invented scenes."
    },
    "laneNote": "moved from Metricool 2026-10-08: Metricool free plan hit 20 posts/month (posts erroring \"account limit\")",
-   "releasedAt": "2026-10-09T18:48:09.101141+05:00"
+   "releasedAt": "2026-10-09T18:48:09.101141+05:00",
+   "results": [
+    {
+     "at": "2026-10-09T21:00:29.193815+05:00",
+     "event": "yt-failed",
+     "guid": "001-f",
+     "videoId": null,
+     "uploadStatus": null,
+     "privacy": null,
+     "error": "download step failed in Make - see Make History"
+    }
+   ]
   },
   {
    "id": "002-g",
