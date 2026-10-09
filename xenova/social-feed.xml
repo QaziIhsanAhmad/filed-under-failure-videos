@@ -3,4 +3,27 @@
 <title>Xenova social</title>
 <link>https://xenovasolutions.com</link>
 <description>Xenova FB+IG queue</description>
+<item>
+<title>x-2026-10-09-rag-plain-english</title>
+<guid isPermaLink="false">x-2026-10-09-rag-plain-english</guid>
+<link>https://static.metricool.com/planner/202609/7133423-file-11406585357151594818.jpeg</link>
+<pubDate>Fri, 09 Oct 2026 12:00:00 +0500</pubDate>
+<description>What is RAG, in plain English?
+
+RAG stands for retrieval-augmented generation. In practice it means this:
+
+→ Someone asks a question
+→ The system finds the relevant parts of your documents
+→ The AI writes an answer based on those parts
+
+So instead of a chatbot guessing from general knowledge, it answers from your policies, manuals, contracts or product docs.
+
+Sounds simple. Whether it works well depends heavily on your documents, which is why we suggest proving it first.
+
+Our RAG proof of concept takes your real documents, turns them into a working prototype you can test, and ends with a clear go or no-go decision.
+
+Want to find out if it works on your content? Book a free 30-minute call: xenovasolutions.com/contact (link in bio)
+
+#RAG #GenerativeAI #LLM #AIExplained #SME</description>
+</item>
 </channel></rss>
