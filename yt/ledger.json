@@ -58,7 +58,7 @@
    "title": "Silicon Valley Bank took 40 years to build and two days to fall #Shorts",
    "file": "002/002-svb-short-g.mp4",
    "lane": "make",
-   "status": "released",
+   "status": "uploaded",
    "description": "Silicon Valley Bank took 40 years to build and two days to fall #Shorts\n\nThe 48 hours that ended Silicon Valley Bank, from the Federal Reserve's review.\n\nFull episode: \"Silicon Valley Bank: $40 Billion Gone in One Day\" on Filed Under Failure: https://youtu.be/5fPvAEfxo6w\nSources: Federal Reserve Board, Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank (28 Apr 2023); Federal Reserve Board, Executive Summary of the review (28 Apr 2023); Federal Reserve Board press release on the review's results (28 Apr 2023) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #SiliconValleyBank #SVBcollapse #bankrun",
    "metricoolUuid": "2498934116919888509",
    "altered": {
@@ -66,7 +66,20 @@
     "reason": "Generic synthetic narrator (not imitating a real person), original charts/text graphics, original code-generated background music; no real person shown saying anything, no altered real footage, no realistic invented scenes."
    },
    "laneNote": "moved from Metricool 2026-10-08: Metricool free plan hit 20 posts/month (posts erroring \"account limit\")",
-   "releasedAt": "2026-10-10T18:01:54.506668+05:00"
+   "releasedAt": "2026-10-10T18:01:54.506668+05:00",
+   "results": [
+    {
+     "at": "2026-10-10T21:00:25.077207+05:00",
+     "event": "yt-uploaded",
+     "guid": "002-g",
+     "videoId": "5pxZ6aDQGxw",
+     "uploadStatus": "uploaded",
+     "privacy": "public",
+     "error": null
+    }
+   ],
+   "videoId": "5pxZ6aDQGxw",
+   "url": "https://www.youtube.com/watch?v=5pxZ6aDQGxw"
   },
   {
    "id": "002-ep",
