@@ -185,7 +185,7 @@
    "title": "Silicon Valley Bank put 55% of its assets into securities #Shorts",
    "file": "002/002-svb-short-d-make.mp4",
    "lane": "make",
-   "status": "released",
+   "status": "uploaded",
    "description": "Silicon Valley Bank put 55% of its assets into securities #Shorts\n\nHow Silicon Valley Bank's bet on long-dated bonds left it exposed when rates rose.\n\nFull episode: \"Silicon Valley Bank: $40 Billion Gone in One Day\" on Filed Under Failure: https://youtu.be/5fPvAEfxo6w\nSources: Federal Reserve Board, Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank (28 Apr 2023); Federal Reserve Board, Executive Summary of the review (28 Apr 2023); Federal Reserve Board press release on the review's results (28 Apr 2023) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #SiliconValleyBank #SVBcollapse #bankrun",
    "metricoolUuid": "1639461645498140226",
    "altered": {
@@ -194,7 +194,20 @@
    },
    "laneNote": "moved from Metricool 2026-10-08: Metricool free plan hit 20 posts/month (posts erroring \"account limit\")",
    "file_original": "002/002-svb-short-d.mp4",
-   "releasedAt": "2026-10-14T23:05:52.140550+05:00"
+   "releasedAt": "2026-10-14T23:05:52.140550+05:00",
+   "results": [
+    {
+     "at": "2026-10-14T23:12:57.939317+05:00",
+     "event": "yt-uploaded",
+     "guid": "002-d",
+     "videoId": "Qzu2G7C3TC8",
+     "uploadStatus": "uploaded",
+     "privacy": "public",
+     "error": null
+    }
+   ],
+   "videoId": "Qzu2G7C3TC8",
+   "url": "https://www.youtube.com/watch?v=Qzu2G7C3TC8"
   },
   {
    "id": "002-e",
