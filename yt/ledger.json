@@ -3,13 +3,13 @@
  "items": [
   {
    "id": "001-e",
-   "date": "2026-10-08",
+   "date": "2026-10-14",
    "time": "21:00",
    "type": "short",
    "title": "Who paid when Carillion collapsed? Staff, pensioners and taxpayers #Shorts",
-   "file": "https://static.metricool.com/planner/202610/7133423-file-13688635039506949117.mp4",
+   "file": "001/001-carillion-short-e.mp4",
    "lane": "make",
-   "status": "paused-unverified",
+   "status": "planned",
    "description": "Who paid when Carillion collapsed? Staff, pensioners and taxpayers #Shorts\n\nJobs, pensions and public money after Carillion's collapse, from National Audit Office and pension figures.\n\nFull episode: \"Carillion: How Britain's Biggest Builder Ran Out of Money\" on Filed Under Failure.\nSources: House of Commons Work and Pensions and BEIS Committees, Carillion report (16 May 2018); Committees' statement on Carillion's suppliers (14 May 2018); National Audit Office, Investigation into the government's handling of the collapse of Carillion (June 2018) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #Carillion #Carillioncollapse #businessdocumentary",
    "metricoolUuid": "-514389782219570220",
    "altered": {
@@ -18,17 +18,19 @@
    },
    "laneNote": "moved from Metricool 2026-10-08: Metricool free plan hit 20 posts/month (posts erroring \"account limit\")",
    "releasedAt": "2026-10-08T14:11:27.693961+05:00",
-   "note": "no result from Make by 23:30 PKT; check Make History / YouTube Studio before any retry"
+   "note": "retry 2026-10-14: Make History shows no upload was created (001-f download hit Make 5 MB limit on Metricool file; 001-e never reached upload). Re-queued from repo copy.",
+   "file_metricool": "https://static.metricool.com/planner/202610/7133423-file-13688635039506949117.mp4",
+   "retries": 1
   },
   {
    "id": "001-f",
-   "date": "2026-10-09",
+   "date": "2026-10-14",
    "time": "21:00",
    "type": "short",
    "title": "MPs' verdict on Carillion: recklessness, hubris and greed #Shorts",
-   "file": "https://static.metricool.com/planner/202610/7133423-file-7956984952700497736.mp4",
+   "file": "001/001-carillion-short-f.mp4",
    "lane": "make",
-   "status": "paused-failed",
+   "status": "planned",
    "description": "MPs' verdict on Carillion: recklessness, hubris and greed #Shorts\n\nWhat MPs concluded about Carillion in May 2018, and the fines that followed from the FRC and FCA.\n\nFull episode: \"Carillion: How Britain's Biggest Builder Ran Out of Money\" on Filed Under Failure.\nSources: House of Commons Work and Pensions and BEIS Committees, Carillion report (16 May 2018); Committees' statement on Carillion's suppliers (14 May 2018); National Audit Office, Investigation into the government's handling of the collapse of Carillion (June 2018) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #Carillion #Carillioncollapse #businessdocumentary",
    "metricoolUuid": "-7257899094082302401",
    "altered": {
@@ -48,7 +50,9 @@
      "error": "download step failed in Make - see Make History"
     }
    ],
-   "note": "Make reported an error; confirm in YouTube Studio that no video was created, then set status 'retry'"
+   "note": "retry 2026-10-14: Make History shows no upload was created (001-f download hit Make 5 MB limit on Metricool file; 001-e never reached upload). Re-queued from repo copy.",
+   "file_metricool": "https://static.metricool.com/planner/202610/7133423-file-7956984952700497736.mp4",
+   "retries": 1
   },
   {
    "id": "002-g",
