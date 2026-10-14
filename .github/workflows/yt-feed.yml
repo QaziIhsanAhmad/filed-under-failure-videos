@@ -18,7 +18,11 @@ jobs:
           git config user.name "yt-feed-bot"
           git config user.email "actions@users.noreply.github.com"
           for n in 1 2 3; do
-            python3 yt/fit_make.py && python3 yt/yt_feed.py
+            # Errors go to yt/error.log (committed) so the monitor can read them; GitHub log storage
+            # is not reachable from Claude's sandbox, which is why failures went unseen from 10 Oct.
+            : > yt/error.log
+            python3 yt/fit_make.py 2>>yt/error.log || echo "fit_make.py exit $? at $(date -u +%FT%TZ)" >> yt/error.log
+            python3 yt/yt_feed.py 2>>yt/error.log || echo "yt_feed.py exit $? at $(date -u +%FT%TZ)" >> yt/error.log
             git add -A yt 0* pilots 2>/dev/null || git add -A yt
             git commit -qm "YouTube lane: feed/publication update $(date -u +%F)" || { echo "no change"; exit 0; }
             git pull --rebase -q && git push && exit 0

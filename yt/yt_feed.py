@@ -28,25 +28,49 @@ HDR = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML,
 def get(url):
     return urllib.request.urlopen(urllib.request.Request(url, headers=HDR), timeout=30).read().decode("utf-8", "ignore")
 
+def _add(out, vid, title, tab):
+    if all(o["videoId"] != vid for o in out):
+        out.append({"title": title, "videoId": vid, "tab": tab,
+                    "url": f"https://www.youtube.com/{'watch?v=' if tab == 'videos' else 'shorts/'}{vid}"})
+
+def _unescape(s):
+    try:
+        return json.loads('"' + s + '"')
+    except Exception:          # a malformed snippet must never crash the whole run (it did from 10 Oct)
+        return s.replace('\\u0026', '&').replace('\\"', '"')
+
+def rss_feed(out, log):
+    """Official channel RSS (latest ~15 uploads, videos and Shorts). Stable XML, no scraping."""
+    ns = {"a": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/schemas/2015"}
+    root = ET.fromstring(get(f"https://www.youtube.com/feeds/videos.xml?channel_id={CHANNEL}"))
+    n = 0
+    for e in root.findall("a:entry", ns):
+        vid = e.findtext("yt:videoId", "", ns); title = e.findtext("a:title", "", ns)
+        link = (e.find("a:link", ns).get("href") if e.find("a:link", ns) is not None else "")
+        if vid:
+            _add(out, vid, title, "shorts" if "/shorts/" in link else "videos"); n += 1
+    log.append(f"rss: {n}")
+
 def channel_page():
-    """Videos visible on the public channel tabs. None = page could not be read."""
+    """Videos visible publicly (RSS first, then channel tabs). None = nothing could be read."""
     out, log, ok = [], [], False
+    try:
+        rss_feed(out, log); ok = True
+    except Exception as e:
+        log.append(f"rss: {type(e).__name__}: {e}")
     for tab in ("videos", "shorts"):
         try:
             html = get(f"https://www.youtube.com/{HANDLE}/{tab}"); ok = True
+            if tab == "videos":
+                pairs = re.findall(r'"videoRenderer":\{"videoId":"([\w-]{11})".*?"title":\{"runs":\[\{"text":"(.*?)"\}', html)
+                pairs += re.findall(r'"contentId":"([\w-]{11})".{0,3000}?"title":\{"content":"(.*?)"', html)
+            else:
+                pairs = [(v, t) for t, v in re.findall(r'"accessibilityText":"(.*?), [\d.,KM]+ views?[^"]*".{0,1500}?"videoId":"([\w-]{11})"', html)]
+            for vid, title in pairs:
+                _add(out, vid, _unescape(title), tab)
+            log.append(f"{tab}: {len(pairs)}")
         except Exception as e:
-            log.append(f"{tab}: {e}"); continue
-        if tab == "videos":
-            pairs = re.findall(r'"videoRenderer":\{"videoId":"([\w-]{11})".*?"title":\{"runs":\[\{"text":"(.*?)"\}', html)
-            pairs += re.findall(r'"contentId":"([\w-]{11})".{0,3000}?"title":\{"content":"(.*?)"', html)
-        else:
-            pairs = [(v, t) for t, v in re.findall(r'"accessibilityText":"(.*?), [\d.,KM]+ views?[^"]*".{0,1500}?"videoId":"([\w-]{11})"', html)]
-        for vid, title in pairs:
-            title = json.loads('"' + title + '"')
-            if all(o["videoId"] != vid for o in out):
-                out.append({"title": title, "videoId": vid, "tab": tab,
-                            "url": f"https://www.youtube.com/{'watch?v=' if tab == 'videos' else 'shorts/'}{vid}"})
-        log.append(f"{tab}: {len(pairs)}")
+            log.append(f"{tab}: {type(e).__name__}: {e}")
     return (out if ok else None), log
 
 def guid(it):
