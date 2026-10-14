@@ -125,6 +125,15 @@ def main():
             # missing from the public page, so this is NOT a failure: pause and wait for review.
             it["status"] = "paused-unverified"
             it["note"] = "no result from Make by 23:30 PKT; check Make History / YouTube Studio before any retry"
+        elif it.get("status") == "failed" and it.get("retries", 0) < 2 and not it.get("videoId") \
+                and any(r.get("event") == "yt-failed" for r in it.get("results", [])[-1:]):
+            # Make reported an error and returned no videoId: YouTube created no video, so a retry
+            # cannot duplicate. Auto-retry (max 2) on the next 21:00 run instead of waiting for a
+            # human or a monitor run (those kept dying on usage limits, leaving uploads stuck).
+            it["retries"] = it.get("retries", 0) + 1
+            it["status"] = "planned"
+            it["date"] = (now.date() if now.hour < 20 else now.date() + dt.timedelta(days=1)).isoformat()
+            it["note"] = f"auto-retry {it['retries']} after Make error at {now.isoformat()}"
         elif it.get("status") == "failed":
             it["status"] = "paused-failed"
             it["note"] = "Make reported an error; confirm in YouTube Studio that no video was created, then set status 'retry'"

@@ -112,13 +112,13 @@
   },
   {
    "id": "002-a",
-   "date": "2026-10-11",
+   "date": "2026-10-15",
    "time": "21:00",
    "type": "short",
    "title": "Customers pulled $40 billion from Silicon Valley Bank in one day #Shorts",
    "file": "002/002-svb-short-a-make.mp4",
    "lane": "make",
-   "status": "paused-failed",
+   "status": "planned",
    "description": "Customers pulled $40 billion from Silicon Valley Bank in one day #Shorts\n\nThe size of the 2023 run on Silicon Valley Bank, from the Federal Reserve's review.\n\nFull episode: \"Silicon Valley Bank: $40 Billion Gone in One Day\" on Filed Under Failure: https://youtu.be/5fPvAEfxo6w\nSources: Federal Reserve Board, Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank (28 Apr 2023); Federal Reserve Board, Executive Summary of the review (28 Apr 2023); Federal Reserve Board press release on the review's results (28 Apr 2023) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #SiliconValleyBank #SVBcollapse #bankrun",
    "metricoolUuid": "6470601755274134589",
    "altered": {
@@ -127,7 +127,6 @@
    },
    "laneNote": "moved from Metricool 2026-10-08: Metricool free plan hit 20 posts/month (posts erroring \"account limit\")",
    "file_original": "002/002-svb-short-a.mp4",
-   "releasedAt": "2026-10-14T23:05:52+05:00",
    "results": [
     {
      "at": "2026-10-14T23:12:35.261328+05:00",
@@ -139,7 +138,8 @@
      "error": "upload step failed in Make - see Make History"
     }
    ],
-   "note": "Make reported an error; confirm in YouTube Studio that no video was created, then set status 'retry'"
+   "note": "retry 2026-10-14: Make reported YouTube upload-step error, no videoId (no video created)",
+   "retries": 1
   },
   {
    "id": "002-b",
