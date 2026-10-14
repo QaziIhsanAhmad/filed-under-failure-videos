@@ -31,7 +31,7 @@
    "title": "MPs' verdict on Carillion: recklessness, hubris and greed #Shorts",
    "file": "001/001-carillion-short-f-make.mp4",
    "lane": "make",
-   "status": "released",
+   "status": "published",
    "description": "MPs' verdict on Carillion: recklessness, hubris and greed #Shorts\n\nWhat MPs concluded about Carillion in May 2018, and the fines that followed from the FRC and FCA.\n\nFull episode: \"Carillion: How Britain's Biggest Builder Ran Out of Money\" on Filed Under Failure.\nSources: House of Commons Work and Pensions and BEIS Committees, Carillion report (16 May 2018); Committees' statement on Carillion's suppliers (14 May 2018); National Audit Office, Investigation into the government's handling of the collapse of Carillion (June 2018) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #Carillion #Carillioncollapse #businessdocumentary",
    "metricoolUuid": "-7257899094082302401",
    "altered": {
@@ -54,7 +54,11 @@
    "note": "retry 2026-10-14: Make History shows no upload was created (001-f download hit Make 5 MB limit on Metricool file; 001-e never reached upload). Re-queued from repo copy.",
    "file_metricool": "https://static.metricool.com/planner/202610/7133423-file-7956984952700497736.mp4",
    "retries": 1,
-   "file_original": "001/001-carillion-short-f.mp4"
+   "file_original": "001/001-carillion-short-f.mp4",
+   "url": "https://www.youtube.com/shorts/9CIuSts7dDU",
+   "videoId": "9CIuSts7dDU",
+   "verifiedAt": "2026-10-14T23:36:23.312829+05:00",
+   "verification": "channel page"
   },
   {
    "id": "002-g",
@@ -149,7 +153,7 @@
    "title": "94% of Silicon Valley Bank's deposits were uninsured #Shorts",
    "file": "002/002-svb-short-b.mp4",
    "lane": "make",
-   "status": "released",
+   "status": "published",
    "description": "94% of Silicon Valley Bank's deposits were uninsured #Shorts\n\nWhy Silicon Valley Bank's depositors had so much reason to run, from the Federal Reserve's review.\n\nFull episode: \"Silicon Valley Bank: $40 Billion Gone in One Day\" on Filed Under Failure: https://youtu.be/5fPvAEfxo6w\nSources: Federal Reserve Board, Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank (28 Apr 2023); Federal Reserve Board, Executive Summary of the review (28 Apr 2023); Federal Reserve Board press release on the review's results (28 Apr 2023) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #SiliconValleyBank #SVBcollapse #bankrun",
    "metricoolUuid": "-8354077937466260567",
    "altered": {
@@ -157,7 +161,11 @@
     "reason": "Generic synthetic narrator (not imitating a real person), original charts/text graphics, original code-generated background music; no real person shown saying anything, no altered real footage, no realistic invented scenes."
    },
    "laneNote": "moved from Metricool 2026-10-08: Metricool free plan hit 20 posts/month (posts erroring \"account limit\")",
-   "releasedAt": "2026-10-14T23:05:52+05:00"
+   "releasedAt": "2026-10-14T23:05:52+05:00",
+   "url": "https://www.youtube.com/shorts/94egvFj1fbY",
+   "videoId": "94egvFj1fbY",
+   "verifiedAt": "2026-10-14T23:36:23.312829+05:00",
+   "verification": "channel page"
   },
   {
    "id": "002-c",
@@ -186,7 +194,7 @@
    "title": "Silicon Valley Bank put 55% of its assets into securities #Shorts",
    "file": "002/002-svb-short-d-make.mp4",
    "lane": "make",
-   "status": "uploaded",
+   "status": "published",
    "description": "Silicon Valley Bank put 55% of its assets into securities #Shorts\n\nHow Silicon Valley Bank's bet on long-dated bonds left it exposed when rates rose.\n\nFull episode: \"Silicon Valley Bank: $40 Billion Gone in One Day\" on Filed Under Failure: https://youtu.be/5fPvAEfxo6w\nSources: Federal Reserve Board, Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank (28 Apr 2023); Federal Reserve Board, Executive Summary of the review (28 Apr 2023); Federal Reserve Board press release on the review's results (28 Apr 2023) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #SiliconValleyBank #SVBcollapse #bankrun",
    "metricoolUuid": "1639461645498140226",
    "altered": {
@@ -208,7 +216,9 @@
     }
    ],
    "videoId": "Qzu2G7C3TC8",
-   "url": "https://www.youtube.com/watch?v=Qzu2G7C3TC8"
+   "url": "https://www.youtube.com/shorts/Qzu2G7C3TC8",
+   "verifiedAt": "2026-10-14T23:36:23.312829+05:00",
+   "verification": "channel page"
   },
   {
    "id": "002-e",
