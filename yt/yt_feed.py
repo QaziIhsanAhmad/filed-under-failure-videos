@@ -114,6 +114,12 @@ def main():
             continue
         day = dt.date.fromisoformat(it["date"])
         due = dt.datetime.combine(day, RESULT_DEADLINE, PKT)
+        if it.get("releasedAt"):
+            # Catch-up items released late must get a Make run first: wait until 23:30 PKT of the day of
+            # the first 21:00 Make run at/after release (before this, late items were paused unseen).
+            rel_at = dt.datetime.fromisoformat(it["releasedAt"]).astimezone(PKT)
+            make_day = rel_at.date() if rel_at.time() < dt.time(20, 45) else rel_at.date() + dt.timedelta(days=1)
+            due = max(due, dt.datetime.combine(make_day, RESULT_DEADLINE, PKT))
         if it.get("status") == "released" and now > due:
             # No report from Make. The upload may still be processing, private/unlisted, or simply
             # missing from the public page, so this is NOT a failure: pause and wait for review.
@@ -136,7 +142,9 @@ def main():
         day = dt.date.fromisoformat(it["date"])
         rel = dt.datetime.combine(day, dt.time(RELEASE_HOUR), PKT)
         if now >= rel:                          # catch-up: stays in the feed until a result arrives
-            it["status"] = "released"; it.setdefault("releasedAt", now.isoformat()); it["_rel"] = rel
+            if it.get("status") == "planned":       # fresh release (incl. retries): new timestamp
+                it["releasedAt"] = now.isoformat()
+            it["status"] = "released"; it["_rel"] = rel
             feed.append(it)
     write_feed("yt/feed.xml", "Filed Under Failure uploads", feed, now)
     for it in led["items"]:

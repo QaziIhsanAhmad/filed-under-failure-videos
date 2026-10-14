@@ -17,7 +17,7 @@
     "reason": "Generic synthetic narrator (not imitating a real person), original charts/text graphics, original code-generated background music; no real person shown saying anything, no altered real footage, no realistic invented scenes."
    },
    "laneNote": "moved from Metricool 2026-10-08: Metricool free plan hit 20 posts/month (posts erroring \"account limit\")",
-   "releasedAt": "2026-10-08T14:11:27.693961+05:00",
+   "releasedAt": "2026-10-14T23:10:00+05:00",
    "note": "retry 2026-10-14: Make History shows no upload was created (001-f download hit Make 5 MB limit on Metricool file; 001-e never reached upload). Re-queued from repo copy.",
    "file_metricool": "https://static.metricool.com/planner/202610/7133423-file-13688635039506949117.mp4",
    "retries": 1,
@@ -39,7 +39,7 @@
     "reason": "Generic synthetic narrator (not imitating a real person), original charts/text graphics, original code-generated background music; no real person shown saying anything, no altered real footage, no realistic invented scenes."
    },
    "laneNote": "moved from Metricool 2026-10-08: Metricool free plan hit 20 posts/month (posts erroring \"account limit\")",
-   "releasedAt": "2026-10-09T18:48:09.101141+05:00",
+   "releasedAt": "2026-10-14T23:10:00+05:00",
    "results": [
     {
      "at": "2026-10-09T21:00:29.193815+05:00",
@@ -118,7 +118,7 @@
    "title": "Customers pulled $40 billion from Silicon Valley Bank in one day #Shorts",
    "file": "002/002-svb-short-a-make.mp4",
    "lane": "make",
-   "status": "paused-unverified",
+   "status": "released",
    "description": "Customers pulled $40 billion from Silicon Valley Bank in one day #Shorts\n\nThe size of the 2023 run on Silicon Valley Bank, from the Federal Reserve's review.\n\nFull episode: \"Silicon Valley Bank: $40 Billion Gone in One Day\" on Filed Under Failure: https://youtu.be/5fPvAEfxo6w\nSources: Federal Reserve Board, Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank (28 Apr 2023); Federal Reserve Board, Executive Summary of the review (28 Apr 2023); Federal Reserve Board press release on the review's results (28 Apr 2023) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #SiliconValleyBank #SVBcollapse #bankrun",
    "metricoolUuid": "6470601755274134589",
    "altered": {
@@ -127,8 +127,7 @@
    },
    "laneNote": "moved from Metricool 2026-10-08: Metricool free plan hit 20 posts/month (posts erroring \"account limit\")",
    "file_original": "002/002-svb-short-a.mp4",
-   "releasedAt": "2026-10-14T23:05:52.140550+05:00",
-   "note": "no result from Make by 23:30 PKT; check Make History / YouTube Studio before any retry"
+   "releasedAt": "2026-10-14T23:05:52+05:00"
   },
   {
    "id": "002-b",
@@ -138,7 +137,7 @@
    "title": "94% of Silicon Valley Bank's deposits were uninsured #Shorts",
    "file": "002/002-svb-short-b.mp4",
    "lane": "make",
-   "status": "paused-unverified",
+   "status": "released",
    "description": "94% of Silicon Valley Bank's deposits were uninsured #Shorts\n\nWhy Silicon Valley Bank's depositors had so much reason to run, from the Federal Reserve's review.\n\nFull episode: \"Silicon Valley Bank: $40 Billion Gone in One Day\" on Filed Under Failure: https://youtu.be/5fPvAEfxo6w\nSources: Federal Reserve Board, Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank (28 Apr 2023); Federal Reserve Board, Executive Summary of the review (28 Apr 2023); Federal Reserve Board press release on the review's results (28 Apr 2023) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #SiliconValleyBank #SVBcollapse #bankrun",
    "metricoolUuid": "-8354077937466260567",
    "altered": {
@@ -146,8 +145,7 @@
     "reason": "Generic synthetic narrator (not imitating a real person), original charts/text graphics, original code-generated background music; no real person shown saying anything, no altered real footage, no realistic invented scenes."
    },
    "laneNote": "moved from Metricool 2026-10-08: Metricool free plan hit 20 posts/month (posts erroring \"account limit\")",
-   "releasedAt": "2026-10-14T23:05:52.140550+05:00",
-   "note": "no result from Make by 23:30 PKT; check Make History / YouTube Studio before any retry"
+   "releasedAt": "2026-10-14T23:05:52+05:00"
   },
   {
    "id": "002-c",
@@ -157,7 +155,7 @@
    "title": "Silicon Valley Bank had 31 open supervisory findings when it failed #Shorts",
    "file": "002/002-svb-short-c-make.mp4",
    "lane": "make",
-   "status": "paused-unverified",
+   "status": "released",
    "description": "Silicon Valley Bank had 31 open supervisory findings when it failed #Shorts\n\nWhat the Federal Reserve's supervisors found at Silicon Valley Bank, and what happened next.\n\nFull episode: \"Silicon Valley Bank: $40 Billion Gone in One Day\" on Filed Under Failure: https://youtu.be/5fPvAEfxo6w\nSources: Federal Reserve Board, Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank (28 Apr 2023); Federal Reserve Board, Executive Summary of the review (28 Apr 2023); Federal Reserve Board press release on the review's results (28 Apr 2023) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #SiliconValleyBank #SVBcollapse #bankrun",
    "metricoolUuid": "1469044956930460231",
    "altered": {
@@ -166,8 +164,7 @@
    },
    "laneNote": "moved from Metricool 2026-10-08: Metricool free plan hit 20 posts/month (posts erroring \"account limit\")",
    "file_original": "002/002-svb-short-c.mp4",
-   "releasedAt": "2026-10-14T23:05:52.140550+05:00",
-   "note": "no result from Make by 23:30 PKT; check Make History / YouTube Studio before any retry"
+   "releasedAt": "2026-10-14T23:05:52+05:00"
   },
   {
    "id": "002-d",
