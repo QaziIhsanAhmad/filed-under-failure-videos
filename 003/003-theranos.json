@@ -1,0 +1,1606 @@
+{
+ "slug": "003-theranos",
+ "title": "Theranos: What the Jury Actually Decided",
+ "voice": "bm_george",
+ "speed": 0.95,
+ "summary": "Theranos collapse explained from court and regulator records.\nA jury convicted Elizabeth Holmes of defrauding investors, and acquitted her of defrauding patients. Using the Ninth Circuit's February 2025 opinion, the SEC's 2018 charges, the federal lab regulator's findings and reporting on the verdict and sentence, we show what the court record actually established: 12 tests on the Edison out of 300 developed, demos running a 'null protocol', drug-company logos added to reports, and a projected $230m profit against $1.94m of reported income.\n\nContext: A24's documentary 'You Can See Everything' (Nathan Fielder and Lance Oppenheim) about Holmes opens in US cinemas in October 2026. This episode is independent of the film and uses no footage, stills or quotes from it; it sticks to the court and regulator record.",
+ "thumb": [
+  "GUILTY: 4",
+  "ACQUITTED: 4",
+  "VERDICT",
+  "THERANOS"
+ ],
+ "tags": [
+  "Theranos",
+  "Elizabeth Holmes",
+  "Theranos verdict",
+  "Sunny Balwani",
+  "business documentary",
+  "fraud trial",
+  "Silicon Valley",
+  "what went wrong"
+ ],
+ "sources": [
+  "US Court of Appeals for the Ninth Circuit, United States v. Holmes & Balwani, Nos. 22-10312, 22-10338, opinion filed 24 Feb 2025: https://cdn.ca9.uscourts.gov/datastore/opinions/2025/02/24/22-10312.pdf",
+  "SEC press release 2018-41, 'Theranos, CEO Holmes, and Former President Balwani Charged With Massive Fraud' (14 Mar 2018): https://www.sec.gov/news/press-release/2018-41",
+  "ABA Journal, 'Jury finds blood-testing company Theranos CEO Holmes guilty of fraud' (Jan 2022): https://abajournal.com/news/article/jury-finds-blood-testing-company-theranos-ceo-holmes-guilty-of-fraud",
+  "CNBC via NBC, 'Theranos founder Elizabeth Holmes sentenced to more than 11 years in prison' (18 Nov 2022): https://www.nbcdfw.com/news/business/money-report/former-theranos-ceo-elizabeth-holmes-sentenced-to-more-than-11-years-in-prison/3129509/",
+  "MedCity News, CMS sanctions on Theranos (8 Jul 2016): https://medcitynews.com/2016/07/cms-fines-theranos/",
+  "Bloomberg Law, 'Elizabeth Holmes gets a year knocked off her prison sentence' (26 Mar 2026): https://news.bgov.com/health-law-and-business/elizabeth-holmes-gets-a-year-knocked-off-her-prison-sentence"
+ ],
+ "notes": {
+  "alt_titles": [
+   "Theranos: Guilty on Investors, Not Guilty on Patients",
+   "Theranos: 300 Tests Promised, 12 Delivered"
+  ],
+  "trend_pilot": "e003 trend pilot pegged to A24's 'You Can See Everything' (US release Oct 2026); film mentioned only in the description."
+ },
+ "altered": {
+  "disclose": false,
+  "reason": "Generic synthetic narrator (Kokoro bm_george) not imitating any real person; quotes are attributed by the narrator and shown as on-screen text; original code-generated charts, text graphics and music; no realistic synthetic imagery or altered real footage."
+ },
+ "scenes": [
+  {
+   "say": "A United States appeals court has described the grandiose achievements touted by Elizabeth Holmes and her business partner as, in its words, half-truths and outright lies.",
+   "visual": {
+    "type": "quote",
+    "text": "The grandiose achievements touted by Holmes and Balwani were half-truths and outright lies.",
+    "by": "US Court of Appeals, Ninth Circuit, Feb 2025",
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025",
+   "chapter": "Cold open"
+  },
+  {
+   "say": "Their company, Theranos, claimed it could run fast, accurate blood tests from a single drop. Private investors once valued it at nine billion dollars.",
+   "visual": {
+    "type": "stat",
+    "value": "$9bn",
+    "label": "Theranos's peak private valuation",
+    "src": "CNBC (via NBC), 18 Nov 2022"
+   },
+   "src": "CNBC (via NBC), 18 Nov 2022"
+  },
+  {
+   "say": "Yet when a jury weighed the evidence against Holmes, it did something many people still don't realise. It convicted her of defrauding investors, and acquitted her of defrauding patients.",
+   "visual": {
+    "type": "stats",
+    "items": [
+     [
+      "4",
+      "guilty: investor counts"
+     ],
+     [
+      "4",
+      "not guilty: patient counts"
+     ],
+     [
+      "3",
+      "no verdict"
+     ]
+    ],
+    "hi": 0,
+    "src": "ABA Journal, 4 Jan 2022; Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "ABA Journal, 4 Jan 2022; Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "So what exactly did the court record establish? And why did the case that sent her to prison turn on investors, not on the people whose blood was tested?",
+   "visual": {
+    "type": "title",
+    "text": "What did the jury actually decide?"
+   },
+   "pause": 0.8
+  },
+  {
+   "say": "Today we go through the paperwork: the indictment, the verdicts, the regulators' findings and the appeals court's opinion. And later, the one decision Theranos made that the trial judge treated as an admission.",
+   "visual": {
+    "type": "document",
+    "header": "Court of Appeals, 24 Feb 2025",
+    "title": "United States v. Holmes",
+    "lines": [
+     "Nos. 22-10312 and 22-10338",
+     "!Convictions, sentences and $452m restitution affirmed"
+    ],
+    "stamp": "ON RECORD",
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "Chapter one. One tiny drop.",
+   "visual": {
+    "type": "chapter",
+    "n": 1,
+    "text": "One tiny drop"
+   },
+   "chapter": "One tiny drop",
+   "pause": 0.6
+  },
+  {
+   "say": "Holmes founded Theranos in 2003 and ran it as chief executive until 2018. The appeals court opened its opinion with the vision she sold: one tiny drop changes everything.",
+   "visual": {
+    "type": "quote",
+    "text": "One tiny drop changes everything.",
+    "by": "The Theranos vision, quoted by the Ninth Circuit",
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "The idea was to replace the needle in the vein with a prick of the finger. Blood would go into tiny tubes called nanotainers, and be tested on Theranos's own miniature machine.",
+   "visual": {
+    "type": "list",
+    "title": "The pitch",
+    "items": [
+     "A fingerstick instead of a vein",
+     "Tiny 'nanotainer' tubes",
+     "Tests on Theranos's own device"
+    ],
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "That machine was called the Edison. Of all the devices Theranos developed under Holmes, the appeals court said it was the only one ever used to test patient samples.",
+   "visual": {
+    "type": "document",
+    "header": "Ninth Circuit opinion",
+    "title": "The Edison",
+    "lines": [
+     "Also called the '3.5' or 'TPS'",
+     "!The only Theranos device ever used to test patient samples"
+    ],
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "In 2009, Ramesh 'Sunny' Balwani joined, later becoming president and chief operating officer. The court records that he and Holmes were in a romantic relationship from 2004 to 2016.",
+   "visual": {
+    "type": "timeline",
+    "date": "2009",
+    "text": "Balwani joins; later President and COO",
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "Evidence at both trials showed Balwani oversaw the patient-testing lab and the deals with Safeway and Walgreens. But Holmes admitted that, as chief executive, ultimately all roads led to her.",
+   "visual": {
+    "type": "document",
+    "header": "Ninth Circuit opinion",
+    "title": "Who ran what",
+    "lines": [
+     "Balwani: the lab, Safeway, Walgreens",
+     "!Holmes: 'ultimately all roads' led to her as CEO"
+    ],
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "In 2010, Theranos partnered with Walgreens to test patients in its pharmacies. The public launch came in the autumn of 2013.",
+   "visual": {
+    "type": "timeline",
+    "date": "Autumn 2013",
+    "text": "Theranos testing launches at Walgreens",
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "Now, the number that matters most. Theranos developed 300 small-sample tests while Holmes ran it. Only twelve were ever run on the Edison.",
+   "visual": {
+    "type": "bars",
+    "title": "Tests developed vs tests run on the Edison",
+    "items": [
+     [
+      "Small-sample assays developed",
+      300,
+      "300"
+     ],
+     [
+      "Ever run on the Edison",
+      12,
+      "12"
+     ]
+    ],
+    "hi": 1,
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "Other general chemistry tests ran on machines made by other manufacturers, some modified by Theranos. Holmes and Balwani pushed lab staff to move more tests onto the Edison, despite their concerns about its accuracy.",
+   "visual": {
+    "type": "list",
+    "title": "Where the tests actually ran",
+    "items": [
+     "12 assays on the Edison",
+     "General chemistry on third-party machines",
+     "Some of those machines modified by Theranos"
+    ],
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "Chapter two. The demo room.",
+   "visual": {
+    "type": "chapter",
+    "n": 2,
+    "text": "The demo room"
+   },
+   "chapter": "The demo room",
+   "pause": 0.6
+  },
+  {
+   "say": "Former employees testified at both trials that the Edison consistently failed quality control checks and was unable to provide accurate results.",
+   "visual": {
+    "type": "document",
+    "header": "Trial testimony, as summarised by the court",
+    "title": "The Edison in the lab",
+    "lines": [
+     "!Consistently failed quality control checks",
+     "Unable to provide accurate results"
+    ],
+    "stamp": "FAILED QC",
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "According to the court, they told Holmes and Balwani in real time. Those concerns were dismissed, or the blame was shifted away from the device.",
+   "visual": {
+    "type": "title",
+    "text": "Warnings, in real time",
+    "sub": "Concerns dismissed, or blamed on something other than the device",
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "One laboratory director, Dr Mark Pandori, testified that the failure rate of the controls on the Edisons was notably higher than on the equipment he was used to.",
+   "visual": {
+    "type": "quote",
+    "text": "...failure rate of the controls on the Edisons was notably higher than what [he] would see on the assay equipment with which [he] had familiarity.",
+    "by": "Dr Mark Pandori's testimony, per the Ninth Circuit",
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "He also raised proficiency testing, the regulatory check meant to be a neutral way to judge a test's quality. At Theranos, those checks ran on third-party machines, while real patient samples ran on Theranos devices.",
+   "visual": {
+    "type": "list",
+    "title": "Proficiency testing",
+    "items": [
+     "Regulatory checks: third-party machines",
+     "Real patient samples: Theranos devices"
+    ],
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "Then there were the visitors. Employees testified that VIP guests, including investors, were shown into a room with an Edison or a minilab, and led to believe it was testing their blood.",
+   "visual": {
+    "type": "title",
+    "text": "A machine in the room",
+    "kicker": "VIP demonstrations",
+    "sub": "Guests were led to believe it was running their blood",
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "In reality, the court said, the device was running a null protocol, while some of those samples were secretly run on third-party machines.",
+   "visual": {
+    "type": "document",
+    "header": "Ninth Circuit opinion",
+    "title": "The demo",
+    "lines": [
+     "!Device running a 'null protocol'",
+     "Some VIP samples run on third-party devices"
+    ],
+    "stamp": "NULL",
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "Several investors testified that Holmes and Balwani led them to believe Theranos ran its tests only on its own devices, and that the truth would have affected their decision to invest.",
+   "visual": {
+    "type": "list",
+    "title": "What investors said they were told",
+    "items": [
+     "Tests ran solely on Theranos devices",
+     "The truth would have changed their decision"
+    ],
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "Chapter three. What investors were told.",
+   "visual": {
+    "type": "chapter",
+    "n": 3,
+    "text": "What investors were told"
+   },
+   "chapter": "What investors were told",
+   "pause": 0.6
+  },
+  {
+   "say": "After the Walgreens launch, Theranos sold new shares. Three investors bought in late 2013, and three more in 2014. Each purchase became a separate fraud count.",
+   "visual": {
+    "type": "timeline",
+    "date": "2013 to 2014",
+    "text": "Six investors buy shares; each becomes a count",
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "The indictment grouped the alleged misstatements into seven categories.",
+   "visual": {
+    "type": "list",
+    "title": "Seven categories of alleged misstatement",
+    "items": [
+     "The device's capabilities",
+     "Financial health",
+     "Technology demonstrations",
+     "The Walgreens relationship",
+     "Work with the US military",
+     "Use of third-party devices",
+     "Drug-company 'validation'"
+    ],
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "Start with the money. Theranos's corporate controller testified the company had no revenue in 2012 or 2013, and net losses of 57 million and 92 million dollars.",
+   "visual": {
+    "type": "bars",
+    "title": "Theranos net losses",
+    "items": [
+     [
+      "2012",
+      57,
+      "$57m"
+     ],
+     [
+      "2013",
+      92,
+      "$92m"
+     ]
+    ],
+    "hi": 1,
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "In November 2013, Balwani told Holmes the company was down to 15 million dollars in cash, while spending up to two million dollars a week. By our arithmetic, that is about seven weeks of money.",
+   "visual": {
+    "type": "stats",
+    "items": [
+     [
+      "$15m",
+      "cash left, Nov 2013"
+     ],
+     [
+      "$2m",
+      "spent per week"
+     ],
+     [
+      "~7",
+      "weeks of cash (our calculation)"
+     ]
+    ],
+    "hi": 2,
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "What did investors see? One, Lisa Peterson, testified that the financial documents she received projected a profit of 230 million dollars by the end of 2015.",
+   "visual": {
+    "type": "stat",
+    "value": "$230m",
+    "red": true,
+    "label": "Projected 2015 profit, shown to an investor",
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "Another, Brian Grossman, testified he was told Theranos had generated 200 million dollars of revenue from the Department of Defense.",
+   "visual": {
+    "type": "stat",
+    "value": "$200m",
+    "label": "Revenue from the US military, as an investor said he was told",
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "And the reality? In 2015, Theranos reported total income of about one point nine four million dollars to the US tax authorities.",
+   "visual": {
+    "type": "bars",
+    "title": "2015: projected profit vs reported income",
+    "items": [
+     [
+      "Projected profit (investor documents)",
+      230,
+      "$230m"
+     ],
+     [
+      "Total income reported to the IRS",
+      1.94,
+      "$1.94m"
+     ]
+    ],
+    "hi": 1,
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "The Securities and Exchange Commission alleged something similar for 2014: a claim of more than 100 million dollars in revenue, against a little more than 100,000 dollars from operations.",
+   "visual": {
+    "type": "stats",
+    "items": [
+     [
+      ">$100m",
+      "2014 revenue claimed"
+     ],
+     [
+      "~$100k",
+      "2014 revenue from operations"
+     ]
+    ],
+    "hi": 1,
+    "src": "SEC press release 2018-41, Mar 2018"
+   },
+   "src": "SEC press release 2018-41, Mar 2018"
+  },
+  {
+   "say": "Then the military. Theranos did have a relationship with the Department of Defense, to explore using the Edison in combat settings. The appeals court said that never materialised.",
+   "visual": {
+    "type": "title",
+    "text": "Explored, never deployed",
+    "kicker": "Department of Defense",
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "On a recorded investor call in December 2013, Holmes said Theranos had been doing a lot of work for special operations command, in the context of missions in remote areas.",
+   "visual": {
+    "type": "quote",
+    "text": "we have also been doing a lot of work for special operations command in the context of missions in remote areas",
+    "by": "Holmes, investor call, Dec 2013 (trial recording)",
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "But General James Mattis testified that the device was never put into the field by the military, never installed on a medevac, and never used to treat service members on the battlefield.",
+   "visual": {
+    "type": "list",
+    "title": "General Mattis's testimony",
+    "items": [
+     "Never put into the field",
+     "Never installed on a military medevac",
+     "Never used to treat troops on the battlefield"
+    ],
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "Then the logos. A Pfizer representative testified that after 2008, Pfizer and Theranos had no meaningful business dealings.",
+   "visual": {
+    "type": "timeline",
+    "date": "2008",
+    "text": "Pfizer: no meaningful dealings after this",
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "Yet Holmes admitted she personally put the logos of drug companies, including Pfizer, GlaxoSmithKline and Schering-Plough, on reports with favourable conclusions about the Theranos device.",
+   "visual": {
+    "type": "document",
+    "header": "Reports shared with investors",
+    "title": "The logos",
+    "lines": [
+     "Pfizer, GlaxoSmithKline, Schering-Plough",
+     "!Logos affixed by Holmes herself, she admitted"
+    ],
+    "stamp": "NOT AUTHORISED",
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "In emails to Walgreens, she described those reports as the companies' independent validation. Their representatives testified they had neither validated the technology nor authorised their logos.",
+   "visual": {
+    "type": "list",
+    "title": "What the drug companies said",
+    "items": [
+     "Did not independently validate the technology",
+     "Did not authorise use of their logos"
+    ],
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "And Walgreens itself? Its representative testified that while investors heard the partnership was expanding, it was contracting, partly because so many blood draws were taken from the vein, not the finger.",
+   "visual": {
+    "type": "document",
+    "header": "Walgreens testimony, per the court",
+    "title": "The partnership",
+    "lines": [
+     "Investors told: expanding",
+     "!Reality: contracting",
+     "Many draws venous, not fingerstick"
+    ],
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "Chapter four. The regulators arrive.",
+   "visual": {
+    "type": "chapter",
+    "n": 4,
+    "text": "The regulators arrive"
+   },
+   "chapter": "The regulators arrive",
+   "pause": 0.6
+  },
+  {
+   "say": "In late 2015, news reporting revealed problems inside the Theranos lab. Around then, the federal agency that oversees testing laboratories carried out an unannounced inspection.",
+   "visual": {
+    "type": "timeline",
+    "date": "Late 2015",
+    "text": "Press reports; unannounced federal inspection",
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "That agency, the Centers for Medicare and Medicaid Services, concluded that deficiencies in the lab presented immediate jeopardy to patient health.",
+   "visual": {
+    "type": "document",
+    "header": "CMS inspection report, per the court",
+    "title": "Findings",
+    "lines": [
+     "!Deficiencies presented 'immediate jeopardy' to patient health",
+     "Quality control failures on Edison and third-party devices"
+    ],
+    "stamp": "JEOPARDY",
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "In March 2016, Holmes hired a new laboratory director, Dr Kingshuk Das, to respond. His team went back through the Edison's quality-control data for 2014 and 2015.",
+   "visual": {
+    "type": "title",
+    "text": "A new lab director looks back",
+    "kicker": "March 2016",
+    "sub": "Edison quality-control data, 2014 and 2015",
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "Their written assessment concluded there was a possible patient impact for every test reported from the lab's Edison instruments. Das testified he found the device unsuitable for clinical use.",
+   "visual": {
+    "type": "quote",
+    "text": "there [was] a possible patient impact for every test reported from the laboratory's TPS 3.5 [Edison] instruments",
+    "by": "Theranos patient impact assessment",
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "When he raised it, Das said, Holmes blamed laboratory control failures rather than the device. He found that explanation unsatisfying.",
+   "visual": {
+    "type": "title",
+    "text": "'Not the device'",
+    "sub": "Das testified that Holmes blamed lab control failures; he found that unsatisfying",
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "Then came the decision we promised. Theranos voided all of its patient test results from the Edison.",
+   "visual": {
+    "type": "stat",
+    "value": "ALL",
+    "red": true,
+    "label": "Edison patient test results voided",
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "Holmes argued it was a precaution that should not be used against her. The trial judge let the evidence in, and the appeals court found no abuse of discretion.",
+   "visual": {
+    "type": "list",
+    "title": "The voiding fight",
+    "items": [
+     "Holmes: a precaution, so inadmissible",
+     "Trial judge: admitted it",
+     "Appeals court: no abuse of discretion"
+    ],
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "The appeals court said the trial judge reasonably concluded that voiding every Edison result was an admission by Theranos, and by extension Holmes, that the results were, and always had been, unreliable.",
+   "visual": {
+    "type": "quote",
+    "text": "the decision to void every single patient test result generated by the Edison is an admission by Theranos, and by extension Holmes, that the test results were, and always had been, unreliable",
+    "by": "Ninth Circuit, on the trial judge's reasoning",
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "In July 2016, Theranos disclosed the agency's sanctions: its Newark lab's certificate would be revoked, and Holmes would be barred from owning or operating a lab for two years.",
+   "visual": {
+    "type": "document",
+    "header": "CMS sanctions, July 2016",
+    "title": "Newark lab",
+    "lines": [
+     "!Lab certificate to be revoked",
+     "Holmes barred from owning or operating a lab for two years",
+     "Undisclosed civil fine"
+    ],
+    "src": "MedCity News, 8 Jul 2016"
+   },
+   "src": "MedCity News, 8 Jul 2016"
+  },
+  {
+   "say": "In March 2018, the Securities and Exchange Commission charged Theranos, Holmes and Balwani with what it called a massive fraud, raising more than 700 million dollars from investors.",
+   "visual": {
+    "type": "stat",
+    "value": "$700m+",
+    "red": true,
+    "label": "Raised, in what the SEC called a massive fraud",
+    "src": "SEC press release 2018-41, Mar 2018"
+   },
+   "src": "SEC press release 2018-41, Mar 2018"
+  },
+  {
+   "say": "Holmes settled without admitting or denying the allegations. She agreed to a 500,000 dollar penalty, a ten-year bar as a public company officer or director, to return eighteen point nine million shares, and to give up voting control.",
+   "visual": {
+    "type": "list",
+    "title": "Holmes's SEC settlement",
+    "items": [
+     "$500,000 penalty",
+     "10-year officer and director bar",
+     "Return 18.9 million shares",
+     "Give up majority voting control"
+    ],
+    "src": "SEC press release 2018-41, Mar 2018"
+   },
+   "src": "SEC press release 2018-41, Mar 2018"
+  },
+  {
+   "say": "Chapter five. What the jury decided.",
+   "visual": {
+    "type": "chapter",
+    "n": 5,
+    "text": "What the jury decided"
+   },
+   "chapter": "What the jury decided",
+   "pause": 0.6
+  },
+  {
+   "say": "After a two and a half year investigation, a grand jury indicted Holmes and Balwani. The final indictment had two halves. The first alleged a conspiracy against investors from 2010 to 2015, plus six counts of wire fraud, one per investor.",
+   "visual": {
+    "type": "document",
+    "header": "Third Superseding Indictment",
+    "title": "The investor half",
+    "lines": [
+     "Count 1: conspiracy against investors, 2010-2015",
+     "!Counts 3-8: wire fraud, six investors"
+    ],
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "The second alleged a conspiracy against patients from 2013 to 2016, and four counts of wire fraud involving patients.",
+   "visual": {
+    "type": "document",
+    "header": "Third Superseding Indictment",
+    "title": "The patient half",
+    "lines": [
+     "Count 2: conspiracy against patients, 2013-2016",
+     "!Counts 9-12: wire fraud, patients"
+    ],
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "Patients testified. One said a Theranos HIV test came back positive, but two later tests showed she was negative. Another said she received an incorrect result about her pregnancy.",
+   "visual": {
+    "type": "list",
+    "title": "Patient testimony",
+    "items": [
+     "HIV test positive; two later tests negative",
+     "An incorrect pregnancy result"
+    ],
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "The court tried the two separately, after Holmes made allegations of abuse by Balwani in their personal relationship. Holmes went first, in late 2021. Each trial lasted nearly four months.",
+   "visual": {
+    "type": "timeline",
+    "date": "Late 2021",
+    "text": "Holmes's trial: nearly four months",
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "On the third of January 2022, after seven days of deliberation, the jury returned a split verdict.",
+   "visual": {
+    "type": "timeline",
+    "date": "3 Jan 2022",
+    "text": "Split verdict after seven days",
+    "src": "ABA Journal, 4 Jan 2022"
+   },
+   "src": "ABA Journal, 4 Jan 2022"
+  },
+  {
+   "say": "Guilty: the investor conspiracy, and wire fraud against the three investors who bought shares in 2014.",
+   "visual": {
+    "type": "document",
+    "header": "Verdict, United States v. Holmes",
+    "title": "Guilty",
+    "lines": [
+     "Count 1: investor conspiracy",
+     "!Counts 6-8: three 2014 investors"
+    ],
+    "stamp": "GUILTY",
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "Not guilty: the patient conspiracy, and the three remaining patient counts. Prosecutors had dropped the fourth. And on the three late-2013 investors, the jury could not agree.",
+   "visual": {
+    "type": "document",
+    "header": "Verdict, United States v. Holmes",
+    "title": "Not guilty, or no verdict",
+    "lines": [
+     "Not guilty: Count 2 and Counts 10-12 (patients)",
+     "Count 9 dismissed by the government",
+     "!No verdict: Counts 3-5 (late-2013 investors)"
+    ],
+    "stamp": "SPLIT",
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "In a separate trial in 2022, another jury convicted Balwani on all twelve counts, including every patient count.",
+   "visual": {
+    "type": "stats",
+    "items": [
+     [
+      "4 of 11",
+      "counts: Holmes guilty"
+     ],
+     [
+      "12 of 12",
+      "counts: Balwani guilty"
+     ]
+    ],
+    "hi": 1,
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "Why the difference? A verdict doesn't give reasons, and we won't guess what jurors thought. The appeals court does record that evidence linked Balwani to sending the inaccurate results and to buying adverts for Theranos clinics in Arizona, and that Holmes's December 2013 investor call was not played at his trial.",
+   "visual": {
+    "type": "document",
+    "header": "Ninth Circuit opinion",
+    "title": "What the court records",
+    "lines": [
+     "!Evidence linked Balwani to the inaccurate results",
+     "And to adverts for Theranos Wellness Centers in Arizona",
+     "Holmes's Dec 2013 call was not played at his trial"
+    ],
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "Chapter six. Prison and appeal.",
+   "visual": {
+    "type": "chapter",
+    "n": 6,
+    "text": "Prison and appeal"
+   },
+   "chapter": "Prison and appeal",
+   "pause": 0.6
+  },
+  {
+   "say": "At sentencing, the judge found a loss of 120 million dollars and ten or more victims. That produced a guideline range of 135 to 168 months.",
+   "visual": {
+    "type": "stats",
+    "items": [
+     [
+      "$120m",
+      "loss found at sentencing"
+     ],
+     [
+      "10+",
+      "victims"
+     ],
+     [
+      "135",
+      "months: bottom of the range"
+     ]
+    ],
+    "hi": 0,
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "On the eighteenth of November 2022, Holmes was sentenced to 135 months. Eleven years and three months.",
+   "visual": {
+    "type": "stat",
+    "value": "135",
+    "red": true,
+    "label": "months in prison for Holmes",
+    "sub": "Sentenced 18 November 2022",
+    "src": "CNBC (via NBC), 18 Nov 2022"
+   },
+   "src": "CNBC (via NBC), 18 Nov 2022"
+  },
+  {
+   "say": "In court, according to CNBC, Holmes told the judge she was devastated by her failings, and apologised to investors and patients.",
+   "visual": {
+    "type": "quote",
+    "text": "I am devastated by my failings.",
+    "by": "Holmes at sentencing, as reported by CNBC",
+    "src": "CNBC (via NBC), 18 Nov 2022"
+   },
+   "src": "CNBC (via NBC), 18 Nov 2022"
+  },
+  {
+   "say": "Balwani received 155 months. In May 2023, the court ordered the two of them, jointly, to pay 452 million dollars in restitution.",
+   "visual": {
+    "type": "stats",
+    "items": [
+     [
+      "155",
+      "months for Balwani"
+     ],
+     [
+      "$452m",
+      "joint restitution"
+     ]
+    ],
+    "hi": 1,
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "That included 397 million dollars for twelve investors, and fifty four and a half million for two corporate victims: Safeway and Walgreens.",
+   "visual": {
+    "type": "bars",
+    "title": "Restitution, May 2023",
+    "items": [
+     [
+      "Twelve investors",
+      397,
+      "$397m"
+     ],
+     [
+      "Safeway and Walgreens",
+      54.5,
+      "$54.5m"
+     ]
+    ],
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "Both appealed. On the twenty-fourth of February 2025, the Ninth Circuit Court of Appeals affirmed the convictions, the sentences and the restitution order.",
+   "visual": {
+    "type": "timeline",
+    "date": "24 Feb 2025",
+    "text": "Ninth Circuit affirms convictions and sentences",
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "It did accept part of one complaint: some testimony from three former lab directors amounted to expert opinion, without the usual checks on expert evidence.",
+   "visual": {
+    "type": "document",
+    "header": "Ninth Circuit opinion",
+    "title": "Partly right",
+    "lines": [
+     "!Parts of lab directors' testimony were expert opinion",
+     "But any error was harmless"
+    ],
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "But it called the error harmless. All three would easily have qualified as experts. And for Dr Das, other employees described the same problems, and the technology was only one of many kinds of misrepresentation the government presented evidence of.",
+   "visual": {
+    "type": "list",
+    "title": "Why it was harmless",
+    "items": [
+     "All three would have qualified as experts",
+     "Others described the same problems",
+     "Technology was one of many alleged misstatements"
+    ],
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "It also said the trial judge should have considered whether the shares kept any value. Again, harmless: the investors could not sell them, so for restitution, their loss was everything they put in.",
+   "visual": {
+    "type": "stat",
+    "value": "100%",
+    "label": "of each investment counted for restitution",
+    "sub": "Investors were unable to sell their shares",
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "One more twist. In March 2026, Holmes's sentence was cut by a year, under a 2023 change for people with no criminal history. The judge wrote that this did not diminish the enormity of her crimes.",
+   "visual": {
+    "type": "quote",
+    "text": "this sentence reduction does not diminish the enormity of Holmes's crimes",
+    "by": "Sentencing judge's order, Mar 2026 (Bloomberg Law)",
+    "src": "Bloomberg Law, 26 Mar 2026"
+   },
+   "src": "Bloomberg Law, 26 Mar 2026"
+  },
+  {
+   "say": "Chapter seven. Our analysis.",
+   "visual": {
+    "type": "chapter",
+    "n": 7,
+    "text": "Our analysis"
+   },
+   "chapter": "Our analysis",
+   "pause": 0.6
+  },
+  {
+   "say": "So what did the jury actually decide? It did not convict Holmes of defrauding patients. It convicted her of defrauding investors, specifically the three who put money in during 2014, and of conspiring to do so.",
+   "visual": {
+    "type": "title",
+    "text": "What the jury decided",
+    "sub": "Guilty of defrauding investors. Not guilty of defrauding patients.",
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "That matters. The popular story of Theranos is about a machine that didn't work. The legal story, as we read it, is narrower: it is about what investors were told.",
+   "visual": {
+    "type": "title",
+    "text": "Two stories",
+    "kicker": "Our view",
+    "sub": "Popular: a machine that didn't work. Legal: what investors were told."
+   }
+  },
+  {
+   "say": "Look at the list of misstatements the appeals court described: finances, third-party machines, Walgreens, the military and the drug-company logos. It said the lab director's testimony about the technology was not essential to proving any of them.",
+   "visual": {
+    "type": "list",
+    "title": "Claims the court said stood apart from the science",
+    "items": [
+     "Revenue and cash",
+     "Whose machines ran the tests",
+     "The Walgreens partnership",
+     "Military use",
+     "Drug-company 'validation'"
+    ],
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "In other words, you didn't need to understand blood chemistry to follow the case. You needed to compare what investors were shown with the company's own records.",
+   "visual": {
+    "type": "title",
+    "text": "Compare the pitch with the paperwork",
+    "kicker": "Our view"
+   }
+  },
+  {
+   "say": "Two hundred and thirty million dollars of projected profit, against under two million dollars of reported income. A military that never put the device into the field. Logos added by the chief executive herself.",
+   "visual": {
+    "type": "stats",
+    "items": [
+     [
+      "$230m",
+      "projected profit"
+     ],
+     [
+      "$1.94m",
+      "reported income"
+     ],
+     [
+      "0",
+      "times fielded (Mattis)"
+     ]
+    ],
+    "hi": 1,
+    "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+   },
+   "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+  },
+  {
+   "say": "Our view: the patient side shows how hard it can be to turn bad test results into a fraud conviction against a chief executive. The investor side shows what becomes provable when the claims are written down.",
+   "visual": {
+    "type": "title",
+    "text": "Harm is hard to prove. Words are not.",
+    "kicker": "Our view"
+   }
+  },
+  {
+   "say": "For founders, the lesson is not to stop dreaming. It is that every projection, every logo and every demo shown to an investor can become an exhibit.",
+   "visual": {
+    "type": "title",
+    "text": "Every pitch is a potential exhibit",
+    "kicker": "Our view"
+   }
+  },
+  {
+   "say": "And for the rest of us, it is a reminder to ask the simplest question of any miracle machine: whose machine is actually running the test?",
+   "visual": {
+    "type": "title",
+    "text": "Whose machine is running the test?"
+   },
+   "pause": 0.8
+  },
+  {
+   "say": "Every fact in this episode comes from the court record, the regulators and the reporting listed in the description, with each source on screen as we go.",
+   "visual": {
+    "type": "title",
+    "text": "Sources in the description",
+    "kicker": "Filed Under Failure",
+    "sub": "Court opinion, SEC, and the reporting cited on screen"
+   },
+   "chapter": "Outro"
+  },
+  {
+   "say": "If you want more collapses told from the paperwork, subscribe. Next week: the run on Northern Rock.",
+   "visual": {
+    "type": "title",
+    "text": "Next: Northern Rock",
+    "kicker": "Next week",
+    "sub": "The 2007 bank run"
+   }
+  }
+ ],
+ "shorts": [
+  {
+   "id": "a",
+   "hook": "Guilty. And not guilty.",
+   "title": "Elizabeth Holmes was convicted of defrauding investors, not patients #Shorts",
+   "blurb": "What the jury actually decided in the Theranos case, from the court record.",
+   "scenes": [
+    {
+     "say": "A jury convicted Elizabeth Holmes of defrauding Theranos investors, and acquitted her of defrauding patients.",
+     "visual": {
+      "type": "stats",
+      "items": [
+       [
+        "4",
+        "guilty: investors"
+       ],
+       [
+        "4",
+        "not guilty: patients"
+       ]
+      ],
+      "hi": 0,
+      "src": "ABA Journal, 4 Jan 2022"
+     },
+     "caption": "Guilty on investors. Not guilty on patients."
+    },
+    {
+     "say": "On the third of January 2022, after seven days of deliberation, it convicted her of an investor conspiracy and wire fraud against three investors.",
+     "visual": {
+      "type": "timeline",
+      "date": "3 Jan 2022",
+      "text": "Split verdict after seven days",
+      "src": "ABA Journal, 4 Jan 2022"
+     },
+     "caption": "3 January 2022: a split verdict"
+    },
+    {
+     "say": "On three more investor counts, the jurors could not agree.",
+     "visual": {
+      "type": "stat",
+      "value": "3",
+      "label": "counts with no verdict",
+      "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+     },
+     "caption": "Three counts: no verdict"
+    },
+    {
+     "say": "Her former business partner, Sunny Balwani, faced a separate jury. It convicted him on all twelve counts, patients included.",
+     "visual": {
+      "type": "stats",
+      "items": [
+       [
+        "4 of 11",
+        "Holmes"
+       ],
+       [
+        "12 of 12",
+        "Balwani"
+       ]
+      ],
+      "hi": 1,
+      "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+     },
+     "caption": "Balwani: guilty on all 12"
+    },
+    {
+     "say": "In 2025, an appeals court upheld both convictions. The full story is on our channel.",
+     "visual": {
+      "type": "title",
+      "text": "Convictions affirmed",
+      "kicker": "Feb 2025",
+      "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+     },
+     "caption": "Upheld on appeal, 2025"
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "hook": "300 tests. 12 ran.",
+   "title": "Theranos developed 300 blood tests. Only 12 ever ran on its own machine #Shorts",
+   "blurb": "The gap between Theranos's pitch and its lab, as found by the appeals court.",
+   "scenes": [
+    {
+     "say": "Theranos developed 300 small-sample blood tests while Elizabeth Holmes ran it. Only twelve were ever run on its own machine.",
+     "visual": {
+      "type": "bars",
+      "title": "Tests developed vs run on the Edison",
+      "items": [
+       [
+        "Developed",
+        300,
+        "300"
+       ],
+       [
+        "Run on the Edison",
+        12,
+        "12"
+       ]
+      ],
+      "hi": 1,
+      "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+     },
+     "caption": "300 developed. 12 run on its own machine."
+    },
+    {
+     "say": "That machine was the Edison, the only Theranos device ever used on patient samples.",
+     "visual": {
+      "type": "document",
+      "header": "Ninth Circuit opinion",
+      "title": "The Edison",
+      "lines": [
+       "!The only Theranos device used on patient samples"
+      ],
+      "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+     },
+     "caption": "The Edison"
+    },
+    {
+     "say": "Other general chemistry tests ran on machines made by other manufacturers, some modified by Theranos.",
+     "visual": {
+      "type": "list",
+      "title": "Where tests ran",
+      "items": [
+       "12 assays on the Edison",
+       "Other general chemistry tests: third-party machines"
+      ],
+      "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+     },
+     "caption": "Other tests ran on other companies' machines"
+    },
+    {
+     "say": "Several investors testified they were led to believe every test ran on Theranos's own devices. The full story is on our channel.",
+     "visual": {
+      "type": "list",
+      "title": "What investors said they were told",
+      "items": [
+       "Tests ran solely on Theranos devices"
+      ],
+      "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+     },
+     "caption": "Investors said they were told otherwise"
+    }
+   ]
+  },
+  {
+   "id": "c",
+   "hook": "The fake demo",
+   "title": "Theranos showed VIP investors a machine running a 'null protocol' #Shorts",
+   "blurb": "How Theranos demonstrations worked, according to trial testimony summarised by the appeals court.",
+   "scenes": [
+    {
+     "say": "According to employee testimony, when VIP guests visited Theranos, the machine in front of them was running a null protocol.",
+     "visual": {
+      "type": "document",
+      "header": "Ninth Circuit opinion",
+      "title": "The demo",
+      "lines": [
+       "!Device running a 'null protocol'"
+      ],
+      "stamp": "NULL",
+      "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+     },
+     "caption": "The machine ran a 'null protocol'"
+    },
+    {
+     "say": "Employees testified that guests, including investors, were led to believe the device was testing their blood.",
+     "visual": {
+      "type": "title",
+      "text": "A machine in the room",
+      "kicker": "VIP demonstrations",
+      "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+     },
+     "caption": "Guests thought it was testing their blood"
+    },
+    {
+     "say": "In reality, the court said, some of those samples were secretly run on third-party machines.",
+     "visual": {
+      "type": "list",
+      "title": "Where samples went",
+      "items": [
+       "Some VIP samples: third-party devices"
+      ],
+      "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+     },
+     "caption": "Samples went to other machines"
+    },
+    {
+     "say": "Investors testified that the truth would have affected their decision to invest. Holmes and Balwani were both convicted of defrauding investors. The full story is on our channel.",
+     "visual": {
+      "type": "title",
+      "text": "The truth mattered",
+      "sub": "Investors said it would have changed their decision",
+      "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+     },
+     "caption": "It would have changed their decision"
+    }
+   ]
+  },
+  {
+   "id": "d",
+   "hook": "Logos she added",
+   "title": "Holmes admitted she put Pfizer's logo on reports praising Theranos #Shorts",
+   "blurb": "The pharma 'validation' reports in the Theranos case, from the appeals court's account of the evidence.",
+   "scenes": [
+    {
+     "say": "Elizabeth Holmes admitted she personally put drug companies' logos on reports praising the Theranos device.",
+     "visual": {
+      "type": "document",
+      "header": "Reports shared with investors",
+      "title": "The logos",
+      "lines": [
+       "Pfizer, GlaxoSmithKline, Schering-Plough",
+       "!Affixed by Holmes, she admitted"
+      ],
+      "stamp": "NOT AUTHORISED",
+      "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+     },
+     "caption": "Logos added by Holmes herself"
+    },
+    {
+     "say": "They included Pfizer, GlaxoSmithKline and Schering-Plough.",
+     "visual": {
+      "type": "list",
+      "title": "Logos used",
+      "items": [
+       "Pfizer",
+       "GlaxoSmithKline",
+       "Schering-Plough"
+      ],
+      "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+     },
+     "caption": "Pfizer. GSK. Schering-Plough."
+    },
+    {
+     "say": "A Pfizer representative testified that after 2008, Pfizer and Theranos had no meaningful business dealings. Yet in emails to Walgreens, Holmes described the reports as the companies' independent validation.",
+     "visual": {
+      "type": "timeline",
+      "date": "2008",
+      "text": "Pfizer: no meaningful dealings after this",
+      "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+     },
+     "caption": "No meaningful dealings after 2008"
+    },
+    {
+     "say": "The companies testified they neither validated the technology nor authorised their logos. Investors saw the reports anyway. The full story is on our channel.",
+     "visual": {
+      "type": "list",
+      "title": "The drug companies said",
+      "items": [
+       "No independent validation",
+       "No permission for logos"
+      ],
+      "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+     },
+     "caption": "No validation. No permission."
+    }
+   ]
+  },
+  {
+   "id": "e",
+   "hook": "$230m vs $1.9m",
+   "title": "Theranos projected $230m profit. It reported $1.94m income #Shorts",
+   "blurb": "Theranos's projections versus its finances, from trial evidence described by the appeals court.",
+   "scenes": [
+    {
+     "say": "An investor testified that Theranos documents projected a profit of 230 million dollars by the end of 2015.",
+     "visual": {
+      "type": "stat",
+      "value": "$230m",
+      "red": true,
+      "label": "Projected 2015 profit",
+      "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+     },
+     "caption": "Projected: $230m profit"
+    },
+    {
+     "say": "In 2015, Theranos reported total income of about one point nine four million dollars to the US tax authorities.",
+     "visual": {
+      "type": "bars",
+      "title": "2015",
+      "items": [
+       [
+        "Projected profit",
+        230,
+        "$230m"
+       ],
+       [
+        "Reported income",
+        1.94,
+        "$1.94m"
+       ]
+      ],
+      "hi": 1,
+      "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+     },
+     "caption": "Reported: $1.94m income"
+    },
+    {
+     "say": "Its controller testified it had no revenue in 2012 or 2013, and lost 57 million and 92 million dollars.",
+     "visual": {
+      "type": "bars",
+      "title": "Net losses",
+      "items": [
+       [
+        "2012",
+        57,
+        "$57m"
+       ],
+       [
+        "2013",
+        92,
+        "$92m"
+       ]
+      ],
+      "hi": 1,
+      "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+     },
+     "caption": "Losses: $57m, then $92m"
+    },
+    {
+     "say": "By November 2013, it had 15 million dollars in cash, and was spending up to two million a week. The full story is on our channel.",
+     "visual": {
+      "type": "stats",
+      "items": [
+       [
+        "$15m",
+        "cash"
+       ],
+       [
+        "$2m",
+        "per week"
+       ]
+      ],
+      "hi": 0,
+      "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+     },
+     "caption": "$15m left. $2m a week."
+    }
+   ]
+  },
+  {
+   "id": "f",
+   "hook": "Never in the field",
+   "title": "Theranos told investors about military work. General Mattis testified otherwise #Shorts",
+   "blurb": "Theranos and the US military, from the trial testimony described by the appeals court.",
+   "scenes": [
+    {
+     "say": "General James Mattis testified that the Theranos device was never put into the field by the military.",
+     "visual": {
+      "type": "list",
+      "title": "General Mattis's testimony",
+      "items": [
+       "Never put into the field"
+      ],
+      "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+     },
+     "caption": "Never put into the field"
+    },
+    {
+     "say": "Never installed on a medevac. Never used to treat troops on the battlefield.",
+     "visual": {
+      "type": "list",
+      "title": "General Mattis's testimony",
+      "items": [
+       "Never put into the field",
+       "Never on a military medevac",
+       "Never used on the battlefield"
+      ],
+      "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+     },
+     "caption": "Never on a medevac"
+    },
+    {
+     "say": "Yet on a 2013 investor call, Elizabeth Holmes said Theranos had been doing a lot of work for special operations command.",
+     "visual": {
+      "type": "quote",
+      "text": "we have also been doing a lot of work for special operations command",
+      "by": "Holmes, investor call, Dec 2013 (trial recording)",
+      "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+     },
+     "caption": "What investors heard in 2013"
+    },
+    {
+     "say": "One investor testified he was told Theranos had made 200 million dollars from the Department of Defense. The full story is on our channel.",
+     "visual": {
+      "type": "stat",
+      "value": "$200m",
+      "label": "Military revenue an investor said he was told of",
+      "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+     },
+     "caption": "$200m claimed from the military"
+    }
+   ]
+  },
+  {
+   "id": "g",
+   "hook": "Every result voided",
+   "title": "Theranos voided every patient result from its own blood-testing machine #Shorts",
+   "blurb": "Why Theranos's decision to void its Edison results mattered in court.",
+   "scenes": [
+    {
+     "say": "Theranos voided all of its patient test results from its own Edison machine.",
+     "visual": {
+      "type": "stat",
+      "value": "ALL",
+      "red": true,
+      "label": "Edison patient results voided",
+      "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+     },
+     "caption": "Every Edison result: voided"
+    },
+    {
+     "say": "Its own review found a possible patient impact for every test reported from those instruments.",
+     "visual": {
+      "type": "quote",
+      "text": "a possible patient impact for every test reported from the laboratory's TPS 3.5 [Edison] instruments",
+      "by": "Theranos patient impact assessment",
+      "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+     },
+     "caption": "A possible impact on every test"
+    },
+    {
+     "say": "Holmes argued the voiding was a precaution and should be kept from the jury. The judge let it in.",
+     "visual": {
+      "type": "list",
+      "title": "The voiding fight",
+      "items": [
+       "Holmes: a precaution",
+       "Judge: admissible"
+      ],
+      "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+     },
+     "caption": "The judge let it in"
+    },
+    {
+     "say": "The appeals court said the judge reasonably saw it as an admission that the results had always been unreliable. The full story is on our channel.",
+     "visual": {
+      "type": "title",
+      "text": "An admission",
+      "sub": "That the results were, and always had been, unreliable",
+      "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+     },
+     "caption": "Always unreliable"
+    }
+   ]
+  },
+  {
+   "id": "z",
+   "hook": "Half-truths and lies",
+   "title": "An appeals court called the Theranos claims 'half-truths and outright lies' #Shorts",
+   "blurb": "What the court record says about Theranos, ahead of our full episode on Saturday.",
+   "scenes": [
+    {
+     "say": "A US appeals court described the claims made for Theranos as half-truths and outright lies.",
+     "visual": {
+      "type": "quote",
+      "text": "The grandiose achievements touted by Holmes and Balwani were half-truths and outright lies.",
+      "by": "Ninth Circuit, Feb 2025",
+      "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+     },
+     "caption": "'Half-truths and outright lies'"
+    },
+    {
+     "say": "In February 2025, it upheld the fraud convictions of Elizabeth Holmes and Sunny Balwani.",
+     "visual": {
+      "type": "timeline",
+      "date": "24 Feb 2025",
+      "text": "Convictions affirmed",
+      "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+     },
+     "caption": "Convictions upheld"
+    },
+    {
+     "say": "It also upheld a joint restitution order of 452 million dollars. And it wrote that drug companies never validated the technology, as Holmes and Balwani had told investors.",
+     "visual": {
+      "type": "stat",
+      "value": "$452m",
+      "red": true,
+      "label": "Joint restitution",
+      "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+     },
+     "caption": "$452m restitution"
+    },
+    {
+     "say": "The device, the appeals court wrote, failed to deliver faster and more accurate results than conventional technology. The full story is on our channel.",
+     "visual": {
+      "type": "title",
+      "text": "Not faster. Not more accurate.",
+      "sub": "How the appeals court described the Theranos device",
+      "src": "Ninth Circuit, US v. Holmes, Feb 2025"
+     },
+     "caption": "Not faster. Not more accurate."
+    }
+   ]
+  }
+ ]
+}
