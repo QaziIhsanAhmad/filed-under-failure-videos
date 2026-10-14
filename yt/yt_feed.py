@@ -104,6 +104,8 @@ def main():
     if live is not None:
         json.dump(live, open("yt/published.json", "w"), indent=1, ensure_ascii=False)
         by_title = {v["title"].strip().lower(): v for v in live}
+    # Videos YouTube created without metadata (title "unknown"); unknown channel state counts too.
+    untitled = [v["videoId"] for v in live if v["title"].strip().lower() in ("unknown", "")] if live is not None else ["channel unreadable"]
 
     for it in led["items"]:
         seen = by_title.get(it["title"].strip().lower())
@@ -125,6 +127,11 @@ def main():
             # missing from the public page, so this is NOT a failure: pause and wait for review.
             it["status"] = "paused-unverified"
             it["note"] = "no result from Make by 23:30 PKT; check Make History / YouTube Studio before any retry"
+        elif it.get("status") == "failed" and untitled:
+            # 14 Oct: Make reported 3 upload errors but YouTube still created 3 videos titled
+            # "unknown". While any such video exists, a retry could duplicate one: hold instead.
+            it["status"] = "paused-unknown-video"
+            it["note"] = "Make error, but untitled video(s) exist on the channel: " + ", ".join(untitled) + " - fix titles, do not re-upload"
         elif it.get("status") == "failed" and it.get("retries", 0) < 2 and not it.get("videoId") \
                 and any(r.get("event") == "yt-failed" for r in it.get("results", [])[-1:]):
             # Make reported an error and returned no videoId: YouTube created no video, so a retry
