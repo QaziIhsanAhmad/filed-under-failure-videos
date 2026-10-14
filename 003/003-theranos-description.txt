@@ -1,0 +1,27 @@
+Theranos collapse explained from court and regulator records.
+A jury convicted Elizabeth Holmes of defrauding investors, and acquitted her of defrauding patients. Using the Ninth Circuit's February 2025 opinion, the SEC's 2018 charges, the federal lab regulator's findings and reporting on the verdict and sentence, we show what the court record actually established: 12 tests on the Edison out of 300 developed, demos running a 'null protocol', drug-company logos added to reports, and a projected $230m profit against $1.94m of reported income.
+
+Context: A24's documentary 'You Can See Everything' (Nathan Fielder and Lance Oppenheim) about Holmes opens in US cinemas in October 2026. This episode is independent of the film and uses no footage, stills or quotes from it; it sticks to the court and regulator record.
+
+Chapters
+0:00 Cold open
+0:58 One tiny drop
+2:44 The demo room
+4:10 What investors were told
+7:19 The regulators arrive
+9:40 What the jury decided
+11:41 Prison and appeal
+13:49 Our analysis
+15:34 Outro
+
+Sources
+[1] US Court of Appeals for the Ninth Circuit, United States v. Holmes & Balwani, Nos. 22-10312, 22-10338, opinion filed 24 Feb 2025: https://cdn.ca9.uscourts.gov/datastore/opinions/2025/02/24/22-10312.pdf
+[2] SEC press release 2018-41, 'Theranos, CEO Holmes, and Former President Balwani Charged With Massive Fraud' (14 Mar 2018): https://www.sec.gov/news/press-release/2018-41
+[3] ABA Journal, 'Jury finds blood-testing company Theranos CEO Holmes guilty of fraud' (Jan 2022): https://abajournal.com/news/article/jury-finds-blood-testing-company-theranos-ceo-holmes-guilty-of-fraud
+[4] CNBC via NBC, 'Theranos founder Elizabeth Holmes sentenced to more than 11 years in prison' (18 Nov 2022): https://www.nbcdfw.com/news/business/money-report/former-theranos-ceo-elizabeth-holmes-sentenced-to-more-than-11-years-in-prison/3129509/
+[5] MedCity News, CMS sanctions on Theranos (8 Jul 2016): https://medcitynews.com/2016/07/cms-fines-theranos/
+[6] Bloomberg Law, 'Elizabeth Holmes gets a year knocked off her prison sentence' (26 Mar 2026): https://news.bgov.com/health-law-and-business/elizabeth-holmes-gets-a-year-knocked-off-her-prison-sentence
+
+Filed Under Failure tells business collapses and comebacks from the public record. Findings and quotes are those of the bodies cited. Narration uses a synthetic voice; graphics are our own. Music: original.
+
+#Theranos #ElizabethHolmes #Theranosverdict

@@ -1,0 +1,967 @@
+1
+00:00:00,142 --> 00:00:03,975
+A United States appeals court has described the grandiose
+
+2
+00:00:03,975 --> 00:00:08,279
+achievements touted by Elizabeth Holmes and her business partner
+
+3
+00:00:08,279 --> 00:00:11,507
+as, in its words, half-truths and outright lies.
+
+4
+00:00:12,205 --> 00:00:15,543
+Their company, Theranos, claimed it could run fast,
+
+5
+00:00:15,543 --> 00:00:18,161
+accurate blood tests from a single drop.
+
+6
+00:00:18,161 --> 00:00:21,892
+Private investors once valued it at nine billion dollars.
+
+7
+00:00:22,522 --> 00:00:25,755
+Yet when a jury weighed the evidence against Holmes,
+
+8
+00:00:25,755 --> 00:00:28,801
+it did something many people still don't realise.
+
+9
+00:00:28,801 --> 00:00:31,350
+It convicted her of defrauding investors,
+
+10
+00:00:31,350 --> 00:00:33,899
+and acquitted her of defrauding patients.
+
+11
+00:00:34,586 --> 00:00:37,501
+So what exactly did the court record establish?
+
+12
+00:00:37,501 --> 00:00:40,540
+And why did the case that sent her to prison turn
+
+13
+00:00:40,540 --> 00:00:43,952
+on investors, not on the people whose blood was tested?
+
+14
+00:00:44,903 --> 00:00:48,363
+Today we go through the paperwork: the indictment, the
+
+15
+00:00:48,363 --> 00:00:52,656
+verdicts, the regulators' findings and the appeals court's opinion.
+
+16
+00:00:52,656 --> 00:00:55,602
+And later, the one decision Theranos made that
+
+17
+00:00:55,602 --> 00:00:58,165
+the trial judge treated as an admission.
+
+18
+00:00:58,872 --> 00:00:59,979
+Chapter one.
+
+19
+00:00:59,979 --> 00:01:01,270
+One tiny drop.
+
+20
+00:01:01,983 --> 00:01:08,013
+Holmes founded Theranos in 2003 and ran it as chief executive until 2018.
+
+21
+00:01:08,013 --> 00:01:11,729
+The appeals court opened its opinion with the
+
+22
+00:01:11,729 --> 00:01:15,859
+vision she sold: one tiny drop changes everything.
+
+23
+00:01:16,523 --> 00:01:21,463
+The idea was to replace the needle in the vein with a prick of the finger.
+
+24
+00:01:21,463 --> 00:01:24,800
+Blood would go into tiny tubes called nanotainers,
+
+25
+00:01:24,800 --> 00:01:28,139
+and be tested on Theranos's own miniature machine.
+
+26
+00:01:28,777 --> 00:01:31,036
+That machine was called the Edison.
+
+27
+00:01:31,036 --> 00:01:35,812
+Of all the devices Theranos developed under Holmes, the appeals court said
+
+28
+00:01:35,812 --> 00:01:39,298
+it was the only one ever used to test patient samples.
+
+29
+00:01:39,919 --> 00:01:43,775
+In 2009, Ramesh 'Sunny' Balwani joined, later
+
+30
+00:01:43,775 --> 00:01:47,801
+becoming president and chief operating officer.
+
+31
+00:01:47,801 --> 00:01:51,314
+The court records that he and Holmes were
+
+32
+00:01:51,314 --> 00:01:55,169
+in a romantic relationship from 2004 to 2016.
+
+33
+00:01:55,919 --> 00:02:00,317
+Evidence at both trials showed Balwani oversaw the patient-testing
+
+34
+00:02:00,317 --> 00:02:03,315
+lab and the deals with Safeway and Walgreens.
+
+35
+00:02:03,315 --> 00:02:08,511
+But Holmes admitted that, as chief executive, ultimately all roads led to her.
+
+36
+00:02:09,158 --> 00:02:15,741
+In 2010, Theranos partnered with Walgreens to test patients in its pharmacies.
+
+37
+00:02:15,741 --> 00:02:19,540
+The public launch came in the autumn of 2013.
+
+38
+00:02:20,110 --> 00:02:22,538
+Now, the number that matters most.
+
+39
+00:02:22,538 --> 00:02:26,965
+Theranos developed 300 small-sample tests while Holmes ran it.
+
+40
+00:02:26,965 --> 00:02:29,821
+Only twelve were ever run on the Edison.
+
+41
+00:02:30,396 --> 00:02:33,855
+Other general chemistry tests ran on machines made
+
+42
+00:02:33,855 --> 00:02:37,313
+by other manufacturers, some modified by Theranos.
+
+43
+00:02:37,313 --> 00:02:41,049
+Holmes and Balwani pushed lab staff to move more tests
+
+44
+00:02:41,049 --> 00:02:45,130
+onto the Edison, despite their concerns about its accuracy.
+
+45
+00:02:45,824 --> 00:02:46,828
+Chapter two.
+
+46
+00:02:46,828 --> 00:02:47,999
+The demo room.
+
+47
+00:02:48,714 --> 00:02:54,015
+Former employees testified at both trials that the Edison consistently failed
+
+48
+00:02:54,015 --> 00:02:58,560
+quality control checks and was unable to provide accurate results.
+
+49
+00:02:59,190 --> 00:03:03,447
+According to the court, they told Holmes and Balwani in real time.
+
+50
+00:03:03,447 --> 00:03:08,414
+Those concerns were dismissed, or the blame was shifted away from the device.
+
+51
+00:03:08,999 --> 00:03:13,547
+One laboratory director, Dr Mark Pandori, testified that the failure
+
+52
+00:03:13,547 --> 00:03:17,159
+rate of the controls on the Edisons was notably higher
+
+53
+00:03:17,159 --> 00:03:19,634
+than on the equipment he was used to.
+
+54
+00:03:20,333 --> 00:03:24,860
+He also raised proficiency testing, the regulatory check meant to
+
+55
+00:03:24,860 --> 00:03:27,854
+be a neutral way to judge a test's quality.
+
+56
+00:03:27,854 --> 00:03:31,615
+At Theranos, those checks ran on third-party machines,
+
+57
+00:03:31,615 --> 00:03:35,167
+while real patient samples ran on Theranos devices.
+
+58
+00:03:35,888 --> 00:03:37,780
+Then there were the visitors.
+
+59
+00:03:37,780 --> 00:03:43,520
+Employees testified that VIP guests, including investors, were shown into a room with an
+
+60
+00:03:43,520 --> 00:03:47,891
+Edison or a minilab, and led to believe it was testing their blood.
+
+61
+00:03:48,523 --> 00:03:52,853
+In reality, the court said, the device was running a null protocol,
+
+62
+00:03:52,853 --> 00:03:57,378
+while some of those samples were secretly run on third-party machines.
+
+63
+00:03:58,015 --> 00:04:02,703
+Several investors testified that Holmes and Balwani led them to believe
+
+64
+00:04:02,703 --> 00:04:06,401
+Theranos ran its tests only on its own devices, and that
+
+65
+00:04:06,401 --> 00:04:10,033
+the truth would have affected their decision to invest.
+
+66
+00:04:10,745 --> 00:04:11,722
+Chapter three.
+
+67
+00:04:11,722 --> 00:04:13,467
+What investors were told.
+
+68
+00:04:14,174 --> 00:04:18,371
+After the Walgreens launch, Theranos sold new shares.
+
+69
+00:04:18,371 --> 00:04:23,123
+Three investors bought in late 2013, and three more in 2014.
+
+70
+00:04:23,123 --> 00:04:26,608
+Each purchase became a separate fraud count.
+
+71
+00:04:27,190 --> 00:04:31,700
+The indictment grouped the alleged misstatements into seven categories.
+
+72
+00:04:32,269 --> 00:04:34,107
+Start with the money.
+
+73
+00:04:34,107 --> 00:04:41,022
+Theranos's corporate controller testified the company had no revenue in 2012 or
+
+74
+00:04:41,022 --> 00:04:46,099
+2013, and net losses of 57 million and 92 million dollars.
+
+75
+00:04:46,745 --> 00:04:51,675
+In November 2013, Balwani told Holmes the company was down to 15 million
+
+76
+00:04:51,675 --> 00:04:56,125
+dollars in cash, while spending up to two million dollars a week.
+
+77
+00:04:56,125 --> 00:04:59,822
+By our arithmetic, that is about seven weeks of money.
+
+78
+00:05:00,459 --> 00:05:02,388
+What did investors see?
+
+79
+00:05:02,388 --> 00:05:09,182
+One, Lisa Peterson, testified that the financial documents she received projected
+
+80
+00:05:09,182 --> 00:05:13,459
+a profit of 230 million dollars by the end of 2015.
+
+81
+00:05:14,110 --> 00:05:19,070
+Another, Brian Grossman, testified he was told Theranos had generated
+
+82
+00:05:19,070 --> 00:05:23,526
+200 million dollars of revenue from the Department of Defense.
+
+83
+00:05:24,174 --> 00:05:25,489
+And the reality?
+
+84
+00:05:25,489 --> 00:05:30,259
+In 2015, Theranos reported total income of about one point
+
+85
+00:05:30,259 --> 00:05:34,535
+nine four million dollars to the US tax authorities.
+
+86
+00:05:35,189 --> 00:05:40,881
+The Securities and Exchange Commission alleged something similar for 2014:
+
+87
+00:05:40,881 --> 00:05:44,882
+a claim of more than 100 million dollars in revenue,
+
+88
+00:05:44,882 --> 00:05:49,420
+against a little more than 100,000 dollars from operations.
+
+89
+00:05:50,141 --> 00:05:51,340
+Then the military.
+
+90
+00:05:51,340 --> 00:05:55,002
+Theranos did have a relationship with the Department of
+
+91
+00:05:55,002 --> 00:05:58,730
+Defense, to explore using the Edison in combat settings.
+
+92
+00:05:58,730 --> 00:06:01,859
+The appeals court said that never materialised.
+
+93
+00:06:02,491 --> 00:06:06,819
+On a recorded investor call in December 2013, Holmes said
+
+94
+00:06:06,819 --> 00:06:10,539
+Theranos had been doing a lot of work for special
+
+95
+00:06:10,539 --> 00:06:15,322
+operations command, in the context of missions in remote areas.
+
+96
+00:06:16,046 --> 00:06:20,185
+But General James Mattis testified that the device was never put
+
+97
+00:06:20,185 --> 00:06:24,130
+into the field by the military, never installed on a medevac,
+
+98
+00:06:24,130 --> 00:06:27,945
+and never used to treat service members on the battlefield.
+
+99
+00:06:28,650 --> 00:06:29,814
+Then the logos.
+
+100
+00:06:29,814 --> 00:06:34,238
+A Pfizer representative testified that after 2008, Pfizer
+
+101
+00:06:34,238 --> 00:06:38,040
+and Theranos had no meaningful business dealings.
+
+102
+00:06:38,681 --> 00:06:42,126
+Yet Holmes admitted she personally put the logos of
+
+103
+00:06:42,126 --> 00:06:47,598
+drug companies, including Pfizer, GlaxoSmithKline and Schering-Plough, on reports
+
+104
+00:06:47,598 --> 00:06:51,245
+with favourable conclusions about the Theranos device.
+
+105
+00:06:51,952 --> 00:06:54,923
+In emails to Walgreens, she described those
+
+106
+00:06:54,923 --> 00:06:58,311
+reports as the companies' independent validation.
+
+107
+00:06:58,311 --> 00:07:02,319
+Their representatives testified they had neither validated
+
+108
+00:07:02,319 --> 00:07:05,222
+the technology nor authorised their logos.
+
+109
+00:07:05,920 --> 00:07:07,259
+And Walgreens itself?
+
+110
+00:07:07,259 --> 00:07:12,039
+Its representative testified that while investors heard the partnership was
+
+111
+00:07:12,039 --> 00:07:16,182
+expanding, it was contracting, partly because so many blood draws
+
+112
+00:07:16,182 --> 00:07:18,796
+were taken from the vein, not the finger.
+
+113
+00:07:19,507 --> 00:07:20,511
+Chapter four.
+
+114
+00:07:20,511 --> 00:07:22,209
+The regulators arrive.
+
+115
+00:07:22,936 --> 00:07:28,443
+In late 2015, news reporting revealed problems inside the Theranos lab.
+
+116
+00:07:28,443 --> 00:07:31,935
+Around then, the federal agency that oversees
+
+117
+00:07:31,935 --> 00:07:36,511
+testing laboratories carried out an unannounced inspection.
+
+118
+00:07:37,158 --> 00:07:42,060
+That agency, the Centers for Medicare and Medicaid Services, concluded that
+
+119
+00:07:42,060 --> 00:07:46,702
+deficiencies in the lab presented immediate jeopardy to patient health.
+
+120
+00:07:47,348 --> 00:07:50,319
+In March 2016, Holmes hired a new
+
+121
+00:07:50,319 --> 00:07:54,732
+laboratory director, Dr Kingshuk Das, to respond.
+
+122
+00:07:54,732 --> 00:08:01,846
+His team went back through the Edison's quality-control data for 2014 and 2015.
+
+123
+00:08:02,523 --> 00:08:07,221
+Their written assessment concluded there was a possible patient impact
+
+124
+00:08:07,221 --> 00:08:11,115
+for every test reported from the lab's Edison instruments.
+
+125
+00:08:11,115 --> 00:08:15,276
+Das testified he found the device unsuitable for clinical use.
+
+126
+00:08:15,919 --> 00:08:18,730
+When he raised it, Das said, Holmes blamed
+
+127
+00:08:18,730 --> 00:08:22,142
+laboratory control failures rather than the device.
+
+128
+00:08:22,142 --> 00:08:24,752
+He found that explanation unsatisfying.
+
+129
+00:08:25,379 --> 00:08:27,779
+Then came the decision we promised.
+
+130
+00:08:27,779 --> 00:08:32,166
+Theranos voided all of its patient test results from the Edison.
+
+131
+00:08:32,745 --> 00:08:37,291
+Holmes argued it was a precaution that should not be used against her.
+
+132
+00:08:37,291 --> 00:08:39,888
+The trial judge let the evidence in, and
+
+133
+00:08:39,888 --> 00:08:42,940
+the appeals court found no abuse of discretion.
+
+134
+00:08:43,571 --> 00:08:48,283
+The appeals court said the trial judge reasonably concluded that voiding
+
+135
+00:08:48,283 --> 00:08:52,603
+every Edison result was an admission by Theranos, and by extension
+
+136
+00:08:52,603 --> 00:08:56,727
+Holmes, that the results were, and always had been, unreliable.
+
+137
+00:08:57,443 --> 00:09:02,300
+In July 2016, Theranos disclosed the agency's sanctions: its Newark
+
+138
+00:09:02,300 --> 00:09:06,796
+lab's certificate would be revoked, and Holmes would be barred
+
+139
+00:09:06,796 --> 00:09:10,058
+from owning or operating a lab for two years.
+
+140
+00:09:10,777 --> 00:09:16,100
+In March 2018, the Securities and Exchange Commission charged Theranos,
+
+141
+00:09:16,100 --> 00:09:20,225
+Holmes and Balwani with what it called a massive fraud,
+
+142
+00:09:20,225 --> 00:09:24,199
+raising more than 700 million dollars from investors.
+
+143
+00:09:24,936 --> 00:09:29,155
+Holmes settled without admitting or denying the allegations.
+
+144
+00:09:29,155 --> 00:09:32,952
+She agreed to a 500,000 dollar penalty, a ten-year bar
+
+145
+00:09:32,952 --> 00:09:37,101
+as a public company officer or director, to return eighteen
+
+146
+00:09:37,101 --> 00:09:41,110
+point nine million shares, and to give up voting control.
+
+147
+00:09:41,824 --> 00:09:42,843
+Chapter five.
+
+148
+00:09:42,843 --> 00:09:44,567
+What the jury decided.
+
+149
+00:09:45,285 --> 00:09:48,499
+After a two and a half year investigation,
+
+150
+00:09:48,499 --> 00:09:51,638
+a grand jury indicted Holmes and Balwani.
+
+151
+00:09:51,638 --> 00:09:54,393
+The final indictment had two halves.
+
+152
+00:09:54,393 --> 00:09:59,061
+The first alleged a conspiracy against investors from 2010 to
+
+153
+00:09:59,061 --> 00:10:03,194
+2015, plus six counts of wire fraud, one per investor.
+
+154
+00:10:03,919 --> 00:10:09,428
+The second alleged a conspiracy against patients from 2013 to
+
+155
+00:10:09,428 --> 00:10:14,395
+2016, and four counts of wire fraud involving patients.
+
+156
+00:10:15,062 --> 00:10:16,422
+Patients testified.
+
+157
+00:10:16,422 --> 00:10:19,858
+One said a Theranos HIV test came back positive,
+
+158
+00:10:19,858 --> 00:10:23,006
+but two later tests showed she was negative.
+
+159
+00:10:23,006 --> 00:10:27,730
+Another said she received an incorrect result about her pregnancy.
+
+160
+00:10:28,364 --> 00:10:32,295
+The court tried the two separately, after Holmes made
+
+161
+00:10:32,295 --> 00:10:36,968
+allegations of abuse by Balwani in their personal relationship.
+
+162
+00:10:36,968 --> 00:10:39,341
+Holmes went first, in late 2021.
+
+163
+00:10:39,341 --> 00:10:42,085
+Each trial lasted nearly four months.
+
+164
+00:10:42,745 --> 00:10:46,436
+On the third of January 2022, after seven days
+
+165
+00:10:46,436 --> 00:10:50,528
+of deliberation, the jury returned a split verdict.
+
+166
+00:10:51,190 --> 00:10:55,440
+Guilty: the investor conspiracy, and wire fraud against
+
+167
+00:10:55,440 --> 00:10:58,996
+the three investors who bought shares in 2014.
+
+168
+00:10:59,634 --> 00:11:04,866
+Not guilty: the patient conspiracy, and the three remaining patient counts.
+
+169
+00:11:04,866 --> 00:11:07,308
+Prosecutors had dropped the fourth.
+
+170
+00:11:07,308 --> 00:11:11,702
+And on the three late-2013 investors, the jury could not agree.
+
+171
+00:11:12,269 --> 00:11:16,219
+In a separate trial in 2022, another jury convicted
+
+172
+00:11:16,219 --> 00:11:20,867
+Balwani on all twelve counts, including every patient count.
+
+173
+00:11:21,507 --> 00:11:22,748
+Why the difference?
+
+174
+00:11:22,748 --> 00:11:27,385
+A verdict doesn't give reasons, and we won't guess what jurors thought.
+
+175
+00:11:27,385 --> 00:11:32,154
+The appeals court does record that evidence linked Balwani to sending the
+
+176
+00:11:32,154 --> 00:11:37,182
+inaccurate results and to buying adverts for Theranos clinics in Arizona, and
+
+177
+00:11:37,182 --> 00:11:41,755
+that Holmes's December 2013 investor call was not played at his trial.
+
+178
+00:11:42,459 --> 00:11:43,459
+Chapter six.
+
+179
+00:11:43,459 --> 00:11:44,959
+Prison and appeal.
+
+180
+00:11:45,666 --> 00:11:49,518
+At sentencing, the judge found a loss of
+
+181
+00:11:49,518 --> 00:11:53,754
+120 million dollars and ten or more victims.
+
+182
+00:11:53,754 --> 00:11:58,857
+That produced a guideline range of 135 to 168 months.
+
+183
+00:11:59,539 --> 00:12:05,980
+On the eighteenth of November 2022, Holmes was sentenced to 135 months.
+
+184
+00:12:05,980 --> 00:12:08,702
+Eleven years and three months.
+
+185
+00:12:09,285 --> 00:12:13,511
+In court, according to CNBC, Holmes told the judge she was
+
+186
+00:12:13,511 --> 00:12:18,538
+devastated by her failings, and apologised to investors and patients.
+
+187
+00:12:19,190 --> 00:12:21,873
+Balwani received 155 months.
+
+188
+00:12:21,873 --> 00:12:25,801
+In May 2023, the court ordered the two of
+
+189
+00:12:25,801 --> 00:12:31,264
+them, jointly, to pay 452 million dollars in restitution.
+
+190
+00:12:31,919 --> 00:12:37,128
+That included 397 million dollars for twelve investors, and fifty four
+
+191
+00:12:37,128 --> 00:12:42,187
+and a half million for two corporate victims: Safeway and Walgreens.
+
+192
+00:12:42,840 --> 00:12:43,863
+Both appealed.
+
+193
+00:12:43,863 --> 00:12:48,615
+On the twenty-fourth of February 2025, the Ninth Circuit Court of
+
+194
+00:12:48,615 --> 00:12:54,023
+Appeals affirmed the convictions, the sentences and the restitution order.
+
+195
+00:12:54,681 --> 00:12:59,616
+It did accept part of one complaint: some testimony from three former lab
+
+196
+00:12:59,616 --> 00:13:05,159
+directors amounted to expert opinion, without the usual checks on expert evidence.
+
+197
+00:13:05,793 --> 00:13:07,916
+But it called the error harmless.
+
+198
+00:13:07,916 --> 00:13:11,067
+All three would easily have qualified as experts.
+
+199
+00:13:11,067 --> 00:13:14,283
+And for Dr Das, other employees described the same
+
+200
+00:13:14,283 --> 00:13:17,436
+problems, and the technology was only one of many
+
+201
+00:13:17,436 --> 00:13:21,552
+kinds of misrepresentation the government presented evidence of.
+
+202
+00:13:22,238 --> 00:13:24,688
+It also said the trial judge should have
+
+203
+00:13:24,688 --> 00:13:27,444
+considered whether the shares kept any value.
+
+204
+00:13:27,444 --> 00:13:30,753
+Again, harmless: the investors could not sell them, so
+
+205
+00:13:30,753 --> 00:13:34,122
+for restitution, their loss was everything they put in.
+
+206
+00:13:34,809 --> 00:13:35,988
+One more twist.
+
+207
+00:13:35,988 --> 00:13:39,999
+In March 2026, Holmes's sentence was cut by a year,
+
+208
+00:13:39,999 --> 00:13:44,402
+under a 2023 change for people with no criminal history.
+
+209
+00:13:44,402 --> 00:13:49,907
+The judge wrote that this did not diminish the enormity of her crimes.
+
+210
+00:13:50,555 --> 00:13:51,735
+Chapter seven.
+
+211
+00:13:51,735 --> 00:13:52,830
+Our analysis.
+
+212
+00:13:53,539 --> 00:13:56,138
+So what did the jury actually decide?
+
+213
+00:13:56,138 --> 00:13:59,579
+It did not convict Holmes of defrauding patients.
+
+214
+00:13:59,579 --> 00:14:04,636
+It convicted her of defrauding investors, specifically the three who put
+
+215
+00:14:04,636 --> 00:14:08,077
+money in during 2014, and of conspiring to do so.
+
+216
+00:14:08,714 --> 00:14:09,568
+That matters.
+
+217
+00:14:09,568 --> 00:14:13,907
+The popular story of Theranos is about a machine that didn't work.
+
+218
+00:14:13,907 --> 00:14:16,142
+The legal story, as we read it, is
+
+219
+00:14:16,142 --> 00:14:19,233
+narrower: it is about what investors were told.
+
+220
+00:14:19,857 --> 00:14:23,877
+Look at the list of misstatements the appeals court described:
+
+221
+00:14:23,877 --> 00:14:29,259
+finances, third-party machines, Walgreens, the military and the drug-company logos.
+
+222
+00:14:29,259 --> 00:14:32,956
+It said the lab director's testimony about the technology
+
+223
+00:14:32,956 --> 00:14:35,615
+was not essential to proving any of them.
+
+224
+00:14:36,300 --> 00:14:38,386
+In other words, you didn't need to
+
+225
+00:14:38,386 --> 00:14:41,207
+understand blood chemistry to follow the case.
+
+226
+00:14:41,207 --> 00:14:46,053
+You needed to compare what investors were shown with the company's own records.
+
+227
+00:14:46,681 --> 00:14:50,739
+Two hundred and thirty million dollars of projected profit,
+
+228
+00:14:50,739 --> 00:14:54,383
+against under two million dollars of reported income.
+
+229
+00:14:54,383 --> 00:14:57,959
+A military that never put the device into the field.
+
+230
+00:14:57,959 --> 00:15:00,917
+Logos added by the chief executive herself.
+
+231
+00:15:01,571 --> 00:15:05,017
+Our view: the patient side shows how hard it can be to
+
+232
+00:15:05,017 --> 00:15:09,611
+turn bad test results into a fraud conviction against a chief executive.
+
+233
+00:15:09,611 --> 00:15:14,652
+The investor side shows what becomes provable when the claims are written down.
+
+234
+00:15:15,285 --> 00:15:18,495
+For founders, the lesson is not to stop dreaming.
+
+235
+00:15:18,495 --> 00:15:21,705
+It is that every projection, every logo and every
+
+236
+00:15:21,705 --> 00:15:24,850
+demo shown to an investor can become an exhibit.
+
+237
+00:15:25,476 --> 00:15:28,659
+And for the rest of us, it is a reminder to ask the
+
+238
+00:15:28,659 --> 00:15:33,966
+simplest question of any miracle machine: whose machine is actually running the test?
+
+239
+00:15:34,936 --> 00:15:40,013
+Every fact in this episode comes from the court record, the regulators and the
+
+240
+00:15:40,013 --> 00:15:44,765
+reporting listed in the description, with each source on screen as we go.
+
+241
+00:15:45,412 --> 00:15:49,435
+If you want more collapses told from the paperwork, subscribe.
+
+242
+00:15:49,435 --> 00:15:51,771
+Next week: the run on Northern Rock.
