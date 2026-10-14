@@ -9,7 +9,7 @@
    "title": "Who paid when Carillion collapsed? Staff, pensioners and taxpayers #Shorts",
    "file": "001/001-carillion-short-e-make.mp4",
    "lane": "make",
-   "status": "released",
+   "status": "paused-unknown-video",
    "description": "Who paid when Carillion collapsed? Staff, pensioners and taxpayers #Shorts\n\nJobs, pensions and public money after Carillion's collapse, from National Audit Office and pension figures.\n\nFull episode: \"Carillion: How Britain's Biggest Builder Ran Out of Money\" on Filed Under Failure.\nSources: House of Commons Work and Pensions and BEIS Committees, Carillion report (16 May 2018); Committees' statement on Carillion's suppliers (14 May 2018); National Audit Office, Investigation into the government's handling of the collapse of Carillion (June 2018) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #Carillion #Carillioncollapse #businessdocumentary",
    "metricoolUuid": "-514389782219570220",
    "altered": {
@@ -18,7 +18,7 @@
    },
    "laneNote": "moved from Metricool 2026-10-08: Metricool free plan hit 20 posts/month (posts erroring \"account limit\")",
    "releasedAt": "2026-10-14T23:10:00+05:00",
-   "note": "retry 2026-10-14: Make History shows no upload was created (001-f download hit Make 5 MB limit on Metricool file; 001-e never reached upload). Re-queued from repo copy.",
+   "note": "14 Oct Make run: reported upload-step error, BUT 3 untitled (\"unknown\") Shorts appeared on the channel (GgKOpONeN_o, jtFeifCjRHc, PgoTuPDONh4) = the 3 failed items. Do NOT re-upload; fix titles on the existing videos instead.",
    "file_metricool": "https://static.metricool.com/planner/202610/7133423-file-13688635039506949117.mp4",
    "retries": 1,
    "file_original": "001/001-carillion-short-e.mp4"
@@ -122,7 +122,7 @@
    "title": "Customers pulled $40 billion from Silicon Valley Bank in one day #Shorts",
    "file": "002/002-svb-short-a-make.mp4",
    "lane": "make",
-   "status": "planned",
+   "status": "paused-unknown-video",
    "description": "Customers pulled $40 billion from Silicon Valley Bank in one day #Shorts\n\nThe size of the 2023 run on Silicon Valley Bank, from the Federal Reserve's review.\n\nFull episode: \"Silicon Valley Bank: $40 Billion Gone in One Day\" on Filed Under Failure: https://youtu.be/5fPvAEfxo6w\nSources: Federal Reserve Board, Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank (28 Apr 2023); Federal Reserve Board, Executive Summary of the review (28 Apr 2023); Federal Reserve Board press release on the review's results (28 Apr 2023) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #SiliconValleyBank #SVBcollapse #bankrun",
    "metricoolUuid": "6470601755274134589",
    "altered": {
@@ -142,7 +142,7 @@
      "error": "upload step failed in Make - see Make History"
     }
    ],
-   "note": "retry 2026-10-14: Make reported YouTube upload-step error, no videoId (no video created)",
+   "note": "14 Oct Make run: reported upload-step error, BUT 3 untitled (\"unknown\") Shorts appeared on the channel (GgKOpONeN_o, jtFeifCjRHc, PgoTuPDONh4) = the 3 failed items. Do NOT re-upload; fix titles on the existing videos instead.",
    "retries": 1
   },
   {
@@ -175,7 +175,7 @@
    "title": "Silicon Valley Bank had 31 open supervisory findings when it failed #Shorts",
    "file": "002/002-svb-short-c-make.mp4",
    "lane": "make",
-   "status": "released",
+   "status": "paused-unknown-video",
    "description": "Silicon Valley Bank had 31 open supervisory findings when it failed #Shorts\n\nWhat the Federal Reserve's supervisors found at Silicon Valley Bank, and what happened next.\n\nFull episode: \"Silicon Valley Bank: $40 Billion Gone in One Day\" on Filed Under Failure: https://youtu.be/5fPvAEfxo6w\nSources: Federal Reserve Board, Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank (28 Apr 2023); Federal Reserve Board, Executive Summary of the review (28 Apr 2023); Federal Reserve Board press release on the review's results (28 Apr 2023) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #SiliconValleyBank #SVBcollapse #bankrun",
    "metricoolUuid": "1469044956930460231",
    "altered": {
@@ -184,7 +184,8 @@
    },
    "laneNote": "moved from Metricool 2026-10-08: Metricool free plan hit 20 posts/month (posts erroring \"account limit\")",
    "file_original": "002/002-svb-short-c.mp4",
-   "releasedAt": "2026-10-14T23:05:52+05:00"
+   "releasedAt": "2026-10-14T23:05:52+05:00",
+   "note": "14 Oct Make run: reported upload-step error, BUT 3 untitled (\"unknown\") Shorts appeared on the channel (GgKOpONeN_o, jtFeifCjRHc, PgoTuPDONh4) = the 3 failed items. Do NOT re-upload; fix titles on the existing videos instead."
   },
   {
    "id": "002-d",
