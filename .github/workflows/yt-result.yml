@@ -4,7 +4,8 @@ on:
     types: [yt-uploaded, yt-failed]
 permissions:
   contents: write
-concurrency: yt-feed
+# No concurrency group: a shared group made GitHub CANCEL queued callbacks when Make reported
+# several uploads at once (4 of 6 results lost on 14 Oct). Pushes are serialised by the retry loop.
 jobs:
   record:
     runs-on: ubuntu-latest
@@ -12,10 +13,10 @@ jobs:
       - uses: actions/checkout@v4
       - run: |
           git config user.name "yt-feed-bot"; git config user.email "actions@users.noreply.github.com"
-          for n in 1 2 3 4; do
+          for n in 1 2 3 4 5 6 7 8 9 10; do
             python3 yt/yt_result.py
             git add yt; git commit -qm "YouTube lane: Make result ${{ github.event.action }}" || { echo none; exit 0; }
             git pull --rebase -q && git push && exit 0
-            git rebase --abort 2>/dev/null; git fetch -q && git reset -q --hard origin/main; sleep 7
+            git rebase --abort 2>/dev/null; git fetch -q && git reset -q --hard origin/main; sleep $((5 + RANDOM % 15))
           done
           exit 1
