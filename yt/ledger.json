@@ -477,12 +477,14 @@
    },
    "laneNote": "episodes_via_make is false (85 MB, over Make's 5 MB limit) -> YouTube Studio kit yt/native/003.md | moved to lane api 2026-10-15 (was native): no size limit",
    "apiApplied": [
-    "003-ep-a0"
+    "003-ep-a0",
+    "003-ep-thumb0"
    ],
    "videoId": "vdXslodih6A",
    "url": "https://www.youtube.com/watch?v=vdXslodih6A",
    "uploadedAt": "2026-10-15T11:28:44.338421+05:00",
-   "publishAt": "2026-10-17T16:00:00Z"
+   "publishAt": "2026-10-17T16:00:00Z",
+   "thumbSet": true
   }
  ],
  "history": [
