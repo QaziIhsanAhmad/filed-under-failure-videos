@@ -1,0 +1,26 @@
+name: YouTube lane - record stats (from Make)
+on:
+  repository_dispatch:
+    types: [yt-stats, yt-analytics]
+permissions:
+  contents: write
+jobs:
+  record:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: yt
+      - run: |
+          git config user.name "yt-feed-bot"; git config user.email "actions@users.noreply.github.com"
+          python3 yt/yt_stats.py
+          mkdir -p /tmp/st && cp yt/stats/*.json /tmp/st/
+          for n in $(seq 1 25); do
+            git fetch -q origin main && git reset -q --hard origin/main
+            mkdir -p yt/stats && cp /tmp/st/*.json yt/stats/; git add yt/stats
+            git diff --cached --quiet && exit 0
+            git commit -qm "YouTube: stats ${{ github.event.action }}"
+            git push -q origin HEAD:main && exit 0
+            sleep $((3 + RANDOM % 20))
+          done
+          exit 1
