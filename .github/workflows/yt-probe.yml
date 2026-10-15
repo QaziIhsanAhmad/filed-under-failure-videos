@@ -1,0 +1,18 @@
+name: YouTube lane - probe resumable session (no upload)
+on:
+  workflow_dispatch:
+    inputs:
+      url: {description: "session URL", required: true}
+permissions:
+  contents: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          curl -sS -D h.txt -o b.txt -w "%{http_code}" -X PUT -H 'Content-Length: 0' -H 'Content-Range: bytes */1000' "${{ inputs.url }}" > code.txt || true
+          { echo "code: $(cat code.txt)"; echo "--- headers"; cat h.txt; echo "--- body"; head -c 2000 b.txt; } > yt/probe.log
+          git config user.name yt-feed-bot; git config user.email actions@users.noreply.github.com
+          git add yt/probe.log; git commit -qm "YouTube lane: session probe" || exit 0
+          for n in 1 2 3 4 5; do git pull --rebase -q && git push && exit 0; sleep 5; done
