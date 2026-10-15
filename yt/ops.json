@@ -1,5 +1,23 @@
 [
  {
+  "id": "del-PLdRSQJWxvElM",
+  "method": "DELETE",
+  "path": "/v3/playlists?id=PLdRSQJWxvElM",
+  "note": "duplicate from stale raw.githubusercontent read, 15 Oct"
+ },
+ {
+  "id": "del-PLTA4gygMr53o",
+  "method": "DELETE",
+  "path": "/v3/playlists?id=PLTA4gygMr53o",
+  "note": "duplicate from stale raw.githubusercontent read, 15 Oct"
+ },
+ {
+  "id": "del-PLV0-pYYsmr2Y",
+  "method": "DELETE",
+  "path": "/v3/playlists?id=PLV0-pYYsmr2Y",
+  "note": "duplicate from stale raw.githubusercontent read, 15 Oct"
+ },
+ {
   "id": "del-PLeG-fjD34jcg",
   "method": "DELETE",
   "path": "/v3/playlists?id=PLeG-fjD34jcg",
