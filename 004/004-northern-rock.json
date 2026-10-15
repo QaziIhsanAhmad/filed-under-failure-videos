@@ -1,0 +1,1512 @@
+{
+ "slug": "004-northern-rock",
+ "title": "Why Did Northern Rock Collapse? £4.45bn Gone in Three Days",
+ "voice": "bm_george",
+ "speed": 0.95,
+ "summary": "Northern Rock collapse explained from court and regulator records: the 2007 bank run that opened Britain's 2008 financial crisis.\nSavers withdrew £4.45bn in three days. Using the Treasury Committee's 'The run on the Rock', the Bank of England's statements, the FSA's own internal audit and enforcement notices, the National Audit Office's reports and the shareholder rulings up to Strasbourg, we show why a bank that was solvent on paper ran out of cash, who the regulator found had understated its bad loans, why shareholders were paid nothing, and what the rescue finally cost.",
+ "thumb": [
+  "£4.45BN",
+  "IN 3 DAYS",
+  "BANK RUN",
+  "NORTHERN ROCK"
+ ],
+ "tags": [
+  "Northern Rock",
+  "bank run",
+  "2008 financial crisis",
+  "UK banking crisis",
+  "Northern Rock collapse",
+  "business documentary",
+  "nationalisation",
+  "what went wrong"
+ ],
+ "sources": [
+  "Treasury Committee, 'The run on the Rock', Fifth Report of Session 2007–08, HC 56-I (Jan 2008), summary: https://books.google.com/books/about/The_run_on_the_Rock.html?id=JilbRcHCXIMC",
+  "Bank of England / HM Treasury / FSA, 'Liquidity support facility for Northern Rock plc' (14 Sep 2007): https://www.bankofengland.co.uk/news/2007/september/liquidity-support-facility-for-northern-rock-plc",
+  "European Court of Human Rights, Grainger and Others v the United Kingdom, no. 34940/10, decision of 10 Jul 2012: https://lagen.nu/dom/echr/001-112312",
+  "Court of Appeal, SRM Global Master Fund & Ors v HM Treasury [2009] EWCA Civ 788: https://caselaw.nationalarchives.gov.uk/ewca/civ/2009/788",
+  "Upper Tribunal, Northern Rock Applicants v Caldwell & HM Treasury [2011] UKUT 408 (TCC): https://assets.publishing.service.gov.uk/media/58e3a9a5ed915d06ac0000c0/Northern_Rock_Applicants_v_Andrew_Caldwell_and_HM_Treasury.pdf",
+  "Court of Appeal, Harbinger Capital Partners v Caldwell [2013] EWCA Civ 492: https://caselaw.nationalarchives.gov.uk/ewca/civ/2013/492",
+  "FSA, release on its Internal Audit review of Northern Rock supervision (26 Mar 2008), via Mondo Visione: https://mondovisione.com/news/uks-financial-services-authority-moves-to-enhance-supervision-in-wake-of-norther-2011124/",
+  "CMS Law-Now, 'FSA's supervision of Northern Rock: Internal Audit report' (26 Mar 2008): https://cms.law/en/gbr/legal-updates/fsa-s-supervision-of-northern-rock-internal-audit-report",
+  "FSA Final Notice, David Baker (13 Apr 2010): https://www.fca.org.uk/publication/final-notices/david_baker.pdf",
+  "FSA Final Notice, Richard Barclay (13 Apr 2010): https://www.fca.org.uk/publication/final-notices/richard_barclay.pdf",
+  "FSA Final Notice, David Jones (27 Jul 2010): https://www.fca.org.uk/publication/final-notices/david_jones.pdf",
+  "HM Treasury announcement on Northern Rock (17 Feb 2008), via Mondo Visione: https://mondovisione.com/media-and-resources/news/hm-treasury-announcement-on-northern-rock-2011124/",
+  "Banking (Special Provisions) Act 2008: https://www.legislation.gov.uk/ukpga/2008/2/introduction/enacted",
+  "National Audit Office, 'HM Treasury: The nationalisation of Northern Rock', HC 298 (20 Mar 2009): https://www.nao.org.uk/reports/hm-treasury-the-nationalisation-of-northern-rock/",
+  "National Audit Office, 'The creation and sale of Northern Rock plc', HC 20 (18 May 2012): https://www.nao.org.uk/wp-content/uploads/2012/05/121320.pdf",
+  "National Audit Office, 'The £13 billion sale of former Northern Rock assets' (19 Jul 2016): https://www.nao.org.uk/reports/the-13-billion-sale-of-former-northern-rock-assets/",
+  "HM Treasury, 'Chancellor announces sale of Northern Rock plc' (17 Nov 2011): https://www.gov.uk/government/news/chancellor-announces-sale-of-northern-rock-plc",
+  "HM Treasury, 'Final completion of record-breaking £13 billion sale of former Northern Rock mortgages' (May 2016): https://www.gov.uk/government/news/final-completion-of-record-breaking-13-billion-sale-of-former-northern-rock-mortgages",
+  "Hyun Song Shin, 'Reflections on Modern Bank Runs: A Case Study of Northern Rock' (Princeton, Aug 2008): https://public.websites.umich.edu/~kathrynd/ReflectionsonModernBankRuns_PU.pdf",
+  "Yale Program on Financial Stability, Northern Rock emergency liquidity case: https://newbagehot.yale.edu/node/426",
+  "Associated Press via NBC News (14 Sep 2007): https://www.nbcnews.com/news/amp/wbna20771453",
+  "Reuters via Mail & Guardian, 'Northern Rock CEO faces grilling on strategy' (15 Oct 2007): https://mg.co.za/article/2007-10-15-northern-rock-ceo-faces-grilling-on-strategy/"
+ ],
+ "notes": {
+  "alt_titles": [
+   "Northern Rock: Solvent on Paper, Broke in Practice",
+   "Northern Rock: Worth £379m, Paid £0 – What the Courts Decided"
+  ],
+  "demand_check": "15 Oct 2026 YouTube search (GB): 'northern rock collapse' top-10 median ~6.7K views, 'northern rock bank run' ~13.9K; '2008 financial crisis uk documentary' ~720K. Below the 100K topic rule; packaged with '2008 financial crisis' keywords. Swap suggested to Qazi for future slots."
+ },
+ "altered": {
+  "disclose": false,
+  "reason": "Generic synthetic narrator (Kokoro bm_george) not imitating any real person; quotes are attributed by the narrator and shown as on-screen text; original code-generated charts, text graphics and music; no realistic synthetic imagery or altered real footage."
+ },
+ "scenes": [
+  {
+   "say": "In three days in September 2007, savers pulled four point four five billion pounds out of a single British bank.",
+   "visual": {
+    "type": "stat",
+    "value": "£4.45bn",
+    "label": "withdrawn from Northern Rock in three days",
+    "red": true,
+    "src": "ECtHR, Grainger v UK, 10 Jul 2012"
+   },
+   "src": "ECtHR, Grainger v UK, 10 Jul 2012",
+   "chapter": "Cold open"
+  },
+  {
+   "say": "That was nearly a fifth of everything its retail customers had deposited. And it happened on television, with queues outside the branches.",
+   "visual": {
+    "type": "stat",
+    "value": "~20%",
+    "label": "of Northern Rock's retail deposits, gone",
+    "src": "ECtHR, Grainger v UK, 10 Jul 2012"
+   },
+   "src": "ECtHR, Grainger v UK, 10 Jul 2012"
+  },
+  {
+   "say": "MPs later called it the first run on the retail deposits of a United Kingdom bank since Victorian times.",
+   "visual": {
+    "type": "quote",
+    "text": "the first run on the retail deposits of a United Kingdom bank since Victorian Times",
+    "by": "Treasury Committee, Jan 2008",
+    "src": "Treasury Committee, The run on the Rock, 2008"
+   },
+   "src": "Treasury Committee, The run on the Rock, 2008"
+  },
+  {
+   "say": "So why did Northern Rock collapse? Not, the courts would say, because it had run out of assets. Because it had run out of cash.",
+   "visual": {
+    "type": "title",
+    "text": "Why did Northern Rock collapse?",
+    "kicker": "Case file 004"
+   },
+   "pause": 0.7
+  },
+  {
+   "say": "Today we go through the paperwork: the Bank of England's statements, a Commons committee report, the regulator's own internal audit, and a string of court judgments.",
+   "visual": {
+    "type": "list",
+    "title": "The paperwork",
+    "items": [
+     "Bank of England / Treasury / FSA statements",
+     "Treasury Committee: The run on the Rock",
+     "FSA Internal Audit review, 2008",
+     "Court of Appeal, Upper Tribunal and Strasbourg rulings",
+     "National Audit Office reports"
+    ]
+   }
+  },
+  {
+   "say": "And later, the strangest number in the whole file: why a bank the stock market still valued at hundreds of millions of pounds was judged to be worth exactly nothing.",
+   "visual": {
+    "type": "stat",
+    "value": "£0",
+    "label": "the compensation shareholders were awarded",
+    "red": true,
+    "src": "Upper Tribunal, NR Applicants v Caldwell, 2011"
+   },
+   "src": "Upper Tribunal, NR Applicants v Caldwell, 2011"
+  },
+  {
+   "say": "Chapter 1. The bank that borrowed the world.",
+   "visual": {
+    "type": "chapter",
+    "n": 1,
+    "text": "The bank that borrowed the world"
+   },
+   "chapter": "The bank that borrowed the world",
+   "pause": 0.5
+  },
+  {
+   "say": "Northern Rock was a former building society from the north-east of England. By the summer of 2007 it was the country's fifth-largest bank by mortgage assets.",
+   "visual": {
+    "type": "stat",
+    "value": "No. 5",
+    "label": "UK bank by mortgage assets, 2007",
+    "src": "H.S. Shin, Princeton, Aug 2008"
+   },
+   "src": "H.S. Shin, Princeton, Aug 2008"
+  },
+  {
+   "say": "In June 1998 its total assets were seventeen point four billion pounds. By June 2007 they were one hundred and thirteen point five billion.",
+   "visual": {
+    "type": "line",
+    "title": "Northern Rock total assets",
+    "points": [
+     [
+      "1998",
+      17.4,
+      "£17.4bn"
+     ],
+     [
+      "2007",
+      113.5,
+      "£113.5bn"
+     ]
+    ],
+    "src": "H.S. Shin, Princeton, Aug 2008"
+   },
+   "src": "H.S. Shin, Princeton, Aug 2008"
+  },
+  {
+   "say": "That is an average of about twenty-three per cent a year, compounded over nine years.",
+   "visual": {
+    "type": "stat",
+    "value": "23.2%",
+    "label": "average annual growth in total assets, 1998–2007",
+    "src": "H.S. Shin, Princeton, Aug 2008"
+   },
+   "src": "H.S. Shin, Princeton, Aug 2008"
+  },
+  {
+   "say": "Here's the problem. Over the same period, money from ordinary savers grew only from ten point four billion pounds to twenty-four billion.",
+   "visual": {
+    "type": "bars",
+    "title": "Retail deposits vs total assets, 2007",
+    "items": [
+     [
+      "Total assets",
+      113.5,
+      "£113.5bn"
+     ],
+     [
+      "Retail deposits",
+      24,
+      "£24bn"
+     ]
+    ],
+    "hi": 1,
+    "src": "H.S. Shin, Princeton, Aug 2008"
+   },
+   "src": "H.S. Shin, Princeton, Aug 2008"
+  },
+  {
+   "say": "By the summer of 2007, retail deposits made up just twenty-three per cent of what the bank owed.",
+   "visual": {
+    "type": "stat",
+    "value": "23%",
+    "label": "of liabilities came from retail deposits",
+    "src": "H.S. Shin, Princeton, Aug 2008"
+   },
+   "src": "H.S. Shin, Princeton, Aug 2008"
+  },
+  {
+   "say": "The economist Hyun Song Shin calculated that in June 2007 Northern Rock had forty-five point seven billion pounds of securitised notes, another twenty-six point seven billion of other wholesale funding, and eight point one billion of covered bonds.",
+   "visual": {
+    "type": "stats",
+    "title": "Funding, June 2007",
+    "items": [
+     [
+      "£45.7bn",
+      "securitised notes"
+     ],
+     [
+      "£26.7bn",
+      "other wholesale"
+     ],
+     [
+      "£8.1bn",
+      "covered bonds"
+     ],
+     [
+      "£24bn",
+      "retail deposits"
+     ]
+    ],
+    "hi": 0,
+    "src": "H.S. Shin, Princeton, Aug 2008"
+   },
+   "src": "H.S. Shin, Princeton, Aug 2008"
+  },
+  {
+   "say": "The securitised notes came through a vehicle called Granite. Northern Rock bundled mortgages together, and investors bought bonds backed by the repayments.",
+   "visual": {
+    "type": "document",
+    "header": "Funding programme",
+    "title": "Granite",
+    "lines": [
+     "Mortgages pooled and sold to investors as bonds",
+     "!£50bn securitisation programme"
+    ],
+    "src": "Yale Program on Financial Stability"
+   },
+   "src": "Yale Program on Financial Stability"
+  },
+  {
+   "say": "Reuters later reported that the strategy relied on wholesale markets for three-quarters of the bank's funding.",
+   "visual": {
+    "type": "stat",
+    "value": "¾",
+    "label": "of funding from wholesale markets, as Reuters reported",
+    "src": "Reuters via Mail & Guardian, 15 Oct 2007"
+   },
+   "src": "Reuters via Mail & Guardian, 15 Oct 2007"
+  },
+  {
+   "say": "The model worked as long as one thing stayed true: that investors would always be there to lend again when old funding came due.",
+   "visual": {
+    "type": "title",
+    "text": "The one assumption",
+    "sub": "Investors will always be there to roll the funding over."
+   }
+  },
+  {
+   "say": "Chapter 2. The summer the market shut.",
+   "visual": {
+    "type": "chapter",
+    "n": 2,
+    "text": "The summer the market shut"
+   },
+   "chapter": "The summer the market shut",
+   "pause": 0.5
+  },
+  {
+   "say": "On the twenty-seventh of June 2007, Northern Rock warned that its profits would fall short, because its funding costs had risen.",
+   "visual": {
+    "type": "timeline",
+    "date": "27 Jun 2007",
+    "text": "Profit warning: funding costs rising",
+    "src": "Reuters via Mail & Guardian, 15 Oct 2007"
+   },
+   "src": "Reuters via Mail & Guardian, 15 Oct 2007"
+  },
+  {
+   "say": "Then, in August, the markets it depended on seized up. Shin dates the bank's demise to the ninth of August, when short-term funding and interbank lending all but froze.",
+   "visual": {
+    "type": "title",
+    "text": "9 August 2007",
+    "sub": "Short-term funding and interbank lending freeze",
+    "src": "H.S. Shin, Princeton, Aug 2008"
+   },
+   "src": "H.S. Shin, Princeton, Aug 2008"
+  },
+  {
+   "say": "According to facts agreed before the European Court of Human Rights, Northern Rock alerted its regulator, the Financial Services Authority, on the thirteenth of August.",
+   "visual": {
+    "type": "timeline",
+    "date": "13 Aug 2007",
+    "text": "Northern Rock alerts the FSA",
+    "src": "ECtHR, Grainger v UK, 10 Jul 2012"
+   },
+   "src": "ECtHR, Grainger v UK, 10 Jul 2012"
+  },
+  {
+   "say": "By the third of September, the three authorities, the Treasury, the Bank of England and the FSA, had agreed in principle to provide emergency support.",
+   "visual": {
+    "type": "timeline",
+    "date": "3 Sep 2007",
+    "text": "Support agreed in principle",
+    "src": "ECtHR, Grainger v UK, 10 Jul 2012"
+   },
+   "src": "ECtHR, Grainger v UK, 10 Jul 2012"
+  },
+  {
+   "say": "In the week of the tenth of September, Northern Rock approached the Bank of England for support.",
+   "visual": {
+    "type": "timeline",
+    "date": "w/c 10 Sep 2007",
+    "text": "Northern Rock approaches the Bank",
+    "src": "Yale Program on Financial Stability"
+   },
+   "src": "Yale Program on Financial Stability"
+  },
+  {
+   "say": "The official statement came on Friday the fourteenth. The Chancellor had authorised the Bank to lend against appropriate collateral and at an interest rate premium.",
+   "visual": {
+    "type": "document",
+    "header": "Tripartite statement, 14 Sep 2007",
+    "title": "Liquidity support facility",
+    "lines": [
+     "Lending authorised by the Chancellor",
+     "!Against appropriate collateral and at an interest rate premium"
+    ],
+    "stamp": "EMERGENCY",
+    "src": "BoE/HMT/FSA statement, 14 Sep 2007"
+   },
+   "src": "BoE/HMT/FSA statement, 14 Sep 2007"
+  },
+  {
+   "say": "And the statement tried to reassure. The FSA judged that Northern Rock is solvent, exceeds its regulatory capital requirement and has a good quality loan book.",
+   "visual": {
+    "type": "quote",
+    "text": "The FSA judges that Northern Rock is solvent, exceeds its regulatory capital requirement and has a good quality loan book.",
+    "by": "BoE / HM Treasury / FSA, 14 Sep 2007",
+    "src": "BoE/HMT/FSA statement, 14 Sep 2007"
+   },
+   "src": "BoE/HMT/FSA statement, 14 Sep 2007"
+  },
+  {
+   "say": "It also named the weak spot plainly: the mortgage securitisation market, on which Northern Rock is particularly reliant.",
+   "visual": {
+    "type": "quote",
+    "text": "the mortgage securitisation market, on which Northern Rock is particularly reliant",
+    "by": "BoE / HM Treasury / FSA, 14 Sep 2007",
+    "src": "BoE/HMT/FSA statement, 14 Sep 2007"
+   },
+   "src": "BoE/HMT/FSA statement, 14 Sep 2007"
+  },
+  {
+   "say": "But the news had already broken. The BBC reported the rescue on the thirteenth, before the official announcement.",
+   "visual": {
+    "type": "timeline",
+    "date": "13 Sep 2007",
+    "text": "The BBC breaks the story",
+    "src": "ECtHR, Grainger v UK, 10 Jul 2012"
+   },
+   "src": "ECtHR, Grainger v UK, 10 Jul 2012"
+  },
+  {
+   "say": "Chapter 3. The queues.",
+   "visual": {
+    "type": "chapter",
+    "n": 3,
+    "text": "The queues"
+   },
+   "chapter": "The queues",
+   "pause": 0.5
+  },
+  {
+   "say": "What followed was a scene Britain had not seen in living memory. Customers queued outside branches to take their money out.",
+   "visual": {
+    "type": "title",
+    "text": "The queues",
+    "sub": "Savers line up outside the branches"
+   }
+  },
+  {
+   "say": "Part of the reason was the deposit protection of the time. It covered the first two thousand pounds in full, but only ninety per cent of the next thirty-three thousand.",
+   "visual": {
+    "type": "stats",
+    "title": "Deposit protection before October 2007",
+    "items": [
+     [
+      "100%",
+      "of the first £2,000"
+     ],
+     [
+      "90%",
+      "of the next £33,000"
+     ]
+    ],
+    "hi": 1,
+    "src": "Yale Program on Financial Stability"
+   },
+   "src": "Yale Program on Financial Stability"
+  },
+  {
+   "say": "So a saver with thirty thousand pounds stood to lose up to two thousand eight hundred pounds if the bank failed. Rushing to the branch was not irrational.",
+   "visual": {
+    "type": "stat",
+    "value": "£2,800",
+    "label": "maximum loss on £30,000 under the old rules",
+    "src": "Yale Program on Financial Stability"
+   },
+   "src": "Yale Program on Financial Stability"
+  },
+  {
+   "say": "Over three days, depositors withdrew four point four five billion pounds. A Yale study puts the outflow at at least four point six billion.",
+   "visual": {
+    "type": "stats",
+    "items": [
+     [
+      "£4.45bn",
+      "per facts before the ECtHR"
+     ],
+     [
+      "£4.6bn+",
+      "per Yale's case study"
+     ]
+    ],
+    "src": "ECtHR, Grainger v UK, 10 Jul 2012; Yale Program on Financial Stability"
+   },
+   "src": "ECtHR, Grainger v UK, 10 Jul 2012; Yale Program on Financial Stability"
+  },
+  {
+   "say": "The shares collapsed too. On the fourteenth, the Associated Press reported, they fell by thirty-one per cent to four hundred and thirty-eight pence.",
+   "visual": {
+    "type": "stat",
+    "value": "-31%",
+    "label": "Northern Rock shares on 14 Sep 2007",
+    "red": true,
+    "src": "AP via NBC News, 14 Sep 2007"
+   },
+   "src": "AP via NBC News, 14 Sep 2007"
+  },
+  {
+   "say": "Shin argued it was not quite the classic run of the textbooks. The real damage came earlier, as wholesale lenders stopped rolling over their loans. The queues were the visible part.",
+   "visual": {
+    "type": "title",
+    "text": "The run started in the money markets",
+    "sub": "The queues were the visible part",
+    "src": "H.S. Shin, Princeton, Aug 2008"
+   },
+   "src": "H.S. Shin, Princeton, Aug 2008"
+  },
+  {
+   "say": "On Monday the seventeenth, the Chancellor ended the panic the only way left: the government guaranteed all existing deposits.",
+   "visual": {
+    "type": "timeline",
+    "date": "17 Sep 2007",
+    "text": "Government guarantees existing deposits",
+    "src": "ECtHR, Grainger v UK, 10 Jul 2012"
+   },
+   "src": "ECtHR, Grainger v UK, 10 Jul 2012"
+  },
+  {
+   "say": "The guarantee was widened to new retail deposits on the ninth of October, and to a broader range of liabilities in December.",
+   "visual": {
+    "type": "timeline",
+    "date": "Oct–Dec 2007",
+    "text": "Guarantee extended, twice",
+    "src": "Yale Program on Financial Stability"
+   },
+   "src": "Yale Program on Financial Stability"
+  },
+  {
+   "say": "And from the first of October, the national scheme itself changed. Deposits were now protected in full up to thirty-five thousand pounds.",
+   "visual": {
+    "type": "stat",
+    "value": "£35,000",
+    "label": "protected in full from 1 Oct 2007",
+    "src": "Yale Program on Financial Stability"
+   },
+   "src": "Yale Program on Financial Stability"
+  },
+  {
+   "say": "Chapter 4. The taxpayer steps in.",
+   "visual": {
+    "type": "chapter",
+    "n": 4,
+    "text": "The taxpayer steps in"
+   },
+   "chapter": "The taxpayer steps in",
+   "pause": 0.5
+  },
+  {
+   "say": "The emergency loan did not stay small. By the ninth of October the first facility was nearly used up, and a second, secured on all the company's assets, was added.",
+   "visual": {
+    "type": "timeline",
+    "date": "9 Oct 2007",
+    "text": "A second facility, secured on everything",
+    "src": "ECtHR, Grainger v UK, 10 Jul 2012"
+   },
+   "src": "ECtHR, Grainger v UK, 10 Jul 2012"
+  },
+  {
+   "say": "By the end of 2007, the Court of Appeal recorded, the Bank of England had lent almost twenty-seven billion pounds, with Treasury guarantees of about twenty-nine billion more.",
+   "visual": {
+    "type": "stats",
+    "title": "Exposure at 31 Dec 2007",
+    "items": [
+     [
+      "~£27bn",
+      "Bank of England lending"
+     ],
+     [
+      "~£29bn",
+      "Treasury guarantees"
+     ]
+    ],
+    "hi": 0,
+    "src": "Court of Appeal, SRM Global v HMT, 2009"
+   },
+   "src": "Court of Appeal, SRM Global v HMT, 2009"
+  },
+  {
+   "say": "The government spent the winter looking for a buyer. On the seventeenth of February 2008, the Treasury announced that the private bids did not offer value for money.",
+   "visual": {
+    "type": "document",
+    "header": "HM Treasury, 17 Feb 2008",
+    "title": "Northern Rock",
+    "lines": [
+     "Private proposals rejected on value for money",
+     "!Bank to be taken into temporary public ownership"
+    ],
+    "stamp": "NATIONALISED",
+    "src": "HM Treasury, 17 Feb 2008"
+   },
+   "src": "HM Treasury, 17 Feb 2008"
+  },
+  {
+   "say": "Northern Rock would be taken into temporary public ownership, with Ron Sandler as executive chairman.",
+   "visual": {
+    "type": "title",
+    "text": "Temporary public ownership",
+    "kicker": "17 Feb 2008",
+    "src": "HM Treasury, 17 Feb 2008"
+   },
+   "src": "HM Treasury, 17 Feb 2008"
+  },
+  {
+   "say": "Parliament passed an emergency law, the Banking Special Provisions Act, dated the twenty-first of February. The next day the shares were transferred to the Treasury Solicitor.",
+   "visual": {
+    "type": "stats",
+    "items": [
+     [
+      "21 Feb",
+      "Banking (Special Provisions) Act"
+     ],
+     [
+      "22 Feb",
+      "shares transferred to the state"
+     ]
+    ],
+    "src": "Banking (Special Provisions) Act 2008; Court of Appeal, SRM Global v HMT, 2009"
+   },
+   "src": "Banking (Special Provisions) Act 2008; Court of Appeal, SRM Global v HMT, 2009"
+  },
+  {
+   "say": "On that day, a tribunal later recorded, Northern Rock owed the Bank of England twenty-five point two eight billion pounds, almost a quarter of its book assets.",
+   "visual": {
+    "type": "stat",
+    "value": "£25.28bn",
+    "label": "owed to the Bank of England on 22 Feb 2008",
+    "sub": "23.8% of book assets of £106.31bn",
+    "src": "Upper Tribunal, NR Applicants v Caldwell, 2011"
+   },
+   "src": "Upper Tribunal, NR Applicants v Caldwell, 2011"
+  },
+  {
+   "say": "The Court of Appeal summed up the paradox in two sentences. It was solvent in balance sheet terms. But it was unable to meet its debts as and when they fell due.",
+   "visual": {
+    "type": "quote",
+    "text": "It was solvent in balance sheet terms. But it was unable to meet its debts as and when they fell due.",
+    "by": "Court of Appeal, SRM Global v HM Treasury, 2009",
+    "src": "Court of Appeal, SRM Global v HMT, 2009"
+   },
+   "src": "Court of Appeal, SRM Global v HMT, 2009"
+  },
+  {
+   "say": "The National Audit Office reviewed the decision in 2009. It found nationalisation was the best option for the taxpayer, but said the Treasury should have assessed the risks more systematically.",
+   "visual": {
+    "type": "document",
+    "header": "National Audit Office, March 2009",
+    "title": "The nationalisation of Northern Rock",
+    "lines": [
+     "!Nationalisation: best prospect of protecting taxpayers",
+     "A more systematic assessment of risks was possible"
+    ],
+    "src": "NAO, HC 298, Mar 2009"
+   },
+   "src": "NAO, HC 298, Mar 2009"
+  },
+  {
+   "say": "The NAO also noted that, while on state support, the bank kept offering mortgages of up to one hundred and twenty-five per cent of a property's value.",
+   "visual": {
+    "type": "stat",
+    "value": "125%",
+    "label": "loan-to-value on mortgages still offered while on state support",
+    "src": "NAO, HC 298, Mar 2009"
+   },
+   "src": "NAO, HC 298, Mar 2009"
+  },
+  {
+   "say": "Chapter 5. Who was watching?.",
+   "visual": {
+    "type": "chapter",
+    "n": 5,
+    "text": "Who was watching?"
+   },
+   "chapter": "Who was watching?",
+   "pause": 0.5
+  },
+  {
+   "say": "So where was the regulator? In March 2008, the Financial Services Authority published the findings of its own internal audit.",
+   "visual": {
+    "type": "title",
+    "text": "Where was the regulator?",
+    "kicker": "FSA Internal Audit, March 2008",
+    "src": "FSA Internal Audit release, 26 Mar 2008"
+   },
+   "src": "FSA Internal Audit release, 26 Mar 2008"
+  },
+  {
+   "say": "It found four failings in the period leading up to the crisis. One was inadequate specific resource directly supervising the firm.",
+   "visual": {
+    "type": "quote",
+    "text": "inadequate specific resource directly supervising the firm",
+    "by": "FSA Internal Audit review, March 2008",
+    "src": "FSA Internal Audit release, 26 Mar 2008"
+   },
+   "src": "FSA Internal Audit release, 26 Mar 2008"
+  },
+  {
+   "say": "A law firm's summary of the report, by CMS, sets out the detail. The FSA kept no written notes of key supervisory meetings with the bank.",
+   "visual": {
+    "type": "list",
+    "title": "What the internal audit found",
+    "items": [
+     "No written notes of key supervisory meetings",
+     "Three Heads of Department in three years",
+     "2006 risk assessment not followed by a Risk Mitigation Report"
+    ],
+    "src": "CMS Law-Now, 26 Mar 2008"
+   },
+   "src": "CMS Law-Now, 26 Mar 2008"
+  },
+  {
+   "say": "It had three heads of department in three years. And its 2006 risk assessment of Northern Rock was never followed by a risk mitigation report.",
+   "visual": {
+    "type": "stat",
+    "value": "3",
+    "label": "heads of the supervising department in three years",
+    "src": "CMS Law-Now, 26 Mar 2008"
+   },
+   "src": "CMS Law-Now, 26 Mar 2008"
+  },
+  {
+   "say": "The internal audit described the supervision as at the extreme end of the spectrum. The FSA's chief executive, Hector Sants, said it was not carried out to a standard that is acceptable.",
+   "visual": {
+    "type": "quote",
+    "text": "not carried out to a standard that is acceptable",
+    "by": "Hector Sants, FSA chief executive, Mar 2008",
+    "src": "FSA Internal Audit release, 26 Mar 2008"
+   },
+   "src": "FSA Internal Audit release, 26 Mar 2008"
+  },
+  {
+   "say": "MPs went further. The Treasury Committee concluded that the FSA systematically failed in its regulatory duty.",
+   "visual": {
+    "type": "quote",
+    "text": "the Financial Services Authority systematically failed in its regulatory duty",
+    "by": "Treasury Committee, Jan 2008",
+    "src": "Treasury Committee, The run on the Rock, 2008"
+   },
+   "src": "Treasury Committee, The run on the Rock, 2008"
+  },
+  {
+   "say": "But the Committee placed the first blame on the bank itself. It said the directors were the principal authors of the difficulties.",
+   "visual": {
+    "type": "quote",
+    "text": "the directors of Northern Rock were the principal authors of the difficulties that the company faced since August 2007",
+    "by": "Treasury Committee, Jan 2008",
+    "src": "Treasury Committee, The run on the Rock, 2008"
+   },
+   "src": "Treasury Committee, The run on the Rock, 2008"
+  },
+  {
+   "say": "And it described their strategy as a reckless business model, excessively reliant on wholesale funding.",
+   "visual": {
+    "type": "quote",
+    "text": "the directors had pursued a reckless business model which was excessively reliant on wholesale funding",
+    "by": "Treasury Committee, Jan 2008",
+    "src": "Treasury Committee, The run on the Rock, 2008"
+   },
+   "src": "Treasury Committee, The run on the Rock, 2008"
+  },
+  {
+   "say": "Then, in 2010, the regulator found something else. Not about funding, but about bad loans.",
+   "visual": {
+    "type": "title",
+    "text": "The missing loans",
+    "kicker": "FSA enforcement, 2010"
+   },
+   "pause": 0.6
+  },
+  {
+   "say": "According to the FSA's final notice, the deputy chief executive, David Baker, knew from December 2006 that one thousand nine hundred and seventeen loans were missing from the bank's impaired-loan figures.",
+   "visual": {
+    "type": "stat",
+    "value": "1,917",
+    "label": "loans left out of the impaired-loan figures",
+    "red": true,
+    "src": "FSA Final Notice, D. Baker, Apr 2010"
+   },
+   "src": "FSA Final Notice, D. Baker, Apr 2010"
+  },
+  {
+   "say": "Counting them would have lifted reported arrears from zero point four two per cent to zero point six eight per cent, and possessions from six hundred and sixty-two to two thousand five hundred and seventy-nine.",
+   "visual": {
+    "type": "bars",
+    "title": "What was reported vs what it should have been",
+    "items": [
+     [
+      "Arrears reported",
+      0.42,
+      "0.42%"
+     ],
+     [
+      "Arrears with missing loans",
+      0.68,
+      "0.68%"
+     ],
+     [
+      "Industry average",
+      0.89,
+      "0.89%"
+     ]
+    ],
+    "hi": 1,
+    "src": "FSA Final Notice, D. Baker, Apr 2010"
+   },
+   "src": "FSA Final Notice, D. Baker, Apr 2010"
+  },
+  {
+   "say": "The FSA found that Mr Baker's conduct demonstrated a lack of integrity. He was fined five hundred and four thousand pounds and banned from the industry.",
+   "visual": {
+    "type": "quote",
+    "text": "Mr Baker's conduct demonstrated a lack of integrity",
+    "by": "FSA Final Notice, David Baker, Apr 2010",
+    "src": "FSA Final Notice, D. Baker, Apr 2010"
+   },
+   "src": "FSA Final Notice, D. Baker, Apr 2010"
+  },
+  {
+   "say": "The managing credit director, Richard Barclay, was fined one hundred and forty thousand pounds and barred from senior roles. The finance director, David Jones, was fined three hundred and twenty thousand pounds and banned.",
+   "visual": {
+    "type": "stats",
+    "title": "FSA sanctions, 2010",
+    "items": [
+     [
+      "£504k",
+      "David Baker"
+     ],
+     [
+      "£320k",
+      "David Jones"
+     ],
+     [
+      "£140k",
+      "Richard Barclay"
+     ]
+    ],
+    "hi": 0,
+    "src": "FSA Final Notice, D. Baker, Apr 2010; FSA Final Notice, D. Jones, Jul 2010; FSA Final Notice, R. Barclay, Apr 2010"
+   },
+   "src": "FSA Final Notice, D. Baker, Apr 2010; FSA Final Notice, D. Jones, Jul 2010; FSA Final Notice, R. Barclay, Apr 2010"
+  },
+  {
+   "say": "These were regulatory findings by the FSA, set out in final notices. They were not criminal convictions.",
+   "visual": {
+    "type": "title",
+    "text": "Findings, not convictions",
+    "sub": "FSA final notices, 2010",
+    "src": "FSA Final Notice, D. Baker, Apr 2010"
+   },
+   "src": "FSA Final Notice, D. Baker, Apr 2010"
+  },
+  {
+   "say": "Chapter 6. Worth nothing.",
+   "visual": {
+    "type": "chapter",
+    "n": 6,
+    "text": "Worth nothing"
+   },
+   "chapter": "Worth nothing",
+   "pause": 0.5
+  },
+  {
+   "say": "Now, the strangest number in the file. On the day the state took over, Northern Rock's shares stood at ninety pence. The market valued the bank at about three hundred and seventy-nine million pounds.",
+   "visual": {
+    "type": "stats",
+    "items": [
+     [
+      "90p",
+      "share price at nationalisation"
+     ],
+     [
+      "~£379m",
+      "market value"
+     ]
+    ],
+    "hi": 1,
+    "src": "ECtHR, Grainger v UK, 10 Jul 2012"
+   },
+   "src": "ECtHR, Grainger v UK, 10 Jul 2012"
+  },
+  {
+   "say": "Shareholders expected compensation. But the emergency law set the rules for valuing their shares. The valuer had to assume that all state support had been withdrawn, and that the bank was in administration.",
+   "visual": {
+    "type": "document",
+    "header": "Banking (Special Provisions) Act 2008",
+    "title": "Compensation rules",
+    "lines": [
+     "!Assume all state support has been withdrawn",
+     "!Assume the bank is in administration"
+    ],
+    "src": "Court of Appeal, SRM Global v HMT, 2009"
+   },
+   "src": "Court of Appeal, SRM Global v HMT, 2009"
+  },
+  {
+   "say": "Shareholders, including hedge funds, challenged the law. The largest shareholder, SRM, held more than forty-eight million shares. In July 2009 the Court of Appeal dismissed the challenge.",
+   "visual": {
+    "type": "timeline",
+    "date": "28 Jul 2009",
+    "text": "Court of Appeal dismisses the challenge",
+    "src": "Court of Appeal, SRM Global v HMT, 2009"
+   },
+   "src": "Court of Appeal, SRM Global v HMT, 2009"
+  },
+  {
+   "say": "The independent valuer, Andrew Caldwell, was appointed in September 2008. In March 2010, he assessed the compensation at nil.",
+   "visual": {
+    "type": "timeline",
+    "date": "29 Mar 2010",
+    "text": "Independent valuer: compensation nil",
+    "src": "Upper Tribunal, NR Applicants v Caldwell, 2011"
+   },
+   "src": "Upper Tribunal, NR Applicants v Caldwell, 2011"
+  },
+  {
+   "say": "More than four hundred and forty former shareholders appealed. In October 2011 the Upper Tribunal dismissed every application.",
+   "visual": {
+    "type": "quote",
+    "text": "Northern Rock's shares had a nil value on 22 February 2008, so that no compensation was due.",
+    "by": "Upper Tribunal, summarising the valuer, 2011",
+    "src": "Upper Tribunal, NR Applicants v Caldwell, 2011"
+   },
+   "src": "Upper Tribunal, NR Applicants v Caldwell, 2011"
+  },
+  {
+   "say": "In 2012, the European Court of Human Rights declared the shareholders' case inadmissible. It said the government's approach was far from being manifestly without reasonable foundation.",
+   "visual": {
+    "type": "quote",
+    "text": "far from being 'manifestly without reasonable foundation'",
+    "by": "ECtHR, Grainger v UK, 10 Jul 2012",
+    "src": "ECtHR, Grainger v UK, 10 Jul 2012"
+   },
+   "src": "ECtHR, Grainger v UK, 10 Jul 2012"
+  },
+  {
+   "say": "One last appeal reached the Court of Appeal in 2013. It failed by two judges to one, with Lord Justice Lewison dissenting.",
+   "visual": {
+    "type": "stats",
+    "items": [
+     [
+      "2–1",
+      "Court of Appeal, May 2013"
+     ],
+     [
+      "1",
+      "judge dissenting"
+     ]
+    ],
+    "hi": 0,
+    "src": "Court of Appeal, Harbinger v Caldwell, 2013"
+   },
+   "src": "Court of Appeal, Harbinger v Caldwell, 2013"
+  },
+  {
+   "say": "On the valuer's assumptions, the court noted, the bank's surplus became a deficit of about two point four billion pounds. Without the taxpayer, the courts accepted, the equity was worthless.",
+   "visual": {
+    "type": "stat",
+    "value": "-£2.4bn",
+    "label": "the balance sheet on the valuer's assumptions",
+    "red": true,
+    "src": "Court of Appeal, Harbinger v Caldwell, 2013"
+   },
+   "src": "Court of Appeal, Harbinger v Caldwell, 2013"
+  },
+  {
+   "say": "Chapter 7. Our analysis.",
+   "visual": {
+    "type": "chapter",
+    "n": 7,
+    "text": "Our analysis"
+   },
+   "chapter": "Our analysis",
+   "pause": 0.5
+  },
+  {
+   "say": "So what was the final bill? We can now answer it from the audit reports. In 2008 alone, Northern Rock lost one point four billion pounds.",
+   "visual": {
+    "type": "stat",
+    "value": "£1.4bn",
+    "label": "Northern Rock's loss in 2008",
+    "src": "NAO, HC 20, May 2012"
+   },
+   "src": "NAO, HC 20, May 2012"
+  },
+  {
+   "say": "In 2010 it was split in two. A good bank kept the deposits and some mortgages. The rest stayed in public hands to be run down.",
+   "visual": {
+    "type": "document",
+    "header": "1 January 2010",
+    "title": "The split",
+    "lines": [
+     "Northern Rock plc: £21bn deposits, £10bn mortgages",
+     "!The rest: Northern Rock Asset Management"
+    ],
+    "src": "NAO, HC 20, May 2012"
+   },
+   "src": "NAO, HC 20, May 2012"
+  },
+  {
+   "say": "In November 2011, Virgin Money agreed to buy the good bank for seven hundred and forty-seven million pounds in cash, potentially rising above one billion.",
+   "visual": {
+    "type": "stat",
+    "value": "£747m",
+    "label": "Virgin Money's cash price for Northern Rock plc",
+    "src": "HM Treasury, 17 Nov 2011"
+   },
+   "src": "HM Treasury, 17 Nov 2011"
+  },
+  {
+   "say": "The National Audit Office put the taxpayer's loss on that part at four hundred and eighty million pounds, against an investment of one point four billion.",
+   "visual": {
+    "type": "quote",
+    "text": "The taxpayer is expected to lose a total of £480 million on the original investment of £1.4 billion in Northern Rock plc.",
+    "by": "National Audit Office, May 2012",
+    "src": "NAO, HC 20, May 2012"
+   },
+   "src": "NAO, HC 20, May 2012"
+  },
+  {
+   "say": "Across the whole rescue, the NAO counted thirty-seven billion pounds of cash support. It expected that cash to be repaid, but estimated a possible net cost, in today's money, of around two billion pounds.",
+   "visual": {
+    "type": "stats",
+    "items": [
+     [
+      "£37bn",
+      "cash support"
+     ],
+     [
+      "~£2bn",
+      "possible net present cost"
+     ]
+    ],
+    "hi": 1,
+    "src": "NAO, HC 20, May 2012"
+   },
+   "src": "NAO, HC 20, May 2012"
+  },
+  {
+   "say": "In May 2016, a Cerberus-led consortium completed its purchase of thirteen point three billion pounds of former Northern Rock mortgages. The NAO found the price was seventy-four million pounds above face value.",
+   "visual": {
+    "type": "stat",
+    "value": "£13.3bn",
+    "label": "former Northern Rock mortgages sold, completed May 2016",
+    "src": "NAO, Jul 2016"
+   },
+   "src": "NAO, Jul 2016"
+  },
+  {
+   "say": "Here is our reading of the record. Northern Rock did not fail because its borrowers stopped paying. It failed because it borrowed short to lend long, on a scale its savers could never cover.",
+   "visual": {
+    "type": "title",
+    "text": "Borrowed short. Lent long.",
+    "kicker": "Our analysis"
+   }
+  },
+  {
+   "say": "The regulator, by its own audit, was not watching closely enough. And inside the bank, the FSA later found, the arrears figures had been flattered.",
+   "visual": {
+    "type": "list",
+    "title": "Three failures on the record",
+    "items": [
+     "A funding model built on markets that could close",
+     "A regulator that, by its own audit, under-supervised",
+     "Arrears figures that the FSA found were understated"
+    ]
+   }
+  },
+  {
+   "say": "The shareholder cases are the part most explainers skip. The courts accepted a simple idea: value created by a taxpayer rescue does not belong to the people who owned the bank before it.",
+   "visual": {
+    "type": "title",
+    "text": "Who owns a rescue?",
+    "sub": "The courts: not the old shareholders"
+   }
+  },
+  {
+   "say": "Whether that was fair is still argued. One Court of Appeal judge disagreed. But the shareholders lost in every court and tribunal that heard them.",
+   "visual": {
+    "type": "stats",
+    "items": [
+     [
+      "5+",
+      "rulings against the shareholders"
+     ],
+     [
+      "0",
+      "awarded to them"
+     ]
+    ],
+    "hi": 1,
+    "src": "Upper Tribunal, NR Applicants v Caldwell, 2011; Court of Appeal, Harbinger v Caldwell, 2013; ECtHR, Grainger v UK, 10 Jul 2012"
+   },
+   "src": "Upper Tribunal, NR Applicants v Caldwell, 2011; Court of Appeal, Harbinger v Caldwell, 2013; ECtHR, Grainger v UK, 10 Jul 2012"
+  },
+  {
+   "say": "And the queues did change the rules. Full protection of deposits, rather than ninety per cent, dates from that autumn.",
+   "visual": {
+    "type": "stat",
+    "value": "100%",
+    "label": "deposit protection up to the limit, from Oct 2007",
+    "src": "Yale Program on Financial Stability"
+   },
+   "src": "Yale Program on Financial Stability"
+  },
+  {
+   "say": "Northern Rock was solvent on paper and broke in practice. That gap is where bank runs live.",
+   "visual": {
+    "type": "title",
+    "text": "Solvent on paper. Broke in practice."
+   },
+   "chapter": "Outro"
+  },
+  {
+   "say": "Every source for this episode is numbered in the description. If we've got something wrong, tell us, and we'll correct it.",
+   "visual": {
+    "type": "title",
+    "text": "Sources in the description"
+   }
+  },
+  {
+   "say": "The next case file is Patisserie Valerie, the cafe chain whose accounts did not add up. Subscribe so it's waiting for you.",
+   "visual": {
+    "type": "title",
+    "text": "Next case file: Patisserie Valerie",
+    "kicker": "Subscribe"
+   },
+   "pause": 1.0
+  }
+ ],
+ "shorts": [
+  {
+   "id": "a",
+   "title": "Savers pulled £4.45bn out of Northern Rock in three days #Shorts",
+   "hook": "£4.45bn in 3 days",
+   "blurb": "How Britain's first bank run since Victorian times unfolded, from the official record.",
+   "scenes": [
+    {
+     "say": "Savers pulled four point four five billion pounds out of Northern Rock in just three days.",
+     "visual": {
+      "value": "£4.45bn",
+      "label": "withdrawn in three days",
+      "red": true,
+      "src": "ECtHR, Grainger v UK, 10 Jul 2012",
+      "type": "stat"
+     },
+     "caption": "£4.45bn gone in three days"
+    },
+    {
+     "say": "It was September 2007, and the BBC had just reported the bank's liquidity problems.",
+     "visual": {
+      "date": "13 Sep 2007",
+      "text": "The BBC reports liquidity problems",
+      "src": "ECtHR, Grainger v UK, 10 Jul 2012",
+      "type": "timeline"
+     },
+     "caption": "The news broke first"
+    },
+    {
+     "say": "That was nearly a fifth of all its retail deposits. MPs called it the first run on a UK bank's retail deposits since Victorian times.",
+     "visual": {
+      "value": "~20%",
+      "label": "of retail deposits, gone",
+      "src": "ECtHR, Grainger v UK, 2012; Treasury Committee, 2008",
+      "type": "stat"
+     },
+     "caption": "Nearly a fifth of deposits"
+    },
+    {
+     "say": "It stopped only when the government guaranteed every existing deposit, on the seventeenth of September.",
+     "visual": {
+      "date": "17 Sep 2007",
+      "text": "Government guarantees deposits",
+      "src": "ECtHR, Grainger v UK, 10 Jul 2012",
+      "type": "timeline"
+     },
+     "caption": "Stopped by a state guarantee"
+    },
+    {
+     "say": "Five months later, the bank was nationalised. The full story is on our channel.",
+     "visual": {
+      "text": "Nationalised",
+      "kicker": "Feb 2008",
+      "src": "HM Treasury, 17 Feb 2008",
+      "type": "title"
+     },
+     "caption": "Nationalised, Feb 2008"
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "title": "Who hid 1,917 bad loans at Northern Rock? #Shorts",
+   "hook": "1,917 missing loans",
+   "blurb": "What the FSA's final notices found about Northern Rock's arrears figures.",
+   "scenes": [
+    {
+     "say": "One thousand nine hundred and seventeen loans were left out of Northern Rock's bad-loan figures.",
+     "visual": {
+      "value": "1,917",
+      "label": "loans missing from impaired-loan figures",
+      "red": true,
+      "src": "FSA Final Notice, D. Baker, Apr 2010",
+      "type": "stat"
+     },
+     "caption": "1,917 loans left out"
+    },
+    {
+     "say": "The regulator found the deputy chief executive, David Baker, knew about it from December 2006.",
+     "visual": {
+      "date": "Dec 2006",
+      "text": "Deputy CEO knew, the FSA found",
+      "src": "FSA Final Notice, D. Baker, Apr 2010",
+      "type": "timeline"
+     },
+     "caption": "He knew from Dec 2006"
+    },
+    {
+     "say": "Counting them would have lifted reported arrears from zero point four two to zero point six eight per cent.",
+     "visual": {
+      "title": "Reported arrears",
+      "items": [
+       [
+        "Reported",
+        0.42,
+        "0.42%"
+       ],
+       [
+        "With missing loans",
+        0.68,
+        "0.68%"
+       ]
+      ],
+      "hi": 1,
+      "src": "FSA Final Notice, D. Baker, Apr 2010",
+      "type": "bars"
+     },
+     "caption": "0.42% became 0.68%"
+    },
+    {
+     "say": "The FSA said his conduct demonstrated a lack of integrity. It fined him five hundred and four thousand pounds and banned him.",
+     "visual": {
+      "value": "£504k",
+      "label": "fine, plus a ban from the industry",
+      "src": "FSA Final Notice, D. Baker, Apr 2010",
+      "type": "stat"
+     },
+     "caption": "Fined £504k and banned"
+    },
+    {
+     "say": "The finance director was fined and banned too. These were regulatory findings, not criminal convictions. The full story is on our channel.",
+     "visual": {
+      "text": "Findings, not convictions",
+      "src": "FSA Final Notice, D. Jones, Jul 2010",
+      "type": "title"
+     },
+     "caption": "Regulatory findings"
+    }
+   ]
+  },
+  {
+   "id": "c",
+   "title": "Northern Rock's shareholders got £0. Here's why #Shorts",
+   "hook": "Worth £379m. Paid £0.",
+   "blurb": "Why Northern Rock's shareholders received nothing, according to the courts.",
+   "scenes": [
+    {
+     "say": "When Northern Rock was nationalised, the stock market valued it at about three hundred and seventy-nine million pounds. Shareholders got nothing.",
+     "visual": {
+      "items": [
+       [
+        "~£379m",
+        "market value"
+       ],
+       [
+        "£0",
+        "compensation"
+       ]
+      ],
+      "hi": 1,
+      "src": "ECtHR, Grainger v UK, 10 Jul 2012",
+      "type": "stats"
+     },
+     "caption": "£379m market value. £0 paid."
+    },
+    {
+     "say": "The emergency law told the valuer to assume all government support had been withdrawn, and the bank was in administration.",
+     "visual": {
+      "header": "Banking (Special Provisions) Act 2008",
+      "title": "Valuation rules",
+      "lines": [
+       "!No state support",
+       "!Bank in administration"
+      ],
+      "src": "Court of Appeal, SRM Global v HMT, 2009",
+      "type": "document"
+     },
+     "caption": "Value it without the rescue"
+    },
+    {
+     "say": "On those assumptions, a surplus became a deficit of about two point four billion pounds. The valuer set compensation at nil.",
+     "visual": {
+      "value": "-£2.4bn",
+      "label": "on the valuer's assumptions",
+      "red": true,
+      "src": "Court of Appeal, Harbinger v Caldwell, 2013",
+      "type": "stat"
+     },
+     "caption": "A £2.4bn hole"
+    },
+    {
+     "say": "More than four hundred and forty shareholders appealed to a tribunal and lost. Shareholders also lost in Strasbourg and in the Court of Appeal. The full story is on our channel.",
+     "visual": {
+      "items": [
+       [
+        "440+",
+        "shareholders appealed"
+       ],
+       [
+        "0",
+        "awarded"
+       ]
+      ],
+      "hi": 1,
+      "src": "Upper Tribunal, NR Applicants v Caldwell, 2011",
+      "type": "stats"
+     },
+     "caption": "They lost every appeal"
+    }
+   ]
+  },
+  {
+   "id": "d",
+   "title": "Northern Rock's regulator kept no notes of key meetings #Shorts",
+   "hook": "No notes taken",
+   "blurb": "What the FSA's own internal audit found about its supervision of Northern Rock.",
+   "scenes": [
+    {
+     "say": "Northern Rock's regulator kept no written notes of its key supervisory meetings with the bank.",
+     "visual": {
+      "value": "0",
+      "label": "written notes of key supervisory meetings",
+      "red": true,
+      "src": "CMS Law-Now, 26 Mar 2008",
+      "type": "stat"
+     },
+     "caption": "No notes of key meetings"
+    },
+    {
+     "say": "That was a finding of the Financial Services Authority's own internal audit, published in March 2008.",
+     "visual": {
+      "header": "FSA, March 2008",
+      "title": "Internal Audit review",
+      "lines": [
+       "!Supervision of Northern Rock"
+      ],
+      "src": "FSA Internal Audit release, 26 Mar 2008",
+      "type": "document"
+     },
+     "caption": "The FSA audited itself"
+    },
+    {
+     "say": "The team supervising the bank had three heads of department in three years.",
+     "visual": {
+      "value": "3",
+      "label": "heads of department in three years",
+      "src": "CMS Law-Now, 26 Mar 2008",
+      "type": "stat"
+     },
+     "caption": "3 bosses in 3 years"
+    },
+    {
+     "say": "The FSA's chief executive said the supervision was not carried out to a standard that is acceptable. MPs said the FSA systematically failed in its duty. The full story is on our channel.",
+     "visual": {
+      "text": "not carried out to a standard that is acceptable",
+      "by": "Hector Sants, FSA, Mar 2008",
+      "src": "FSA Internal Audit release, 26 Mar 2008",
+      "type": "quote"
+     },
+     "caption": "Not acceptable"
+    }
+   ]
+  },
+  {
+   "id": "e",
+   "title": "Why queuing at Northern Rock wasn't irrational #Shorts",
+   "hook": "Why savers ran",
+   "blurb": "The deposit protection rules that made the 2007 queues make sense.",
+   "scenes": [
+    {
+     "say": "Before October 2007, a British saver with thirty thousand pounds in a failed bank could lose up to two thousand eight hundred pounds.",
+     "visual": {
+      "value": "£2,800",
+      "label": "possible loss on £30,000",
+      "red": true,
+      "src": "Yale Program on Financial Stability",
+      "type": "stat"
+     },
+     "caption": "£2,800 at risk"
+    },
+    {
+     "say": "Deposit protection covered the first two thousand pounds in full, but only ninety per cent of the next thirty-three thousand.",
+     "visual": {
+      "items": [
+       [
+        "100%",
+        "first £2,000"
+       ],
+       [
+        "90%",
+        "next £33,000"
+       ]
+      ],
+      "hi": 1,
+      "src": "Yale Program on Financial Stability",
+      "type": "stats"
+     },
+     "caption": "Only 90% protected"
+    },
+    {
+     "say": "So when Northern Rock needed emergency help, savers queued to get their money out. Four point four five billion pounds left in three days.",
+     "visual": {
+      "value": "£4.45bn",
+      "label": "withdrawn in three days",
+      "src": "ECtHR, Grainger v UK, 10 Jul 2012",
+      "type": "stat"
+     },
+     "caption": "£4.45bn withdrawn"
+    },
+    {
+     "say": "The rules changed fast. From the first of October 2007, deposits were protected in full up to thirty-five thousand pounds. The full story is on our channel.",
+     "visual": {
+      "value": "£35,000",
+      "label": "protected in full from 1 Oct 2007",
+      "src": "Yale Program on Financial Stability",
+      "type": "stat"
+     },
+     "caption": "Fully protected up to £35k"
+    }
+   ]
+  },
+  {
+   "id": "f",
+   "title": "Only 23% of Northern Rock's money came from savers #Shorts",
+   "hook": "Only 23% from savers",
+   "blurb": "How Northern Rock funded its growth, and why that made it fragile.",
+   "scenes": [
+    {
+     "say": "By 2007, only twenty-three per cent of Northern Rock's liabilities came from retail savers.",
+     "visual": {
+      "value": "23%",
+      "label": "of liabilities from retail deposits",
+      "red": true,
+      "src": "H.S. Shin, Princeton, Aug 2008",
+      "type": "stat"
+     },
+     "caption": "Only 23% from savers"
+    },
+    {
+     "say": "Its total assets had grown from seventeen point four billion pounds in 1998 to one hundred and thirteen point five billion in 2007.",
+     "visual": {
+      "title": "Total assets",
+      "points": [
+       [
+        "1998",
+        17.4,
+        "£17.4bn"
+       ],
+       [
+        "2007",
+        113.5,
+        "£113.5bn"
+       ]
+      ],
+      "src": "H.S. Shin, Princeton, Aug 2008",
+      "type": "line"
+     },
+     "caption": "£17bn to £113bn"
+    },
+    {
+     "say": "Most of the rest came from wholesale and capital markets, including forty-five point seven billion pounds of mortgage-backed notes.",
+     "visual": {
+      "value": "£45.7bn",
+      "label": "securitised notes, June 2007",
+      "src": "H.S. Shin, Princeton, Aug 2008",
+      "type": "stat"
+     },
+     "caption": "£45.7bn of mortgage bonds"
+    },
+    {
+     "say": "When those markets froze in August 2007, it could not refinance. MPs called it a reckless business model. The full story is on our channel.",
+     "visual": {
+      "text": "a reckless business model which was excessively reliant on wholesale funding",
+      "by": "Treasury Committee, Jan 2008",
+      "src": "Treasury Committee, The run on the Rock, 2008",
+      "type": "quote"
+     },
+     "caption": "A reckless business model"
+    }
+   ]
+  },
+  {
+   "id": "g",
+   "title": "Who paid for Northern Rock? The final bill #Shorts",
+   "hook": "Who paid?",
+   "blurb": "The taxpayer's bill for Northern Rock, from National Audit Office reports.",
+   "scenes": [
+    {
+     "say": "Taxpayers lost four hundred and eighty million pounds on the part of Northern Rock sold to Virgin Money, according to the National Audit Office.",
+     "visual": {
+      "value": "£480m",
+      "label": "taxpayer loss on Northern Rock plc",
+      "red": true,
+      "src": "NAO, HC 20, May 2012",
+      "type": "stat"
+     },
+     "caption": "£480m loss"
+    },
+    {
+     "say": "The state had put one point four billion pounds of capital into the new bank. Virgin Money paid seven hundred and forty-seven million in cash at the sale, with more possible later.",
+     "visual": {
+      "items": [
+       [
+        "£1.4bn",
+        "capital put in"
+       ],
+       [
+        "£747m",
+        "Virgin's cash price"
+       ]
+      ],
+      "hi": 1,
+      "src": "NAO, HC 20, May 2012; HM Treasury, 17 Nov 2011",
+      "type": "stats"
+     },
+     "caption": "£747m cash at sale"
+    },
+    {
+     "say": "Across the whole rescue, the NAO counted thirty-seven billion pounds of cash support, expected to be repaid.",
+     "visual": {
+      "value": "£37bn",
+      "label": "cash support to Northern Rock",
+      "src": "NAO, HC 20, May 2012",
+      "type": "stat"
+     },
+     "caption": "£37bn of support"
+    },
+    {
+     "say": "But it still estimated a possible net present cost of around two billion pounds. The full story is on our channel.",
+     "visual": {
+      "value": "~£2bn",
+      "label": "possible net present cost",
+      "red": true,
+      "src": "NAO, HC 20, May 2012",
+      "type": "stat"
+     },
+     "caption": "Possible cost: ~£2bn"
+    }
+   ]
+  }
+ ]
+}
