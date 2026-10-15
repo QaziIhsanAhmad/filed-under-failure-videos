@@ -162,6 +162,11 @@ def main():
                 it["releasedAt"] = now.isoformat()
             it["status"] = "released"; it["_rel"] = rel
             feed.append(it)
+    # Free API lane (see yt/yt_api.py): apply upload results, then rebuild the upload queue for Make.
+    import sys; sys.path.insert(0, "yt")
+    import yt_api
+    yt_api.merge_results(led, now)
+    yt_api.build_queue(led, now, [u for u in untitled if u != "channel unreadable"])
     write_feed("yt/feed.xml", "Filed Under Failure uploads", feed, now)
     for it in led["items"]:
         it.pop("_rel", None)

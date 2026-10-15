@@ -1,0 +1,28 @@
+name: YouTube lane - upload into Make session (any size)
+on:
+  repository_dispatch:
+    types: [yt-session]
+permissions:
+  contents: write
+# No shared concurrency group: Make sends several sessions at once and each run writes its own
+# yt/results/<id>.json, so runs never conflict (a shared group made GitHub cancel queued runs).
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            yt
+            ${{ github.event.client_payload.file }}
+          sparse-checkout-cone-mode: false
+      - run: |
+          git config user.name "yt-feed-bot"; git config user.email "actions@users.noreply.github.com"
+          python3 yt/yt_upload.py
+          git add yt/results
+          git commit -qm "YouTube lane: upload result ${{ github.event.client_payload.id }}" || exit 0
+          for n in 1 2 3 4 5 6 7 8; do
+            git pull --rebase -q && git push && exit 0
+            git rebase --abort 2>/dev/null; sleep $((5 + RANDOM % 10))
+          done
+          exit 1
