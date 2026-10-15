@@ -1,0 +1,82 @@
+[
+ {
+  "id": "002-e-a0",
+  "path": "/../upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
+  "ctype": "video/mp4",
+  "size": 5254411,
+  "meta": "{\"snippet\": {\"title\": \"Who paid for the Silicon Valley Bank collapse? #Shorts\", \"description\": \"Who paid for the Silicon Valley Bank collapse? #Shorts\\n\\nWho paid for protecting Silicon Valley Bank's uninsured depositors, from FDIC and government records.\\n\\nFull episode: \\\"Silicon Valley Bank: $40 Billion Gone in One Day\\\" on Filed Under Failure: https://youtu.be/5fPvAEfxo6w\\nSources: Federal Reserve Board, Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank (28 Apr 2023); Federal Reserve Board, Executive Summary of the review (28 Apr 2023); Federal Reserve Board press release on the review's results (28 Apr 2023) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #SiliconValleyBank #SVBcollapse #bankrun\", \"tags\": [\"Silicon Valley Bank\", \"SVB collapse\", \"bank run\", \"business documentary\", \"Federal Reserve\", \"FDIC\", \"banking crisis 2023\", \"what went wrong\"], \"categoryId\": \"27\", \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}, \"status\": {\"selfDeclaredMadeForKids\": false, \"containsSyntheticMedia\": false, \"privacyStatus\": \"private\", \"publishAt\": \"2026-10-15T16:00:00Z\"}}",
+  "file": "002/002-svb-short-e.mp4"
+ },
+ {
+  "id": "002-f-a0",
+  "path": "/../upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
+  "ctype": "video/mp4",
+  "size": 5381249,
+  "meta": "{\"snippet\": {\"title\": \"Did social media cause the Silicon Valley Bank run? Two reviews disagree #Shorts\", \"description\": \"Did social media cause the Silicon Valley Bank run? Two reviews disagree #Shorts\\n\\nThe Fed's 2023 review and the preliminary findings of a 2026 independent review disagree on social media's role.\\n\\nFull episode: \\\"Silicon Valley Bank: $40 Billion Gone in One Day\\\" on Filed Under Failure: https://youtu.be/5fPvAEfxo6w\\nSources: Federal Reserve Board, Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank (28 Apr 2023); Federal Reserve Board, Executive Summary of the review (28 Apr 2023); Federal Reserve Board press release on the review's results (28 Apr 2023) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #SiliconValleyBank #SVBcollapse #bankrun\", \"tags\": [\"Silicon Valley Bank\", \"SVB collapse\", \"bank run\", \"business documentary\", \"Federal Reserve\", \"FDIC\", \"banking crisis 2023\", \"what went wrong\"], \"categoryId\": \"27\", \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}, \"status\": {\"selfDeclaredMadeForKids\": false, \"containsSyntheticMedia\": false, \"privacyStatus\": \"private\", \"publishAt\": \"2026-10-16T16:00:00Z\"}}",
+  "file": "002/002-svb-short-f.mp4"
+ },
+ {
+  "id": "003-z-a0",
+  "path": "/../upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
+  "ctype": "video/mp4",
+  "size": 3630119,
+  "meta": "{\"snippet\": {\"title\": \"An appeals court called the Theranos claims 'half-truths and outright lies' #Shorts\", \"description\": \"What the court record says about Theranos, ahead of our full episode on Saturday.\\n\\nFull episode: \\\"Theranos: What the Jury Actually Decided\\\" on Filed Under Failure.\\nSources: US Court of Appeals for the Ninth Circuit, United States v. Holmes & Balwani, Nos. 22-10312, 22-10338, opinion filed 24 Feb 2025; SEC press release 2018-41, 'Theranos, CEO Holmes, and Former President Balwani Charged With Massive Fraud' (14 Mar 2018); ABA Journal, 'Jury finds blood-testing company Theranos CEO Holmes guilty of fraud' (Jan 2022) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #Theranos #ElizabethHolmes #Theranosverdict\", \"tags\": [\"Theranos\", \"Elizabeth Holmes\", \"Theranos verdict\", \"Sunny Balwani\", \"business documentary\", \"fraud trial\", \"Silicon Valley\", \"what went wrong\"], \"categoryId\": \"27\", \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}, \"status\": {\"selfDeclaredMadeForKids\": false, \"containsSyntheticMedia\": false, \"privacyStatus\": \"private\", \"publishAt\": \"2026-10-16T16:00:00Z\"}}",
+  "file": "003/003-theranos-short-z.mp4"
+ },
+ {
+  "id": "003-a-a0",
+  "path": "/../upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
+  "ctype": "video/mp4",
+  "size": 3762196,
+  "meta": "{\"snippet\": {\"title\": \"Elizabeth Holmes was convicted of defrauding investors, not patients #Shorts\", \"description\": \"What the jury actually decided in the Theranos case, from the court record.\\n\\nFull episode: \\\"Theranos: What the Jury Actually Decided\\\" on Filed Under Failure.\\nSources: US Court of Appeals for the Ninth Circuit, United States v. Holmes & Balwani, Nos. 22-10312, 22-10338, opinion filed 24 Feb 2025; SEC press release 2018-41, 'Theranos, CEO Holmes, and Former President Balwani Charged With Massive Fraud' (14 Mar 2018); ABA Journal, 'Jury finds blood-testing company Theranos CEO Holmes guilty of fraud' (Jan 2022) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #Theranos #ElizabethHolmes #Theranosverdict\", \"tags\": [\"Theranos\", \"Elizabeth Holmes\", \"Theranos verdict\", \"Sunny Balwani\", \"business documentary\", \"fraud trial\", \"Silicon Valley\", \"what went wrong\"], \"categoryId\": \"27\", \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}, \"status\": {\"selfDeclaredMadeForKids\": false, \"containsSyntheticMedia\": false, \"privacyStatus\": \"private\", \"publishAt\": \"2026-10-17T16:00:00Z\"}}",
+  "file": "003/003-theranos-short-a.mp4"
+ },
+ {
+  "id": "003-b-a0",
+  "path": "/../upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
+  "ctype": "video/mp4",
+  "size": 3083484,
+  "meta": "{\"snippet\": {\"title\": \"Theranos developed 300 blood tests. Only 12 ever ran on its own machine #Shorts\", \"description\": \"The gap between Theranos's pitch and its lab, as found by the appeals court.\\n\\nFull episode: \\\"Theranos: What the Jury Actually Decided\\\" on Filed Under Failure.\\nSources: US Court of Appeals for the Ninth Circuit, United States v. Holmes & Balwani, Nos. 22-10312, 22-10338, opinion filed 24 Feb 2025; SEC press release 2018-41, 'Theranos, CEO Holmes, and Former President Balwani Charged With Massive Fraud' (14 Mar 2018); ABA Journal, 'Jury finds blood-testing company Theranos CEO Holmes guilty of fraud' (Jan 2022) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #Theranos #ElizabethHolmes #Theranosverdict\", \"tags\": [\"Theranos\", \"Elizabeth Holmes\", \"Theranos verdict\", \"Sunny Balwani\", \"business documentary\", \"fraud trial\", \"Silicon Valley\", \"what went wrong\"], \"categoryId\": \"27\", \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}, \"status\": {\"selfDeclaredMadeForKids\": false, \"containsSyntheticMedia\": false, \"privacyStatus\": \"private\", \"publishAt\": \"2026-10-18T16:00:00Z\"}}",
+  "file": "003/003-theranos-short-b.mp4"
+ },
+ {
+  "id": "003-c-a0",
+  "path": "/../upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
+  "ctype": "video/mp4",
+  "size": 3253535,
+  "meta": "{\"snippet\": {\"title\": \"Theranos showed VIP investors a machine running a 'null protocol' #Shorts\", \"description\": \"How Theranos demonstrations worked, according to trial testimony summarised by the appeals court.\\n\\nFull episode: \\\"Theranos: What the Jury Actually Decided\\\" on Filed Under Failure.\\nSources: US Court of Appeals for the Ninth Circuit, United States v. Holmes & Balwani, Nos. 22-10312, 22-10338, opinion filed 24 Feb 2025; SEC press release 2018-41, 'Theranos, CEO Holmes, and Former President Balwani Charged With Massive Fraud' (14 Mar 2018); ABA Journal, 'Jury finds blood-testing company Theranos CEO Holmes guilty of fraud' (Jan 2022) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #Theranos #ElizabethHolmes #Theranosverdict\", \"tags\": [\"Theranos\", \"Elizabeth Holmes\", \"Theranos verdict\", \"Sunny Balwani\", \"business documentary\", \"fraud trial\", \"Silicon Valley\", \"what went wrong\"], \"categoryId\": \"27\", \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}, \"status\": {\"selfDeclaredMadeForKids\": false, \"containsSyntheticMedia\": false, \"privacyStatus\": \"private\", \"publishAt\": \"2026-10-19T16:00:00Z\"}}",
+  "file": "003/003-theranos-short-c.mp4"
+ },
+ {
+  "id": "003-d-a0",
+  "path": "/../upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
+  "ctype": "video/mp4",
+  "size": 3604719,
+  "meta": "{\"snippet\": {\"title\": \"Holmes admitted she put Pfizer's logo on reports praising Theranos #Shorts\", \"description\": \"The pharma 'validation' reports in the Theranos case, from the appeals court's account of the evidence.\\n\\nFull episode: \\\"Theranos: What the Jury Actually Decided\\\" on Filed Under Failure.\\nSources: US Court of Appeals for the Ninth Circuit, United States v. Holmes & Balwani, Nos. 22-10312, 22-10338, opinion filed 24 Feb 2025; SEC press release 2018-41, 'Theranos, CEO Holmes, and Former President Balwani Charged With Massive Fraud' (14 Mar 2018); ABA Journal, 'Jury finds blood-testing company Theranos CEO Holmes guilty of fraud' (Jan 2022) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #Theranos #ElizabethHolmes #Theranosverdict\", \"tags\": [\"Theranos\", \"Elizabeth Holmes\", \"Theranos verdict\", \"Sunny Balwani\", \"business documentary\", \"fraud trial\", \"Silicon Valley\", \"what went wrong\"], \"categoryId\": \"27\", \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}, \"status\": {\"selfDeclaredMadeForKids\": false, \"containsSyntheticMedia\": false, \"privacyStatus\": \"private\", \"publishAt\": \"2026-10-20T16:00:00Z\"}}",
+  "file": "003/003-theranos-short-d.mp4"
+ },
+ {
+  "id": "003-e-a0",
+  "path": "/../upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
+  "ctype": "video/mp4",
+  "size": 3790914,
+  "meta": "{\"snippet\": {\"title\": \"Theranos projected $230m profit. It reported $1.94m income #Shorts\", \"description\": \"Theranos's projections versus its finances, from trial evidence described by the appeals court.\\n\\nFull episode: \\\"Theranos: What the Jury Actually Decided\\\" on Filed Under Failure.\\nSources: US Court of Appeals for the Ninth Circuit, United States v. Holmes & Balwani, Nos. 22-10312, 22-10338, opinion filed 24 Feb 2025; SEC press release 2018-41, 'Theranos, CEO Holmes, and Former President Balwani Charged With Massive Fraud' (14 Mar 2018); ABA Journal, 'Jury finds blood-testing company Theranos CEO Holmes guilty of fraud' (Jan 2022) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #Theranos #ElizabethHolmes #Theranosverdict\", \"tags\": [\"Theranos\", \"Elizabeth Holmes\", \"Theranos verdict\", \"Sunny Balwani\", \"business documentary\", \"fraud trial\", \"Silicon Valley\", \"what went wrong\"], \"categoryId\": \"27\", \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}, \"status\": {\"selfDeclaredMadeForKids\": false, \"containsSyntheticMedia\": false, \"privacyStatus\": \"private\", \"publishAt\": \"2026-10-21T16:00:00Z\"}}",
+  "file": "003/003-theranos-short-e.mp4"
+ },
+ {
+  "id": "003-f-a0",
+  "path": "/../upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
+  "ctype": "video/mp4",
+  "size": 3086455,
+  "meta": "{\"snippet\": {\"title\": \"Theranos told investors about military work. General Mattis testified otherwise #Shorts\", \"description\": \"Theranos and the US military, from the trial testimony described by the appeals court.\\n\\nFull episode: \\\"Theranos: What the Jury Actually Decided\\\" on Filed Under Failure.\\nSources: US Court of Appeals for the Ninth Circuit, United States v. Holmes & Balwani, Nos. 22-10312, 22-10338, opinion filed 24 Feb 2025; SEC press release 2018-41, 'Theranos, CEO Holmes, and Former President Balwani Charged With Massive Fraud' (14 Mar 2018); ABA Journal, 'Jury finds blood-testing company Theranos CEO Holmes guilty of fraud' (Jan 2022) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #Theranos #ElizabethHolmes #Theranosverdict\", \"tags\": [\"Theranos\", \"Elizabeth Holmes\", \"Theranos verdict\", \"Sunny Balwani\", \"business documentary\", \"fraud trial\", \"Silicon Valley\", \"what went wrong\"], \"categoryId\": \"27\", \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}, \"status\": {\"selfDeclaredMadeForKids\": false, \"containsSyntheticMedia\": false, \"privacyStatus\": \"private\", \"publishAt\": \"2026-10-22T16:00:00Z\"}}",
+  "file": "003/003-theranos-short-f.mp4"
+ },
+ {
+  "id": "003-ep-a0",
+  "path": "/../upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
+  "ctype": "video/mp4",
+  "size": 85165275,
+  "meta": "{\"snippet\": {\"title\": \"Theranos: What the Jury Actually Decided\", \"description\": \"Theranos collapse explained from court and regulator records.\\nA jury convicted Elizabeth Holmes of defrauding investors, and acquitted her of defrauding patients. Using the Ninth Circuit's February 2025 opinion, the SEC's 2018 charges, the federal lab regulator's findings and reporting on the verdict and sentence, we show what the court record actually established: 12 tests on the Edison out of 300 developed, demos running a 'null protocol', drug-company logos added to reports, and a projected $230m profit against $1.94m of reported income.\\n\\nContext: A24's documentary 'You Can See Everything' (Nathan Fielder and Lance Oppenheim) about Holmes opens in US cinemas in October 2026. This episode is independent of the film and uses no footage, stills or quotes from it; it sticks to the court and regulator record.\\n\\nChapters\\n0:00 Cold open\\n0:58 One tiny drop\\n2:44 The demo room\\n4:10 What investors were told\\n7:19 The regulators arrive\\n9:40 What the jury decided\\n11:41 Prison and appeal\\n13:49 Our analysis\\n15:34 Outro\\n\\nSources\\n[1] US Court of Appeals for the Ninth Circuit, United States v. Holmes & Balwani, Nos. 22-10312, 22-10338, opinion filed 24 Feb 2025: https://cdn.ca9.uscourts.gov/datastore/opinions/2025/02/24/22-10312.pdf\\n[2] SEC press release 2018-41, 'Theranos, CEO Holmes, and Former President Balwani Charged With Massive Fraud' (14 Mar 2018): https://www.sec.gov/news/press-release/2018-41\\n[3] ABA Journal, 'Jury finds blood-testing company Theranos CEO Holmes guilty of fraud' (Jan 2022): https://abajournal.com/news/article/jury-finds-blood-testing-company-theranos-ceo-holmes-guilty-of-fraud\\n[4] CNBC via NBC, 'Theranos founder Elizabeth Holmes sentenced to more than 11 years in prison' (18 Nov 2022): https://www.nbcdfw.com/news/business/money-report/former-theranos-ceo-elizabeth-holmes-sentenced-to-more-than-11-years-in-prison/3129509/\\n[5] MedCity News, CMS sanctions on Theranos (8 Jul 2016): https://medcitynews.com/2016/07/cms-fines-theranos/\\n[6] Bloomberg Law, 'Elizabeth Holmes gets a year knocked off her prison sentence' (26 Mar 2026): https://news.bgov.com/health-law-and-business/elizabeth-holmes-gets-a-year-knocked-off-her-prison-sentence\\n\\nFiled Under Failure tells business collapses and comebacks from the public record. Findings and quotes are those of the bodies cited. Narration uses a synthetic voice; graphics are our own. Music: original.\\n\\n#Theranos #ElizabethHolmes #Theranosverdict\", \"tags\": [\"Theranos\", \"Elizabeth Holmes\", \"Theranos verdict\", \"Sunny Balwani\", \"business documentary\", \"fraud trial\", \"Silicon Valley\", \"what went wrong\"], \"categoryId\": \"27\", \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}, \"status\": {\"selfDeclaredMadeForKids\": false, \"containsSyntheticMedia\": false, \"privacyStatus\": \"private\", \"publishAt\": \"2026-10-17T16:00:00Z\"}}",
+  "file": "003/003-theranos.mp4"
+ }
+]
