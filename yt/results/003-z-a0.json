@@ -1,0 +1,13 @@
+{
+ "key": "003-z-a0",
+ "row": "003-z",
+ "kind": "video",
+ "at": "2026-10-15T11:28:30+05:00",
+ "ok": true,
+ "videoId": "CxmwCDb7zIE",
+ "uploadStatus": "uploaded",
+ "privacy": "private",
+ "publishAt": "2026-10-16T16:00:00Z",
+ "error": null,
+ "note": "recorded by Claude 15 Oct: upload succeeded (confirmed via channel list) but the result push lost a git race"
+}

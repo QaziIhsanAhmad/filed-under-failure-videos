@@ -167,6 +167,7 @@ def main():
     import yt_api
     yt_api.merge_results(led, now)
     yt_api.build_queue(led, now, [u for u in untitled if u != "channel unreadable"])
+    yt_api.build_cleanup(led, now)
     write_feed("yt/feed.xml", "Filed Under Failure uploads", feed, now)
     for it in led["items"]:
         it.pop("_rel", None)

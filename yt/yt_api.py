@@ -130,3 +130,31 @@ def build_queue(led, now, untitled):
     json.dump([{k: i[k] for k in ("id", "path", "ctype", "size", "meta", "file")} for i in items],
               open("yt/upload-queue-items.json", "w"), indent=1, ensure_ascii=False)
     return items
+
+
+def build_cleanup(led, now):
+    """Videos on the channel that no record knows about and that are leftovers of the API lane (an opened
+    upload session creates the video immediately; if the bytes never arrive it stays as an empty private
+    placeholder). Only titles 'session test...' or duplicates of an api-lane row title qualify; anything in
+    the ledger, published.json or yt/results is never deleted. Make deletes yt/delete-queue-items.json."""
+    out = []
+    try:
+        ch = json.load(open("yt/channel-all.json"))
+    except Exception:
+        ch = {"videos": []}
+    known = {r.get("videoId") for r in led["items"]} | {r.get("videoId") for r in led.get("history", [])}
+    try:
+        known |= {v["videoId"] for v in json.load(open("yt/published.json"))}
+    except Exception:
+        pass
+    for f in glob.glob("yt/results/*.json"):
+        known.add(json.load(open(f)).get("videoId"))
+    api_titles = {_clean(r["title"], 100).strip() for r in led["items"] if r.get("lane") == "api"}
+    for v in ch.get("videos", []):
+        t = (v.get("title") or "").strip()
+        if v["id"] in known:
+            continue
+        if t.startswith("session test") or t in api_titles:
+            out.append({"id": v["id"], "title": t})
+    json.dump(out, open("yt/delete-queue-items.json", "w"), indent=1, ensure_ascii=False)
+    return out

@@ -19,10 +19,15 @@ jobs:
       - run: |
           git config user.name "yt-feed-bot"; git config user.email "actions@users.noreply.github.com"
           python3 yt/yt_upload.py
-          git add yt/results
-          git commit -qm "YouTube lane: upload result ${{ github.event.client_payload.id }}" || exit 0
-          for n in 1 2 3 4 5 6 7 8; do
-            git pull --rebase -q && git push && exit 0
-            git rebase --abort 2>/dev/null; sleep $((5 + RANDOM % 10))
+          mkdir -p /tmp/res && cp yt/results/*.json /tmp/res/ 2>/dev/null || exit 0
+          # Only this run's own file changes, so on a race: reset to the latest main and re-apply it.
+          for n in $(seq 1 25); do
+            git fetch -q origin main && git reset -q --hard origin/main
+            mkdir -p yt/results && cp -n /tmp/res/*.json yt/results/ 2>/dev/null
+            git add yt/results
+            git diff --cached --quiet && exit 0
+            git commit -qm "YouTube lane: upload result ${{ github.event.client_payload.id }}"
+            git push -q origin HEAD:main && exit 0
+            sleep $((3 + RANDOM % 20))
           done
           exit 1

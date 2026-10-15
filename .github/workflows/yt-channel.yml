@@ -1,0 +1,26 @@
+name: YouTube lane - record channel video list (from Make)
+on:
+  repository_dispatch:
+    types: [yt-channel]
+permissions:
+  contents: write
+jobs:
+  record:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: yt
+      - run: |
+          git config user.name "yt-feed-bot"; git config user.email "actions@users.noreply.github.com"
+          python3 yt/yt_channel.py
+          cp yt/channel-all.json /tmp/ch.json
+          for n in $(seq 1 25); do
+            git fetch -q origin main && git reset -q --hard origin/main
+            cp /tmp/ch.json yt/channel-all.json; git add yt/channel-all.json
+            git diff --cached --quiet && exit 0
+            git commit -qm "YouTube lane: channel video list"
+            git push -q origin HEAD:main && exit 0
+            sleep $((3 + RANDOM % 20))
+          done
+          exit 1
