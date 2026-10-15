@@ -1,92 +1,92 @@
 [
  {
-  "id": "hide-PLMQvLXpWXhzI",
-  "method": "PUT",
-  "path": "/v3/playlists?part=snippet,status",
-  "body": "{\"id\": \"PLMQvLXpWXhzI\", \"snippet\": {\"title\": \"(unused duplicate)\", \"description\": \"\"}, \"status\": {\"privacyStatus\": \"private\"}}"
- },
- {
-  "id": "hide-PLBT8K08GTT9E",
-  "method": "PUT",
-  "path": "/v3/playlists?part=snippet,status",
-  "body": "{\"id\": \"PLBT8K08GTT9E\", \"snippet\": {\"title\": \"(unused duplicate)\", \"description\": \"\"}, \"status\": {\"privacyStatus\": \"private\"}}"
- },
- {
-  "id": "hide-PLD31qM5nTM5w",
-  "method": "PUT",
-  "path": "/v3/playlists?part=snippet,status",
-  "body": "{\"id\": \"PLD31qM5nTM5w\", \"snippet\": {\"title\": \"(unused duplicate)\", \"description\": \"\"}, \"status\": {\"privacyStatus\": \"private\"}}"
- },
- {
-  "id": "hide-PLeG-fjD34jcg",
-  "method": "PUT",
-  "path": "/v3/playlists?part=snippet,status",
-  "body": "{\"id\": \"PLeG-fjD34jcg\", \"snippet\": {\"title\": \"(unused duplicate)\", \"description\": \"\"}, \"status\": {\"privacyStatus\": \"private\"}}"
- },
- {
-  "id": "hide-PLV0-pYYsmr2Y",
-  "method": "PUT",
-  "path": "/v3/playlists?part=snippet,status",
-  "body": "{\"id\": \"PLV0-pYYsmr2Y\", \"snippet\": {\"title\": \"(unused duplicate)\", \"description\": \"\"}, \"status\": {\"privacyStatus\": \"private\"}}"
- },
- {
-  "id": "hide-PLTA4gygMr53o",
-  "method": "PUT",
-  "path": "/v3/playlists?part=snippet,status",
-  "body": "{\"id\": \"PLTA4gygMr53o\", \"snippet\": {\"title\": \"(unused duplicate)\", \"description\": \"\"}, \"status\": {\"privacyStatus\": \"private\"}}"
- },
- {
-  "id": "hide-PLdRSQJWxvElM",
-  "method": "PUT",
-  "path": "/v3/playlists?part=snippet,status",
-  "body": "{\"id\": \"PLdRSQJWxvElM\", \"snippet\": {\"title\": \"(unused duplicate)\", \"description\": \"\"}, \"status\": {\"privacyStatus\": \"private\"}}"
- },
- {
-  "id": "upd-GgKOpONeN_o",
+  "id": "upd-9CIuSts7dDU",
   "method": "PUT",
   "path": "/v3/videos?part=snippet",
-  "body": "{\"id\": \"GgKOpONeN_o\", \"snippet\": {\"title\": \"Who paid when Carillion collapsed? Staff, pensioners and taxpayers #Shorts\", \"categoryId\": \"27\", \"description\": \"Full episode ▶ https://youtu.be/EgM6A2U6Qag\\n\\nJobs, pensions and public money after Carillion's collapse, from National Audit Office and pension figures.\\n\\nSources: House of Commons Work and Pensions and BEIS Committees, Carillion report (16 May 2018); Committees' statement on Carillion's suppliers (14 May 2018); National Audit Office, Investigation into the government's handling of the collapse of Carillion (June 2018) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #Carillion #Carillioncollapse #businessdocumentary\", \"tags\": [\"Carillion\", \"Carillion collapse\", \"business documentary\", \"UK business\", \"corporate collapse\", \"construction\", \"KPMG\", \"liquidation\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
+  "body": "{\"id\": \"9CIuSts7dDU\", \"snippet\": {\"title\": \"MPs' verdict on Carillion: recklessness, hubris and greed #Shorts\", \"categoryId\": \"27\", \"description\": \"Full episode ▶ https://youtu.be/EgM6A2U6Qag\\n\\nMPs' verdict on Carillion: recklessness, hubris and greed #Shorts\\n\\nWhat MPs concluded about Carillion in May 2018, and the fines that followed from the FRC and FCA.\\n\\nSources: House of Commons Work and Pensions and BEIS Committees, Carillion report (16 May 2018); Committees' statement on Carillion's suppliers (14 May 2018); National Audit Office, Investigation into the government's handling of the collapse of Carillion (June 2018) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #Carillion #Carillioncollapse #businessdocumentary\", \"tags\": [\"Carillion\", \"Carillion collapse\", \"business documentary\", \"UK business\", \"corporate collapse\", \"construction\", \"KPMG\", \"liquidation\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
  },
  {
-  "id": "get-9CIuSts7dDU",
+  "id": "pi-002-9Ua3QYxB1E4",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "body": "{\"snippet\": {\"playlistId\": \"PLJdqGuyUjEAs\", \"position\": 6, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"9Ua3QYxB1E4\"}}}"
+ },
+ {
+  "id": "pi-002-DtDUPPB90xg",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "body": "{\"snippet\": {\"playlistId\": \"PLJdqGuyUjEAs\", \"position\": 7, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"DtDUPPB90xg\"}}}"
+ },
+ {
+  "id": "get-5fPvAEfxo6w",
   "method": "GET",
-  "path": "/v3/videos?part=snippet&id=9CIuSts7dDU",
+  "path": "/v3/videos?part=snippet&id=5fPvAEfxo6w",
   "body": ""
  },
  {
-  "id": "pi-002-5fPvAEfxo6w",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "body": "{\"snippet\": {\"playlistId\": \"PLJdqGuyUjEAs\", \"position\": 0, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"5fPvAEfxo6w\"}}}"
+  "id": "get-5pxZ6aDQGxw",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=5pxZ6aDQGxw",
+  "body": ""
  },
  {
-  "id": "pi-002-5pxZ6aDQGxw",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "body": "{\"snippet\": {\"playlistId\": \"PLJdqGuyUjEAs\", \"position\": 1, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"5pxZ6aDQGxw\"}}}"
+  "id": "get-PgoTuPDONh4",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=PgoTuPDONh4",
+  "body": ""
  },
  {
-  "id": "pi-002-PgoTuPDONh4",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "body": "{\"snippet\": {\"playlistId\": \"PLJdqGuyUjEAs\", \"position\": 2, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"PgoTuPDONh4\"}}}"
+  "id": "get-94egvFj1fbY",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=94egvFj1fbY",
+  "body": ""
  },
  {
-  "id": "pi-002-94egvFj1fbY",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "body": "{\"snippet\": {\"playlistId\": \"PLJdqGuyUjEAs\", \"position\": 3, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"94egvFj1fbY\"}}}"
+  "id": "get-jtFeifCjRHc",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=jtFeifCjRHc",
+  "body": ""
  },
  {
-  "id": "pi-002-jtFeifCjRHc",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "body": "{\"snippet\": {\"playlistId\": \"PLJdqGuyUjEAs\", \"position\": 4, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"jtFeifCjRHc\"}}}"
+  "id": "get-Qzu2G7C3TC8",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=Qzu2G7C3TC8",
+  "body": ""
  },
  {
-  "id": "pi-002-Qzu2G7C3TC8",
+  "id": "get-9Ua3QYxB1E4",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=9Ua3QYxB1E4",
+  "body": ""
+ },
+ {
+  "id": "get-DtDUPPB90xg",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=DtDUPPB90xg",
+  "body": ""
+ },
+ {
+  "id": "pi-003-vdXslodih6A",
   "method": "POST",
   "path": "/v3/playlistItems?part=snippet",
-  "body": "{\"snippet\": {\"playlistId\": \"PLJdqGuyUjEAs\", \"position\": 5, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"Qzu2G7C3TC8\"}}}"
+  "body": "{\"snippet\": {\"playlistId\": \"PLVa3CP7FOxso\", \"position\": 0, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"vdXslodih6A\"}}}"
+ },
+ {
+  "id": "pi-003-CxmwCDb7zIE",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "body": "{\"snippet\": {\"playlistId\": \"PLVa3CP7FOxso\", \"position\": 1, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"CxmwCDb7zIE\"}}}"
+ },
+ {
+  "id": "pi-003-cXfkAdwVW_A",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "body": "{\"snippet\": {\"playlistId\": \"PLVa3CP7FOxso\", \"position\": 2, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"cXfkAdwVW_A\"}}}"
+ },
+ {
+  "id": "pi-003-B1_OPLwLHoA",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "body": "{\"snippet\": {\"playlistId\": \"PLVa3CP7FOxso\", \"position\": 3, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"B1_OPLwLHoA\"}}}"
  }
 ]
