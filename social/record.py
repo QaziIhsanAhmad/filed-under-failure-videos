@@ -11,5 +11,6 @@ if pid:
     for k in ("fb", "ig", "li"):
         if k in plats:
             rec[k] = str(ev.get(k, ""))[:120]
-    json.dump(rec, open(f"social/results/{pid}-{plats.replace('+', '')}.json", "w"), indent=1)
+    stamp = rec["at"][:19].replace(":", "").replace("-", "")
+    json.dump(rec, open(f"social/results/{pid}-{plats.replace('+', '')}-{stamp}.json", "w"), indent=1)   # one file per attempt
     print(rec)

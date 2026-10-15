@@ -68,7 +68,7 @@ def resolve(op, d):
 def build():
     ops = json.load(open("yt/ops.json")) if os.path.exists("yt/ops.json") else []
     d = done()
-    items, status = [], {}
+    items, status, dels = [], {}, []
     for op in ops:
         if op.get("skip"):
             status[op["id"]] = "skipped"; continue
@@ -82,10 +82,19 @@ def build():
         body = resolve(op, d)
         if body is None:
             status[op["id"]] = "waiting (no description fetched)"; continue
+        if op["method"] == "DELETE_PLAYLIST":
+            # Deleted only after a fresh check (op "empty_check") showed the playlist has no items.
+            chk = d.get(op["empty_check"], [])
+            if not (ok(chk) and not chk[-1].get("desc") and not chk[-1].get("res")):
+                status[op["id"]] = "blocked: not confirmed empty"; continue
+            status[op["id"]] = "queued"
+            dels.append({"id": op["id"], "playlistId": op["playlistId"]})
+            continue
         status[op["id"]] = "queued"
         if len(items) < BATCH and (op["method"] != "GET" or sum(i["method"] == "GET" for i in items) < MAX_GETS):
             items.append({"id": op["id"], "method": op["method"], "path": op["path"], "body": "" if op["method"] in ("GET", "DELETE") else (body or "{}")})
     json.dump(items, open("yt/ops-queue-items.json", "w"), indent=1, ensure_ascii=False)
+    json.dump(dels, open("yt/playlist-delete-items.json", "w"), indent=1)
     json.dump(status, open("yt/ops-status.json", "w"), indent=1)
     return items
 

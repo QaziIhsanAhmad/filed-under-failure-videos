@@ -43,12 +43,28 @@ def results():
     return res
 
 
+MAX_TRIES = 3          # per platform
+RETRY_DAYS = 3         # a failed platform is retried on the next daily runs, for up to 3 days after its date
+
+
+def platform_state(p, res, brand):
+    """Per platform: posted (the platform returned a post id = confirmed published), failed (attempted, no id),
+    pending (never attempted). Only 'failed' platforms are ever retried; a posted platform is never sent again."""
+    plats = ["fb", "ig"] + (["li"] if BRANDS[brand]["li"] and p["captions"].get("li") else [])
+    out = {}
+    for k in plats:
+        tries = [x for x in res if k in x.get("platforms", "").split("+")]
+        ids = [x.get(k) for x in tries if x.get(k)]
+        out[k] = {"state": "posted" if ids else ("failed" if tries else "pending"), "id": ids[0] if ids else "",
+                  "tries": len(tries), "at": tries[-1]["at"] if tries else ""}
+    return out
+
+
 def main():
     now = dt.datetime.now(PKT)
-    today = now.date().isoformat()
+    today = now.date()
     res = results()
-    queue, due, problems = [], [], []
-    seen = set()
+    queue, due, problems, seen = [], [], [], set()
     for p in load_posts():
         if p["id"] in seen:
             problems.append(f"duplicate id {p['id']}"); continue
@@ -57,38 +73,45 @@ def main():
         n = len(p["slides"])
         imgs = [f"social/img/{p['brand']}/{p['id']}-{i + 1}.jpg" for i in range(n)]
         missing = [i for i in imgs if not os.path.exists(i)]
-        r = res.get(p["id"], [])
-        plat = {}
-        for x in r:
-            for k in ("fb", "ig", "li"):
-                if k in x.get("platforms", ""):
-                    plat[k] = {"id": x.get(k) or "", "ok": bool(x.get(k)), "at": x.get("at")}
-        if r:
-            status = "posted" if all(v["ok"] for v in plat.values()) else "partial"
+        plat = platform_state(p, res.get(p["id"], []), p["brand"])
+        day = dt.date.fromisoformat(p["date"])
+        states = {v["state"] for v in plat.values()}
+        if states == {"posted"}:
+            status = "posted"
         elif missing:
             status = "not-rendered"
-        elif p["date"] < today or (p["date"] == today and now.hour >= POST_HOUR + 2):
-            status = "missed"
+        elif states == {"pending"}:
+            status = "planned" if day > today or (day == today and now.hour < POST_HOUR + 2) else "missed"
+        elif "pending" in states:
+            status = "unverified"     # some platforms reported, others never did: check Make history, never auto-repost
         else:
-            status = "planned"
+            status = "partial" if "posted" in states else "failed"
         queue.append({"id": p["id"], "brand": p["brand"], "date": p["date"], "pillar": p.get("pillar", ""),
                       "slides": n, "status": status, "platforms": plat, "src": p["_src"]})
-        if missing and p["date"] >= today:
+        if missing and day >= today:
             problems.append(f"{p['id']}: missing {', '.join(missing)}")
-        if p["date"] != today or r or missing:
+        if missing:
+            continue
+        if day == today:
+            send = [k for k, v in plat.items() if v["state"] == "pending"]
+        elif today - dt.timedelta(days=RETRY_DAYS) <= day < today:
+            send = [k for k, v in plat.items() if v["state"] == "failed" and v["tries"] < MAX_TRIES]
+        else:
+            send = []
+        if not send:
             continue
         urls = [RAW + i[len("social/img/"):] for i in imgs]
         c = p["captions"]
         due.append({"id": p["id"], "brand": p["brand"], "kind": "carousel" if n > 1 else "single",
+                    "fb_on": "1" if "fb" in send else "0", "ig_on": "1" if "ig" in send else "0", "li_on": "1" if "li" in send else "0",
                     "fb_page": b["fb_page"], "ig_account": b["ig_account"],
-                    "fb": c.get("fb") or c["ig"], "ig": c["ig"][:2200],
-                    "li": li_ltf(c.get("li", "")) if b["li"] and c.get("li") else "", "li_on": "1" if b["li"] and c.get("li") else "0",
+                    "fb": c.get("fb") or c["ig"], "ig": c["ig"][:2200], "li": li_ltf(c.get("li", "")) if "li" in send else "",
                     "image": urls[0], "fb_photos": [{"type": "url", "url": u} for u in urls[:10]],
                     "ig_files": [{"media_type": "IMAGE", "image_url": u} for u in urls[:10]]})
     queue.sort(key=lambda q: (q["date"], q["brand"]))
     json.dump({"generated": now.isoformat(), "problems": problems, "items": queue}, open("social/queue.json", "w"), indent=1, ensure_ascii=False)
     json.dump(due, open("social/due.json", "w"), indent=1, ensure_ascii=False)
-    print(f"{len(queue)} posts, {len(due)} due today, problems: {problems}")
+    print(f"{len(queue)} posts, {len(due)} due now, problems: {problems}")
 
 
 if __name__ == "__main__":

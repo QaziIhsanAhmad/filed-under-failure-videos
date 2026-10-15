@@ -1,5 +1,47 @@
 [
  {
+  "id": "items-PLeG-fjD34jcg",
+  "method": "GET",
+  "path": "/v3/playlistItems?part=snippet&maxResults=5&playlistId=PLeG-fjD34jcg",
+  "note": "emptiness check before deletion"
+ },
+ {
+  "id": "items-PLMQvLXpWXhzI",
+  "method": "GET",
+  "path": "/v3/playlistItems?part=snippet&maxResults=5&playlistId=PLMQvLXpWXhzI",
+  "note": "emptiness check before deletion"
+ },
+ {
+  "id": "items-PLBT8K08GTT9E",
+  "method": "GET",
+  "path": "/v3/playlistItems?part=snippet&maxResults=5&playlistId=PLBT8K08GTT9E",
+  "note": "emptiness check before deletion"
+ },
+ {
+  "id": "items-PLD31qM5nTM5w",
+  "method": "GET",
+  "path": "/v3/playlistItems?part=snippet&maxResults=5&playlistId=PLD31qM5nTM5w",
+  "note": "emptiness check before deletion"
+ },
+ {
+  "id": "items-PLdRSQJWxvElM",
+  "method": "GET",
+  "path": "/v3/playlistItems?part=snippet&maxResults=5&playlistId=PLdRSQJWxvElM",
+  "note": "emptiness check before deletion"
+ },
+ {
+  "id": "items-PLV0-pYYsmr2Y",
+  "method": "GET",
+  "path": "/v3/playlistItems?part=snippet&maxResults=5&playlistId=PLV0-pYYsmr2Y",
+  "note": "emptiness check before deletion"
+ },
+ {
+  "id": "items-PLTA4gygMr53o",
+  "method": "GET",
+  "path": "/v3/playlistItems?part=snippet&maxResults=5&playlistId=PLTA4gygMr53o",
+  "note": "emptiness check before deletion"
+ },
+ {
   "id": "hide-PLMQvLXpWXhzI",
   "method": "PUT",
   "path": "/v3/playlists?part=snippet,status",
@@ -1626,5 +1668,75 @@
     "containsSyntheticMedia": false
    }
   }
+ },
+ {
+  "id": "delpl-PLTA4gygMr53o",
+  "method": "DELETE_PLAYLIST",
+  "playlistId": "PLTA4gygMr53o",
+  "empty_check": "items-PLTA4gygMr53o",
+  "after": [
+   "items-PLTA4gygMr53o"
+  ],
+  "note": "empty duplicate from 15 Oct overlapping runs"
+ },
+ {
+  "id": "delpl-PLV0-pYYsmr2Y",
+  "method": "DELETE_PLAYLIST",
+  "playlistId": "PLV0-pYYsmr2Y",
+  "empty_check": "items-PLV0-pYYsmr2Y",
+  "after": [
+   "items-PLV0-pYYsmr2Y"
+  ],
+  "note": "empty duplicate from 15 Oct overlapping runs"
+ },
+ {
+  "id": "delpl-PLdRSQJWxvElM",
+  "method": "DELETE_PLAYLIST",
+  "playlistId": "PLdRSQJWxvElM",
+  "empty_check": "items-PLdRSQJWxvElM",
+  "after": [
+   "items-PLdRSQJWxvElM"
+  ],
+  "note": "empty duplicate from 15 Oct overlapping runs"
+ },
+ {
+  "id": "delpl-PLD31qM5nTM5w",
+  "method": "DELETE_PLAYLIST",
+  "playlistId": "PLD31qM5nTM5w",
+  "empty_check": "items-PLD31qM5nTM5w",
+  "after": [
+   "items-PLD31qM5nTM5w"
+  ],
+  "note": "empty duplicate from 15 Oct overlapping runs"
+ },
+ {
+  "id": "delpl-PLBT8K08GTT9E",
+  "method": "DELETE_PLAYLIST",
+  "playlistId": "PLBT8K08GTT9E",
+  "empty_check": "items-PLBT8K08GTT9E",
+  "after": [
+   "items-PLBT8K08GTT9E"
+  ],
+  "note": "empty duplicate from 15 Oct overlapping runs"
+ },
+ {
+  "id": "delpl-PLMQvLXpWXhzI",
+  "method": "DELETE_PLAYLIST",
+  "playlistId": "PLMQvLXpWXhzI",
+  "empty_check": "items-PLMQvLXpWXhzI",
+  "after": [
+   "items-PLMQvLXpWXhzI"
+  ],
+  "note": "empty duplicate from 15 Oct overlapping runs"
+ },
+ {
+  "id": "delpl-PLeG-fjD34jcg",
+  "method": "DELETE_PLAYLIST",
+  "playlistId": "PLeG-fjD34jcg",
+  "empty_check": "items-PLeG-fjD34jcg",
+  "after": [
+   "items-PLeG-fjD34jcg"
+  ],
+  "note": "empty duplicate from 15 Oct overlapping runs"
  }
 ]

@@ -1,5 +1,47 @@
 [
  {
+  "id": "items-PLeG-fjD34jcg",
+  "method": "GET",
+  "path": "/v3/playlistItems?part=snippet&maxResults=5&playlistId=PLeG-fjD34jcg",
+  "body": ""
+ },
+ {
+  "id": "items-PLMQvLXpWXhzI",
+  "method": "GET",
+  "path": "/v3/playlistItems?part=snippet&maxResults=5&playlistId=PLMQvLXpWXhzI",
+  "body": ""
+ },
+ {
+  "id": "items-PLBT8K08GTT9E",
+  "method": "GET",
+  "path": "/v3/playlistItems?part=snippet&maxResults=5&playlistId=PLBT8K08GTT9E",
+  "body": ""
+ },
+ {
+  "id": "items-PLD31qM5nTM5w",
+  "method": "GET",
+  "path": "/v3/playlistItems?part=snippet&maxResults=5&playlistId=PLD31qM5nTM5w",
+  "body": ""
+ },
+ {
+  "id": "items-PLdRSQJWxvElM",
+  "method": "GET",
+  "path": "/v3/playlistItems?part=snippet&maxResults=5&playlistId=PLdRSQJWxvElM",
+  "body": ""
+ },
+ {
+  "id": "items-PLV0-pYYsmr2Y",
+  "method": "GET",
+  "path": "/v3/playlistItems?part=snippet&maxResults=5&playlistId=PLV0-pYYsmr2Y",
+  "body": ""
+ },
+ {
+  "id": "items-PLTA4gygMr53o",
+  "method": "GET",
+  "path": "/v3/playlistItems?part=snippet&maxResults=5&playlistId=PLTA4gygMr53o",
+  "body": ""
+ },
+ {
   "id": "upd-B1_OPLwLHoA",
   "method": "PUT",
   "path": "/v3/videos?part=snippet",
