@@ -126,4 +126,7 @@ def build_queue(led, now, untitled):
     done = {os.path.basename(p)[:-5] for p in glob.glob("yt/results/*.json")}
     items = [i for i in items if i["id"] not in done]       # already attempted under this id
     json.dump({"generated": now.isoformat(), "items": items}, open("yt/upload-queue.json", "w"), indent=1, ensure_ascii=False)
+    # Same items as a bare array: Make's JSON parser turns each element into its own bundle.
+    json.dump([{k: i[k] for k in ("id", "path", "ctype", "size", "meta", "file")} for i in items],
+              open("yt/upload-queue-items.json", "w"), indent=1, ensure_ascii=False)
     return items
