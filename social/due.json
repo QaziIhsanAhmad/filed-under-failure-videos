@@ -1,1 +1,28 @@
-[]
+[
+ {
+  "id": "f-1016-weekend-inbox",
+  "brand": "frontdesk",
+  "kind": "single",
+  "fb_on": "1",
+  "ig_on": "1",
+  "li_on": "0",
+  "fb_page": "1354185007779555",
+  "ig_account": "17841416945478586",
+  "fb": "Friday 11:48 pm: \"How much is teeth whitening?\"\nMonday 9:05 am: \"Thanks, already booked somewhere else.\"\n\nThat gap is what I automate for clinics with n8n: an instant reply from the clinic's own details, the lead logged, urgent messages flagged to staff.\n\nMessage me FLOW and I'll send you the free workflow.",
+  "ig": "Weekend enquiries are where clinics quietly lose bookings. Not because the answer is hard. Because nobody's at the desk.\n\nThe flow I build for this: n8n replies in seconds using only the clinic's own details (services, prices, hours, booking link), logs the lead in a sheet, and flags anything urgent to staff.\n\nWant the free version? DM me FLOW.\n\n#n8n #automation #clinicmarketing #dentalpractice #aiautomation #freelancer",
+  "li": "",
+  "image": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1016-weekend-inbox-1.jpg",
+  "fb_photos": [
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1016-weekend-inbox-1.jpg"
+   }
+  ],
+  "ig_files": [
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1016-weekend-inbox-1.jpg"
+   }
+  ]
+ }
+]
