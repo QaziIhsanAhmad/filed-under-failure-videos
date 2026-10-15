@@ -439,5 +439,15 @@
    "title": "Corporate Collapse Shorts | 60-Second Explainers",
    "id_prefix": "PLAzXTYt41bIk"
   }
- }
+ },
+ "unmatched": [
+  {
+   "at": "2026-10-15T10:56:29.076273+05:00",
+   "event": "yt-failed",
+   "payload": {
+    "error": "A status=200 loc=https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet%2Cstatus&upload_id=AP6rU81SgnEsNCewwou7ru8JwyRmyKmm8hCf53NzHYdQTZ_bCHMurZcp0BcyA7Ar-7QwSUwlJ6ZlGjU5hNfwtvujUEK1zYFc7x7PvhqbcRVhzGQ",
+    "guid": "probe-session"
+   }
+  }
+ ]
 }
