@@ -241,7 +241,7 @@
    "title": "Who paid for the Silicon Valley Bank collapse? #Shorts",
    "file": "002/002-svb-short-e-make.mp4",
    "lane": "api",
-   "status": "planned",
+   "status": "scheduled",
    "description": "Who paid for the Silicon Valley Bank collapse? #Shorts\n\nWho paid for protecting Silicon Valley Bank's uninsured depositors, from FDIC and government records.\n\nFull episode: \"Silicon Valley Bank: $40 Billion Gone in One Day\" on Filed Under Failure: https://youtu.be/5fPvAEfxo6w\nSources: Federal Reserve Board, Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank (28 Apr 2023); Federal Reserve Board, Executive Summary of the review (28 Apr 2023); Federal Reserve Board press release on the review's results (28 Apr 2023) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #SiliconValleyBank #SVBcollapse #bankrun",
    "metricoolUuid": "-1708951579365979279",
    "altered": {
@@ -249,7 +249,14 @@
     "reason": "Generic synthetic narrator (not imitating a real person), original charts/text graphics, original code-generated background music; no real person shown saying anything, no altered real footage, no realistic invented scenes."
    },
    "laneNote": "moved from Metricool 2026-10-08: Metricool free plan hit 20 posts/month (posts erroring \"account limit\") | moved to lane api 2026-10-15 (was make): no size limit",
-   "file_original": "002/002-svb-short-e.mp4"
+   "file_original": "002/002-svb-short-e.mp4",
+   "apiApplied": [
+    "002-e-a0"
+   ],
+   "videoId": "9Ua3QYxB1E4",
+   "url": "https://www.youtube.com/shorts/9Ua3QYxB1E4",
+   "uploadedAt": "2026-10-15T11:15:05.676612+05:00",
+   "publishAt": "2026-10-15T16:00:00Z"
   },
   {
    "id": "002-f",

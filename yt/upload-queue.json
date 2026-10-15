@@ -1,17 +1,6 @@
 {
- "generated": "2026-10-15T11:13:14.599068+05:00",
+ "generated": "2026-10-15T11:24:42.861329+05:00",
  "items": [
-  {
-   "id": "002-e-a0",
-   "row": "002-e",
-   "kind": "video",
-   "file": "002/002-svb-short-e.mp4",
-   "ctype": "video/mp4",
-   "size": 5254411,
-   "meta": "{\"snippet\": {\"title\": \"Who paid for the Silicon Valley Bank collapse? #Shorts\", \"description\": \"Who paid for the Silicon Valley Bank collapse? #Shorts\\n\\nWho paid for protecting Silicon Valley Bank's uninsured depositors, from FDIC and government records.\\n\\nFull episode: \\\"Silicon Valley Bank: $40 Billion Gone in One Day\\\" on Filed Under Failure: https://youtu.be/5fPvAEfxo6w\\nSources: Federal Reserve Board, Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank (28 Apr 2023); Federal Reserve Board, Executive Summary of the review (28 Apr 2023); Federal Reserve Board press release on the review's results (28 Apr 2023) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #SiliconValleyBank #SVBcollapse #bankrun\", \"tags\": [\"Silicon Valley Bank\", \"SVB collapse\", \"bank run\", \"business documentary\", \"Federal Reserve\", \"FDIC\", \"banking crisis 2023\", \"what went wrong\"], \"categoryId\": \"27\", \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}, \"status\": {\"selfDeclaredMadeForKids\": false, \"containsSyntheticMedia\": false, \"privacyStatus\": \"private\", \"publishAt\": \"2026-10-15T16:00:00Z\"}}",
-   "path": "/../upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
-   "publishAt": "2026-10-15T16:00:00Z"
-  },
   {
    "id": "002-f-a0",
    "row": "002-f",
