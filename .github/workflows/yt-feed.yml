@@ -4,7 +4,7 @@ on:
     - cron: "41 * * * *"   # hourly
   workflow_dispatch:
   push:
-    paths: ["yt/ledger.json", "yt/yt_feed.py", "yt/fit_make.py", ".github/workflows/yt-feed.yml"]
+    paths: ["yt/ledger.json", "yt/yt_api.py", "yt/yt_feed.py", "yt/fit_make.py", ".github/workflows/yt-feed.yml"]
 permissions:
   contents: write
 concurrency: yt-feed
