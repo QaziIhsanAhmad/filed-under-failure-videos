@@ -10,7 +10,8 @@ Uses: playlists, playlist items, retitles/description fixes, Shorts -> full-epis
 """
 import base64, glob, json, os
 
-BATCH = 20
+BATCH = 15
+MAX_GETS = 6          # GET results carry the whole description (base64): keep the GitHub dispatch payload small
 MAX_TRIES = 2
 
 
@@ -77,7 +78,7 @@ def build():
         if body is None:
             status[op["id"]] = "waiting (no description fetched)"; continue
         status[op["id"]] = "queued"
-        if len(items) < BATCH:
+        if len(items) < BATCH and (op["method"] != "GET" or sum(i["method"] == "GET" for i in items) < MAX_GETS):
             items.append({"id": op["id"], "method": op["method"], "path": op["path"], "body": "" if op["method"] == "GET" else (body or "{}")})
     json.dump(items, open("yt/ops-queue-items.json", "w"), indent=1, ensure_ascii=False)
     json.dump(status, open("yt/ops-status.json", "w"), indent=1)

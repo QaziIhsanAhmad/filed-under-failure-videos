@@ -60,63 +60,9 @@
   "body": ""
  },
  {
-  "id": "get-9CIuSts7dDU",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=9CIuSts7dDU",
-  "body": ""
- },
- {
-  "id": "get-5fPvAEfxo6w",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=5fPvAEfxo6w",
-  "body": ""
- },
- {
-  "id": "get-5pxZ6aDQGxw",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=5pxZ6aDQGxw",
-  "body": ""
- },
- {
-  "id": "get-PgoTuPDONh4",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=PgoTuPDONh4",
-  "body": ""
- },
- {
-  "id": "get-94egvFj1fbY",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=94egvFj1fbY",
-  "body": ""
- },
- {
-  "id": "get-jtFeifCjRHc",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=jtFeifCjRHc",
-  "body": ""
- },
- {
-  "id": "get-Qzu2G7C3TC8",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=Qzu2G7C3TC8",
-  "body": ""
- },
- {
-  "id": "get-9Ua3QYxB1E4",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=9Ua3QYxB1E4",
-  "body": ""
- },
- {
-  "id": "get-DtDUPPB90xg",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=DtDUPPB90xg",
-  "body": ""
- },
- {
-  "id": "get-vdXslodih6A",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=vdXslodih6A",
-  "body": ""
+  "id": "time-vdXslodih6A",
+  "method": "PUT",
+  "path": "/v3/videos?part=status",
+  "body": "{\"id\": \"vdXslodih6A\", \"status\": {\"privacyStatus\": \"private\", \"publishAt\": \"2026-10-17T18:00:00Z\", \"selfDeclaredMadeForKids\": false, \"containsSyntheticMedia\": false}}"
  }
 ]
