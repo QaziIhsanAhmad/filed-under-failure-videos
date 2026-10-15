@@ -1,44 +1,50 @@
 [
  {
-  "id": "del-PLdRSQJWxvElM",
-  "method": "DELETE",
-  "path": "/v3/playlists?id=PLdRSQJWxvElM",
+  "id": "chk-PLAY8kmI7UCNk",
+  "method": "GET",
+  "path": "/v3/playlists?part=snippet&id=PLAY8kmI7UCNk",
   "body": ""
  },
  {
-  "id": "del-PLTA4gygMr53o",
-  "method": "DELETE",
-  "path": "/v3/playlists?id=PLTA4gygMr53o",
+  "id": "chk-PLMQvLXpWXhzI",
+  "method": "GET",
+  "path": "/v3/playlists?part=snippet&id=PLMQvLXpWXhzI",
   "body": ""
  },
  {
-  "id": "del-PLV0-pYYsmr2Y",
-  "method": "DELETE",
-  "path": "/v3/playlists?id=PLV0-pYYsmr2Y",
+  "id": "chk-PLBT8K08GTT9E",
+  "method": "GET",
+  "path": "/v3/playlists?part=snippet&id=PLBT8K08GTT9E",
   "body": ""
  },
  {
-  "id": "del-PLeG-fjD34jcg",
-  "method": "DELETE",
-  "path": "/v3/playlists?id=PLeG-fjD34jcg",
+  "id": "chk-PLD31qM5nTM5w",
+  "method": "GET",
+  "path": "/v3/playlists?part=snippet&id=PLD31qM5nTM5w",
   "body": ""
  },
  {
-  "id": "del-PLD31qM5nTM5w",
-  "method": "DELETE",
-  "path": "/v3/playlists?id=PLD31qM5nTM5w",
+  "id": "chk-PLeG-fjD34jcg",
+  "method": "GET",
+  "path": "/v3/playlists?part=snippet&id=PLeG-fjD34jcg",
   "body": ""
  },
  {
-  "id": "del-PLBT8K08GTT9E",
-  "method": "DELETE",
-  "path": "/v3/playlists?id=PLBT8K08GTT9E",
+  "id": "chk-PLV0-pYYsmr2Y",
+  "method": "GET",
+  "path": "/v3/playlists?part=snippet&id=PLV0-pYYsmr2Y",
   "body": ""
  },
  {
-  "id": "del-PLMQvLXpWXhzI",
-  "method": "DELETE",
-  "path": "/v3/playlists?id=PLMQvLXpWXhzI",
+  "id": "chk-PLTA4gygMr53o",
+  "method": "GET",
+  "path": "/v3/playlists?part=snippet&id=PLTA4gygMr53o",
+  "body": ""
+ },
+ {
+  "id": "chk-PLdRSQJWxvElM",
+  "method": "GET",
+  "path": "/v3/playlists?part=snippet&id=PLdRSQJWxvElM",
   "body": ""
  },
  {
@@ -82,11 +88,5 @@
   "method": "PUT",
   "path": "/v3/videos?part=snippet",
   "body": "{\"id\": \"90ByqlGonLI\", \"snippet\": {\"title\": \"Carillion asked the government for £223m. The answer was no. #Shorts\", \"categoryId\": \"27\", \"description\": \"Full episode ▶ https://youtu.be/EgM6A2U6Qag\\n\\nCarillion asked the government for £223m. The answer was no. #Shorts\\n\\nIn January 2018 Carillion asked for £223m to keep trading; the Cabinet Office declined, the NAO reported.\\n\\nSources: House of Commons Work and Pensions and BEIS Committees, Carillion report (16 May 2018); Committees' statement on Carillion's suppliers (14 May 2018); National Audit Office, Investigation into the government's handling of the collapse of Carillion (June 2018) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #Carillion #Carillioncollapse #businessdocumentary\", \"tags\": [\"Carillion\", \"Carillion collapse\", \"business documentary\", \"UK business\", \"corporate collapse\", \"construction\", \"KPMG\", \"liquidation\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
- },
- {
-  "id": "upd-GgKOpONeN_o",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "body": "{\"id\": \"GgKOpONeN_o\", \"snippet\": {\"title\": \"Who paid when Carillion collapsed? Staff, pensioners and taxpayers #Shorts\", \"categoryId\": \"27\", \"description\": \"Full episode ▶ https://youtu.be/EgM6A2U6Qag\\n\\nJobs, pensions and public money after Carillion's collapse, from National Audit Office and pension figures.\\n\\nSources: House of Commons Work and Pensions and BEIS Committees, Carillion report (16 May 2018); Committees' statement on Carillion's suppliers (14 May 2018); National Audit Office, Investigation into the government's handling of the collapse of Carillion (June 2018) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #Carillion #Carillioncollapse #businessdocumentary\", \"tags\": [\"Carillion\", \"Carillion collapse\", \"business documentary\", \"UK business\", \"corporate collapse\", \"construction\", \"KPMG\", \"liquidation\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
  }
 ]

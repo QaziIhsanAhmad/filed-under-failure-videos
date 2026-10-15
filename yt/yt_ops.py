@@ -11,7 +11,7 @@ Uses: playlists, playlist items, retitles/description fixes, Shorts -> full-epis
 import base64, glob, json, os
 
 BATCH = 15
-MAX_GETS = 6          # GET results carry the whole description (base64): keep the GitHub dispatch payload small
+MAX_GETS = 10         # GET results carry the whole description (base64): keep the GitHub dispatch payload small
 MAX_TRIES = 2
 
 
@@ -70,6 +70,8 @@ def build():
     d = done()
     items, status = [], {}
     for op in ops:
+        if op.get("skip"):
+            status[op["id"]] = "skipped"; continue
         rs = d.get(op["id"], [])
         if ok(rs):
             status[op["id"]] = "done"; continue

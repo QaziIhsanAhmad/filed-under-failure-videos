@@ -1,45 +1,100 @@
 [
  {
+  "id": "chk-PLAY8kmI7UCNk",
+  "method": "GET",
+  "path": "/v3/playlists?part=snippet&id=PLAY8kmI7UCNk",
+  "note": "verify duplicate deletion (empty description = gone)"
+ },
+ {
+  "id": "chk-PLMQvLXpWXhzI",
+  "method": "GET",
+  "path": "/v3/playlists?part=snippet&id=PLMQvLXpWXhzI",
+  "note": "verify duplicate deletion (empty description = gone)"
+ },
+ {
+  "id": "chk-PLBT8K08GTT9E",
+  "method": "GET",
+  "path": "/v3/playlists?part=snippet&id=PLBT8K08GTT9E",
+  "note": "verify duplicate deletion (empty description = gone)"
+ },
+ {
+  "id": "chk-PLD31qM5nTM5w",
+  "method": "GET",
+  "path": "/v3/playlists?part=snippet&id=PLD31qM5nTM5w",
+  "note": "verify duplicate deletion (empty description = gone)"
+ },
+ {
+  "id": "chk-PLeG-fjD34jcg",
+  "method": "GET",
+  "path": "/v3/playlists?part=snippet&id=PLeG-fjD34jcg",
+  "note": "verify duplicate deletion (empty description = gone)"
+ },
+ {
+  "id": "chk-PLV0-pYYsmr2Y",
+  "method": "GET",
+  "path": "/v3/playlists?part=snippet&id=PLV0-pYYsmr2Y",
+  "note": "verify duplicate deletion (empty description = gone)"
+ },
+ {
+  "id": "chk-PLTA4gygMr53o",
+  "method": "GET",
+  "path": "/v3/playlists?part=snippet&id=PLTA4gygMr53o",
+  "note": "verify duplicate deletion (empty description = gone)"
+ },
+ {
+  "id": "chk-PLdRSQJWxvElM",
+  "method": "GET",
+  "path": "/v3/playlists?part=snippet&id=PLdRSQJWxvElM",
+  "note": "verify duplicate deletion (empty description = gone)"
+ },
+ {
   "id": "del-PLdRSQJWxvElM",
   "method": "DELETE",
   "path": "/v3/playlists?id=PLdRSQJWxvElM",
-  "note": "duplicate from stale raw.githubusercontent read, 15 Oct"
+  "note": "duplicate from stale raw.githubusercontent read, 15 Oct",
+  "skip": true
  },
  {
   "id": "del-PLTA4gygMr53o",
   "method": "DELETE",
   "path": "/v3/playlists?id=PLTA4gygMr53o",
-  "note": "duplicate from stale raw.githubusercontent read, 15 Oct"
+  "note": "duplicate from stale raw.githubusercontent read, 15 Oct",
+  "skip": true
  },
  {
   "id": "del-PLV0-pYYsmr2Y",
   "method": "DELETE",
   "path": "/v3/playlists?id=PLV0-pYYsmr2Y",
-  "note": "duplicate from stale raw.githubusercontent read, 15 Oct"
+  "note": "duplicate from stale raw.githubusercontent read, 15 Oct",
+  "skip": true
  },
  {
   "id": "del-PLeG-fjD34jcg",
   "method": "DELETE",
   "path": "/v3/playlists?id=PLeG-fjD34jcg",
-  "note": "duplicate created by an overlapping manual run on 15 Oct"
+  "note": "duplicate created by an overlapping manual run on 15 Oct",
+  "skip": true
  },
  {
   "id": "del-PLD31qM5nTM5w",
   "method": "DELETE",
   "path": "/v3/playlists?id=PLD31qM5nTM5w",
-  "note": "duplicate created by an overlapping manual run on 15 Oct"
+  "note": "duplicate created by an overlapping manual run on 15 Oct",
+  "skip": true
  },
  {
   "id": "del-PLBT8K08GTT9E",
   "method": "DELETE",
   "path": "/v3/playlists?id=PLBT8K08GTT9E",
-  "note": "duplicate created by an overlapping manual run on 15 Oct"
+  "note": "duplicate created by an overlapping manual run on 15 Oct",
+  "skip": true
  },
  {
   "id": "del-PLMQvLXpWXhzI",
   "method": "DELETE",
   "path": "/v3/playlists?id=PLMQvLXpWXhzI",
-  "note": "duplicate created by an overlapping manual run on 15 Oct"
+  "note": "duplicate created by an overlapping manual run on 15 Oct",
+  "skip": true
  },
  {
   "id": "pl-all",
