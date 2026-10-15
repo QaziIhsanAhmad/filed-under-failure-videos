@@ -1,92 +1,92 @@
 [
  {
-  "id": "upd-9CIuSts7dDU",
+  "id": "upd-5fPvAEfxo6w",
   "method": "PUT",
   "path": "/v3/videos?part=snippet",
-  "body": "{\"id\": \"9CIuSts7dDU\", \"snippet\": {\"title\": \"MPs' verdict on Carillion: recklessness, hubris and greed #Shorts\", \"categoryId\": \"27\", \"description\": \"Full episode ▶ https://youtu.be/EgM6A2U6Qag\\n\\nMPs' verdict on Carillion: recklessness, hubris and greed #Shorts\\n\\nWhat MPs concluded about Carillion in May 2018, and the fines that followed from the FRC and FCA.\\n\\nSources: House of Commons Work and Pensions and BEIS Committees, Carillion report (16 May 2018); Committees' statement on Carillion's suppliers (14 May 2018); National Audit Office, Investigation into the government's handling of the collapse of Carillion (June 2018) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #Carillion #Carillioncollapse #businessdocumentary\", \"tags\": [\"Carillion\", \"Carillion collapse\", \"business documentary\", \"UK business\", \"corporate collapse\", \"construction\", \"KPMG\", \"liquidation\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
+  "body": "{\"id\": \"5fPvAEfxo6w\", \"snippet\": {\"title\": \"Why Did Silicon Valley Bank Collapse? $40 Billion Gone in One Day\", \"categoryId\": \"27\", \"description\": \"Silicon Valley Bank collapse explained from regulator records.\\nOn 9 March 2023, customers withdrew more than $40 billion from Silicon Valley Bank in a single day; the next day it was closed. Using the Federal Reserve's 2023 review, its inspector general, the FDIC and a new 2026 independent review, we trace what went wrong, who saw it coming, and who paid.\\n\\nChapters\\n0:00 The run\\n1:09 The start-up bank\\n2:23 The bet on bonds\\n4:27 The warnings\\n5:51 Forty-eight hours\\n7:33 Who paid\\n9:30 Two verdicts\\n12:03 What the paperwork shows\\n\\nSources\\n[1] Federal Reserve Board, Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank (28 Apr 2023): https://www.federalreserve.gov/publications/files/svb-review-20230428.pdf\\n[2] Federal Reserve Board, Executive Summary of the review (28 Apr 2023): https://www.federalreserve.gov/publications/2023-April-SVB-Executive-Summary.htm\\n[3] Federal Reserve Board press release on the review's results (28 Apr 2023): https://www.federalreserve.gov/newsevents/pressreleases/bcreg20230428a.htm\\n[4] Joint Statement by Treasury, Federal Reserve and FDIC (12 Mar 2023): https://www.federalreserve.gov/newsevents/pressreleases/monetary20230312b.htm\\n[5] FDIC, First-Citizens Bank & Trust to assume all deposits and loans of Silicon Valley Bridge Bank (Mar 2023): https://www.fdic.gov/news/press-releases/2023/pr23023.html\\n[6] FDIC, Final Rule on Special Assessment Pursuant to Systemic Risk Determination (Nov 2023): https://www.fdic.gov/news/press-releases/2023/pr23092.html\\n[7] Federal Reserve OIG, Material Loss Review of Silicon Valley Bank, summary (25 Sep 2023): https://oig.federalreserve.gov/reports/board-material-loss-review-silicon-valley-bank-summary-sep2023.pdf\\n[8] Speech by Fed Vice Chair for Supervision Michelle Bowman on initial findings from the independent review of SVB (18 Sep 2026): https://www.federalreserve.gov/newsevents/speech/bowman20260918b.htm\\n[9] FDIC, Understanding Deposit Insurance: https://www.fdic.gov/resources/deposit-insurance/understanding-deposit-insurance\\n\\nFiled Under Failure tells business collapses and comebacks from the public record. Findings and quotes are those of the bodies cited. Narration uses a synthetic voice; graphics are our own. Music: original.\\n\\n#SiliconValleyBank #SVBcollapse #bankrun\\n\\n▶ Shorts from this case: https://www.youtube.com/playlist?list=PLJdqGuyUjEAs\\n▶ All full episodes: https://www.youtube.com/playlist?list=PLcJ0qXrqBDRU\\n🔔 Subscribe for the next case file: https://www.youtube.com/@FiledUnderFailure-d6j?sub_confirmation=1\", \"tags\": [\"Silicon Valley Bank\", \"SVB collapse\", \"bank run\", \"business documentary\", \"Federal Reserve\", \"FDIC\", \"banking crisis 2023\", \"what went wrong\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
  },
  {
-  "id": "pi-002-9Ua3QYxB1E4",
+  "id": "upd-5pxZ6aDQGxw",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "body": "{\"id\": \"5pxZ6aDQGxw\", \"snippet\": {\"title\": \"Silicon Valley Bank took 40 years to build and two days to fall #Shorts\", \"categoryId\": \"27\", \"description\": \"Full episode ▶ https://youtu.be/5fPvAEfxo6w\\n\\nSilicon Valley Bank took 40 years to build and two days to fall #Shorts\\n\\nThe 48 hours that ended Silicon Valley Bank, from the Federal Reserve's review.\\n\\nSources: Federal Reserve Board, Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank (28 Apr 2023); Federal Reserve Board, Executive Summary of the review (28 Apr 2023); Federal Reserve Board press release on the review's results (28 Apr 2023) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #SiliconValleyBank #SVBcollapse #bankrun\", \"tags\": [\"Silicon Valley Bank\", \"SVB collapse\", \"bank run\", \"business documentary\", \"Federal Reserve\", \"FDIC\", \"banking crisis 2023\", \"what went wrong\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
+ },
+ {
+  "id": "upd-PgoTuPDONh4",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "body": "{\"id\": \"PgoTuPDONh4\", \"snippet\": {\"title\": \"Customers pulled $40 billion from Silicon Valley Bank in one day #Shorts\", \"categoryId\": \"27\", \"description\": \"Full episode ▶ https://youtu.be/5fPvAEfxo6w\\n\\nThe size of the 2023 run on Silicon Valley Bank, from the Federal Reserve's review.\\n\\nSources: Federal Reserve Board, Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank (28 Apr 2023); Federal Reserve Board, Executive Summary of the review (28 Apr 2023); Federal Reserve Board press release on the review's results (28 Apr 2023) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #SiliconValleyBank #SVBcollapse #bankrun\", \"tags\": [\"Silicon Valley Bank\", \"SVB collapse\", \"bank run\", \"business documentary\", \"Federal Reserve\", \"FDIC\", \"banking crisis 2023\", \"what went wrong\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
+ },
+ {
+  "id": "upd-94egvFj1fbY",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "body": "{\"id\": \"94egvFj1fbY\", \"snippet\": {\"title\": \"94% of Silicon Valley Bank's deposits were uninsured #Shorts\", \"categoryId\": \"27\", \"description\": \"Full episode ▶ https://youtu.be/5fPvAEfxo6w\\n\\n94% of Silicon Valley Bank's deposits were uninsured #Shorts\\n\\nWhy Silicon Valley Bank's depositors had so much reason to run, from the Federal Reserve's review.\\n\\nSources: Federal Reserve Board, Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank (28 Apr 2023); Federal Reserve Board, Executive Summary of the review (28 Apr 2023); Federal Reserve Board press release on the review's results (28 Apr 2023) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #SiliconValleyBank #SVBcollapse #bankrun\", \"tags\": [\"Silicon Valley Bank\", \"SVB collapse\", \"bank run\", \"business documentary\", \"Federal Reserve\", \"FDIC\", \"banking crisis 2023\", \"what went wrong\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
+ },
+ {
+  "id": "upd-jtFeifCjRHc",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "body": "{\"id\": \"jtFeifCjRHc\", \"snippet\": {\"title\": \"Silicon Valley Bank had 31 open supervisory findings when it failed #Shorts\", \"categoryId\": \"27\", \"description\": \"Full episode ▶ https://youtu.be/5fPvAEfxo6w\\n\\nWhat the Federal Reserve's supervisors found at Silicon Valley Bank, and what happened next.\\n\\nSources: Federal Reserve Board, Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank (28 Apr 2023); Federal Reserve Board, Executive Summary of the review (28 Apr 2023); Federal Reserve Board press release on the review's results (28 Apr 2023) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #SiliconValleyBank #SVBcollapse #bankrun\", \"tags\": [\"Silicon Valley Bank\", \"SVB collapse\", \"bank run\", \"business documentary\", \"Federal Reserve\", \"FDIC\", \"banking crisis 2023\", \"what went wrong\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
+ },
+ {
+  "id": "upd-Qzu2G7C3TC8",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "body": "{\"id\": \"Qzu2G7C3TC8\", \"snippet\": {\"title\": \"Silicon Valley Bank put 55% of its assets into securities #Shorts\", \"categoryId\": \"27\", \"description\": \"Full episode ▶ https://youtu.be/5fPvAEfxo6w\\n\\nSilicon Valley Bank put 55% of its assets into securities #Shorts\\n\\nHow Silicon Valley Bank's bet on long-dated bonds left it exposed when rates rose.\\n\\nSources: Federal Reserve Board, Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank (28 Apr 2023); Federal Reserve Board, Executive Summary of the review (28 Apr 2023); Federal Reserve Board press release on the review's results (28 Apr 2023) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #SiliconValleyBank #SVBcollapse #bankrun\", \"tags\": [\"Silicon Valley Bank\", \"SVB collapse\", \"bank run\", \"business documentary\", \"Federal Reserve\", \"FDIC\", \"banking crisis 2023\", \"what went wrong\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
+ },
+ {
+  "id": "upd-9Ua3QYxB1E4",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "body": "{\"id\": \"9Ua3QYxB1E4\", \"snippet\": {\"title\": \"Who paid for the Silicon Valley Bank collapse? #Shorts\", \"categoryId\": \"27\", \"description\": \"Full episode ▶ https://youtu.be/5fPvAEfxo6w\\n\\nWho paid for the Silicon Valley Bank collapse? #Shorts\\n\\nWho paid for protecting Silicon Valley Bank's uninsured depositors, from FDIC and government records.\\n\\nSources: Federal Reserve Board, Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank (28 Apr 2023); Federal Reserve Board, Executive Summary of the review (28 Apr 2023); Federal Reserve Board press release on the review's results (28 Apr 2023) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #SiliconValleyBank #SVBcollapse #bankrun\", \"tags\": [\"Silicon Valley Bank\", \"SVB collapse\", \"bank run\", \"business documentary\", \"Federal Reserve\", \"FDIC\", \"banking crisis 2023\", \"what went wrong\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
+ },
+ {
+  "id": "upd-DtDUPPB90xg",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "body": "{\"id\": \"DtDUPPB90xg\", \"snippet\": {\"title\": \"Did social media cause the Silicon Valley Bank run? Two reviews disagree #Shorts\", \"categoryId\": \"27\", \"description\": \"Full episode ▶ https://youtu.be/5fPvAEfxo6w\\n\\nDid social media cause the Silicon Valley Bank run? Two reviews disagree #Shorts\\n\\nThe Fed's 2023 review and the preliminary findings of a 2026 independent review disagree on social media's role.\\n\\nSources: Federal Reserve Board, Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank (28 Apr 2023); Federal Reserve Board, Executive Summary of the review (28 Apr 2023); Federal Reserve Board press release on the review's results (28 Apr 2023) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #SiliconValleyBank #SVBcollapse #bankrun\", \"tags\": [\"Silicon Valley Bank\", \"SVB collapse\", \"bank run\", \"business documentary\", \"Federal Reserve\", \"FDIC\", \"banking crisis 2023\", \"what went wrong\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
+ },
+ {
+  "id": "pi-003-P8Xj13VCpZw",
   "method": "POST",
   "path": "/v3/playlistItems?part=snippet",
-  "body": "{\"snippet\": {\"playlistId\": \"PLJdqGuyUjEAs\", \"position\": 6, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"9Ua3QYxB1E4\"}}}"
+  "body": "{\"snippet\": {\"playlistId\": \"PLVa3CP7FOxso\", \"position\": 4, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"P8Xj13VCpZw\"}}}"
  },
  {
-  "id": "pi-002-DtDUPPB90xg",
+  "id": "pi-003-9dcti-HWqVc",
   "method": "POST",
   "path": "/v3/playlistItems?part=snippet",
-  "body": "{\"snippet\": {\"playlistId\": \"PLJdqGuyUjEAs\", \"position\": 7, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"DtDUPPB90xg\"}}}"
+  "body": "{\"snippet\": {\"playlistId\": \"PLVa3CP7FOxso\", \"position\": 5, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"9dcti-HWqVc\"}}}"
  },
  {
-  "id": "get-5fPvAEfxo6w",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=5fPvAEfxo6w",
-  "body": ""
- },
- {
-  "id": "get-5pxZ6aDQGxw",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=5pxZ6aDQGxw",
-  "body": ""
- },
- {
-  "id": "get-PgoTuPDONh4",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=PgoTuPDONh4",
-  "body": ""
- },
- {
-  "id": "get-94egvFj1fbY",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=94egvFj1fbY",
-  "body": ""
- },
- {
-  "id": "get-jtFeifCjRHc",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=jtFeifCjRHc",
-  "body": ""
- },
- {
-  "id": "get-Qzu2G7C3TC8",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=Qzu2G7C3TC8",
-  "body": ""
- },
- {
-  "id": "get-9Ua3QYxB1E4",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=9Ua3QYxB1E4",
-  "body": ""
- },
- {
-  "id": "get-DtDUPPB90xg",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=DtDUPPB90xg",
-  "body": ""
- },
- {
-  "id": "pi-003-vdXslodih6A",
+  "id": "pi-003-KkqfSkA3i-o",
   "method": "POST",
   "path": "/v3/playlistItems?part=snippet",
-  "body": "{\"snippet\": {\"playlistId\": \"PLVa3CP7FOxso\", \"position\": 0, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"vdXslodih6A\"}}}"
+  "body": "{\"snippet\": {\"playlistId\": \"PLVa3CP7FOxso\", \"position\": 6, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"KkqfSkA3i-o\"}}}"
  },
  {
-  "id": "pi-003-CxmwCDb7zIE",
+  "id": "pi-003-xD8054ghl_Q",
   "method": "POST",
   "path": "/v3/playlistItems?part=snippet",
-  "body": "{\"snippet\": {\"playlistId\": \"PLVa3CP7FOxso\", \"position\": 1, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"CxmwCDb7zIE\"}}}"
+  "body": "{\"snippet\": {\"playlistId\": \"PLVa3CP7FOxso\", \"position\": 7, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"xD8054ghl_Q\"}}}"
  },
  {
-  "id": "pi-003-cXfkAdwVW_A",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "body": "{\"snippet\": {\"playlistId\": \"PLVa3CP7FOxso\", \"position\": 2, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"cXfkAdwVW_A\"}}}"
+  "id": "get-vdXslodih6A",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=vdXslodih6A",
+  "body": ""
  },
  {
-  "id": "pi-003-B1_OPLwLHoA",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "body": "{\"snippet\": {\"playlistId\": \"PLVa3CP7FOxso\", \"position\": 3, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"B1_OPLwLHoA\"}}}"
+  "id": "get-CxmwCDb7zIE",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=CxmwCDb7zIE",
+  "body": ""
+ },
+ {
+  "id": "get-cXfkAdwVW_A",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=cXfkAdwVW_A",
+  "body": ""
  }
 ]
