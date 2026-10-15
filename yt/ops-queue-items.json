@@ -1,0 +1,122 @@
+[
+ {
+  "id": "pl-all",
+  "method": "POST",
+  "path": "/v3/playlists?part=snippet,status",
+  "body": "{\"snippet\": {\"title\": \"Filed Under Failure: Full Episodes\", \"description\": \"Every full case file in one place: how real companies failed, told from court, parliamentary and regulator records. Start with any episode.\", \"defaultLanguage\": \"en\"}, \"status\": {\"privacyStatus\": \"public\"}}"
+ },
+ {
+  "id": "pl-001",
+  "method": "POST",
+  "path": "/v3/playlists?part=snippet,status",
+  "body": "{\"snippet\": {\"title\": \"Carillion Collapse Explained\", \"description\": \"How Britain's second-largest construction company went from government contractor to liquidation in January 2018: the full episode first, then the short case notes. From the parliamentary and official record.\", \"defaultLanguage\": \"en\"}, \"status\": {\"privacyStatus\": \"public\"}}"
+ },
+ {
+  "id": "pl-002",
+  "method": "POST",
+  "path": "/v3/playlists?part=snippet,status",
+  "body": "{\"snippet\": {\"title\": \"Silicon Valley Bank Collapse Explained\", \"description\": \"The March 2023 Silicon Valley Bank run: the full episode first, then the short case notes. Built from the Federal Reserve, FDIC and other official reviews.\", \"defaultLanguage\": \"en\"}, \"status\": {\"privacyStatus\": \"public\"}}"
+ },
+ {
+  "id": "pl-003",
+  "method": "POST",
+  "path": "/v3/playlists?part=snippet,status",
+  "body": "{\"snippet\": {\"title\": \"Theranos and Elizabeth Holmes Explained\", \"description\": \"What the Theranos court record actually established: the full episode first, then the short case notes. From the Ninth Circuit opinion, SEC charges and regulator findings.\", \"defaultLanguage\": \"en\"}, \"status\": {\"privacyStatus\": \"public\"}}"
+ },
+ {
+  "id": "get-EgM6A2U6Qag",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=EgM6A2U6Qag",
+  "body": ""
+ },
+ {
+  "id": "get-nAPJEMBh1Rk",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=nAPJEMBh1Rk",
+  "body": ""
+ },
+ {
+  "id": "get-l1QDHr0GoUY",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=l1QDHr0GoUY",
+  "body": ""
+ },
+ {
+  "id": "get-MvUDWLKMasI",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=MvUDWLKMasI",
+  "body": ""
+ },
+ {
+  "id": "get-90ByqlGonLI",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=90ByqlGonLI",
+  "body": ""
+ },
+ {
+  "id": "get-GgKOpONeN_o",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=GgKOpONeN_o",
+  "body": ""
+ },
+ {
+  "id": "get-9CIuSts7dDU",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=9CIuSts7dDU",
+  "body": ""
+ },
+ {
+  "id": "get-5fPvAEfxo6w",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=5fPvAEfxo6w",
+  "body": ""
+ },
+ {
+  "id": "get-5pxZ6aDQGxw",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=5pxZ6aDQGxw",
+  "body": ""
+ },
+ {
+  "id": "get-PgoTuPDONh4",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=PgoTuPDONh4",
+  "body": ""
+ },
+ {
+  "id": "get-94egvFj1fbY",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=94egvFj1fbY",
+  "body": ""
+ },
+ {
+  "id": "get-jtFeifCjRHc",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=jtFeifCjRHc",
+  "body": ""
+ },
+ {
+  "id": "get-Qzu2G7C3TC8",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=Qzu2G7C3TC8",
+  "body": ""
+ },
+ {
+  "id": "get-9Ua3QYxB1E4",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=9Ua3QYxB1E4",
+  "body": ""
+ },
+ {
+  "id": "get-DtDUPPB90xg",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=DtDUPPB90xg",
+  "body": ""
+ },
+ {
+  "id": "get-vdXslodih6A",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=vdXslodih6A",
+  "body": ""
+ }
+]

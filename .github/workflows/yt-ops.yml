@@ -1,0 +1,28 @@
+name: YouTube ops results (playlists, metadata fixes)
+on:
+  repository_dispatch:
+    types: [yt-ops]
+permissions:
+  contents: write
+jobs:
+  record:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: yt
+      - run: |
+          git config user.name "yt-feed-bot"; git config user.email "actions@users.noreply.github.com"
+          python3 yt/yt_ops.py record
+          mkdir -p /tmp/res && cp yt/ops-done/*.json /tmp/res/ 2>/dev/null || exit 0
+          for n in $(seq 1 20); do
+            git fetch -q origin main && git reset -q --hard origin/main
+            mkdir -p yt/ops-done && cp -n /tmp/res/*.json yt/ops-done/
+            python3 yt/yt_ops.py
+            git add yt/ops-done yt/ops-queue-items.json yt/ops-status.json
+            git diff --cached --quiet && exit 0
+            git commit -qm "YouTube ops: results"
+            git push -q origin HEAD:main && exit 0
+            sleep $((3 + RANDOM % 15))
+          done
+          exit 1
