@@ -1,13 +1,13 @@
 {
- "generated": "2026-10-15T12:22:44.647580+05:00",
+ "generated": "2026-10-15T12:23:44.031494+05:00",
  "problems": [],
  "items": [
   {
-   "id": "f-1016-weekend-inbox",
+   "id": "f-1017-node-by-node",
    "brand": "frontdesk",
-   "date": "2026-10-16",
-   "pillar": "humour",
-   "slides": 1,
+   "date": "2026-10-15",
+   "pillar": "tutorial-carousel",
+   "slides": 5,
    "status": "planned",
    "platforms": {},
    "src": "social/posts/2026-10-16.json"
@@ -15,7 +15,7 @@
   {
    "id": "x-1016-spreadsheet",
    "brand": "xenova",
-   "date": "2026-10-16",
+   "date": "2026-10-15",
    "pillar": "humour",
    "slides": 1,
    "status": "planned",
@@ -23,11 +23,11 @@
    "src": "social/posts/2026-10-16.json"
   },
   {
-   "id": "f-1017-node-by-node",
+   "id": "f-1016-weekend-inbox",
    "brand": "frontdesk",
-   "date": "2026-10-17",
-   "pillar": "tutorial-carousel",
-   "slides": 5,
+   "date": "2026-10-16",
+   "pillar": "humour",
+   "slides": 1,
    "status": "planned",
    "platforms": {},
    "src": "social/posts/2026-10-16.json"
