@@ -19,7 +19,10 @@ def done():
     out = {}
     for f in glob.glob("yt/ops-done/*.json"):
         r = json.load(open(f))
+        r["_f"] = f
         out.setdefault(r["id"], []).append(r)
+    for v in out.values():
+        v.sort(key=lambda r: r["_f"])     # first result wins (e.g. the playlist actually used)
     return out
 
 
@@ -79,7 +82,7 @@ def build():
             status[op["id"]] = "waiting (no description fetched)"; continue
         status[op["id"]] = "queued"
         if len(items) < BATCH and (op["method"] != "GET" or sum(i["method"] == "GET" for i in items) < MAX_GETS):
-            items.append({"id": op["id"], "method": op["method"], "path": op["path"], "body": "" if op["method"] == "GET" else (body or "{}")})
+            items.append({"id": op["id"], "method": op["method"], "path": op["path"], "body": "" if op["method"] in ("GET", "DELETE") else (body or "{}")})
     json.dump(items, open("yt/ops-queue-items.json", "w"), indent=1, ensure_ascii=False)
     json.dump(status, open("yt/ops-status.json", "w"), indent=1)
     return items

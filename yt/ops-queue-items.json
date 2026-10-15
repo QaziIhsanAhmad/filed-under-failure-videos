@@ -1,92 +1,92 @@
 [
  {
+  "id": "del-PLeG-fjD34jcg",
+  "method": "DELETE",
+  "path": "/v3/playlists?id=PLeG-fjD34jcg",
+  "body": ""
+ },
+ {
+  "id": "del-PLD31qM5nTM5w",
+  "method": "DELETE",
+  "path": "/v3/playlists?id=PLD31qM5nTM5w",
+  "body": ""
+ },
+ {
+  "id": "del-PLBT8K08GTT9E",
+  "method": "DELETE",
+  "path": "/v3/playlists?id=PLBT8K08GTT9E",
+  "body": ""
+ },
+ {
+  "id": "del-PLMQvLXpWXhzI",
+  "method": "DELETE",
+  "path": "/v3/playlists?id=PLMQvLXpWXhzI",
+  "body": ""
+ },
+ {
   "id": "pi-all-vdXslodih6A",
   "method": "POST",
   "path": "/v3/playlistItems?part=snippet",
-  "body": "{\"snippet\": {\"playlistId\": \"PLeG-fjD34jcg\", \"position\": 0, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"vdXslodih6A\"}}}"
+  "body": "{\"snippet\": {\"playlistId\": \"PLcJ0qXrqBDRU\", \"position\": 0, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"vdXslodih6A\"}}}"
  },
  {
   "id": "pi-all-5fPvAEfxo6w",
   "method": "POST",
   "path": "/v3/playlistItems?part=snippet",
-  "body": "{\"snippet\": {\"playlistId\": \"PLeG-fjD34jcg\", \"position\": 1, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"5fPvAEfxo6w\"}}}"
+  "body": "{\"snippet\": {\"playlistId\": \"PLcJ0qXrqBDRU\", \"position\": 1, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"5fPvAEfxo6w\"}}}"
  },
  {
   "id": "pi-all-EgM6A2U6Qag",
   "method": "POST",
   "path": "/v3/playlistItems?part=snippet",
-  "body": "{\"snippet\": {\"playlistId\": \"PLeG-fjD34jcg\", \"position\": 2, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"EgM6A2U6Qag\"}}}"
+  "body": "{\"snippet\": {\"playlistId\": \"PLcJ0qXrqBDRU\", \"position\": 2, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"EgM6A2U6Qag\"}}}"
  },
  {
   "id": "pi-001-EgM6A2U6Qag",
   "method": "POST",
   "path": "/v3/playlistItems?part=snippet",
-  "body": "{\"snippet\": {\"playlistId\": \"PLMQvLXpWXhzI\", \"position\": 0, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"EgM6A2U6Qag\"}}}"
+  "body": "{\"snippet\": {\"playlistId\": \"PLAY8kmI7UCNk\", \"position\": 0, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"EgM6A2U6Qag\"}}}"
  },
  {
   "id": "pi-001-nAPJEMBh1Rk",
   "method": "POST",
   "path": "/v3/playlistItems?part=snippet",
-  "body": "{\"snippet\": {\"playlistId\": \"PLMQvLXpWXhzI\", \"position\": 1, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"nAPJEMBh1Rk\"}}}"
+  "body": "{\"snippet\": {\"playlistId\": \"PLAY8kmI7UCNk\", \"position\": 1, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"nAPJEMBh1Rk\"}}}"
  },
  {
   "id": "pi-001-l1QDHr0GoUY",
   "method": "POST",
   "path": "/v3/playlistItems?part=snippet",
-  "body": "{\"snippet\": {\"playlistId\": \"PLMQvLXpWXhzI\", \"position\": 2, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"l1QDHr0GoUY\"}}}"
+  "body": "{\"snippet\": {\"playlistId\": \"PLAY8kmI7UCNk\", \"position\": 2, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"l1QDHr0GoUY\"}}}"
  },
  {
   "id": "pi-001-MvUDWLKMasI",
   "method": "POST",
   "path": "/v3/playlistItems?part=snippet",
-  "body": "{\"snippet\": {\"playlistId\": \"PLMQvLXpWXhzI\", \"position\": 3, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"MvUDWLKMasI\"}}}"
+  "body": "{\"snippet\": {\"playlistId\": \"PLAY8kmI7UCNk\", \"position\": 3, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"MvUDWLKMasI\"}}}"
  },
  {
   "id": "pi-001-90ByqlGonLI",
   "method": "POST",
   "path": "/v3/playlistItems?part=snippet",
-  "body": "{\"snippet\": {\"playlistId\": \"PLMQvLXpWXhzI\", \"position\": 4, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"90ByqlGonLI\"}}}"
+  "body": "{\"snippet\": {\"playlistId\": \"PLAY8kmI7UCNk\", \"position\": 4, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"90ByqlGonLI\"}}}"
  },
  {
   "id": "pi-001-GgKOpONeN_o",
   "method": "POST",
   "path": "/v3/playlistItems?part=snippet",
-  "body": "{\"snippet\": {\"playlistId\": \"PLMQvLXpWXhzI\", \"position\": 5, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"GgKOpONeN_o\"}}}"
+  "body": "{\"snippet\": {\"playlistId\": \"PLAY8kmI7UCNk\", \"position\": 5, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"GgKOpONeN_o\"}}}"
  },
  {
   "id": "pi-001-9CIuSts7dDU",
   "method": "POST",
   "path": "/v3/playlistItems?part=snippet",
-  "body": "{\"snippet\": {\"playlistId\": \"PLMQvLXpWXhzI\", \"position\": 6, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"9CIuSts7dDU\"}}}"
+  "body": "{\"snippet\": {\"playlistId\": \"PLAY8kmI7UCNk\", \"position\": 6, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"9CIuSts7dDU\"}}}"
  },
  {
   "id": "upd-EgM6A2U6Qag",
   "method": "PUT",
   "path": "/v3/videos?part=snippet",
-  "body": "{\"id\": \"EgM6A2U6Qag\", \"snippet\": {\"title\": \"Why Did Carillion Collapse? How Britain's Biggest Builder Ran Out of Money\", \"categoryId\": \"27\", \"description\": \"In January 2018, Carillion, one of the UK government's biggest contractors, collapsed with liabilities of almost £7 billion. Using the official reports, we trace how a company that built hospitals and railways ran out of money, and who paid for it.\\n\\nChapters\\n0:00 The collapse\\n0:50 Building an empire\\n1:42 The dash for cash\\n3:16 10 July 2017\\n4:14 The last six months\\n4:59 15 January 2018\\n5:34 Who paid\\n6:29 The verdict\\n8:03 What it means\\n\\nSources\\n[1] House of Commons Work and Pensions and BEIS Committees, Carillion report (16 May 2018): https://publications.parliament.uk/pa/cm201719/cmselect/cmworpen/769/76903.htm\\n[2] Committees' statement on Carillion's suppliers (14 May 2018): https://committees.parliament.uk/work/5425/carillion-joint-inquiry/news/97957/carillion-used-its-suppliers-to-prop-up-failing-business-model/\\n[3] National Audit Office, Investigation into the government's handling of the collapse of Carillion (June 2018): https://www.nao.org.uk/press-releases/investigation-into-the-governments-handling-of-the-collapse-of-carillion/\\n[4] House of Commons Library, Carillion collapse: what went wrong? (19 Jan 2018): https://commonslibrary.parliament.uk/carillion-collapse-what-went-wrong/\\n[5] Carillion company history and figures: https://en.wikipedia.org/wiki/Carillion\\n[6] Financial Conduct Authority (16 Feb 2026): https://www.fca.org.uk/news/press-releases/fca-fines-former-chief-executive-carillion-plc-liquidation\\n[7] Public Finance, KPMG fined £21m (12 Oct 2023): https://www.publicfinance.co.uk/news/2023/10/kpmg-handed-record-ps21m-fine-failures-carillion-audit\\n[8] Daily Business, Carillion half-year loss (29 Sep 2017): https://dailybusinessgroup.co.uk/2017/09/carillion-plunges-to-1-15-billion-half-year-loss/\\n\\nFiled Under Failure tells business collapses and comebacks from the public record. Findings and quotes are those of the bodies cited. Narration uses a synthetic voice; graphics are our own. Music: original.\\n\\n#Carillion #Carillioncollapse #businessdocumentary\\n\\n▶ Shorts from this case: https://www.youtube.com/playlist?list=PLMQvLXpWXhzI\\n▶ All full episodes: https://www.youtube.com/playlist?list=PLeG-fjD34jcg\\n🔔 Subscribe for the next case file: https://www.youtube.com/@FiledUnderFailure-d6j?sub_confirmation=1\", \"tags\": [\"Carillion\", \"Carillion collapse\", \"business documentary\", \"UK business\", \"corporate collapse\", \"construction\", \"KPMG\", \"liquidation\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
- },
- {
-  "id": "upd-nAPJEMBh1Rk",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "body": "{\"id\": \"nAPJEMBh1Rk\", \"snippet\": {\"title\": \"Carillion paid £554m in dividends while its debt rose fivefold #Shorts\", \"categoryId\": \"27\", \"description\": \"Full episode ▶ https://youtu.be/EgM6A2U6Qag\\n\\nCarillion paid £554m in dividends while its debt rose fivefold #Shorts\\n\\nHow Carillion kept paying shareholders as its debt grew, according to the House of Commons Library.\\n\\nSources: House of Commons Work and Pensions and BEIS Committees, Carillion report (16 May 2018); Committees' statement on Carillion's suppliers (14 May 2018); National Audit Office, Investigation into the government's handling of the collapse of Carillion (June 2018) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #Carillion #Carillioncollapse #businessdocumentary\", \"tags\": [\"Carillion\", \"Carillion collapse\", \"business documentary\", \"UK business\", \"corporate collapse\", \"construction\", \"KPMG\", \"liquidation\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
- },
- {
-  "id": "upd-l1QDHr0GoUY",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "body": "{\"id\": \"l1QDHr0GoUY\", \"snippet\": {\"title\": \"Carillion made suppliers wait 120 days to be paid #Shorts\", \"categoryId\": \"27\", \"description\": \"Full episode ▶ https://youtu.be/EgM6A2U6Qag\\n\\nCarillion made suppliers wait 120 days to be paid #Shorts\\n\\nCarillion signed the Prompt Payment Code but imposed 120-day payment terms, MPs found.\\n\\nSources: House of Commons Work and Pensions and BEIS Committees, Carillion report (16 May 2018); Committees' statement on Carillion's suppliers (14 May 2018); National Audit Office, Investigation into the government's handling of the collapse of Carillion (June 2018) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #Carillion #Carillioncollapse #businessdocumentary\", \"tags\": [\"Carillion\", \"Carillion collapse\", \"business documentary\", \"UK business\", \"corporate collapse\", \"construction\", \"KPMG\", \"liquidation\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
- },
- {
-  "id": "upd-MvUDWLKMasI",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "body": "{\"id\": \"MvUDWLKMasI\", \"snippet\": {\"title\": \"After Carillion's profit warning, government still gave it £1.9bn of work #Shorts\", \"categoryId\": \"27\", \"description\": \"Full episode ▶ https://youtu.be/EgM6A2U6Qag\\n\\nAfter Carillion's profit warning, government still gave it £1.9bn of work #Shorts\\n\\nThe National Audit Office counted new contracts and extensions announced after Carillion's July 2017 profit warning.\\n\\nSources: House of Commons Work and Pensions and BEIS Committees, Carillion report (16 May 2018); Committees' statement on Carillion's suppliers (14 May 2018); National Audit Office, Investigation into the government's handling of the collapse of Carillion (June 2018) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #Carillion #Carillioncollapse #businessdocumentary\", \"tags\": [\"Carillion\", \"Carillion collapse\", \"business documentary\", \"UK business\", \"corporate collapse\", \"construction\", \"KPMG\", \"liquidation\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
- },
- {
-  "id": "upd-90ByqlGonLI",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "body": "{\"id\": \"90ByqlGonLI\", \"snippet\": {\"title\": \"Carillion asked the government for £223m. The answer was no. #Shorts\", \"categoryId\": \"27\", \"description\": \"Full episode ▶ https://youtu.be/EgM6A2U6Qag\\n\\nCarillion asked the government for £223m. The answer was no. #Shorts\\n\\nIn January 2018 Carillion asked for £223m to keep trading; the Cabinet Office declined, the NAO reported.\\n\\nSources: House of Commons Work and Pensions and BEIS Committees, Carillion report (16 May 2018); Committees' statement on Carillion's suppliers (14 May 2018); National Audit Office, Investigation into the government's handling of the collapse of Carillion (June 2018) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #Carillion #Carillioncollapse #businessdocumentary\", \"tags\": [\"Carillion\", \"Carillion collapse\", \"business documentary\", \"UK business\", \"corporate collapse\", \"construction\", \"KPMG\", \"liquidation\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
+  "body": "{\"id\": \"EgM6A2U6Qag\", \"snippet\": {\"title\": \"Why Did Carillion Collapse? How Britain's Biggest Builder Ran Out of Money\", \"categoryId\": \"27\", \"description\": \"In January 2018, Carillion, one of the UK government's biggest contractors, collapsed with liabilities of almost £7 billion. Using the official reports, we trace how a company that built hospitals and railways ran out of money, and who paid for it.\\n\\nChapters\\n0:00 The collapse\\n0:50 Building an empire\\n1:42 The dash for cash\\n3:16 10 July 2017\\n4:14 The last six months\\n4:59 15 January 2018\\n5:34 Who paid\\n6:29 The verdict\\n8:03 What it means\\n\\nSources\\n[1] House of Commons Work and Pensions and BEIS Committees, Carillion report (16 May 2018): https://publications.parliament.uk/pa/cm201719/cmselect/cmworpen/769/76903.htm\\n[2] Committees' statement on Carillion's suppliers (14 May 2018): https://committees.parliament.uk/work/5425/carillion-joint-inquiry/news/97957/carillion-used-its-suppliers-to-prop-up-failing-business-model/\\n[3] National Audit Office, Investigation into the government's handling of the collapse of Carillion (June 2018): https://www.nao.org.uk/press-releases/investigation-into-the-governments-handling-of-the-collapse-of-carillion/\\n[4] House of Commons Library, Carillion collapse: what went wrong? (19 Jan 2018): https://commonslibrary.parliament.uk/carillion-collapse-what-went-wrong/\\n[5] Carillion company history and figures: https://en.wikipedia.org/wiki/Carillion\\n[6] Financial Conduct Authority (16 Feb 2026): https://www.fca.org.uk/news/press-releases/fca-fines-former-chief-executive-carillion-plc-liquidation\\n[7] Public Finance, KPMG fined £21m (12 Oct 2023): https://www.publicfinance.co.uk/news/2023/10/kpmg-handed-record-ps21m-fine-failures-carillion-audit\\n[8] Daily Business, Carillion half-year loss (29 Sep 2017): https://dailybusinessgroup.co.uk/2017/09/carillion-plunges-to-1-15-billion-half-year-loss/\\n\\nFiled Under Failure tells business collapses and comebacks from the public record. Findings and quotes are those of the bodies cited. Narration uses a synthetic voice; graphics are our own. Music: original.\\n\\n#Carillion #Carillioncollapse #businessdocumentary\\n\\n▶ Shorts from this case: https://www.youtube.com/playlist?list=PLAY8kmI7UCNk\\n▶ All full episodes: https://www.youtube.com/playlist?list=PLcJ0qXrqBDRU\\n🔔 Subscribe for the next case file: https://www.youtube.com/@FiledUnderFailure-d6j?sub_confirmation=1\", \"tags\": [\"Carillion\", \"Carillion collapse\", \"business documentary\", \"UK business\", \"corporate collapse\", \"construction\", \"KPMG\", \"liquidation\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
  }
 ]
