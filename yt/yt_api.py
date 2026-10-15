@@ -123,6 +123,18 @@ def build_queue(led, now, untitled):
                       "file": f, "ctype": "video/mp4", "size": os.path.getsize(f),
                       "meta": json.dumps(meta, ensure_ascii=False), "path": VIDEO_PATH,
                       "publishAt": status.get("publishAt", "")})
+    # One-off thumbnail replacements (yt/thumb-jobs.json): retried with a new id after a failure, max MAX_ATTEMPTS.
+    try:
+        jobs = json.load(open("yt/thumb-jobs.json"))
+    except Exception:
+        jobs = []
+    for j in jobs:
+        tries = sorted(glob.glob(f"yt/results/tj-{j['id']}-a*.json"))
+        if any(json.load(open(t)).get("ok") for t in tries) or len(tries) >= MAX_ATTEMPTS or not os.path.exists(j["file"]):
+            continue
+        items.append({"id": f"tj-{j['id']}-a{len(tries)}", "row": None, "kind": "thumb", "file": j["file"],
+                      "ctype": "image/png", "size": os.path.getsize(j["file"]), "meta": "{}",
+                      "path": THUMB_PATH.format(vid=j["videoId"])})
     done = {os.path.basename(p)[:-5] for p in glob.glob("yt/results/*.json")}
     items = [i for i in items if i["id"] not in done]       # already attempted under this id
     json.dump({"generated": now.isoformat(), "items": items}, open("yt/upload-queue.json", "w"), indent=1, ensure_ascii=False)
