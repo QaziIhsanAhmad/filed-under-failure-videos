@@ -463,6 +463,14 @@
     "error": "A status=200 loc=https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet%2Cstatus&upload_id=AP6rU81SgnEsNCewwou7ru8JwyRmyKmm8hCf53NzHYdQTZ_bCHMurZcp0BcyA7Ar-7QwSUwlJ6ZlGjU5hNfwtvujUEK1zYFc7x7PvhqbcRVhzGQ",
     "guid": "probe-session"
    }
+  },
+  {
+   "at": "2026-10-15T11:31:10.496026+05:00",
+   "event": "yt-failed",
+   "payload": {
+    "error": "vdXslodih6A,xD8054ghl_Q,KkqfSkA3i-o,9dcti-HWqVc,P8Xj13VCpZw,B1_OPLwLHoA,cXfkAdwVW_A,CxmwCDb7zIE,DtDUPPB90xg,9Ua3QYxB1E4,03qaocwktd4,YGBh6k4_fu0,2t4PC2imtvk,cL9-z630Brk,tc5yy-FsZZA,B0fEmrN2mlY,Qzu2G7C3TC8,9CIuSts7dDU,GgKOpONeN_o,jtFeifCjRHc,94egvFj1fbY,PgoTuPDONh4,5pxZ6aDQGxw,5fPvAEfxo6w,90ByqlGonLI,MvUDWLKMasI,l1QDHr0GoUY,nAPJEMBh1Rk,EgM6A2U6Qag || Theranos: What the Jury Actually Decided ## Theranos told investors about military work. General Mattis testified otherwise #Shorts ## Theranos projected $230m profit. It reported $1.94m income #Shorts ## Holmes admitted she put Pfizer's logo on reports praising Theranos #Shorts ## Theranos showed VIP investors a machine running a 'null protocol' #Shorts ## Theranos developed 300 blood tests. Only 12 ever ran on its own machine #Shorts ## Elizabeth Holmes was convicted of defrauding investors, not patients #Shorts ## An appeals court called the Theranos claims 'half-truths and outright lies' #Shorts ## Did social media cause the Silicon Valley Bank run? Two reviews disagree #Shorts ## Who paid for the Silicon Valley Bank collapse? #Shorts ## session test - never uploaded ## session test - never uploaded ## session test - never uploaded ## session test - never uploaded ## session test - never uploaded ## session test - never uploaded ## Silicon Valley Bank put 55% of its assets into securities #Shorts ## MPs' verdict on Carillion: recklessness, hubris and greed #Shorts ## Who paid when Carillion collapsed? Staff, pensioners and taxpayers #Shorts ## Silicon Valley Bank had 31 open supervisory findings when it failed #Shorts ## 94% of Silicon Valley Bank's deposits were uninsured #Shorts ## Customers pulled $40 billion from Silicon Valley Bank in one day #Shorts ## Silicon Valley Bank took 40 years to build and two days to fall #Shorts ## Silicon Valley Bank: $40 Billion Gone in One Day ## Carillion asked the government for £223m. The answer was no. #Shorts ## After Carillion's profit warning, government still gave it £1.9bn of work #Shorts ## Carillion made suppliers wait 120 days to be paid #Shorts ## Carillion paid £554m in dividends while its debt rose fivefold #Shorts ## Carillion: How Britain's Biggest Builder Ran Out of Money",
+    "guid": "probe-list"
+   }
   }
  ]
 }
