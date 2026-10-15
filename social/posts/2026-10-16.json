@@ -1,0 +1,153 @@
+[
+ {"id": "x-1016-spreadsheet", "brand": "xenova", "date": "2026-10-16", "pillar": "humour",
+  "slides": [{"layout": "files", "kicker": "Every business has one", "title": "The spreadsheet that *actually* runs the company.",
+    "files": ["Sales_tracker.xlsx", "Sales_tracker_v2.xlsx", "Sales_tracker_FINAL.xlsx", "Sales_tracker_FINAL_v3_JM.xlsx", "Sales_tracker_FINAL_USE_THIS.xlsx"],
+    "punch": "Nobody knows who owns it. *Everyone* is scared to touch column F."}],
+  "captions": {
+   "ig": "Be honest: how many versions are in your shared drive right now?\n\nThe spreadsheet isn't the problem. It usually means the business grew faster than its tools, and nobody had time to build the next one.\n\nThe next step is often smaller than people expect: one simple internal app, one source of truth, a history of who changed what.\n\nTag the person who guards column F.\n\n#smallbusiness #spreadsheets #operations #automation #ukbusiness #businessowner",
+   "fb": "Tag the colleague who guards column F.\n\nWhen one spreadsheet starts running the company, it's usually a sign the business has outgrown it. The fix doesn't have to be a giant system: a small internal app with one source of truth and a change history often does the job.\n\nThat's the kind of tool we build. xenovasolutions.com/contact",
+   "li": "Plenty of growing businesses have a version of this file.\n\nIt isn't a failure. It's a sign the business grew faster than its tools.\n\nThree signs it's time to move past the spreadsheet:\n→ More than one person edits it every day\n→ Someone re-types data from it into another system\n→ Nobody can say for sure which version is correct\n\nThe next step is usually smaller than people expect: a simple internal app with one source of truth and a change history.\n\nWhat's the file at your company that everyone is afraid to touch?\n\n#Operations #SMEs #DigitalTransformation"}},
+
+ {"id": "x-1017-poll-hours", "brand": "xenova", "date": "2026-10-17", "pillar": "poll",
+  "slides": [{"layout": "poll", "theme": "light", "kicker": "Quick poll", "question": "Where does your team lose the most hours each week?",
+    "options": ["Copy-pasting between tools", "Chasing replies and approvals", "Rebuilding the same reports", "Answering the same customer questions"],
+    "foot": "Comment A, B, C or D. We'll post a practical fix for the top answer."}],
+  "captions": {
+   "ig": "Quick one for the weekend. Where do the hours actually go?\n\nA) Copy-pasting between tools\nB) Chasing replies and approvals\nC) Rebuilding the same reports\nD) Answering the same customer questions\n\nDrop a letter in the comments. We'll post a practical fix for whichever wins.\n\n#smallbusiness #productivity #operations #automation #businessowner",
+   "fb": "Where does your team lose the most hours each week?\n\nA) Copy-pasting between tools\nB) Chasing replies and approvals\nC) Rebuilding the same reports\nD) Answering the same customer questions\n\nComment a letter. We'll post a practical fix for the top answer next week.",
+   "li": "Where does your team lose the most hours each week?\n\nA) Copy-pasting between tools\nB) Chasing replies and approvals\nC) Rebuilding the same reports\nD) Answering the same customer questions\n\nReply with a letter (and the tool involved, if you're happy to share). We'll write up a practical fix for the most common answer.\n\n#Operations #Productivity #SMEs"}},
+
+ {"id": "x-1018-chatbot-checklist", "brand": "xenova", "date": "2026-10-18", "pillar": "educational-carousel",
+  "slides": [
+   {"layout": "cover", "kicker": "Buyer's checklist", "title": "Before you pay for an AI chatbot, ask *these 5 questions.*", "sub": "Save this for your next vendor call."},
+   {"layout": "step", "n": "01", "title": "Where do its answers come from?", "body": "It should answer from *your* documents and show which one. If the answer is \"the internet\", be careful."},
+   {"layout": "step", "n": "02", "title": "What happens when it doesn't know?", "body": "A good assistant says so and hands over to a person. A bad one makes something up, confidently."},
+   {"layout": "step", "n": "03", "title": "Where does our data go?", "body": "Ask where conversations are stored, who can read them, and whether they're used to train anyone's model. Get it in writing."},
+   {"layout": "step", "n": "04", "title": "How will we know it's working?", "body": "Agree the measure up front: questions answered without a human, enquiries captured, time saved. Not \"engagement\"."},
+   {"layout": "step", "n": "05", "title": "Who keeps it up to date?", "body": "Prices, policies and staff change. Ask how the content gets updated, how often, and by whom."},
+   {"layout": "cta", "kicker": "Second opinion", "title": "Been quoted for a chatbot?", "sub": "Send us what you've been offered. We'll tell you plainly whether it fits your business.", "cta": "xenovasolutions.com/contact"}],
+  "captions": {
+   "ig": "Save this before your next vendor call.\n\nAI chatbots are easy to demo and hard to get right. These five questions separate the useful ones from the expensive experiments:\n\n1. Where do its answers come from?\n2. What happens when it doesn't know?\n3. Where does our data go?\n4. How will we know it's working?\n5. Who keeps it up to date?\n\nBeen quoted for one? Send it over (link in bio) and we'll give you a straight opinion.\n\n#aichatbot #artificialintelligence #smallbusiness #ukbusiness #customerservice #businesstips",
+   "fb": "Thinking about an AI chatbot for your website? Ask these five questions first (swipe through):\n\n1. Where do its answers come from?\n2. What happens when it doesn't know?\n3. Where does our data go?\n4. How will we know it's working?\n5. Who keeps it up to date?\n\nIf you've already been quoted, send it to us and we'll tell you plainly whether it fits: xenovasolutions.com/contact",
+   "li": "AI chatbots are easy to demo and hard to get right.\n\nBefore signing, we'd ask any vendor five questions:\n\n1. Where do its answers come from? (Your documents, with the source shown.)\n2. What happens when it doesn't know? (It should hand over to a person, not guess.)\n3. Where does our data go? (Storage, access, model training. In writing.)\n4. How will we know it's working? (Agree the measure before launch.)\n5. Who keeps it up to date? (Content goes stale faster than people expect.)\n\nIf you've been quoted for one and want a second opinion, send it over: https://xenovasolutions.com/contact\n\n#AI #CustomerExperience #SMEs"}},
+
+ {"id": "x-1019-monday", "brand": "xenova", "date": "2026-10-19", "pillar": "monday-motivation",
+  "slides": [{"layout": "hook", "theme": "light", "kicker": "Monday, 9am", "title": "Write down one task you did *three times* last week.", "sub": "That isn't a chore list. It's your first automation brief.\n<b>Repetitive + rule-based + boring</b> is exactly what software is good at."}],
+  "captions": {
+   "ig": "A small Monday exercise.\n\nBefore the inbox takes over, write down one task you did three times last week. Copying an order into another system. Sending the same reminder. Building the same report.\n\nIf it's repetitive, rule-based and boring, it's a good candidate for automation. That one line is your first brief.\n\nWhat's on your list?\n\n#mondaymotivation #productivity #automation #smallbusiness #workflow",
+   "fb": "Monday exercise: write down one task you did three times last week.\n\nIf it's repetitive, rule-based and boring, it can probably be automated. That one line is your first brief.\n\nShare yours in the comments and we'll tell you how we'd approach it.",
+   "li": "A useful Monday exercise for any team lead:\n\nAsk everyone to write down one task they did three times last week.\n\nYou'll get a list of copy-pastes, reminders and reports that nobody enjoys and everyone assumes is \"just part of the job\".\n\nRepetitive + rule-based + low judgement = a strong automation candidate. That list is a better starting point than any AI strategy deck.\n\n#Leadership #Automation #Productivity"}},
+
+ {"id": "x-1020-ons-ai", "brand": "xenova", "date": "2026-10-20", "pillar": "trend",
+  "slides": [{"layout": "stat", "kicker": "UK, September 2026", "big": "30%", "title": "of UK businesses use at least one AI technology.",
+    "body": "For firms with 10+ staff it's 38%. Most of your competitors *haven't started* yet, so starting small still counts as early.",
+    "source": "Source: ONS Business Insights and Conditions Survey, wave 165 (21 Sep – 4 Oct 2026), published 8 Oct 2026"}],
+  "captions": {
+   "ig": "New ONS figures: 3 in 10 UK businesses now use at least one AI technology (38% of firms with 10+ staff).\n\nRead the other way round: most businesses haven't started. You don't need a big programme to be early. One well-chosen use (answering routine customer questions, drafting documents, cleaning up data) is a real start.\n\nSource: ONS Business Insights and Conditions Survey, wave 165, published 8 Oct 2026.\n\n#artificialintelligence #ukbusiness #smallbusiness #ai #businessnews #sme",
+   "fb": "New ONS figures out this month: 30% of UK businesses use at least one AI technology, and 38% of those with 10 or more staff.\n\nSo most businesses haven't started yet. One well-chosen use is enough to begin, and it's usually less work than people expect.\n\nSource: ONS Business Insights and Conditions Survey, wave 165 (published 8 October 2026).",
+   "li": "The ONS published its latest Business Insights figures on 8 October: 30% of UK businesses reported using at least one AI technology in September 2026. For businesses with 10 or more employees, it was 38%. For the largest firms, around half.\n\nTwo takeaways for SME leaders:\n→ Most of your competitors haven't started either. Being early is still possible.\n→ The gap with larger firms is real. They're building habits now.\n\nOur advice is the same as always: pick one narrow, measurable use (routine customer questions, document drafting, data clean-up) and get it working properly before doing anything bigger.\n\nSource: ONS, Business insights and impact on the UK economy, 8 October 2026.\n\n#AI #UKBusiness #SMEs"}},
+
+ {"id": "x-1021-bts-5mb", "brand": "xenova", "date": "2026-10-21", "pillar": "behind-the-scenes",
+  "slides": [
+   {"layout": "cover", "kicker": "Behind the build", "title": "Our automation hit a *5 MB wall.* Here's how we got past it for £0.", "sub": "A real fix from our own pipeline this week."},
+   {"layout": "step", "n": "01", "title": "The problem", "body": "Our no-code tool's free plan can't move files over *5 MB*. Our YouTube episodes are 80–90 MB. Uploads kept failing and ended up being done by hand."},
+   {"layout": "flow", "kicker": "The fix", "title": "Split the job in two.", "nodes": [
+     {"label": "Make opens the upload", "sub": "a YouTube resumable session, already authorised"},
+     {"label": "Only the session link moves", "sub": "sent to GitHub, no file passes through Make"},
+     {"label": "GitHub Actions streams the file", "sub": "any size, straight into the session"},
+     {"label": "YouTube publishes on schedule", "sub": "uploaded private, goes public at its slot"}]},
+   {"layout": "step", "n": "02", "title": "The lesson", "body": "Most tool limits are about *where* the work happens. Move the heavy step to something built for it, and keep each tool doing what it's good at."},
+   {"layout": "cta", "kicker": "Your turn", "title": "Stuck on a limit in your own automations?", "sub": "Tell us where it breaks. Often it's a routing problem, not a budget problem.", "cta": "xenovasolutions.com/contact"}],
+  "captions": {
+   "ig": "Behind the scenes: a fix from our own pipeline.\n\nOur automation tool's free plan caps files at 5 MB, and our YouTube episodes are 80–90 MB. Instead of upgrading, we split the job: the tool opens the upload session, and GitHub Actions streams the file straight to YouTube. Cost: £0. Manual uploads: gone.\n\nSwipe for how it works. Stuck on a limit of your own? Link in bio.\n\n#automation #nocode #youtube #github #behindthescenes #devops",
+   "fb": "Behind the scenes this week: our YouTube uploads kept failing because our automation tool's free plan can't handle files over 5 MB, and our episodes are 80–90 MB.\n\nThe fix cost nothing: the tool opens the upload, and GitHub Actions streams the file directly to YouTube. Swipe through to see how.\n\nGot an automation that keeps breaking? Tell us where: xenovasolutions.com/contact",
+   "li": "A small engineering story from our own pipeline this week.\n\nThe problem: our automation platform's free plan can't handle files over 5 MB. Our YouTube episodes are 80–90 MB, so scheduled uploads failed and were done by hand.\n\nThe fix: split the job in two.\n1. The automation platform opens a YouTube resumable upload session (it already holds the authorisation).\n2. It passes only the session URL to GitHub.\n3. A GitHub Actions job streams the file into that session. No size limit, no extra cost.\n4. Videos go up early as private and YouTube publishes them at their slot.\n\nThe general lesson: most \"tool limits\" are about where the work happens. Move the heavy step to something built for it.\n\nIf an automation of yours keeps hitting a wall, we're happy to take a look: https://xenovasolutions.com/contact\n\n#Automation #DevOps #NoCode"}},
+
+ {"id": "x-1022-rag-promo", "brand": "xenova", "date": "2026-10-22", "pillar": "promo",
+  "slides": [{"layout": "promo", "kicker": "What we build", "title": "An AI assistant that answers from *your* documents.", "benefits": [
+     {"h": "Answers with sources", "p": "Staff see which policy or document each answer came from."},
+     {"h": "Says \"I don't know\"", "p": "No guessing. Unclear questions go to a person."},
+     {"h": "Your data stays yours", "p": "Clear rules on storage, access and retention from day one."}],
+    "cta": "xenovasolutions.com/contact"}],
+  "captions": {
+   "ig": "How many times a week does someone on your team ask \"where's the policy on...?\"\n\nWe build AI assistants that answer from your own documents: handbooks, price lists, procedures. Every answer shows its source. If it isn't sure, it says so and passes the question to a person.\n\nWant one for your team? Link in bio.\n\n#ai #knowledgemanagement #smallbusiness #ukbusiness #rag #productivity",
+   "fb": "\"Where's the policy on...?\" If your team asks that every week, this is for you.\n\nWe build AI assistants that answer from your own documents and show the source for every answer. If it isn't sure, it hands the question to a person instead of guessing.\n\nTell us about your team: xenovasolutions.com/contact",
+   "li": "Most internal questions already have an answer. It's just buried in a handbook, a shared drive or someone's inbox.\n\nWe build AI assistants (often called RAG systems) that answer from your own documents:\n→ Every answer shows the document it came from\n→ If it isn't sure, it says so and routes the question to a person\n→ Clear rules on where data is stored and who can see it\n\nIf your team spends time hunting for answers, let's talk: https://xenovasolutions.com/contact\n\n#AI #KnowledgeManagement #SMEs"}},
+
+ {"id": "f-1016-weekend-inbox", "brand": "frontdesk", "date": "2026-10-16", "pillar": "humour",
+  "slides": [{"layout": "chat", "kicker": "Every clinic inbox", "chat": [
+     {"who": "them", "text": "Hi, do you do teeth whitening? How much is it?", "time": "Fri 11:48 pm"},
+     {"who": "sys", "text": "Seen · Mon 9:02 am"},
+     {"who": "us", "text": "Hi! Yes we do, prices start from...", "time": "Mon 9:04 am"},
+     {"who": "them", "text": "Thanks, already booked somewhere else", "time": "Mon 9:05 am"}],
+    "punch": "The enquiry didn't need a dentist.\nIt needed *a reply.*"}],
+  "captions": {
+   "ig": "Weekend enquiries are where clinics quietly lose bookings. Not because the answer is hard. Because nobody's at the desk.\n\nThe flow I build for this: n8n replies in seconds using only the clinic's own details (services, prices, hours, booking link), logs the lead in a sheet, and flags anything urgent to staff.\n\nWant the free version? DM me FLOW.\n\n#n8n #automation #clinicmarketing #dentalpractice #aiautomation #freelancer",
+   "fb": "Friday 11:48 pm: \"How much is teeth whitening?\"\nMonday 9:05 am: \"Thanks, already booked somewhere else.\"\n\nThat gap is what I automate for clinics with n8n: an instant reply from the clinic's own details, the lead logged, urgent messages flagged to staff.\n\nMessage me FLOW and I'll send you the free workflow."}},
+
+ {"id": "f-1017-node-by-node", "brand": "frontdesk", "date": "2026-10-17", "pillar": "tutorial-carousel",
+  "slides": [
+   {"layout": "cover", "kicker": "n8n tutorial", "title": "The clinic enquiry flow, *node by node.*", "sub": "12 nodes. What each one does, and why it's there."},
+   {"layout": "flow", "kicker": "Part 1", "title": "Catch and clean", "h2": 58, "nodes": [
+     {"icon": "WH", "label": "Website Form", "sub": "Webhook: the form posts here"},
+     {"icon": "SET", "label": "Settings", "sub": "hours, prices, staff email: the one node you edit"},
+     {"icon": "JS", "label": "Clean & Check", "sub": "trim fields, honeypot, link check"},
+     {"icon": "RES", "label": "Reply to Form", "sub": "patient sees \"received\" instantly"}]},
+   {"layout": "flow", "kicker": "Part 2", "title": "Triage with AI", "h2": 58, "nodes": [
+     {"icon": "IF", "label": "Is Valid?", "sub": "bots stop here, before any AI cost"},
+     {"icon": "AI", "label": "AI Triage & Draft", "sub": "classify + draft from Settings only"},
+     {"icon": "JS", "label": "Read AI Answer", "sub": "parse it; polite fallback if AI is down"},
+     {"icon": "IF", "label": "Not Spam?", "sub": "second filter on the AI's verdict"}]},
+   {"layout": "flow", "kicker": "Part 3", "title": "Reply, log, escalate", "h2": 58, "nodes": [
+     {"icon": "@", "label": "Email Reply to Lead", "sub": "from the clinic's own mailbox"},
+     {"icon": "GS", "label": "Log Lead to Sheet", "sub": "Google Sheets as a simple CRM"},
+     {"icon": "IF", "label": "Urgent?", "sub": "pain, swelling, bleeding..."},
+     {"icon": "!", "label": "Alert Staff Now", "sub": "a human calls back"}]},
+   {"layout": "cta", "kicker": "Free workflow", "title": "Want the JSON?", "sub": "Import it, edit the Settings node, connect your accounts, run a test.", "cta": "DM me FLOW"}],
+  "captions": {
+   "ig": "Saving this one? Here's the full clinic enquiry workflow, node by node.\n\nPart 1 catches and cleans the form (honeypot + link check, instant \"received\").\nPart 2 triages with AI, but only after bots are filtered out, so spam never costs you an AI call.\nPart 3 replies, logs the lead in Sheets and alerts staff when it's urgent.\n\nEverything clinic-specific lives in one Settings node, so the next clinic is: duplicate, edit, connect, test.\n\nWant the JSON? DM me FLOW.\n\n#n8n #n8ntutorial #automation #aiautomation #nocode #freelancer",
+   "fb": "A full n8n walkthrough for anyone building automations for clinics: the enquiry workflow, node by node (swipe through).\n\nThe design choice that matters most: bots are filtered before the AI step, so spam never costs you an API call.\n\nMessage me FLOW for the free workflow JSON."}},
+
+ {"id": "f-1018-poll-first", "brand": "frontdesk", "date": "2026-10-18", "pillar": "poll",
+  "slides": [{"layout": "poll", "theme": "light", "kicker": "Your pick", "question": "Which clinic task would you automate *first?*",
+    "options": ["After-hours enquiry replies", "Appointment reminders", "No-show follow-ups", "Review requests"],
+    "foot": "Comment a letter. I'll build a full walkthrough of the winner."}],
+  "captions": {
+   "ig": "Building for a clinic this month? Which would you ship first?\n\nA) After-hours enquiry replies\nB) Appointment reminders\nC) No-show follow-ups\nD) Review requests\n\nComment a letter. I'll do a full build walkthrough of the winner.\n\n#n8n #automation #freelancer #clinicmarketing #nocode",
+   "fb": "If you could automate one thing for a clinic first, which would it be?\n\nA) After-hours enquiry replies\nB) Appointment reminders\nC) No-show follow-ups\nD) Review requests\n\nComment a letter. I'll build a full walkthrough of the winner."}},
+
+ {"id": "f-1019-monday", "brand": "frontdesk", "date": "2026-10-19", "pillar": "monday-motivation",
+  "slides": [{"layout": "hook", "kicker": "Monday reminder", "title": "Clients don't renew for clever workflows.\nThey renew for *boring ones that never break.*", "h1": 84,
+    "sub": "A reminder that goes out at 6pm, every day, for a year. <b>That's the product.</b>"}],
+  "captions": {
+   "ig": "Monday reminder for anyone selling automations.\n\nThe AI demo gets you the meeting. The reminder that goes out at 6pm every day for a year gets you the renewal.\n\nThis week: pick one workflow you've shipped and add the boring bits. Error alerts. A retry. A \"reminder sent\" flag so nothing goes out twice.\n\n#n8n #automation #freelancer #mondaymotivation #nocode #agencylife",
+   "fb": "Monday reminder for automation freelancers: the AI demo gets you the meeting, but the reminder that goes out at 6pm every day for a year gets you the renewal.\n\nThis week, add the boring bits to one workflow you've shipped: error alerts, a retry, and a \"sent\" flag so nothing goes out twice."}},
+
+ {"id": "f-1020-ai-receptionist", "brand": "frontdesk", "date": "2026-10-20", "pillar": "trend-opinion",
+  "slides": [{"layout": "hook", "kicker": "Unpopular opinion", "title": "Stop selling clinics an *\"AI receptionist\".*", "h1": 96,
+    "sub": "Sell <b>a reply in seconds + a human callback for anything urgent.</b>\nClinics trust it. Patients prefer it. And it's what actually runs reliably."}],
+  "captions": {
+   "ig": "\"AI receptionist\" is everywhere right now. Here's why I don't sell it that way.\n\nClinic owners hear \"AI receptionist\" and picture a bot giving medical advice. That's a hard no, and fair enough.\n\nWhat they say yes to: every enquiry answered in seconds from the clinic's own details, and anything urgent escalated to a person straight away.\n\nSame tech. Different promise. Much easier sale.\n\nAgree or disagree?\n\n#n8n #aiautomation #freelancer #clinicmarketing #healthtech #sales",
+   "fb": "\"AI receptionist\" is the hot pitch right now, but clinic owners often hear \"a bot giving medical advice\".\n\nWhat they actually say yes to: every enquiry answered in seconds from the clinic's own details, and anything urgent passed to a human immediately. Same tech, different promise.\n\nAgree or disagree?"}},
+
+ {"id": "f-1021-whats-inside", "brand": "frontdesk", "date": "2026-10-21", "pillar": "behind-the-scenes",
+  "slides": [{"layout": "flow", "kicker": "Behind the scenes", "title": "What ships with *every* FrontDesk workflow", "h2": 64, "nodes": [
+     {"icon": "{ }", "label": "The workflow JSON", "sub": "import straight into n8n"},
+     {"icon": "SET", "label": "One Settings node", "sub": "all clinic details in one place"},
+     {"icon": "DOC", "label": "Setup guide", "sub": "accounts, credentials, go-live checks"},
+     {"icon": "TST", "label": "Test data", "sub": "real-looking runs before a patient sees it"},
+     {"icon": "VID", "label": "Video walkthrough", "sub": "so you can hand it over cleanly"}]}],
+  "captions": {
+   "ig": "Behind the scenes: what actually goes into each workflow before it ships.\n\nThe JSON is the easy part. The setup guide, the test data and the walkthrough video are what let you hand it to a client without a week of support messages.\n\nThis is how I'm packaging the clinic pack. DM me PACK for the early-bird price.\n\n#n8n #automation #freelancer #nocode #behindthescenes #aiautomation",
+   "fb": "What goes into each FrontDesk workflow before it ships: the n8n JSON, one Settings node for all the clinic details, a setup guide, test data and a video walkthrough.\n\nThe JSON is the easy part. The rest is what lets you hand it over without a week of support messages.\n\nMessage me PACK for the early-bird price on the clinic pack."}},
+
+ {"id": "f-1022-pack-promo", "brand": "frontdesk", "date": "2026-10-22", "pillar": "promo",
+  "slides": [{"layout": "promo", "kicker": "Early-bird list open", "title": "Six clinic workflows. *One pack.*", "h2": 76, "benefits": [
+     {"h": "Covers the front desk", "p": "Enquiries, reminders, no-shows, reviews, a document assistant, a weekly owner summary."},
+     {"h": "One node per clinic", "p": "Duplicate, edit Settings, connect accounts, test."},
+     {"h": "Ready to hand over", "p": "Setup guide, test data and a video for every workflow."}],
+    "cta": "DM me PACK"}],
+  "captions": {
+   "ig": "The clinic pack, in one picture.\n\nSix n8n workflows that cover the front desk: enquiry triage, reminders, no-show follow-up, review requests, a document assistant and a weekly owner summary. Each with a setup guide, test data and a video walkthrough.\n\nBuilt for freelancers and agencies who want to sell to clinics without starting from scratch.\n\nDM me PACK for the early-bird price.\n\n#n8n #automation #freelancer #agency #clinicmarketing #nocode",
+   "fb": "For freelancers and agencies selling automation to clinics: six n8n workflows that cover the front desk (enquiries, reminders, no-shows, reviews, a document assistant and a weekly owner summary), each with a setup guide, test data and a video walkthrough.\n\nMessage me PACK for the early-bird price."}}
+]

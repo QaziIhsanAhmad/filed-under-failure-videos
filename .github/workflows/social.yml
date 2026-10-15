@@ -1,0 +1,32 @@
+name: Social lane (Xenova + FrontDesk)
+on:
+  schedule:
+    - cron: "15 * * * *"   # hourly: rebuild social/due.json + queue.json
+  workflow_dispatch:
+  push:
+    paths: ["social/posts/**", "social/img/**", "social/build.py", ".github/workflows/social.yml"]
+  repository_dispatch:
+    types: [social-posted]   # Make reports each platform result here
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: social
+      - run: |
+          git config user.name "social-bot"; git config user.email "actions@users.noreply.github.com"
+          if [ "${{ github.event_name }}" = "repository_dispatch" ]; then python3 social/record.py; mkdir -p /tmp/res; cp social/results/*.json /tmp/res/ 2>/dev/null || true; fi
+          for n in $(seq 1 20); do
+            git fetch -q origin main && git reset -q --hard origin/main
+            mkdir -p social/results && cp -n /tmp/res/*.json social/results/ 2>/dev/null || true
+            python3 social/build.py
+            git add social/results social/queue.json social/due.json
+            git diff --cached --quiet && exit 0
+            git commit -qm "Social lane: queue update"
+            git push -q origin HEAD:main && exit 0
+            sleep $((3 + RANDOM % 15))
+          done
+          exit 1

@@ -1,0 +1,146 @@
+{
+ "generated": "2026-10-15T12:22:22.087089+05:00",
+ "problems": [],
+ "items": [
+  {
+   "id": "f-1016-weekend-inbox",
+   "brand": "frontdesk",
+   "date": "2026-10-16",
+   "pillar": "humour",
+   "slides": 1,
+   "status": "planned",
+   "platforms": {},
+   "src": "social/posts/2026-10-16.json"
+  },
+  {
+   "id": "x-1016-spreadsheet",
+   "brand": "xenova",
+   "date": "2026-10-16",
+   "pillar": "humour",
+   "slides": 1,
+   "status": "planned",
+   "platforms": {},
+   "src": "social/posts/2026-10-16.json"
+  },
+  {
+   "id": "f-1017-node-by-node",
+   "brand": "frontdesk",
+   "date": "2026-10-17",
+   "pillar": "tutorial-carousel",
+   "slides": 5,
+   "status": "planned",
+   "platforms": {},
+   "src": "social/posts/2026-10-16.json"
+  },
+  {
+   "id": "x-1017-poll-hours",
+   "brand": "xenova",
+   "date": "2026-10-17",
+   "pillar": "poll",
+   "slides": 1,
+   "status": "planned",
+   "platforms": {},
+   "src": "social/posts/2026-10-16.json"
+  },
+  {
+   "id": "f-1018-poll-first",
+   "brand": "frontdesk",
+   "date": "2026-10-18",
+   "pillar": "poll",
+   "slides": 1,
+   "status": "planned",
+   "platforms": {},
+   "src": "social/posts/2026-10-16.json"
+  },
+  {
+   "id": "x-1018-chatbot-checklist",
+   "brand": "xenova",
+   "date": "2026-10-18",
+   "pillar": "educational-carousel",
+   "slides": 7,
+   "status": "planned",
+   "platforms": {},
+   "src": "social/posts/2026-10-16.json"
+  },
+  {
+   "id": "f-1019-monday",
+   "brand": "frontdesk",
+   "date": "2026-10-19",
+   "pillar": "monday-motivation",
+   "slides": 1,
+   "status": "planned",
+   "platforms": {},
+   "src": "social/posts/2026-10-16.json"
+  },
+  {
+   "id": "x-1019-monday",
+   "brand": "xenova",
+   "date": "2026-10-19",
+   "pillar": "monday-motivation",
+   "slides": 1,
+   "status": "planned",
+   "platforms": {},
+   "src": "social/posts/2026-10-16.json"
+  },
+  {
+   "id": "f-1020-ai-receptionist",
+   "brand": "frontdesk",
+   "date": "2026-10-20",
+   "pillar": "trend-opinion",
+   "slides": 1,
+   "status": "planned",
+   "platforms": {},
+   "src": "social/posts/2026-10-16.json"
+  },
+  {
+   "id": "x-1020-ons-ai",
+   "brand": "xenova",
+   "date": "2026-10-20",
+   "pillar": "trend",
+   "slides": 1,
+   "status": "planned",
+   "platforms": {},
+   "src": "social/posts/2026-10-16.json"
+  },
+  {
+   "id": "f-1021-whats-inside",
+   "brand": "frontdesk",
+   "date": "2026-10-21",
+   "pillar": "behind-the-scenes",
+   "slides": 1,
+   "status": "planned",
+   "platforms": {},
+   "src": "social/posts/2026-10-16.json"
+  },
+  {
+   "id": "x-1021-bts-5mb",
+   "brand": "xenova",
+   "date": "2026-10-21",
+   "pillar": "behind-the-scenes",
+   "slides": 5,
+   "status": "planned",
+   "platforms": {},
+   "src": "social/posts/2026-10-16.json"
+  },
+  {
+   "id": "f-1022-pack-promo",
+   "brand": "frontdesk",
+   "date": "2026-10-22",
+   "pillar": "promo",
+   "slides": 1,
+   "status": "planned",
+   "platforms": {},
+   "src": "social/posts/2026-10-16.json"
+  },
+  {
+   "id": "x-1022-rag-promo",
+   "brand": "xenova",
+   "date": "2026-10-22",
+   "pillar": "promo",
+   "slides": 1,
+   "status": "planned",
+   "platforms": {},
+   "src": "social/posts/2026-10-16.json"
+  }
+ ]
+}
