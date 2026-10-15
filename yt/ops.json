@@ -1,5 +1,117 @@
 [
  {
+  "id": "hide-PLMQvLXpWXhzI",
+  "method": "PUT",
+  "path": "/v3/playlists?part=snippet,status",
+  "body": {
+   "id": "PLMQvLXpWXhzI",
+   "snippet": {
+    "title": "(unused duplicate)",
+    "description": ""
+   },
+   "status": {
+    "privacyStatus": "private"
+   }
+  },
+  "note": "API DELETE through Make failed; hide the empty duplicate instead"
+ },
+ {
+  "id": "hide-PLBT8K08GTT9E",
+  "method": "PUT",
+  "path": "/v3/playlists?part=snippet,status",
+  "body": {
+   "id": "PLBT8K08GTT9E",
+   "snippet": {
+    "title": "(unused duplicate)",
+    "description": ""
+   },
+   "status": {
+    "privacyStatus": "private"
+   }
+  },
+  "note": "API DELETE through Make failed; hide the empty duplicate instead"
+ },
+ {
+  "id": "hide-PLD31qM5nTM5w",
+  "method": "PUT",
+  "path": "/v3/playlists?part=snippet,status",
+  "body": {
+   "id": "PLD31qM5nTM5w",
+   "snippet": {
+    "title": "(unused duplicate)",
+    "description": ""
+   },
+   "status": {
+    "privacyStatus": "private"
+   }
+  },
+  "note": "API DELETE through Make failed; hide the empty duplicate instead"
+ },
+ {
+  "id": "hide-PLeG-fjD34jcg",
+  "method": "PUT",
+  "path": "/v3/playlists?part=snippet,status",
+  "body": {
+   "id": "PLeG-fjD34jcg",
+   "snippet": {
+    "title": "(unused duplicate)",
+    "description": ""
+   },
+   "status": {
+    "privacyStatus": "private"
+   }
+  },
+  "note": "API DELETE through Make failed; hide the empty duplicate instead"
+ },
+ {
+  "id": "hide-PLV0-pYYsmr2Y",
+  "method": "PUT",
+  "path": "/v3/playlists?part=snippet,status",
+  "body": {
+   "id": "PLV0-pYYsmr2Y",
+   "snippet": {
+    "title": "(unused duplicate)",
+    "description": ""
+   },
+   "status": {
+    "privacyStatus": "private"
+   }
+  },
+  "note": "API DELETE through Make failed; hide the empty duplicate instead"
+ },
+ {
+  "id": "hide-PLTA4gygMr53o",
+  "method": "PUT",
+  "path": "/v3/playlists?part=snippet,status",
+  "body": {
+   "id": "PLTA4gygMr53o",
+   "snippet": {
+    "title": "(unused duplicate)",
+    "description": ""
+   },
+   "status": {
+    "privacyStatus": "private"
+   }
+  },
+  "note": "API DELETE through Make failed; hide the empty duplicate instead"
+ },
+ {
+  "id": "hide-PLdRSQJWxvElM",
+  "method": "PUT",
+  "path": "/v3/playlists?part=snippet,status",
+  "body": {
+   "id": "PLdRSQJWxvElM",
+   "snippet": {
+    "title": "(unused duplicate)",
+    "description": ""
+   },
+   "status": {
+    "privacyStatus": "private"
+   }
+  },
+  "note": "API DELETE through Make failed; hide the empty duplicate instead"
+ },
+ {
   "id": "chk-PLAY8kmI7UCNk",
   "method": "GET",
   "path": "/v3/playlists?part=snippet&id=PLAY8kmI7UCNk",

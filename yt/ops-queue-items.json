@@ -1,5 +1,47 @@
 [
  {
+  "id": "hide-PLMQvLXpWXhzI",
+  "method": "PUT",
+  "path": "/v3/playlists?part=snippet,status",
+  "body": "{\"id\": \"PLMQvLXpWXhzI\", \"snippet\": {\"title\": \"(unused duplicate)\", \"description\": \"\"}, \"status\": {\"privacyStatus\": \"private\"}}"
+ },
+ {
+  "id": "hide-PLBT8K08GTT9E",
+  "method": "PUT",
+  "path": "/v3/playlists?part=snippet,status",
+  "body": "{\"id\": \"PLBT8K08GTT9E\", \"snippet\": {\"title\": \"(unused duplicate)\", \"description\": \"\"}, \"status\": {\"privacyStatus\": \"private\"}}"
+ },
+ {
+  "id": "hide-PLD31qM5nTM5w",
+  "method": "PUT",
+  "path": "/v3/playlists?part=snippet,status",
+  "body": "{\"id\": \"PLD31qM5nTM5w\", \"snippet\": {\"title\": \"(unused duplicate)\", \"description\": \"\"}, \"status\": {\"privacyStatus\": \"private\"}}"
+ },
+ {
+  "id": "hide-PLeG-fjD34jcg",
+  "method": "PUT",
+  "path": "/v3/playlists?part=snippet,status",
+  "body": "{\"id\": \"PLeG-fjD34jcg\", \"snippet\": {\"title\": \"(unused duplicate)\", \"description\": \"\"}, \"status\": {\"privacyStatus\": \"private\"}}"
+ },
+ {
+  "id": "hide-PLV0-pYYsmr2Y",
+  "method": "PUT",
+  "path": "/v3/playlists?part=snippet,status",
+  "body": "{\"id\": \"PLV0-pYYsmr2Y\", \"snippet\": {\"title\": \"(unused duplicate)\", \"description\": \"\"}, \"status\": {\"privacyStatus\": \"private\"}}"
+ },
+ {
+  "id": "hide-PLTA4gygMr53o",
+  "method": "PUT",
+  "path": "/v3/playlists?part=snippet,status",
+  "body": "{\"id\": \"PLTA4gygMr53o\", \"snippet\": {\"title\": \"(unused duplicate)\", \"description\": \"\"}, \"status\": {\"privacyStatus\": \"private\"}}"
+ },
+ {
+  "id": "hide-PLdRSQJWxvElM",
+  "method": "PUT",
+  "path": "/v3/playlists?part=snippet,status",
+  "body": "{\"id\": \"PLdRSQJWxvElM\", \"snippet\": {\"title\": \"(unused duplicate)\", \"description\": \"\"}, \"status\": {\"privacyStatus\": \"private\"}}"
+ },
+ {
   "id": "upd-GgKOpONeN_o",
   "method": "PUT",
   "path": "/v3/videos?part=snippet",
@@ -46,47 +88,5 @@
   "method": "POST",
   "path": "/v3/playlistItems?part=snippet",
   "body": "{\"snippet\": {\"playlistId\": \"PLJdqGuyUjEAs\", \"position\": 5, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"Qzu2G7C3TC8\"}}}"
- },
- {
-  "id": "pi-002-9Ua3QYxB1E4",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "body": "{\"snippet\": {\"playlistId\": \"PLJdqGuyUjEAs\", \"position\": 6, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"9Ua3QYxB1E4\"}}}"
- },
- {
-  "id": "pi-002-DtDUPPB90xg",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "body": "{\"snippet\": {\"playlistId\": \"PLJdqGuyUjEAs\", \"position\": 7, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"DtDUPPB90xg\"}}}"
- },
- {
-  "id": "get-5fPvAEfxo6w",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=5fPvAEfxo6w",
-  "body": ""
- },
- {
-  "id": "get-5pxZ6aDQGxw",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=5pxZ6aDQGxw",
-  "body": ""
- },
- {
-  "id": "get-PgoTuPDONh4",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=PgoTuPDONh4",
-  "body": ""
- },
- {
-  "id": "get-94egvFj1fbY",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=94egvFj1fbY",
-  "body": ""
- },
- {
-  "id": "get-jtFeifCjRHc",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=jtFeifCjRHc",
-  "body": ""
  }
 ]
