@@ -1,10 +1,1 @@
-[
- {
-  "id": "003-g-a0",
-  "path": "/../upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
-  "ctype": "video/mp4",
-  "size": 2630636,
-  "meta": "{\"snippet\": {\"title\": \"Theranos voided every patient result from its own blood-testing machine #Shorts\", \"description\": \"Why Theranos's decision to void its Edison results mattered in court.\\n\\nFull episode: \\\"Theranos: What the Jury Actually Decided\\\" on Filed Under Failure.\\nSources: US Court of Appeals for the Ninth Circuit, United States v. Holmes & Balwani, Nos. 22-10312, 22-10338, opinion filed 24 Feb 2025; SEC press release 2018-41, 'Theranos, CEO Holmes, and Former President Balwani Charged With Massive Fraud' (14 Mar 2018); ABA Journal, 'Jury finds blood-testing company Theranos CEO Holmes guilty of fraud' (Jan 2022) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #Theranos #ElizabethHolmes #Theranosverdict\", \"tags\": [\"Theranos\", \"Elizabeth Holmes\", \"Theranos verdict\", \"Sunny Balwani\", \"business documentary\", \"fraud trial\", \"Silicon Valley\", \"what went wrong\"], \"categoryId\": \"27\", \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}, \"status\": {\"selfDeclaredMadeForKids\": false, \"containsSyntheticMedia\": false, \"privacyStatus\": \"private\", \"publishAt\": \"2026-10-23T16:00:00Z\"}}",
-  "file": "003/003-theranos-short-g.mp4"
- }
-]
+[]
