@@ -268,7 +268,7 @@
    "title": "Did social media cause the Silicon Valley Bank run? Two reviews disagree #Shorts",
    "file": "002/002-svb-short-f-make.mp4",
    "lane": "api",
-   "status": "scheduled",
+   "status": "published",
    "description": "Did social media cause the Silicon Valley Bank run? Two reviews disagree #Shorts\n\nThe Fed's 2023 review and the preliminary findings of a 2026 independent review disagree on social media's role.\n\nFull episode: \"Silicon Valley Bank: $40 Billion Gone in One Day\" on Filed Under Failure: https://youtu.be/5fPvAEfxo6w\nSources: Federal Reserve Board, Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank (28 Apr 2023); Federal Reserve Board, Executive Summary of the review (28 Apr 2023); Federal Reserve Board press release on the review's results (28 Apr 2023) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #SiliconValleyBank #SVBcollapse #bankrun",
    "metricoolUuid": "-8498617703484276679",
    "altered": {
@@ -283,7 +283,9 @@
    "videoId": "DtDUPPB90xg",
    "url": "https://www.youtube.com/shorts/DtDUPPB90xg",
    "uploadedAt": "2026-10-15T11:28:27.481126+05:00",
-   "publishAt": "2026-10-16T16:00:00Z"
+   "publishAt": "2026-10-16T16:00:00Z",
+   "verifiedAt": "2026-10-16T21:56:21.528624+05:00",
+   "verification": "channel page"
   },
   {
    "id": "003-z",
@@ -293,7 +295,7 @@
    "title": "An appeals court called the Theranos claims 'half-truths and outright lies' #Shorts",
    "file": "003/003-theranos-short-z.mp4",
    "lane": "api",
-   "status": "scheduled",
+   "status": "published",
    "description": "What the court record says about Theranos, ahead of our full episode on Saturday.\n\nFull episode: \"Theranos: What the Jury Actually Decided\" on Filed Under Failure.\nSources: US Court of Appeals for the Ninth Circuit, United States v. Holmes & Balwani, Nos. 22-10312, 22-10338, opinion filed 24 Feb 2025; SEC press release 2018-41, 'Theranos, CEO Holmes, and Former President Balwani Charged With Massive Fraud' (14 Mar 2018); ABA Journal, 'Jury finds blood-testing company Theranos CEO Holmes guilty of fraud' (Jan 2022) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #Theranos #ElizabethHolmes #Theranosverdict",
    "altered": {
     "disclose": false,
@@ -307,7 +309,9 @@
    "videoId": "CxmwCDb7zIE",
    "url": "https://www.youtube.com/shorts/CxmwCDb7zIE",
    "uploadedAt": "2026-10-15T11:28:30+05:00",
-   "publishAt": "2026-10-16T16:00:00Z"
+   "publishAt": "2026-10-16T16:00:00Z",
+   "verifiedAt": "2026-10-16T21:56:21.528624+05:00",
+   "verification": "channel page"
   },
   {
    "id": "003-a",
