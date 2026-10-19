@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T18:05:31.818481+05:00",
+ "generated": "2026-10-19T18:05:42.347623+05:00",
  "problems": [],
  "items": [
   {
@@ -164,7 +164,7 @@
    "date": "2026-10-19",
    "pillar": "monday-motivation",
    "slides": 1,
-   "status": "unverified",
+   "status": "posted",
    "platforms": {
     "fb": {
      "state": "posted",
@@ -173,10 +173,10 @@
      "at": "2026-10-19T13:05:31.371130+00:00"
     },
     "ig": {
-     "state": "pending",
-     "id": "",
-     "tries": 0,
-     "at": ""
+     "state": "posted",
+     "id": "18125951272873047",
+     "tries": 1,
+     "at": "2026-10-19T13:05:42.093458+00:00"
     }
    },
    "src": "social/posts/2026-10-16.json"
