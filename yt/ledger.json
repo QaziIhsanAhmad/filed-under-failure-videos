@@ -371,7 +371,7 @@
    "title": "Theranos showed VIP investors a machine running a 'null protocol' #Shorts",
    "file": "003/003-theranos-short-c.mp4",
    "lane": "api",
-   "status": "scheduled",
+   "status": "published",
    "description": "How Theranos demonstrations worked, according to trial testimony summarised by the appeals court.\n\nFull episode: \"Theranos: What the Jury Actually Decided\" on Filed Under Failure.\nSources: US Court of Appeals for the Ninth Circuit, United States v. Holmes & Balwani, Nos. 22-10312, 22-10338, opinion filed 24 Feb 2025; SEC press release 2018-41, 'Theranos, CEO Holmes, and Former President Balwani Charged With Massive Fraud' (14 Mar 2018); ABA Journal, 'Jury finds blood-testing company Theranos CEO Holmes guilty of fraud' (Jan 2022) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #Theranos #ElizabethHolmes #Theranosverdict",
    "altered": {
     "disclose": false,
@@ -384,7 +384,9 @@
    "videoId": "P8Xj13VCpZw",
    "url": "https://www.youtube.com/shorts/P8Xj13VCpZw",
    "uploadedAt": "2026-10-15T11:28:30+05:00",
-   "publishAt": "2026-10-19T16:00:00Z"
+   "publishAt": "2026-10-19T16:00:00Z",
+   "verifiedAt": "2026-10-19T22:45:59.350123+05:00",
+   "verification": "channel page"
   },
   {
    "id": "003-d",
