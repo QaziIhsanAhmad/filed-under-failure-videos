@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T18:01:56.604465+05:00",
+ "generated": "2026-10-19T18:05:19.140611+05:00",
  "problems": [],
  "items": [
   {
@@ -187,13 +187,13 @@
    "date": "2026-10-19",
    "pillar": "monday-motivation",
    "slides": 1,
-   "status": "planned",
+   "status": "unverified",
    "platforms": {
     "fb": {
-     "state": "pending",
-     "id": "",
-     "tries": 0,
-     "at": ""
+     "state": "posted",
+     "id": "1267773913096573_122124993369458519",
+     "tries": 1,
+     "at": "2026-10-19T13:05:18.804069+00:00"
     },
     "ig": {
      "state": "pending",
