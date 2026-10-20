@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T18:05:52.888000+05:00",
+ "generated": "2026-10-20T18:06:08.400248+05:00",
  "problems": [],
  "items": [
   {
@@ -216,7 +216,7 @@
    "date": "2026-10-20",
    "pillar": "trend-opinion",
    "slides": 1,
-   "status": "unverified",
+   "status": "posted",
    "platforms": {
     "fb": {
      "state": "posted",
@@ -225,10 +225,10 @@
      "at": "2026-10-20T13:05:47.286244+00:00"
     },
     "ig": {
-     "state": "pending",
-     "id": "",
-     "tries": 0,
-     "at": ""
+     "state": "posted",
+     "id": "18124969519926229",
+     "tries": 1,
+     "at": "2026-10-20T13:06:08.184202+00:00"
     }
    },
    "src": "social/posts/2026-10-16.json"
