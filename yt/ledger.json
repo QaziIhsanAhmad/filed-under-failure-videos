@@ -396,7 +396,7 @@
    "title": "Holmes admitted she put Pfizer's logo on reports praising Theranos #Shorts",
    "file": "003/003-theranos-short-d.mp4",
    "lane": "api",
-   "status": "scheduled",
+   "status": "published",
    "description": "The pharma 'validation' reports in the Theranos case, from the appeals court's account of the evidence.\n\nFull episode: \"Theranos: What the Jury Actually Decided\" on Filed Under Failure.\nSources: US Court of Appeals for the Ninth Circuit, United States v. Holmes & Balwani, Nos. 22-10312, 22-10338, opinion filed 24 Feb 2025; SEC press release 2018-41, 'Theranos, CEO Holmes, and Former President Balwani Charged With Massive Fraud' (14 Mar 2018); ABA Journal, 'Jury finds blood-testing company Theranos CEO Holmes guilty of fraud' (Jan 2022) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #Theranos #ElizabethHolmes #Theranosverdict",
    "altered": {
     "disclose": false,
@@ -409,7 +409,9 @@
    "videoId": "9dcti-HWqVc",
    "url": "https://www.youtube.com/shorts/9dcti-HWqVc",
    "uploadedAt": "2026-10-15T11:28:36.386229+05:00",
-   "publishAt": "2026-10-20T16:00:00Z"
+   "publishAt": "2026-10-20T16:00:00Z",
+   "verifiedAt": "2026-10-20T22:31:10.380190+05:00",
+   "verification": "channel page"
   },
   {
    "id": "003-e",
