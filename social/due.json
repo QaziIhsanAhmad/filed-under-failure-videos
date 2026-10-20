@@ -1,1 +1,86 @@
-[]
+[
+ {
+  "id": "x-1021-bts-5mb",
+  "brand": "xenova",
+  "kind": "carousel",
+  "fb_on": "1",
+  "ig_on": "1",
+  "li_on": "1",
+  "fb_page": "1267773913096573",
+  "ig_account": "17841428615145019",
+  "fb": "Behind the scenes this week: our YouTube uploads kept failing because our automation tool's free plan can't handle files over 5 MB, and our episodes are 80–90 MB.\n\nThe fix cost nothing: the tool opens the upload, and GitHub Actions streams the file directly to YouTube. Swipe through to see how.\n\nGot an automation that keeps breaking? Tell us where: xenovasolutions.com/contact",
+  "ig": "Behind the scenes: a fix from our own pipeline.\n\nOur automation tool's free plan caps files at 5 MB, and our YouTube episodes are 80–90 MB. Instead of upgrading, we split the job: the tool opens the upload session, and GitHub Actions streams the file straight to YouTube. Cost: £0. Manual uploads: gone.\n\nSwipe for how it works. Stuck on a limit of your own? Link in bio.\n\n#automation #nocode #youtube #github #behindthescenes #devops",
+  "li": "A small engineering story from our own pipeline this week.\n\nThe problem: our automation platform's free plan can't handle files over 5 MB. Our YouTube episodes are 80–90 MB, so scheduled uploads failed and were done by hand.\n\nThe fix: split the job in two.\n1. The automation platform opens a YouTube resumable upload session \\(it already holds the authorisation\\).\n2. It passes only the session URL to GitHub.\n3. A GitHub Actions job streams the file into that session. No size limit, no extra cost.\n4. Videos go up early as private and YouTube publishes them at their slot.\n\nThe general lesson: most \"tool limits\" are about where the work happens. Move the heavy step to something built for it.\n\nIf an automation of yours keeps hitting a wall, we're happy to take a look: https://xenovasolutions.com/contact\n\n{hashtag|\\#|Automation} {hashtag|\\#|DevOps} {hashtag|\\#|NoCode}",
+  "image": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1021-bts-5mb-1.jpg",
+  "fb_photos": [
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1021-bts-5mb-1.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1021-bts-5mb-2.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1021-bts-5mb-3.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1021-bts-5mb-4.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1021-bts-5mb-5.jpg"
+   }
+  ],
+  "ig_files": [
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1021-bts-5mb-1.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1021-bts-5mb-2.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1021-bts-5mb-3.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1021-bts-5mb-4.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1021-bts-5mb-5.jpg"
+   }
+  ]
+ },
+ {
+  "id": "f-1021-whats-inside",
+  "brand": "frontdesk",
+  "kind": "single",
+  "fb_on": "1",
+  "ig_on": "1",
+  "li_on": "0",
+  "fb_page": "1354185007779555",
+  "ig_account": "17841416945478586",
+  "fb": "What goes into each FrontDesk workflow before it ships: the n8n JSON, one Settings node for all the clinic details, a setup guide, test data and a video walkthrough.\n\nThe JSON is the easy part. The rest is what lets you hand it over without a week of support messages.\n\nMessage me PACK for the early-bird price on the clinic pack.",
+  "ig": "Behind the scenes: what actually goes into each workflow before it ships.\n\nThe JSON is the easy part. The setup guide, the test data and the walkthrough video are what let you hand it to a client without a week of support messages.\n\nThis is how I'm packaging the clinic pack. DM me PACK for the early-bird price.\n\n#n8n #automation #freelancer #nocode #behindthescenes #aiautomation",
+  "li": "",
+  "image": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1021-whats-inside-1.jpg",
+  "fb_photos": [
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1021-whats-inside-1.jpg"
+   }
+  ],
+  "ig_files": [
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1021-whats-inside-1.jpg"
+   }
+  ]
+ }
+]
