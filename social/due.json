@@ -1,1 +1,54 @@
-[]
+[
+ {
+  "id": "x-1022-rag-promo",
+  "brand": "xenova",
+  "kind": "single",
+  "fb_on": "1",
+  "ig_on": "1",
+  "li_on": "1",
+  "fb_page": "1267773913096573",
+  "ig_account": "17841428615145019",
+  "fb": "\"Where's the policy on...?\" If your team asks that every week, this is for you.\n\nWe build AI assistants that answer from your own documents and show the source for every answer. If it isn't sure, it hands the question to a person instead of guessing.\n\nTell us about your team: xenovasolutions.com/contact",
+  "ig": "How many times a week does someone on your team ask \"where's the policy on...?\"\n\nWe build AI assistants that answer from your own documents: handbooks, price lists, procedures. Every answer shows its source. If it isn't sure, it says so and passes the question to a person.\n\nWant one for your team? Link in bio.\n\n#ai #knowledgemanagement #smallbusiness #ukbusiness #rag #productivity",
+  "li": "Most internal questions already have an answer. It's just buried in a handbook, a shared drive or someone's inbox.\n\nWe build AI assistants \\(often called RAG systems\\) that answer from your own documents:\n→ Every answer shows the document it came from\n→ If it isn't sure, it says so and routes the question to a person\n→ Clear rules on where data is stored and who can see it\n\nIf your team spends time hunting for answers, let's talk: https://xenovasolutions.com/contact\n\n{hashtag|\\#|AI} {hashtag|\\#|KnowledgeManagement} {hashtag|\\#|SMEs}",
+  "image": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1022-rag-promo-1.jpg",
+  "fb_photos": [
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1022-rag-promo-1.jpg"
+   }
+  ],
+  "ig_files": [
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1022-rag-promo-1.jpg"
+   }
+  ]
+ },
+ {
+  "id": "f-1022-pack-promo",
+  "brand": "frontdesk",
+  "kind": "single",
+  "fb_on": "1",
+  "ig_on": "1",
+  "li_on": "0",
+  "fb_page": "1354185007779555",
+  "ig_account": "17841416945478586",
+  "fb": "For freelancers and agencies selling automation to clinics: six n8n workflows that cover the front desk (enquiries, reminders, no-shows, reviews, a document assistant and a weekly owner summary), each with a setup guide, test data and a video walkthrough.\n\nMessage me PACK for the early-bird price.",
+  "ig": "The clinic pack, in one picture.\n\nSix n8n workflows that cover the front desk: enquiry triage, reminders, no-show follow-up, review requests, a document assistant and a weekly owner summary. Each with a setup guide, test data and a video walkthrough.\n\nBuilt for freelancers and agencies who want to sell to clinics without starting from scratch.\n\nDM me PACK for the early-bird price.\n\n#n8n #automation #freelancer #agency #clinicmarketing #nocode",
+  "li": "",
+  "image": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1022-pack-promo-1.jpg",
+  "fb_photos": [
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1022-pack-promo-1.jpg"
+   }
+  ],
+  "ig_files": [
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1022-pack-promo-1.jpg"
+   }
+  ]
+ }
+]
