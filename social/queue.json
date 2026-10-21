@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T18:06:13.559403+05:00",
+ "generated": "2026-10-21T18:06:24.444672+05:00",
  "problems": [],
  "items": [
   {
@@ -268,7 +268,7 @@
    "date": "2026-10-21",
    "pillar": "behind-the-scenes",
    "slides": 1,
-   "status": "unverified",
+   "status": "posted",
    "platforms": {
     "fb": {
      "state": "posted",
@@ -277,10 +277,10 @@
      "at": "2026-10-21T13:06:12.825752+00:00"
     },
     "ig": {
-     "state": "pending",
-     "id": "",
-     "tries": 0,
-     "at": ""
+     "state": "posted",
+     "id": "17943317418364716",
+     "tries": 1,
+     "at": "2026-10-21T13:06:24.132656+00:00"
     }
    },
    "src": "social/posts/2026-10-16.json"
