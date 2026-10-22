@@ -1,1 +1,68 @@
-[]
+[
+ {
+  "id": "pi-003-AOAkm12RI7I",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "body": "{\"snippet\": {\"playlistId\": \"PLVa3CP7FOxso\", \"position\": 8, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"AOAkm12RI7I\"}}}"
+ },
+ {
+  "id": "get-AOAkm12RI7I",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=AOAkm12RI7I",
+  "body": ""
+ },
+ {
+  "id": "pl-004",
+  "method": "POST",
+  "path": "/v3/playlists?part=snippet,status",
+  "body": "{\"snippet\": {\"title\": \"Northern Rock Collapse Explained\", \"description\": \"What the record shows about the 2007 run on Northern Rock: the full episode first, then the short case notes. From the Treasury Committee report, Bank of England statements and the FSA's own internal audit.\", \"defaultLanguage\": \"en\"}, \"status\": {\"privacyStatus\": \"public\"}}"
+ },
+ {
+  "id": "pi-all-sKaLC6A0Igw",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "body": "{\"snippet\": {\"playlistId\": \"PLcJ0qXrqBDRU\", \"position\": 0, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"sKaLC6A0Igw\"}}}"
+ },
+ {
+  "id": "get-sKaLC6A0Igw",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=sKaLC6A0Igw",
+  "body": ""
+ },
+ {
+  "id": "get-9kHvzWHymns",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=9kHvzWHymns",
+  "body": ""
+ },
+ {
+  "id": "get-ZHXvZTY_pYc",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=ZHXvZTY_pYc",
+  "body": ""
+ },
+ {
+  "id": "get-GpTMCeqeRAo",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=GpTMCeqeRAo",
+  "body": ""
+ },
+ {
+  "id": "get-uG7AAPsinFA",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=uG7AAPsinFA",
+  "body": ""
+ },
+ {
+  "id": "get-CK68ozwGawQ",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=CK68ozwGawQ",
+  "body": ""
+ },
+ {
+  "id": "get-iACz_Qwu6Kw",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=iACz_Qwu6Kw",
+  "body": ""
+ }
+]
