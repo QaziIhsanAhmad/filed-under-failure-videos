@@ -1,12 +1,12 @@
 {
  "slug": "004-northern-rock",
- "title": "Why Did Northern Rock Collapse? £4.45bn Gone in Three Days",
+ "title": "Why Did Northern Rock Collapse? £4.45bn Withdrawn in 3 Days",
  "voice": "bm_george",
  "speed": 0.95,
- "summary": "Northern Rock collapse explained from court and regulator records: the 2007 bank run that opened Britain's 2008 financial crisis.\nSavers withdrew £4.45bn in three days. Using the Treasury Committee's 'The run on the Rock', the Bank of England's statements, the FSA's own internal audit and enforcement notices, the National Audit Office's reports and the shareholder rulings up to Strasbourg, we show why a bank that was solvent on paper ran out of cash, who the regulator found had understated its bad loans, why shareholders were paid nothing, and what the rescue finally cost.",
+ "summary": "Northern Rock collapse explained from court and regulator records: the 2007 bank run that opened Britain's 2008 financial crisis.\nSavers withdrew £4.45bn in three days. Using the Treasury Committee's 'The run on the Rock', the Bank of England's statements, the FSA's own internal audit and enforcement notices, the National Audit Office's reports and the shareholder rulings up to Strasbourg, we show why a bank that was solvent on paper ran out of cash, which executives the regulator found failed to correct, or repeated, understated bad-loan figures, why shareholders were paid nothing, and what the rescue finally cost.",
  "thumb": [
   "£4.45BN",
-  "IN 3 DAYS",
+  "PULLED IN 3 DAYS",
   "BANK RUN",
   "NORTHERN ROCK"
  ],
@@ -28,7 +28,7 @@
   "Upper Tribunal, Northern Rock Applicants v Caldwell & HM Treasury [2011] UKUT 408 (TCC): https://assets.publishing.service.gov.uk/media/58e3a9a5ed915d06ac0000c0/Northern_Rock_Applicants_v_Andrew_Caldwell_and_HM_Treasury.pdf",
   "Court of Appeal, Harbinger Capital Partners v Caldwell [2013] EWCA Civ 492: https://caselaw.nationalarchives.gov.uk/ewca/civ/2013/492",
   "FSA, release on its Internal Audit review of Northern Rock supervision (26 Mar 2008), via Mondo Visione: https://mondovisione.com/news/uks-financial-services-authority-moves-to-enhance-supervision-in-wake-of-norther-2011124/",
-  "CMS Law-Now, 'FSA's supervision of Northern Rock: Internal Audit report' (26 Mar 2008): https://cms.law/en/gbr/legal-updates/fsa-s-supervision-of-northern-rock-internal-audit-report",
+  "The CFO, 'Risk lessons from the FSA', 21 Apr 2008: https://the-cfo.io/2008/04/21/risk-lessons-from-the-fsa/",
   "FSA Final Notice, David Baker (13 Apr 2010): https://www.fca.org.uk/publication/final-notices/david_baker.pdf",
   "FSA Final Notice, Richard Barclay (13 Apr 2010): https://www.fca.org.uk/publication/final-notices/richard_barclay.pdf",
   "FSA Final Notice, David Jones (27 Jul 2010): https://www.fca.org.uk/publication/final-notices/david_jones.pdf",
@@ -49,7 +49,8 @@
    "Northern Rock: Solvent on Paper, Broke in Practice",
    "Northern Rock: Worth £379m, Paid £0 – What the Courts Decided"
   ],
-  "demand_check": "15 Oct 2026 YouTube search (GB): 'northern rock collapse' top-10 median ~6.7K views, 'northern rock bank run' ~13.9K; '2008 financial crisis uk documentary' ~720K. Below the 100K topic rule; packaged with '2008 financial crisis' keywords. Swap suggested to Qazi for future slots."
+  "demand_check": "15 Oct 2026 YouTube search (GB): 'northern rock collapse' top-10 median ~6.7K views, 'northern rock bank run' ~13.9K; '2008 financial crisis uk documentary' ~720K. Below the 100K topic rule; packaged with '2008 financial crisis' keywords. Swap suggested to Qazi for future slots.",
+  "factcheck": "22 Oct 2026: independent sub-agent check — 0 wrong, ~95 verified; 1 unverified (CMS 403, replaced by The CFO report, checked) and 16 wording/attribution fixes applied (title 'Gone'→'Withdrawn', Baker short retitled, Barclay skill-care-diligence, settlement discounts, Sants full context, NAO 'could', UKFI expectation, ECtHR wording)."
  },
  "altered": {
   "disclose": false,
@@ -206,7 +207,7 @@
    "src": "H.S. Shin, Princeton, Aug 2008"
   },
   {
-   "say": "The economist Hyun Song Shin calculated that in June 2007 Northern Rock had forty-five point seven billion pounds of securitised notes, another twenty-six point seven billion of other wholesale funding, and eight point one billion of covered bonds.",
+   "say": "The economist Hyun Song Shin set out, from the bank's own accounts, that in June 2007 Northern Rock had forty-five point seven billion pounds of securitised notes, another twenty-six point seven billion of other wholesale funding, and eight point one billion of covered bonds.",
    "visual": {
     "type": "stats",
     "title": "Funding, June 2007",
@@ -361,11 +362,11 @@
    "src": "BoE/HMT/FSA statement, 14 Sep 2007"
   },
   {
-   "say": "But the news had already broken. The BBC reported the rescue on the thirteenth, before the official announcement.",
+   "say": "But the news had already leaked. On the thirteenth, the BBC broadcast news of the bank's liquidity problems, before the official announcement.",
    "visual": {
     "type": "timeline",
     "date": "13 Sep 2007",
-    "text": "The BBC breaks the story",
+    "text": "The BBC broadcasts the leak",
     "src": "ECtHR, Grainger v UK, 10 Jul 2012"
    },
    "src": "ECtHR, Grainger v UK, 10 Jul 2012"
@@ -448,17 +449,17 @@
    "src": "AP via NBC News, 14 Sep 2007"
   },
   {
-   "say": "Shin argued it was not quite the classic run of the textbooks. The real damage came earlier, as wholesale lenders stopped rolling over their loans. The queues were the visible part.",
+   "say": "Shin argued it was not quite the classic run of the textbooks. In his account, the true run was in the wholesale markets, as maturing loans were not renewed. The queues were the visible part.",
    "visual": {
     "type": "title",
-    "text": "The run started in the money markets",
+    "text": "The true run was in the money markets",
     "sub": "The queues were the visible part",
     "src": "H.S. Shin, Princeton, Aug 2008"
    },
    "src": "H.S. Shin, Princeton, Aug 2008"
   },
   {
-   "say": "On Monday the seventeenth, the Chancellor ended the panic the only way left: the government guaranteed all existing deposits.",
+   "say": "On Monday the seventeenth, the Chancellor announced that the government would guarantee all existing deposits. The queues subsided.",
    "visual": {
     "type": "timeline",
     "date": "17 Sep 2007",
@@ -592,7 +593,7 @@
    "src": "Court of Appeal, SRM Global v HMT, 2009"
   },
   {
-   "say": "The National Audit Office reviewed the decision in 2009. It found nationalisation was the best option for the taxpayer, but said the Treasury should have assessed the risks more systematically.",
+   "say": "The National Audit Office reviewed the decision in 2009. It found nationalisation was the best option for the taxpayer, but said the Treasury could have assessed the risks more systematically.",
    "visual": {
     "type": "document",
     "header": "National Audit Office, March 2009",
@@ -646,31 +647,31 @@
    "src": "FSA Internal Audit release, 26 Mar 2008"
   },
   {
-   "say": "A law firm's summary of the report, by CMS, sets out the detail. The FSA kept no written notes of key supervisory meetings with the bank.",
+   "say": "Reporting on the audit, the finance magazine The CFO set out the detail. There were no formal records of key meetings with the bank.",
    "visual": {
     "type": "list",
     "title": "What the internal audit found",
     "items": [
-     "No written notes of key supervisory meetings",
-     "Three Heads of Department in three years",
-     "2006 risk assessment not followed by a Risk Mitigation Report"
+     "No formal records of key meetings",
+     "Three different heads of department, 2005–2007",
+     "Supervision 'at the extreme end of the spectrum'"
     ],
-    "src": "CMS Law-Now, 26 Mar 2008"
+    "src": "The CFO, 21 Apr 2008; FSA release, 26 Mar 2008"
    },
-   "src": "CMS Law-Now, 26 Mar 2008"
+   "src": "The CFO, 21 Apr 2008"
   },
   {
-   "say": "It had three heads of department in three years. And its 2006 risk assessment of Northern Rock was never followed by a risk mitigation report.",
+   "say": "And between January 2005 and August 2007, three different heads of department were responsible for supervising Northern Rock.",
    "visual": {
     "type": "stat",
     "value": "3",
-    "label": "heads of the supervising department in three years",
-    "src": "CMS Law-Now, 26 Mar 2008"
+    "label": "heads of department responsible, Jan 2005 – Aug 2007",
+    "src": "The CFO, 21 Apr 2008"
    },
-   "src": "CMS Law-Now, 26 Mar 2008"
+   "src": "The CFO, 21 Apr 2008"
   },
   {
-   "say": "The internal audit described the supervision as at the extreme end of the spectrum. The FSA's chief executive, Hector Sants, said it was not carried out to a standard that is acceptable.",
+   "say": "Compared with the other firms it reviewed, the audit put Northern Rock's supervision at the extreme end of the spectrum on these failings. The FSA's chief executive, Hector Sants, said it was not carried out to a standard that is acceptable, though he added that whether that would have changed the outcome was impossible to judge.",
    "visual": {
     "type": "quote",
     "text": "not carried out to a standard that is acceptable",
@@ -767,7 +768,7 @@
    "src": "FSA Final Notice, D. Baker, Apr 2010"
   },
   {
-   "say": "The managing credit director, Richard Barclay, was fined one hundred and forty thousand pounds and barred from senior roles. The finance director, David Jones, was fined three hundred and twenty thousand pounds and banned.",
+   "say": "The managing credit director, Richard Barclay, was fined one hundred and forty thousand pounds and barred from senior roles, for failures of skill, care and diligence rather than integrity. The finance director, David Jones, was fined three hundred and twenty thousand pounds and banned; the FSA found he too lacked integrity.",
    "visual": {
     "type": "stats",
     "title": "FSA sanctions, 2010",
@@ -791,7 +792,7 @@
    "src": "FSA Final Notice, D. Baker, Apr 2010; FSA Final Notice, D. Jones, Jul 2010; FSA Final Notice, R. Barclay, Apr 2010"
   },
   {
-   "say": "These were regulatory findings by the FSA, set out in final notices. They were not criminal convictions.",
+   "say": "All three settled with the FSA, and their fines include settlement discounts. These were regulatory findings, set out in final notices. They were not criminal convictions.",
    "visual": {
     "type": "title",
     "text": "Findings, not convictions",
@@ -811,13 +812,13 @@
    "pause": 0.5
   },
   {
-   "say": "Now, the strangest number in the file. On the day the state took over, Northern Rock's shares stood at ninety pence. The market valued the bank at about three hundred and seventy-nine million pounds.",
+   "say": "Now, the strangest number in the file. Immediately before nationalisation, Northern Rock's shares stood at ninety pence. The market valued the bank at about three hundred and seventy-nine million pounds.",
    "visual": {
     "type": "stats",
     "items": [
      [
       "90p",
-      "share price at nationalisation"
+      "share price just before nationalisation"
      ],
      [
       "~£379m",
@@ -903,7 +904,7 @@
    "src": "Court of Appeal, Harbinger v Caldwell, 2013"
   },
   {
-   "say": "On the valuer's assumptions, the court noted, the bank's surplus became a deficit of about two point four billion pounds. Without the taxpayer, the courts accepted, the equity was worthless.",
+   "say": "On the valuer's assumptions, the court noted, the bank's surplus became a deficit of about two point four billion pounds. On those assumptions the valuer found, and the tribunal upheld, that the shares were worth nothing.",
    "visual": {
     "type": "stat",
     "value": "-£2.4bn",
@@ -968,7 +969,7 @@
    "src": "NAO, HC 20, May 2012"
   },
   {
-   "say": "Across the whole rescue, the NAO counted thirty-seven billion pounds of cash support. It expected that cash to be repaid, but estimated a possible net cost, in today's money, of around two billion pounds.",
+   "say": "Across the whole rescue, the NAO counted thirty-seven billion pounds of cash support. UK Financial Investments, which managed the state's stake, expected that cash to be repaid, but the NAO said there could be a net present cost of around two billion pounds.",
    "visual": {
     "type": "stats",
     "items": [
@@ -1140,8 +1141,8 @@
   },
   {
    "id": "b",
-   "title": "Who hid 1,917 bad loans at Northern Rock? #Shorts",
-   "hook": "1,917 missing loans",
+   "title": "1,917 loans missing from Northern Rock's bad-loan figures #Shorts",
+   "hook": "1,917 MISSING LOANS",
    "blurb": "What the FSA's final notices found about Northern Rock's arrears figures.",
    "scenes": [
     {
@@ -1156,10 +1157,10 @@
      "caption": "1,917 loans left out"
     },
     {
-     "say": "The regulator found the deputy chief executive, David Baker, knew about it from December 2006.",
+     "say": "The regulator found the deputy chief executive, David Baker, was told about the missing loans in late December 2006, and failed to escalate it.",
      "visual": {
       "date": "Dec 2006",
-      "text": "Deputy CEO knew, the FSA found",
+      "text": "Told, but did not escalate, the FSA found",
       "src": "FSA Final Notice, D. Baker, Apr 2010",
       "type": "timeline"
      },
@@ -1281,18 +1282,18 @@
   },
   {
    "id": "d",
-   "title": "Northern Rock's regulator kept no notes of key meetings #Shorts",
+   "title": "Northern Rock's regulator kept no formal records of key meetings #Shorts",
    "hook": "No notes taken",
    "blurb": "What the FSA's own internal audit found about its supervision of Northern Rock.",
    "scenes": [
     {
-     "say": "Northern Rock's regulator kept no written notes of its key supervisory meetings with the bank.",
+     "say": "Northern Rock's regulator kept no formal records of key meetings with the bank, according to reports of its own internal audit.",
      "visual": {
+      "type": "stat",
       "value": "0",
-      "label": "written notes of key supervisory meetings",
+      "label": "formal records of key meetings",
       "red": true,
-      "src": "CMS Law-Now, 26 Mar 2008",
-      "type": "stat"
+      "src": "The CFO, 21 Apr 2008"
      },
      "caption": "No notes of key meetings"
     },
@@ -1310,17 +1311,17 @@
      "caption": "The FSA audited itself"
     },
     {
-     "say": "The team supervising the bank had three heads of department in three years.",
+     "say": "Between 2005 and 2007, three different heads of department were responsible for supervising the bank.",
      "visual": {
+      "type": "stat",
       "value": "3",
-      "label": "heads of department in three years",
-      "src": "CMS Law-Now, 26 Mar 2008",
-      "type": "stat"
+      "label": "heads of department, 2005–2007",
+      "src": "The CFO, 21 Apr 2008"
      },
      "caption": "3 bosses in 3 years"
     },
     {
-     "say": "The FSA's chief executive said the supervision was not carried out to a standard that is acceptable. MPs said the FSA systematically failed in its duty. The full story is on our channel.",
+     "say": "The FSA's chief executive said the supervision was not carried out to a standard that is acceptable, though whether it changed the outcome was impossible to judge. The full story is on our channel.",
      "visual": {
       "text": "not carried out to a standard that is acceptable",
       "by": "Hector Sants, FSA, Mar 2008",
@@ -1438,7 +1439,7 @@
      "caption": "£45.7bn of mortgage bonds"
     },
     {
-     "say": "When those markets froze in August 2007, it could not refinance. MPs called it a reckless business model. The full story is on our channel.",
+     "say": "When short-term wholesale funding dried up in August 2007, it could not refinance. MPs called it a reckless business model. The full story is on our channel.",
      "visual": {
       "text": "a reckless business model which was excessively reliant on wholesale funding",
       "by": "Treasury Committee, Jan 2008",
@@ -1486,7 +1487,7 @@
      "caption": "£747m cash at sale"
     },
     {
-     "say": "Across the whole rescue, the NAO counted thirty-seven billion pounds of cash support, expected to be repaid.",
+     "say": "Across the whole rescue, the NAO counted thirty-seven billion pounds of cash support, which the state's investment arm expected to be repaid.",
      "visual": {
       "value": "£37bn",
       "label": "cash support to Northern Rock",
@@ -1496,7 +1497,7 @@
      "caption": "£37bn of support"
     },
     {
-     "say": "But it still estimated a possible net present cost of around two billion pounds. The full story is on our channel.",
+     "say": "But the NAO said there could be a net present cost of around two billion pounds. The full story is on our channel.",
      "visual": {
       "value": "~£2bn",
       "label": "possible net present cost",
