@@ -1,0 +1,467 @@
+[
+ {
+  "id": "x-1023-copy-paste-fix",
+  "brand": "xenova",
+  "date": "2026-10-23",
+  "pillar": "educational-carousel",
+  "slides": [
+   {
+    "layout": "cover",
+    "kicker": "Poll follow-up",
+    "title": "Copy-pasting between tools?\nHere's *the practical fix.*",
+    "sub": "Last week we asked where the hours go. Option A was copy-pasting between tools, so we're starting there."
+   },
+   {
+    "layout": "step",
+    "n": "01",
+    "title": "Write down the route",
+    "body": "Which system does the data start in, where does it end up, and *who* moves it today? One line per hop. Most teams find two or three."
+   },
+   {
+    "layout": "step",
+    "n": "02",
+    "title": "Count it for one week",
+    "body": "Tally how often each hop happens and roughly how long it takes. A rough number beats a guess, and it tells you which hop to fix first."
+   },
+   {
+    "layout": "step",
+    "n": "03",
+    "title": "Check the doors that exist",
+    "body": "Most business tools already have a way in and out: an *API*, a webhook, a built-in integration or a scheduled export. Look before you build."
+   },
+   {
+    "layout": "step",
+    "n": "04",
+    "title": "Connect one hop, not ten",
+    "body": "Pick the busiest hop. Move the data automatically, keep a log of every transfer, and send a person an alert when one fails."
+   },
+   {
+    "layout": "step",
+    "n": "05",
+    "title": "Keep a human check at first",
+    "body": "Run it alongside the manual way for a week or two. Compare the results. *Then* switch the copy-paste off."
+   },
+   {
+    "layout": "cta",
+    "kicker": "Next step",
+    "title": "Not sure which hop to start with?",
+    "sub": "Tell us the tools you copy between. We'll tell you plainly what's possible.",
+    "cta": "xenovasolutions.com/contact"
+   }
+  ],
+  "captions": {
+   "ig": "Copy-pasting between tools: the five-step fix.\n\nLast week we asked where your team loses the most hours. Option A, copy-pasting between tools, is where we're starting.\n\n1. Write down the route the data takes\n2. Count how often each hop happens for a week\n3. Check what each tool already offers: API, webhook, integration, export\n4. Automate the busiest hop first, with a log and failure alerts\n5. Run it alongside the manual way before you switch over\n\nSave this for the next time someone says \"I'll just copy it across\".\n\nWant a second pair of eyes on yours? Link in bio.\n\n#automation #smallbusiness #operations #productivity #integration #ukbusiness",
+   "fb": "Last week we asked where your team loses the most hours. We're starting with copy-pasting between tools, because it's usually the easiest to fix properly.\n\nThe short version: map the route the data takes, count how often each hop happens, check what your tools already offer (most have an API or an integration), automate the busiest hop first, and run it alongside the manual process before switching over.\n\nSwipe for the details. If you'd like a straight opinion on your own setup: xenovasolutions.com/contact",
+   "li": "Copy-pasting between systems is one of the most common hidden costs we see in growing businesses.\n\nLast week we asked which time sink hits hardest. Here's a practical way to fix the copy-paste problem without a big project:\n\n→ Map the route: where the data starts, where it ends, who moves it today\n→ Measure it for a week: how often each hop happens and how long it takes\n→ Check existing integration points: APIs, webhooks, built-in connectors, scheduled exports\n→ Automate one hop first, with a log of every transfer and an alert on failure\n→ Run it in parallel with the manual process before switching over\n\nThe takeaway: start with the busiest hop, not the whole system.\n\nIf you'd like a second opinion on where to start: https://xenovasolutions.com/contact\n\n#Automation #Operations #SMEs"
+  },
+  "theme": "light"
+ },
+ {
+  "id": "x-1024-approval-stall",
+  "brand": "xenova",
+  "date": "2026-10-24",
+  "pillar": "humour",
+  "slides": [
+   {
+    "layout": "chat",
+    "kicker": "The team chat, Friday 4:52pm",
+    "chat": [
+     {
+      "who": "them",
+      "text": "Did anyone sign off the Riverside quote?",
+      "time": "4:52 pm"
+     },
+     {
+      "who": "us",
+      "text": "I thought you did",
+      "time": "4:53 pm"
+     },
+     {
+      "who": "them",
+      "text": "I was waiting for you",
+      "time": "4:53 pm"
+     },
+     {
+      "who": "them",
+      "text": "Riverside just emailed. They've gone with someone else.",
+      "time": "4:58 pm"
+     }
+    ],
+    "punch": "Approvals rarely fail loudly.\nThey just *quietly stall.*"
+   }
+  ],
+  "captions": {
+   "ig": "Everyone thought someone else had it.\n\nApprovals don't usually break with an error message. They sit in an inbox, both people assume the other one has it, and the customer gets tired of waiting.\n\nThe fix is boring: one named owner per approval, a deadline, and an automatic nudge when it's close.\n\nWho's the fastest approver in your team? Tag them.\n\n#smallbusiness #operations #teamwork #workflow #worklife",
+   "fb": "\"I thought you'd signed it off.\" \"I was waiting for you.\"\n\nMost approvals don't fail, they just stall. One named owner, a deadline and an automatic reminder sorts most of it out.\n\nHas this happened in your team? Be honest.",
+   "li": "Most approval delays aren't caused by anyone being slow. They're caused by nobody being sure it's theirs.\n\nThree small changes that fix most of it:\n→ One named owner for every approval, not a group\n→ A deadline that the requester can see\n→ An automatic nudge before it's due, and an escalation after\n\nNo new system required to start. A shared rule and a reminder will do.\n\nWhere do approvals get stuck in your business?\n\nhttps://xenovasolutions.com/contact\n\n#Operations #Productivity #SMEs"
+  },
+  "theme": "dark"
+ },
+ {
+  "id": "x-1025-poll-enquiries",
+  "brand": "xenova",
+  "date": "2026-10-25",
+  "pillar": "poll",
+  "slides": [
+   {
+    "layout": "poll",
+    "kicker": "Sunday question",
+    "question": "Where do most of your *new enquiries* arrive?",
+    "options": [
+     "Website contact form",
+     "Email",
+     "Phone calls",
+     "WhatsApp or social DMs"
+    ],
+    "foot": "Comment A, B, C or D. Next week we'll post how to stop enquiries slipping through on the top answer."
+   }
+  ],
+  "captions": {
+   "ig": "Quick one for Sunday. Where do most new enquiries reach you?\n\nA) Website contact form\nB) Email\nC) Phone calls\nD) WhatsApp or social DMs\n\nComment a letter. Next week we'll share how to make sure none of them slip through on whichever channel wins.\n\n#smallbusiness #customerservice #businessowner #leads #operations",
+   "fb": "Where do most of your new enquiries come in?\n\nA) Website contact form\nB) Email\nC) Phone calls\nD) WhatsApp or social DMs\n\nComment a letter. Next week we'll post a practical way to stop enquiries slipping through on the most common answer.",
+   "li": "A question for business owners and operations leads: where do most of your new enquiries arrive?\n\nA) Website contact form\nB) Email\nC) Phone calls\nD) WhatsApp or social DMs\n\nReply with a letter. Next week we'll share a practical approach for making sure enquiries on the top channel never go unanswered.\n\nhttps://xenovasolutions.com/contact\n\n#SMEs #CustomerExperience #Operations"
+  },
+  "theme": "light"
+ },
+ {
+  "id": "x-1026-monday-stop-list",
+  "brand": "xenova",
+  "date": "2026-10-26",
+  "pillar": "monday-motivation",
+  "slides": [
+   {
+    "layout": "hook",
+    "kicker": "Monday, before the first meeting",
+    "title": "Don't start with the tool.\nStart with *what you'll stop doing.*",
+    "h1": 88,
+    "sub": "Before anyone books a software demo this week, list three tasks that would disappear if it worked.\nIf you can't name three, <b>you're not ready to buy yet.</b>"
+   }
+  ],
+  "captions": {
+   "ig": "Most software buying starts in the wrong place.\n\nIt starts with a demo. It should start with a list: three tasks your team would stop doing if this worked.\n\nIf you can name them, you have a brief and a way to judge every vendor. If you can't, no demo will fix that.\n\nWhat's one task you'd happily never do again?\n\n#mondaymotivation #smallbusiness #operations #software #productivity",
+   "fb": "A Monday rule worth stealing: before you book a software demo, write down three tasks that would disappear if it worked.\n\nCan't name three? Then it's not time to buy yet. Can name them? You've just written your brief.\n\nWhat's the one task you'd most like to stop doing?",
+   "li": "A simple rule before any software purchase: name three tasks that would stop happening if it worked.\n\nWhy it helps:\n→ It turns a vague wish into a brief\n→ It gives you a fair way to compare vendors\n→ It gives you something to measure after launch\n\nIf you can't name three, it's usually a sign to step back and look at the process first.\n\nhttps://xenovasolutions.com/contact\n\n#Operations #DigitalTransformation #SMEs"
+  },
+  "theme": "dark"
+ },
+ {
+  "id": "x-1027-outage-stat",
+  "brand": "xenova",
+  "date": "2026-10-27",
+  "pillar": "trend",
+  "slides": [
+   {
+    "layout": "stat",
+    "kicker": "UK small businesses",
+    "big": "31%",
+    "title": "were hit by a server or cloud *outage* in the past year.",
+    "body": "Of small firms (10–49 staff) storing data off-site. And a year ago this week, a DNS fault took AWS's main US region down for about 15 hours. *Plan for the bad day.*",
+    "source": "Sources: DSIT UK Business Data Survey 2026 (pub. 18 Jun 2026); AWS summary of the 19–20 Oct 2025 US-EAST-1 disruption"
+   }
+  ],
+  "captions": {
+   "ig": "31% of UK small businesses that keep data off-site were affected by a server or cloud outage in the last 12 months.\n\nThat's from the government's UK Business Data Survey 2026 (small = 10 to 49 staff; across all businesses it was 20%). And a year ago this week, a DNS fault knocked out AWS's US-East-1 region for around 15 hours, taking plenty of well-known apps with it.\n\nThe cloud is still the right choice for most. It just isn't a reason to skip a plan B:\n• Know which systems you can't work without\n• Keep an export or backup you can actually open\n• Write down what staff do while it's down\n\nSources: DSIT UK Business Data Survey 2026; AWS post-event summary, Oct 2025.\n\n#ukbusiness #smallbusiness #cloud #businesscontinuity #itsupport #operations",
+   "fb": "Government figures worth knowing: 31% of UK small businesses (10 to 49 staff) that store data off-site were hit by a server or cloud outage in the past year. Across all businesses it was 20%.\n\nAnd this week marks a year since the big AWS outage, when a DNS fault took its main US region down for about 15 hours.\n\nThe question isn't whether to use the cloud. It's: what does your team do for those hours?\n\nSources: DSIT UK Business Data Survey 2026 (gov.uk); AWS post-event summary, October 2025.",
+   "li": "A year ago this week, a DNS fault in AWS's US-EAST-1 region caused a disruption lasting roughly 15 hours (AWS post-event summary, 19–20 October 2025).\n\nIt wasn't a one-off risk. In the UK Business Data Survey 2026 (DSIT, published June 2026), 31% of small businesses that store data off-site said they'd been affected by a server or cloud outage in the previous 12 months. Across all businesses, the figure was 20%.\n\nThree practical takeaways:\n→ List the systems your business can't operate without\n→ Keep a recent export or backup you have actually tested opening\n→ Agree a simple manual fallback, and tell staff where it's written down\n\nResilience doesn't need to be expensive. It needs to be decided before the bad day.\n\nhttps://xenovasolutions.com/contact\n\n#BusinessContinuity #CloudComputing #SMEs"
+  },
+  "theme": "light"
+ },
+ {
+  "id": "x-1028-bts-social-pipeline",
+  "brand": "xenova",
+  "date": "2026-10-28",
+  "pillar": "behind-the-scenes",
+  "slides": [
+   {
+    "layout": "flow",
+    "kicker": "Behind the scenes",
+    "title": "How this post *got here.*",
+    "h2": 66,
+    "nodes": [
+     {
+      "icon": "{ }",
+      "label": "Written as a JSON file",
+      "sub": "text, layout and captions for each platform"
+     },
+     {
+      "icon": "PNG",
+      "label": "Rendered by a headless browser",
+      "sub": "brand colours locked in code, overflow checked"
+     },
+     {
+      "icon": "GIT",
+      "label": "Committed to GitHub",
+      "sub": "a script builds today's queue"
+     },
+     {
+      "icon": "6PM",
+      "label": "A daily automation posts it",
+      "sub": "Facebook, Instagram and LinkedIn"
+     },
+     {
+      "icon": "LOG",
+      "label": "Results written back",
+      "sub": "post IDs logged per platform"
+     }
+    ]
+   },
+   {
+    "layout": "step",
+    "n": "01",
+    "title": "The rule that matters most",
+    "body": "A post is only ever sent on its own date, and drops out of the queue as soon as any platform reports an attempt. *Nothing gets posted twice*, even if a run is retried."
+   },
+   {
+    "layout": "cta",
+    "kicker": "Your turn",
+    "title": "Got a job that runs on copy and paste?",
+    "sub": "The same pattern works for reports, invoices and order updates.",
+    "cta": "xenovasolutions.com/contact"
+   }
+  ],
+  "captions": {
+   "ig": "Behind the scenes: this post was written as a file, not typed into an app.\n\nEach post is a small JSON file. A headless browser turns it into images with our brand colours locked in code. GitHub holds the queue, and a daily automation publishes to Facebook, Instagram and LinkedIn, then writes the result back.\n\nThe most important part is a dull rule: nothing is ever posted twice, even if a run is retried.\n\nGot a repetitive job like this in your business? Link in bio.\n\n#behindthescenes #automation #github #nocode #smallbusiness #workflow",
+   "fb": "A peek behind the curtain: this post went from a text file to your feed without anyone opening Instagram.\n\nA headless browser renders the images, GitHub holds the queue, and a daily automation posts and logs the results. The rule we care about most: nothing ever goes out twice.\n\nThe same pattern works for reports, invoices and order updates. xenovasolutions.com/contact",
+   "li": "Behind the scenes: how our own social posts are published.\n\n→ Each post is a JSON file: text, layout and a caption per platform\n→ A headless browser renders the images, with brand colours fixed in code\n→ A script builds each day's queue in GitHub\n→ A scheduled automation posts to Facebook, Instagram and LinkedIn, then logs the post IDs\n\nThe design decision that matters most is idempotency: a post is only sent on its own date and drops out of the queue once any attempt is reported, so retries never cause duplicates.\n\nThe same pattern applies to reports, invoices and order updates.\n\nhttps://xenovasolutions.com/contact\n\n#Automation #DevOps #SMEs"
+  },
+  "theme": "dark"
+ },
+ {
+  "id": "x-1029-integration-promo",
+  "brand": "xenova",
+  "date": "2026-10-29",
+  "pillar": "promo",
+  "slides": [
+   {
+    "layout": "promo",
+    "kicker": "What we build",
+    "title": "Your tools, *talking to each other.*",
+    "h2": 74,
+    "benefits": [
+     {
+      "h": "No more re-typing",
+      "p": "Orders, leads and records move between systems on their own."
+     },
+     {
+      "h": "Every transfer logged",
+      "p": "See what moved, when, and what failed, without digging."
+     },
+     {
+      "h": "A person is told when it breaks",
+      "p": "Failures raise an alert instead of failing silently."
+     }
+    ],
+    "cta": "xenovasolutions.com/contact"
+   }
+  ],
+  "captions": {
+   "ig": "If someone in your team copies data from one system to another every day, this is for you.\n\nWe build integrations that move orders, leads and records between the tools you already use. Every transfer is logged, and if something fails, a person hears about it straight away.\n\nTell us which two tools you copy between. Link in bio.\n\n#automation #integration #smallbusiness #ukbusiness #operations #productivity",
+   "fb": "Still copying orders or leads from one system into another by hand?\n\nWe connect the tools you already use so the data moves on its own, with a log of every transfer and an alert when something fails.\n\nTell us which two tools you copy between: xenovasolutions.com/contact",
+   "li": "Most growing businesses don't need a new system. They need the ones they have to share data reliably.\n\nWhat we build:\n→ Integrations that move orders, leads and records between existing tools\n→ A log of every transfer, so you can see what moved and when\n→ Alerts to a named person when something fails\n\nIf there's a daily copy-paste job in your business, tell us which tools are involved and we'll tell you plainly what's possible.\n\nhttps://xenovasolutions.com/contact\n\n#SystemsIntegration #Automation #SMEs"
+  },
+  "theme": "light"
+ },
+ {
+  "id": "f-1023-noshow-walkthrough",
+  "brand": "frontdesk",
+  "date": "2026-10-23",
+  "pillar": "tutorial-carousel",
+  "slides": [
+   {
+    "layout": "cover",
+    "kicker": "Poll follow-up",
+    "title": "The no-show follow-up,\nin *four decisions.*",
+    "sub": "My poll last week was quiet, so I picked the one that costs clinics, salons and studios the most empty slots. Healthcare first, here's how my n8n version works."
+   },
+   {
+    "layout": "step",
+    "n": "01",
+    "title": "Trigger on the status change",
+    "body": "A webhook fires when the booking system marks a visit *no_show*. No daily sweep, no guessing who didn't turn up."
+   },
+   {
+    "layout": "step",
+    "n": "02",
+    "title": "Kind message. No guilt, no fees.",
+    "body": "\"We missed you today. No problem at all, these things happen.\" Plus the rebook link from the *Settings* node. Patients come back to clinics that don't scold them."
+   },
+   {
+    "layout": "step",
+    "n": "03",
+    "title": "Wait three days",
+    "body": "One n8n Wait node. Long enough to rebook on their own, short enough that they still remember the appointment."
+   },
+   {
+    "layout": "step",
+    "n": "04",
+    "title": "Check before you chase",
+    "body": "Before the follow-up, ask the booking system: *have they rebooked?* If yes, stop. Nobody gets nagged after they've already booked."
+   },
+   {
+    "layout": "cta",
+    "kicker": "Free to start",
+    "title": "Want my enquiry flow first?",
+    "sub": "My free enquiry workflow: import it, edit one Settings node, test. Built for clinics, easy to adapt.",
+    "cta": "DM me FLOW"
+   }
+  ],
+  "captions": {
+   "ig": "No-show follow-up, the way I build it in n8n.\n\nMy poll last week was quiet, so I picked the one that costs appointment businesses the most empty slots: clinics first, but salons, studios and repair shops have the same problem.\n\n1. Trigger on the booking status changing to no_show (a webhook, not a daily sweep)\n2. Send a kind message with the rebook link. No guilt, no fees.\n3. Wait 3 days\n4. Check the booking system. Already rebooked? Stop. Otherwise, one gentle follow-up.\n\nStep 4 is the one most builds skip, and it's the one that stops patients getting nagged.\n\nWant the free enquiry workflow to start with? DM me FLOW.\n\n#n8n #automation #healthcare #freelancer #nocode #workflow",
+   "fb": "Here's how I build a no-show follow-up in n8n, starting with clinics (salons and studios work the same way): trigger on the status change, send a kind message with the rebook link (no guilt, no fees), wait three days, then check the booking system before any follow-up so nobody gets chased after they've already rebooked.\n\nSwipe for the four decisions. Want my free enquiry workflow? Message me FLOW."
+  },
+  "theme": "light"
+ },
+ {
+  "id": "f-1024-stock-mismatch",
+  "brand": "frontdesk",
+  "date": "2026-10-24",
+  "pillar": "humour",
+  "slides": [
+   {
+    "layout": "hook",
+    "kicker": "Shoe shop, Saturday morning",
+    "title": "Website: \"3 left in size 9.\"\nStockroom: \"We sold those Tuesday.\"\nCustomer: *\"Where's my order?\"*",
+    "h1": 72,
+    "sub": "Stock sync is the most boring automation you'll ever build. <b>Refunds and one-star reviews are worse.</b>"
+   }
+  ],
+  "captions": {
+   "ig": "Every clothing and shoe shop that sells in-store and online knows this one.\n\nThe till sells the last pair. The website doesn't hear about it until someone updates a spreadsheet. A customer pays for shoes that don't exist.\n\nThe fix isn't clever: when stock changes in one place, update the other, and alert someone when a count goes below a threshold. It's one of the most useful flows you can sell to a retailer.\n\nWhat's the most boring automation that's paid you the best?\n\n#n8n #retail #ecommerce #inventory #automation #freelancer",
+   "fb": "Website says 3 left. Stockroom says sold out on Tuesday. Customer says \"where's my order?\"\n\nIf you build automations for shops, stock sync between the till and the website is boring, and worth every penny to the owner. Has this happened to a shop you work with?"
+  },
+  "theme": "dark"
+ },
+ {
+  "id": "f-1025-poll-industry",
+  "brand": "frontdesk",
+  "date": "2026-10-25",
+  "pillar": "poll",
+  "slides": [
+   {
+    "layout": "poll",
+    "kicker": "Builders' poll",
+    "question": "Who do you *build automations for* most?",
+    "options": [
+     "Clinics & healthcare",
+     "Restaurants & cafés",
+     "Clothing, shoes & retail",
+     "Finance, bookings & services"
+    ],
+    "foot": "Comment a letter. Next week: a real workflow for the top answer."
+   }
+  ],
+  "captions": {
+   "ig": "Quick one for anyone building n8n automations for clients.\n\nWho do you build for most?\n\nA) Clinics and healthcare\nB) Restaurants and cafés\nC) Clothing, shoes and retail\nD) Finance, bookings and other services\n\nComment a letter. Next week I'll walk through a workflow for whichever wins: enquiries, orders, payments, stock or reminders.\n\n#n8n #automation #freelancer #agencylife #smallbusiness",
+   "fb": "Automation builders: which businesses do you build for most?\n\nA) Clinics and healthcare\nB) Restaurants and cafés\nC) Clothing, shoes and retail\nD) Finance, bookings and other services\n\nComment a letter and I'll walk through a workflow for the top answer next week."
+  },
+  "theme": "light"
+ },
+ {
+  "id": "f-1026-monday-one-client",
+  "brand": "frontdesk",
+  "date": "2026-10-26",
+  "pillar": "monday-motivation",
+  "slides": [
+   {
+    "layout": "step",
+    "n": "This week",
+    "h2": 74,
+    "title": "Ship *one* workflow\nto *one* client.",
+    "body": "A café's booking reminder. A boutique's back-in-stock alert. An overdue-invoice nudge. Pick one, put it live, and run a test with the owner watching. Momentum beats a perfect portfolio."
+   }
+  ],
+  "captions": {
+   "ig": "Monday reminder: one live workflow beats ten in your drafts folder.\n\nIt doesn't have to be big. A restaurant's booking reminder. A clothing shop's back-in-stock alert. A gentle nudge when an invoice is overdue. One flow, live, tested with the owner watching.\n\nThat's a case study, and a reason for them to ask what's next.\n\nWhat are you shipping this week?\n\n#mondaymotivation #n8n #freelancer #automation #nocode #smallbusiness",
+   "fb": "Monday reminder for automation builders: ship one workflow to one client this week. A booking reminder, a back-in-stock alert, an overdue-invoice nudge. Small, live and tested beats big and unfinished.\n\nWhat are you shipping?"
+  },
+  "theme": "dark"
+ },
+ {
+  "id": "f-1027-n8n-budget-cap",
+  "brand": "frontdesk",
+  "date": "2026-10-27",
+  "pillar": "trend-news",
+  "slides": [
+   {
+    "layout": "stat",
+    "kicker": "n8n release notes",
+    "big": "v2.43",
+    "numSize": 190,
+    "title": "added an opt-in *budget guardrail* for AI agent runs.",
+    "body": "Same release: executions that can pause and resume at node boundaries. For client builds, that means fewer surprise AI bills on someone else's account.",
+    "source": "Source: n8n v2.43.0 release notes, github.com/n8n-io/n8n, 6 Oct 2026"
+   }
+  ],
+  "captions": {
+   "ig": "Small n8n change, big deal if you run AI on a client's account.\n\nn8n 2.43.0 (released 6 Oct 2026) added an opt-in budget guardrail for agent runs. The same release added resumable executions at node boundaries.\n\nWhy I care: whether it's a clinic, a restaurant or an online shop, owners fear one thing about AI more than bad answers. A bill they didn't expect. A spend cap on agent runs is an easy promise to make on a sales call, as long as you actually switch it on.\n\nIt's opt-in, so check your instance version and settings before you promise it.\n\nSource: n8n release notes, v2.43.0.\n\n#n8n #automation #aiagents #freelancer #nocode #smallbusiness",
+   "fb": "Worth knowing if you build AI workflows for clients: n8n 2.43.0 (6 Oct 2026) added an opt-in budget guardrail for agent runs, plus resumable executions.\n\nFor any client, \"we cap what the AI can spend\" is a reassuring line, as long as you've actually turned it on. Source: n8n v2.43.0 release notes on GitHub."
+  },
+  "theme": "light"
+ },
+ {
+  "id": "f-1028-reminder-flow",
+  "brand": "frontdesk",
+  "date": "2026-10-28",
+  "pillar": "real-demo",
+  "slides": [
+   {
+    "layout": "flow",
+    "title": "One reminder flow.\n*Any* booking business.",
+    "h2": 56,
+    "nodes": [
+     {
+      "icon": "6PM",
+      "label": "Every Day 6pm",
+      "sub": "a Schedule Trigger"
+     },
+     {
+      "icon": "GET",
+      "label": "Get Tomorrow's Bookings",
+      "sub": "one HTTP call to the booking system"
+     },
+     {
+      "icon": "1:1",
+      "label": "One Item per Patient",
+      "sub": "Split Out: one row per booking"
+     },
+     {
+      "icon": "JS",
+      "label": "Write Reminder",
+      "sub": "name, service and time in plain words"
+     },
+     {
+      "icon": "@",
+      "label": "Email Reminder",
+      "sub": "sent from the business's own address"
+     }
+    ]
+   }
+  ],
+  "captions": {
+   "ig": "This is the whole appointment reminder workflow I built for a clinic. Five nodes.\n\nEvery day at 6pm it asks the booking system for tomorrow's bookings, splits them into one item each, writes a plain reminder (name, service, time) and emails it.\n\nThe interesting part: nothing in it is clinic-specific except the booking URL and the wording. Point it at a restaurant's table bookings, a salon's diary or a repair shop's job list and it does the same job.\n\nWhich business would you adapt it for first?\n\n#n8n #automation #appointments #restaurants #salonowner #freelancer",
+   "fb": "My appointment reminder workflow in n8n is five nodes: a 6pm schedule, one call for tomorrow's bookings, split into rows, write the reminder, send the email.\n\nI built it for a clinic, but only the booking URL and the wording are clinic-specific. Restaurants, salons and repair shops can use the same pattern."
+  },
+  "theme": "dark"
+ },
+ {
+  "id": "f-1029-flow-promo",
+  "brand": "frontdesk",
+  "date": "2026-10-29",
+  "pillar": "promo",
+  "slides": [
+   {
+    "layout": "cta",
+    "kicker": "Free workflow",
+    "title": "Answer every enquiry\n*in seconds.*",
+    "h1": 84,
+    "sub": "My n8n enquiry workflow: AI triage, instant reply from the business's own details, a lead log and an alert for anything urgent. Built for clinics, one Settings node to adapt it.",
+    "cta": "DM me FLOW"
+   }
+  ],
+  "captions": {
+   "ig": "Want a workflow you can demo to a client this week?\n\nMy n8n enquiry workflow is free. It replies to website enquiries in seconds using only the business's own details (services, prices, hours, booking link), logs every lead in a sheet, and alerts staff when something looks urgent.\n\nI built it for clinics. Everything business-specific lives in one Settings node, so adapting it for a restaurant, a shop or a service business is mostly editing that node and testing.\n\nDM me FLOW and I'll send it over.\n\n#n8n #automation #freelancer #customerservice #smallbusiness #aiautomation",
+   "fb": "Building automations for small businesses? My n8n enquiry workflow is free: instant replies from the business's own details, a lead log, and urgent alerts to staff. Built for clinics, with one Settings node to adapt for restaurants, shops and other services.\n\nMessage me FLOW and I'll send it."
+  },
+  "theme": "light"
+ }
+]

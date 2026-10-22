@@ -1,0 +1,158 @@
+{
+ "date": "2026-10-22",
+ "window": "2026-10-08 to 2026-10-22",
+ "sources": {
+  "metricool_xenova": "brand 7133423: Instagram + Facebook post metrics available; LinkedIn not connected in Metricool (getAnalyticsDataByMetrics returned no rows)",
+  "xenova_mailbox": "unavailable: WPVibe returns 401 rest_not_logged_in for every authenticated route (also /wp/v2/users/me); connect_site could not renew it automatically (22 Oct 2026)",
+  "frontdesk": "unavailable: FrontDesk is not a Metricool brand and no tool exposes its DMs/comments"
+ },
+ "xenova": {
+  "instagram_followers": {
+   "2026-10-09": 24,
+   "2026-10-10": 22,
+   "2026-10-20": 21,
+   "note": "Metricool also reports 1278 on 2026-10-08, which looks like a data glitch"
+  },
+  "instagram_posts": [
+   {
+    "id": "x-1016-spreadsheet",
+    "date": "2026-10-15",
+    "reach": 0,
+    "likes": 0,
+    "comments": 0,
+    "saves": 0,
+    "views": 0
+   },
+   {
+    "id": "x-1017-poll-hours",
+    "date": "2026-10-17",
+    "reach": 2,
+    "likes": 0,
+    "comments": 0,
+    "saves": 0,
+    "views": 3
+   },
+   {
+    "id": "x-1018-chatbot-checklist",
+    "date": "2026-10-18",
+    "reach": 1,
+    "likes": 0,
+    "comments": 0,
+    "saves": 0,
+    "views": 2
+   },
+   {
+    "id": "x-1019-monday",
+    "date": "2026-10-19",
+    "reach": 0,
+    "likes": 0,
+    "comments": 0,
+    "saves": 0,
+    "views": 0
+   },
+   {
+    "id": "x-1020-ons-ai",
+    "date": "2026-10-20",
+    "reach": 0,
+    "likes": 0,
+    "comments": 0,
+    "saves": 0,
+    "views": 0
+   },
+   {
+    "id": "x-1021-bts-5mb",
+    "date": "2026-10-21",
+    "reach": 0,
+    "likes": 0,
+    "comments": 0,
+    "saves": 0,
+    "views": 0
+   },
+   {
+    "id": "metricool-2026-10-14 (talk to the engineers)",
+    "reach": 0,
+    "views": 1
+   },
+   {
+    "id": "metricool-2026-10-12 (Loinix trust)",
+    "reach": 1,
+    "views": 7
+   }
+  ],
+  "facebook_posts": [
+   {
+    "id": "x-1016-spreadsheet",
+    "reach": 1,
+    "reactions": 0,
+    "comments": 0,
+    "shares": 0,
+    "clicks": 0
+   },
+   {
+    "id": "x-1017-poll-hours",
+    "reach": 5,
+    "reactions": 0,
+    "comments": 0,
+    "shares": 0,
+    "clicks": 1
+   },
+   {
+    "id": "x-1018-chatbot-checklist",
+    "reach": 4,
+    "reactions": 0,
+    "comments": 0,
+    "shares": 0,
+    "clicks": 0
+   },
+   {
+    "id": "x-1019-monday",
+    "reach": 2,
+    "reactions": 0,
+    "comments": 0,
+    "shares": 0,
+    "clicks": 0
+   },
+   {
+    "id": "x-1020-ons-ai",
+    "reach": 1,
+    "reactions": 0,
+    "comments": 0,
+    "shares": 0,
+    "clicks": 0
+   },
+   {
+    "id": "x-1021-bts-5mb",
+    "reach": 1,
+    "reactions": 0,
+    "comments": 0,
+    "shares": 0,
+    "clicks": 0
+   },
+   {
+    "id": "metricool-2026-10-14 (talk to the engineers)",
+    "reach": 8
+   },
+   {
+    "id": "metricool-2026-10-13 (data before AI)",
+    "reach": 4
+   }
+  ],
+  "linkedin_posts": null,
+  "genuine_enquiries_7d": null,
+  "poll_x-1017_comments": 0,
+  "learnings": [
+   "Not enough data: every post reached 0-8 people, with 0 likes or comments on any post in 14 days, so no format or pillar can be called a winner yet.",
+   "On Facebook the poll (reach 5, 1 click) and the 5-slide carousel (reach 4) did a little better than single images (reach 1-2). That's a weak signal, so this week leads with a carousel and keeps a poll.",
+   "Seven unrelated generic 'series' posts went out on the Xenova FB/IG pages on 19-21 Oct, plus a separate Metricool calendar posting daily at 13:00 PKT. That means two to eight posts a day, which may be holding reach down."
+  ]
+ },
+ "frontdesk": {
+  "instagram_posts": null,
+  "facebook_posts": null,
+  "dms": null,
+  "poll_f-1018_comments": null,
+  "learnings": [
+   "Not enough data: there's no analytics source for FrontDesk in this run (it isn't connected to Metricool)."
+  ]
+ }
+}
