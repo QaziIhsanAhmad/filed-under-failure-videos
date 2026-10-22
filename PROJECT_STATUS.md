@@ -15,6 +15,7 @@ Faceless business-collapse documentary channel. Daily Short + weekly long episod
 - 003 Shorts f/g scheduled for 22–23 Oct.
 - 004 Northern Rock: long video (15:14), thumbnail, .srt, 7 Shorts rendered; independent fact-check done 22 Oct (0 wrong).
 - 22 Oct: 004-ep + Shorts a–f uploaded via API lane, private, scheduled (ep sKaLC6A0Igw + a 9kHvzWHymns Sat 24 Oct 21:00 PKT; b–f 25–29 Oct). 004-g (30 Oct) queues automatically within 8 days of its slot.
+- 22 Oct (monitor): added yt/ops.json ops for 004 (playlist pl-004, Full Episodes item, episode links in Shorts a–f) and 003-g; 004-g ops still to add once it has a videoId.
 - `yt/native/004.md` is obsolete — do NOT upload 004 in Studio (would duplicate).
 
 ## In progress
