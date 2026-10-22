@@ -1,0 +1,1547 @@
+{
+ "slug": "005-patisserie-valerie",
+ "title": "Why Did Patisserie Valerie Collapse? The Secret Overdrafts",
+ "voice": "bm_george",
+ "speed": 0.95,
+ "summary": "Patisserie Valerie collapse explained from company, regulator and Serious Fraud Office records.\nWorth £450m on a Tuesday in October 2018, shares frozen by Wednesday. Using Patisserie Holdings' own stock-market announcements, the Financial Reporting Council's sanctions against its auditor Grant Thornton, and the SFO's case file, we separate what the company disclosed, what the regulator found, and what is still only alleged, as the fraud trial moves to January 2028.",
+ "thumb": [
+  "SECRET",
+  "OVERDRAFTS",
+  "£9.7M",
+  "PATISSERIE VALERIE"
+ ],
+ "tags": [
+  "Patisserie Valerie",
+  "Patisserie Valerie collapse",
+  "accounting scandal",
+  "Grant Thornton",
+  "Serious Fraud Office",
+  "UK business documentary",
+  "audit failure",
+  "what went wrong"
+ ],
+ "sources": [
+  "Serious Fraud Office, case page 'Patisserie Holdings plc' (timeline to 9 Feb 2026): https://www.gov.uk/sfo-cases/patisserie-holdings-plc",
+  "Serious Fraud Office, 'SFO charges four individuals behind Patisserie Valerie collapse' (13 Sep 2023): https://sfo.gov.uk/2023/09/13/sfo-charges-four-individuals-behind-patisserie-valerie-collapse",
+  "Financial Reporting Council, 'Sanctions against Grant Thornton UK LLP and David Newstead' (27 Sep 2021): https://www.frc.org.uk/news-and-events/news/2021/09/sanctions-against-grant-thornton-uk-llp-and-david-newstead/",
+  "Patisserie Holdings plc, announcement of proposed placing and loans (12 Oct 2018): https://lexismarkettracker.lexisnexis.com/documents/0031/31264/152348/MT_announcement%20of%20proposed%20placing_12%20October%202018_Patesserie%20Holdings%20plc.pdf",
+  "News Letter, 'Patisserie Valerie faces winding up order' (10 Oct 2018): https://www.newsletter.co.uk/business/patisserie-valerie-faces-winding-up-order-563210",
+  "The Grocer, 'Patisserie Valerie shares suspended after potential fraud' (10 Oct 2018): https://www.thegrocer.co.uk/finance/patisserie-valerie-shares-suspended-after-potential-fraud/572525.article",
+  "Restaurant Online, 'Luke Johnson: Patisserie Holdings' secret overdrafts a nightmare' (15 Oct 2018): https://www.restaurantonline.co.uk/Article/2018/10/15/Luke-Johnson-Patisserie-Holdings-secret-overdrafts-a-nightmare/",
+  "The Grocer, 'Patisserie Valerie shutters 71 outlets at the cost of 920 jobs' (Jan 2019): https://www.thegrocer.co.uk/restructures-and-receiverships/patisserie-valerie-shutters-71-outlets-at-the-cost-of-920-jobs/575869.article",
+  "ITV News, 'Cake chain Patisserie Valerie gobbled up by Irish private equity firm' (14 Feb 2019): https://www.itv.com/news/2019-02-14/cake-chain-patisserie-valerie-gobbled-up-by-irish-private-equity-firm",
+  "The Caterer, 'Five arrested in investigation into alleged Patisserie Valerie fraud' (24 Jun 2019): https://www.thecaterer.com/news/five-arrested-in-investigation-into-alleged-patisserie-valerie-fraud",
+  "Yahoo News, 'Grant Thornton fined £2.3 million over Patisserie Valerie collapse' (Sep 2021): https://news.yahoo.com/grant-thornton-fined-2-3-074451482.html",
+  "Consultancy.uk, 'Settlement struck between Grant Thornton and Patisserie Valerie creditors' (30 Jun 2022): https://www.consultancy.uk/news/31658/settlement-struck-between-grant-thornton-and-patisserie-valerie-creditors",
+  "Accountancy Daily, 'Patisserie Valerie fraud trial delayed to 2028' (10 Feb 2026): https://www.accountancydaily.co/patisserie-valerie-fraud-trial-delayed-2028",
+  "Time Out London, 'Soho's original Patisserie Valerie has closed' (23 Jan 2019): https://www.timeout.com/london/news/sohos-original-patisserie-valerie-has-closed-012319",
+  "Time Out, 'After shutting 170 branches this beloved UK high street bakery chain is making a comeback' (4 Sep 2023): https://www.timeout.com/uk/news/after-shutting-170-branches-this-beloved-uk-high-street-bakery-chain-is-making-a-comeback-090423"
+ ],
+ "notes": {
+  "alt_titles": [
+   "Patisserie Valerie: £450m on Tuesday, Frozen by Wednesday",
+   "Patisserie Valerie: The Cash That Wasn't There"
+  ],
+  "demand_check": "22 Oct 2026: no measured YouTube top-10 view data gathered this run (research.yml not dispatched to save budget). UK-only topic like Carillion (~1K median) and Northern Rock (below 100K); likely below the 100K topic_rule threshold. Fresh angle: Feb 2026 trial relisting to Jan 2028. Suggested swap for future weeks: higher-demand global topics (Wirecard e006, FTX, Enron).",
+  "legal": "Four defendants charged by SFO (13 Sep 2023) pleaded not guilty; trial listed 4 Jan 2028. Script presents SFO case as allegation only, names no one as guilty, and labels company disclosures, FRC findings (admitted) and allegations separately. Luke Johnson is not accused of wrongdoing."
+ },
+ "altered": {
+  "disclose": false,
+  "reason": "Generic synthetic narrator (Kokoro bm_george) not imitating any real person; quotes are attributed by the narrator and shown as on-screen text; original code-generated charts, text graphics and music; no realistic synthetic imagery or altered real footage."
+ },
+ "scenes": [
+  {
+   "say": "On a Tuesday in October 2018, Patisserie Valerie's owner was worth about four hundred and fifty million pounds. By Wednesday afternoon, its shares were frozen.",
+   "visual": {
+    "type": "stat",
+    "value": "£450m",
+    "label": "stock-market value of Patisserie Holdings, 9 Oct 2018",
+    "red": true,
+    "src": "The Grocer, 10 Oct 2018"
+   },
+   "src": "The Grocer, 10 Oct 2018",
+   "chapter": "Cold open"
+  },
+  {
+   "say": "The company said it had been notified of significant, and potentially fraudulent, accounting irregularities.",
+   "visual": {
+    "type": "quote",
+    "text": "significant, and potentially fraudulent, accounting irregularities",
+    "by": "Patisserie Holdings, 10 Oct 2018",
+    "src": "News Letter, 10 Oct 2018"
+   },
+   "src": "News Letter, 10 Oct 2018"
+  },
+  {
+   "say": "Within days, its chairman said he hadn't even known the company had bank overdrafts. There were two of them, worth almost ten million pounds.",
+   "visual": {
+    "type": "stats",
+    "title": "What surfaced in five days",
+    "items": [
+     [
+      "2",
+      "secret bank overdrafts"
+     ],
+     [
+      "~£10m",
+      "owed on them"
+     ]
+    ],
+    "hi": 1,
+    "src": "Restaurant Online, 15 Oct 2018"
+   },
+   "src": "Restaurant Online, 15 Oct 2018"
+  },
+  {
+   "say": "Eight years on, nobody has been convicted of anything. The criminal trial has just been pushed back to 2028.",
+   "visual": {
+    "type": "timeline",
+    "date": "4 Jan 2028",
+    "text": "Trial relisted, still not started",
+    "red": true,
+    "src": "SFO case page: Patisserie Holdings plc"
+   },
+   "src": "SFO case page: Patisserie Holdings plc"
+  },
+  {
+   "say": "So what does the official record actually establish? And who saw the warning signs, years earlier, and missed them? Hold on to that second question.",
+   "visual": {
+    "type": "title",
+    "text": "Why did Patisserie Valerie collapse?",
+    "kicker": "Case file 005"
+   },
+   "pause": 0.7
+  },
+  {
+   "say": "We go through the paperwork: the company's own stock-market announcements, the audit regulator's sanctions, and the Serious Fraud Office's case file.",
+   "visual": {
+    "type": "list",
+    "title": "The paperwork",
+    "items": [
+     "Patisserie Holdings market announcements, 2018",
+     "Financial Reporting Council sanctions, 2021",
+     "Serious Fraud Office charges and court listings, 2023 to 2026"
+    ]
+   }
+  },
+  {
+   "say": "Chapter 1. A cake shop from 1926.",
+   "visual": {
+    "type": "chapter",
+    "n": 1,
+    "text": "A cake shop from 1926"
+   },
+   "chapter": "A cake shop from 1926",
+   "pause": 0.5
+  },
+  {
+   "say": "The story starts in 1926, on Frith Street in Soho, with a Belgian woman remembered only as Madame Valerie.",
+   "visual": {
+    "type": "timeline",
+    "date": "1926",
+    "text": "First shop opens on Frith Street, Soho",
+    "src": "Time Out, 23 Jan 2019"
+   },
+   "src": "Time Out, 23 Jan 2019"
+  },
+  {
+   "say": "The first café was bombed during the Second World War. In the 1940s it moved around the corner to Old Compton Street, and stayed there for about seventy years.",
+   "visual": {
+    "type": "document",
+    "header": "Soho, London",
+    "title": "Old Compton Street",
+    "lines": [
+     "Original café bombed in the Second World War",
+     "!Moved in the 1940s, stayed about 70 years"
+    ],
+    "src": "Time Out, 23 Jan 2019"
+   },
+   "src": "Time Out, 23 Jan 2019"
+  },
+  {
+   "say": "By 2018 the brand had grown into a listed company, Patisserie Holdings, with almost two hundred high-street bakeries.",
+   "visual": {
+    "type": "stat",
+    "value": "~200",
+    "label": "high-street bakeries before the collapse",
+    "src": "SFO press release, 13 Sep 2023"
+   },
+   "src": "SFO press release, 13 Sep 2023"
+  },
+  {
+   "say": "On paper it was a rare thing: a cake chain the stock market adored. On the ninth of October 2018 its shares closed at four hundred and twenty-nine and a half pence.",
+   "visual": {
+    "type": "stat",
+    "value": "429.5p",
+    "label": "closing share price, Tuesday 9 Oct 2018",
+    "src": "The Grocer, 10 Oct 2018"
+   },
+   "src": "The Grocer, 10 Oct 2018"
+  },
+  {
+   "say": "The man in the chair was Luke Johnson, the executive chairman and largest shareholder. The finance director was Chris Marsh.",
+   "visual": {
+    "type": "document",
+    "header": "Patisserie Holdings plc",
+    "title": "Who ran it",
+    "lines": [
+     "Luke Johnson: executive chairman",
+     "Chris Marsh: finance director"
+    ],
+    "src": "The Grocer, 10 Oct 2018"
+   },
+   "src": "The Grocer, 10 Oct 2018"
+  },
+  {
+   "say": "Keep that word cash in mind. Everything in this story turns on how much of it the company really had.",
+   "visual": {
+    "type": "title",
+    "text": "Follow the cash."
+   }
+  },
+  {
+   "say": "Chapter 2. Wednesday, 10 October 2018.",
+   "visual": {
+    "type": "chapter",
+    "n": 2,
+    "text": "Wednesday, 10 October 2018"
+   },
+   "chapter": "Wednesday, 10 October 2018",
+   "pause": 0.5
+  },
+  {
+   "say": "On Wednesday the tenth of October 2018, Patisserie Holdings told the market it had been notified of significant, and potentially fraudulent, accounting irregularities.",
+   "visual": {
+    "type": "timeline",
+    "date": "10 Oct 2018",
+    "text": "Irregularities disclosed; shares suspended",
+    "src": "News Letter, 10 Oct 2018"
+   },
+   "src": "News Letter, 10 Oct 2018"
+  },
+  {
+   "say": "It said the irregularities had significantly impacted its cash position, and might lead to a material change in its overall financial position.",
+   "visual": {
+    "type": "quote",
+    "text": "significantly impacted the company's cash position and may lead to a material change in its overall financial position",
+    "by": "Patisserie Holdings, as reported",
+    "src": "The Grocer, 10 Oct 2018"
+   },
+   "src": "The Grocer, 10 Oct 2018"
+  },
+  {
+   "say": "It asked for its shares to be suspended, and said its finance chief, Chris Marsh, had been suspended too.",
+   "visual": {
+    "type": "document",
+    "header": "Stock exchange update",
+    "title": "10 October 2018",
+    "lines": [
+     "Shares suspended on AIM",
+     "!Finance director suspended"
+    ],
+    "src": "News Letter, 10 Oct 2018"
+   },
+   "src": "News Letter, 10 Oct 2018"
+  },
+  {
+   "say": "Its shares traded on AIM, the London Stock Exchange's market for smaller growing companies. A suspension means nobody can buy or sell them. Investors were locked in.",
+   "visual": {
+    "type": "title",
+    "text": "Shareholders locked in.",
+    "sub": "Trading suspended on AIM, 10 Oct 2018",
+    "src": "News Letter, 10 Oct 2018"
+   },
+   "src": "News Letter, 10 Oct 2018"
+  },
+  {
+   "say": "There was a second disclosure that day. The taxman had filed a winding-up petition against the main trading company, Stonebeach, over one point one four million pounds.",
+   "visual": {
+    "type": "stat",
+    "value": "£1.14m",
+    "label": "HMRC winding-up petition against Stonebeach",
+    "red": true,
+    "src": "News Letter, 10 Oct 2018"
+   },
+   "src": "News Letter, 10 Oct 2018"
+  },
+  {
+   "say": "A company valued at four hundred and fifty million pounds, facing a court petition over one point one million pounds of tax. That doesn't add up, and it was the first public crack.",
+   "visual": {
+    "type": "bars",
+    "title": "Something didn't add up",
+    "items": [
+     [
+      "Market value, 9 Oct",
+      450,
+      "£450m"
+     ],
+     [
+      "Tax petition",
+      1.14,
+      "£1.14m"
+     ]
+    ],
+    "hi": 1,
+    "src": "The Grocer, 10 Oct 2018"
+   },
+   "src": "The Grocer, 10 Oct 2018"
+  },
+  {
+   "say": "Luke Johnson said: we are all deeply concerned about this news and the potential impact on the business.",
+   "visual": {
+    "type": "quote",
+    "text": "We are all deeply concerned about this news and the potential impact on the business.",
+    "by": "Luke Johnson, 10 Oct 2018",
+    "src": "News Letter, 10 Oct 2018"
+   },
+   "src": "News Letter, 10 Oct 2018"
+  },
+  {
+   "say": "Two days later, the Serious Fraud Office opened a criminal investigation. Its codename was Operation Venom.",
+   "visual": {
+    "type": "timeline",
+    "date": "12 Oct 2018",
+    "text": "SFO opens Operation Venom",
+    "src": "SFO press release, 13 Sep 2023"
+   },
+   "src": "SFO press release, 13 Sep 2023"
+  },
+  {
+   "say": "By the following week, the trade press reported that the finance director had been arrested and bailed. Being arrested is not a finding of guilt.",
+   "visual": {
+    "type": "title",
+    "text": "Arrested is not guilty.",
+    "sub": "No one has been convicted in this case.",
+    "src": "Restaurant Online, 15 Oct 2018"
+   },
+   "src": "Restaurant Online, 15 Oct 2018"
+  },
+  {
+   "say": "Chapter 3. The overdrafts nobody knew about.",
+   "visual": {
+    "type": "chapter",
+    "n": 3,
+    "text": "The overdrafts nobody knew about"
+   },
+   "chapter": "The overdrafts nobody knew about",
+   "pause": 0.5
+  },
+  {
+   "say": "On the twelfth of October the company published a rescue plan. It began with a remarkable admission.",
+   "visual": {
+    "type": "timeline",
+    "date": "12 Oct 2018",
+    "text": "Rescue plan published",
+    "src": "Patisserie Holdings placing announcement, 12 Oct 2018"
+   },
+   "src": "Patisserie Holdings placing announcement, 12 Oct 2018"
+  },
+  {
+   "say": "Its words: historical statements on the cash position of the Company were mis-stated.",
+   "visual": {
+    "type": "quote",
+    "text": "Historical statements on the cash position of the Company were mis-stated",
+    "by": "Patisserie Holdings, 12 Oct 2018",
+    "src": "Patisserie Holdings placing announcement, 12 Oct 2018"
+   },
+   "src": "Patisserie Holdings placing announcement, 12 Oct 2018"
+  },
+  {
+   "say": "Instead of cash in the bank, the board now estimated net debt of about nine point eight million pounds.",
+   "visual": {
+    "type": "stat",
+    "value": "−£9.8m",
+    "label": "estimated net debt, 12 Oct 2018",
+    "red": true,
+    "src": "Patisserie Holdings placing announcement, 12 Oct 2018"
+   },
+   "src": "Patisserie Holdings placing announcement, 12 Oct 2018"
+  },
+  {
+   "say": "It said it needed an immediate cash injection of no less than twenty million pounds. Without it, there was no scope for the group to continue trading in its current form.",
+   "visual": {
+    "type": "quote",
+    "text": "no scope for the Group to continue trading in its current form",
+    "by": "Patisserie Holdings, 12 Oct 2018",
+    "src": "Patisserie Holdings placing announcement, 12 Oct 2018"
+   },
+   "src": "Patisserie Holdings placing announcement, 12 Oct 2018"
+  },
+  {
+   "say": "The money came from two places. Luke Johnson offered a ten million pound loan for three years, interest free and fee free, plus a bridging loan of up to ten million more.",
+   "visual": {
+    "type": "stats",
+    "title": "Johnson's loans",
+    "items": [
+     [
+      "£10m",
+      "3-year loan, interest free"
+     ],
+     [
+      "up to £10m",
+      "bridging loan"
+     ]
+    ],
+    "src": "Patisserie Holdings placing announcement, 12 Oct 2018"
+   },
+   "src": "Patisserie Holdings placing announcement, 12 Oct 2018"
+  },
+  {
+   "say": "And new shares were to be placed at fifty pence each, to raise about fifteen million pounds. Three days earlier, the shares had been worth more than eight times that.",
+   "visual": {
+    "type": "bars",
+    "title": "Price per share",
+    "items": [
+     [
+      "Close, 9 Oct 2018",
+      429.5,
+      "429.5p"
+     ],
+     [
+      "Rescue placing",
+      50,
+      "50p"
+     ]
+    ],
+    "hi": 1,
+    "src": "Patisserie Holdings placing announcement, 12 Oct 2018"
+   },
+   "src": "Patisserie Holdings placing announcement, 12 Oct 2018"
+  },
+  {
+   "say": "Put simply, anyone who bought at the old price had lost almost nine tenths of it, on paper, before the full picture was even known.",
+   "visual": {
+    "type": "title",
+    "text": "Down almost nine tenths.",
+    "sub": "429.5p to a 50p rescue price",
+    "src": "Patisserie Holdings placing announcement, 12 Oct 2018"
+   },
+   "src": "Patisserie Holdings placing announcement, 12 Oct 2018"
+  },
+  {
+   "say": "Then the story got stranger. The company found two overdrafts, at HSBC and Barclays, that had been set up without the board's knowledge.",
+   "visual": {
+    "type": "document",
+    "header": "Discovered, October 2018",
+    "title": "Two overdrafts",
+    "lines": [
+     "HSBC and Barclays",
+     "!Set up without the board's knowledge"
+    ],
+    "src": "Restaurant Online, 15 Oct 2018"
+   },
+   "src": "Restaurant Online, 15 Oct 2018"
+  },
+  {
+   "say": "Nine point seven million pounds had been drawn on them.",
+   "visual": {
+    "type": "stat",
+    "value": "£9.7m",
+    "label": "drawn on overdrafts the board didn't know about",
+    "red": true,
+    "src": "Restaurant Online, 15 Oct 2018"
+   },
+   "src": "Restaurant Online, 15 Oct 2018"
+  },
+  {
+   "say": "Johnson told The Sunday Times: I didn't even know there were bank overdraft facilities. He called the week a nightmare.",
+   "visual": {
+    "type": "quote",
+    "text": "I didn't even know there were bank overdraft facilities.",
+    "by": "Luke Johnson to The Sunday Times, Oct 2018",
+    "src": "Restaurant Online, 15 Oct 2018"
+   },
+   "src": "Restaurant Online, 15 Oct 2018"
+  },
+  {
+   "say": "He added that the banks were as shocked as the board, and, he was sure, the auditors. Remember the auditors. We'll come back to them.",
+   "visual": {
+    "type": "quote",
+    "text": "the banks were as shocked by things as we, the board were, as I'm sure are the auditors",
+    "by": "Luke Johnson, Oct 2018",
+    "src": "Restaurant Online, 15 Oct 2018"
+   },
+   "src": "Restaurant Online, 15 Oct 2018"
+  },
+  {
+   "say": "Chapter 4. The end of the counter.",
+   "visual": {
+    "type": "chapter",
+    "n": 4,
+    "text": "The end of the counter"
+   },
+   "chapter": "The end of the counter",
+   "pause": 0.5
+  },
+  {
+   "say": "The rescue bought three months. In January 2019 the company could not renew its banking facilities with HSBC and Barclays.",
+   "visual": {
+    "type": "timeline",
+    "date": "Jan 2019",
+    "text": "Bank facilities not renewed",
+    "src": "ITV News, 14 Feb 2019"
+   },
+   "src": "ITV News, 14 Feb 2019"
+  },
+  {
+   "say": "It entered administration, with KPMG appointed as administrator. The company blamed what it called the significant fraud.",
+   "visual": {
+    "type": "quote",
+    "text": "As a direct result of the significant fraud referred to in previous announcements",
+    "by": "Patisserie Holdings, Jan 2019",
+    "src": "The Grocer, Jan 2019"
+   },
+   "src": "The Grocer, Jan 2019"
+  },
+  {
+   "say": "The first wave of closures took in twenty-seven Patisserie Valerie shops, nineteen Druckers cafés, twenty-five concessions, and the Spitalfields bakery.",
+   "visual": {
+    "type": "bars",
+    "title": "First wave of closures",
+    "items": [
+     [
+      "Patisserie Valerie shops",
+      27,
+      "27"
+     ],
+     [
+      "Concessions",
+      25,
+      "25"
+     ],
+     [
+      "Druckers cafés",
+      19,
+      "19"
+     ]
+    ],
+    "hi": 0,
+    "src": "The Grocer, Jan 2019"
+   },
+   "src": "The Grocer, Jan 2019"
+  },
+  {
+   "say": "Nine hundred and twenty people were made redundant.",
+   "visual": {
+    "type": "stat",
+    "value": "920",
+    "label": "redundancies as administration began",
+    "red": true,
+    "src": "The Grocer, Jan 2019"
+   },
+   "src": "The Grocer, Jan 2019"
+  },
+  {
+   "say": "On the twenty-third of January 2019, the shop on Old Compton Street, home to the brand for about seventy years, closed its doors.",
+   "visual": {
+    "type": "timeline",
+    "date": "23 Jan 2019",
+    "text": "Old Compton Street shop closes",
+    "red": true,
+    "src": "Time Out, 23 Jan 2019"
+   },
+   "src": "Time Out, 23 Jan 2019"
+  },
+  {
+   "say": "Johnson made a further interest-free loan, so staff in the surviving business could be paid their January wages.",
+   "visual": {
+    "type": "document",
+    "header": "During administration",
+    "title": "January wages",
+    "lines": [
+     "!Chairman's interest-free loan covered January pay",
+     "122 outlets kept trading"
+    ],
+    "src": "The Grocer, Jan 2019"
+   },
+   "src": "The Grocer, Jan 2019"
+  },
+  {
+   "say": "One hundred and twenty-two outlets kept trading while the administrators looked for a buyer. Mike Ashley's Sports Direct bid, then withdrew, complaining it had been locked out of the process.",
+   "visual": {
+    "type": "stats",
+    "title": "The sale process",
+    "items": [
+     [
+      "122",
+      "outlets still trading"
+     ],
+     [
+      "1",
+      "bidder withdrew: Sports Direct"
+     ]
+    ],
+    "src": "The Grocer, Jan 2019; ITV, Feb 2019"
+   },
+   "src": "ITV News, 14 Feb 2019"
+  },
+  {
+   "say": "In February, the Dublin-based investor Causeway Capital Partners bought ninety-six Patisserie Valerie sites, saving nearly two thousand jobs.",
+   "visual": {
+    "type": "stats",
+    "title": "The buyout, 14 Feb 2019",
+    "items": [
+     [
+      "96",
+      "sites bought by Causeway Capital"
+     ],
+     [
+      "~2,000",
+      "jobs saved"
+     ]
+    ],
+    "src": "ITV News, 14 Feb 2019"
+   },
+   "src": "ITV News, 14 Feb 2019"
+  },
+  {
+   "say": "The brand survived. The listed company, and its shareholders' four hundred and fifty million pound valuation, did not.",
+   "visual": {
+    "type": "title",
+    "text": "The cakes survived. The company didn't."
+   }
+  },
+  {
+   "say": "Chapter 5. Where were the auditors?.",
+   "visual": {
+    "type": "chapter",
+    "n": 5,
+    "text": "Where were the auditors?"
+   },
+   "chapter": "Where were the auditors?",
+   "pause": 0.5
+  },
+  {
+   "say": "Now, that second question. The company's auditor since 2007 was Grant Thornton, and it signed clean audit opinions for 2015, 2016 and 2017.",
+   "visual": {
+    "type": "document",
+    "header": "Statutory auditor since 2007",
+    "title": "Grant Thornton UK",
+    "lines": [
+     "Years ended 30 Sep 2015, 2016, 2017",
+     "!Clean audit opinion every year"
+    ],
+    "src": "FRC press notice, 27 Sep 2021"
+   },
+   "src": "FRC press notice, 27 Sep 2021"
+  },
+  {
+   "say": "In September 2021 the audit regulator, the Financial Reporting Council, published its sanctions. Grant Thornton and its audit partner, David Newstead, had admitted failures.",
+   "visual": {
+    "type": "timeline",
+    "date": "27 Sep 2021",
+    "text": "FRC sanctions published",
+    "src": "FRC press notice, 27 Sep 2021"
+   },
+   "src": "FRC press notice, 27 Sep 2021"
+  },
+  {
+   "say": "The admitted failures covered four areas: revenue, cash, journals, and additions to fixed assets. They happened in every one of the three years.",
+   "visual": {
+    "type": "list",
+    "title": "Admitted failings, 2015 to 2017",
+    "items": [
+     "Revenue",
+     "Cash",
+     "Journals",
+     "Fixed asset additions"
+    ],
+    "src": "FRC press notice, 27 Sep 2021"
+   },
+   "src": "FRC press notice, 27 Sep 2021"
+  },
+  {
+   "say": "The FRC said they reflected lapses in professional judgement, professional scepticism, audit evidence and documentation.",
+   "visual": {
+    "type": "stats",
+    "title": "What lapsed, per the FRC",
+    "items": [
+     [
+      "Judgement",
+      "professional judgement"
+     ],
+     [
+      "Scepticism",
+      "professional scepticism"
+     ],
+     [
+      "Evidence",
+      "audit evidence & records"
+     ]
+    ],
+    "src": "FRC press notice, 27 Sep 2021"
+   },
+   "src": "FRC press notice, 27 Sep 2021"
+  },
+  {
+   "say": "The regulator's deputy executive counsel, Claudia Mortimore, said the case showed a serious lack of competence in conducting the audit work.",
+   "visual": {
+    "type": "quote",
+    "text": "a serious lack of competence in conducting the audit work",
+    "by": "Claudia Mortimore, FRC, Sep 2021",
+    "src": "FRC press notice, 27 Sep 2021"
+   },
+   "src": "FRC press notice, 27 Sep 2021"
+  },
+  {
+   "say": "She listed missed red flags, a failure to obtain enough audit evidence, and a failure to stand back and question what management provided.",
+   "visual": {
+    "type": "quote",
+    "text": "a failure to stand back and question information provided by management",
+    "by": "FRC, as reported, Sep 2021",
+    "src": "FRC press notice, 27 Sep 2021"
+   },
+   "src": "FRC press notice, 27 Sep 2021"
+  },
+  {
+   "say": "Press reports of the decision gave examples. Third-party invoices were accepted despite missing branding, typing errors and wrong addresses.",
+   "visual": {
+    "type": "document",
+    "header": "Reported from the FRC decision",
+    "title": "Invoices accepted",
+    "lines": [
+     "Branding missing",
+     "Typing errors",
+     "!Incorrect addresses"
+    ],
+    "src": "Yahoo News report of FRC notice, Sep 2021"
+   },
+   "src": "Yahoo News report of FRC notice, Sep 2021"
+  },
+  {
+   "say": "And in 2016, three quarters of the year's voucher income was reportedly paid in a single transaction. The auditors didn't ask about it.",
+   "visual": {
+    "type": "stat",
+    "value": "¾",
+    "label": "of 2016 voucher income in one transaction, as reported",
+    "red": true,
+    "src": "Yahoo News report of FRC notice, Sep 2021"
+   },
+   "src": "Yahoo News report of FRC notice, Sep 2021"
+  },
+  {
+   "say": "The fines. Grant Thornton's starting sanction was four million pounds, cut to two point three four million after discounts for admissions and cooperation.",
+   "visual": {
+    "type": "bars",
+    "title": "Grant Thornton's fine",
+    "items": [
+     [
+      "Starting sanction",
+      4,
+      "£4m"
+     ],
+     [
+      "After discounts",
+      2.34,
+      "£2.34m"
+     ]
+    ],
+    "hi": 1,
+    "src": "FRC press notice, 27 Sep 2021"
+   },
+   "src": "FRC press notice, 27 Sep 2021"
+  },
+  {
+   "say": "David Newstead's fine fell from one hundred and fifty thousand pounds to eighty-seven thousand, seven hundred and fifty, with a three-year ban on signing audits.",
+   "visual": {
+    "type": "stats",
+    "title": "Audit partner",
+    "items": [
+     [
+      "£87,750",
+      "fine after discounts"
+     ],
+     [
+      "3 years",
+      "barred from statutory audit"
+     ]
+    ],
+    "hi": 0,
+    "src": "FRC press notice, 27 Sep 2021"
+   },
+   "src": "FRC press notice, 27 Sep 2021"
+  },
+  {
+   "say": "Both received a severe reprimand, and a declaration that each audit report failed to meet the required standards.",
+   "visual": {
+    "type": "document",
+    "header": "FRC sanctions",
+    "title": "Declaration",
+    "lines": [
+     "Severe reprimand",
+     "!Audit reports did not meet the Relevant Requirements"
+    ],
+    "stamp": "SEVERE REPRIMAND",
+    "src": "FRC press notice, 27 Sep 2021"
+   },
+   "src": "FRC press notice, 27 Sep 2021"
+  },
+  {
+   "say": "The FRC also ordered Grant Thornton to report to it every year for three years on its fixes, review its culture of challenge, and accept extra monitoring of its bank and cash audit work.",
+   "visual": {
+    "type": "list",
+    "title": "Non-financial sanctions",
+    "items": [
+     "Annual reports to the FRC for three years",
+     "Review of the firm's culture of challenge",
+     "Extra monitoring of bank and cash audit work"
+    ],
+    "src": "FRC press notice, 27 Sep 2021"
+   },
+   "src": "FRC press notice, 27 Sep 2021"
+  },
+  {
+   "say": "There was a civil case too. The administrators sought around two hundred million pounds from Grant Thornton. In 2022 it was settled for an undisclosed multi-million pound sum.",
+   "visual": {
+    "type": "stats",
+    "title": "Claim against the auditor",
+    "items": [
+     [
+      "~£200m",
+      "damages sought by administrators"
+     ],
+     [
+      "2022",
+      "settled, sum undisclosed"
+     ]
+    ],
+    "hi": 0,
+    "src": "Consultancy.uk, 30 Jun 2022"
+   },
+   "src": "Consultancy.uk, 30 Jun 2022"
+  },
+  {
+   "say": "Luke Johnson, who is not accused of any wrongdoing, was among the largest creditors. He has said other executive directors misled him with a false picture of the finances, Consultancy.uk reported.",
+   "visual": {
+    "type": "document",
+    "header": "As reported, June 2022",
+    "title": "The chairman's account",
+    "lines": [
+     "Not accused of wrongdoing",
+     "!Says he was given a false picture of the finances"
+    ],
+    "src": "Consultancy.uk, 30 Jun 2022"
+   },
+   "src": "Consultancy.uk, 30 Jun 2022"
+  },
+  {
+   "say": "Chapter 6. The criminal case.",
+   "visual": {
+    "type": "chapter",
+    "n": 6,
+    "text": "The criminal case"
+   },
+   "chapter": "The criminal case",
+   "pause": 0.5
+  },
+  {
+   "say": "Back to the Serious Fraud Office. In June 2019, five more people were arrested and interviewed, in a joint operation with three police forces.",
+   "visual": {
+    "type": "timeline",
+    "date": "18 Jun 2019",
+    "text": "Five arrested and interviewed",
+    "src": "The Caterer, 24 Jun 2019"
+   },
+   "src": "The Caterer, 24 Jun 2019"
+  },
+  {
+   "say": "Then, nearly five years after the collapse, in September 2023, the SFO charged four people.",
+   "visual": {
+    "type": "timeline",
+    "date": "13 Sep 2023",
+    "text": "Four people charged",
+    "red": true,
+    "src": "SFO case page: Patisserie Holdings plc"
+   },
+   "src": "SFO case page: Patisserie Holdings plc"
+  },
+  {
+   "say": "They are Christopher Marsh, the former finance director; Louise Marsh, an accountant and his wife; Pritesh Mistry, the financial controller; and Nileshkumar Lad, a financial consultant.",
+   "visual": {
+    "type": "list",
+    "title": "Charged, September 2023",
+    "items": [
+     "Christopher Marsh, former finance director",
+     "Louise Marsh, accountant",
+     "Pritesh Mistry, financial controller",
+     "Nileshkumar Lad, financial consultant"
+    ],
+    "src": "SFO case page: Patisserie Holdings plc"
+   },
+   "src": "SFO case page: Patisserie Holdings plc"
+  },
+  {
+   "say": "The SFO's director at the time, Lisa Osofsky, said the collapse rocked our high streets, leaving boarded-up shops and devastating job losses.",
+   "visual": {
+    "type": "quote",
+    "text": "Patisserie Valerie's abrupt collapse rocked our high streets – leaving boarded-up shops, devastating job losses",
+    "by": "Lisa Osofsky, SFO director, 2023",
+    "src": "SFO press release, 13 Sep 2023"
+   },
+   "src": "SFO press release, 13 Sep 2023"
+  },
+  {
+   "say": "The SFO alleges they conspired to inflate the cash in the company's balance sheets and annual reports from 2015 to 2018, including by giving false documents to the auditors.",
+   "visual": {
+    "type": "document",
+    "header": "SFO allegation, not a finding",
+    "title": "The charge",
+    "lines": [
+     "Conspiracy to inflate cash, 2015 to 2018",
+     "!Allegedly incl. false documents to auditors"
+    ],
+    "stamp": "ALLEGED",
+    "src": "SFO press release, 13 Sep 2023"
+   },
+   "src": "SFO press release, 13 Sep 2023"
+  },
+  {
+   "say": "The SFO says the company reported twenty-eight million pounds in its accounts, while ten million pounds of debt was hidden from investors and creditors. That is the prosecution's case, and it is untested in court.",
+   "visual": {
+    "type": "bars",
+    "title": "The SFO's allegation",
+    "items": [
+     [
+      "Reported in accounts",
+      28,
+      "£28m"
+     ],
+     [
+      "Debt allegedly hidden",
+      10,
+      "£10m"
+     ]
+    ],
+    "hi": 1,
+    "src": "SFO press release, 13 Sep 2023"
+   },
+   "src": "SFO press release, 13 Sep 2023"
+  },
+  {
+   "say": "On the twenty-sixth of April 2024, at Southwark Crown Court, all four pleaded not guilty to all charges.",
+   "visual": {
+    "type": "timeline",
+    "date": "26 Apr 2024",
+    "text": "All four plead not guilty",
+    "src": "SFO case page: Patisserie Holdings plc"
+   },
+   "src": "SFO case page: Patisserie Holdings plc"
+  },
+  {
+   "say": "The trial was listed for March 2026. Then, on the ninth of February 2026, it was relisted for the fourth of January 2028.",
+   "visual": {
+    "type": "stats",
+    "title": "Trial date",
+    "items": [
+     [
+      "Mar 2026",
+      "first listing"
+     ],
+     [
+      "4 Jan 2028",
+      "relisted on 9 Feb 2026"
+     ]
+    ],
+    "hi": 1,
+    "src": "SFO case page: Patisserie Holdings plc"
+   },
+   "src": "SFO case page: Patisserie Holdings plc"
+  },
+  {
+   "say": "The published listings give no reason for the delay. By then, it will be more than nine years since the investigation began.",
+   "visual": {
+    "type": "stat",
+    "value": "9+ years",
+    "label": "from investigation to trial date",
+    "red": true,
+    "src": "Accountancy Daily, 10 Feb 2026"
+   },
+   "src": "Accountancy Daily, 10 Feb 2026"
+  },
+  {
+   "say": "So, to be precise: the irregularities and the hidden overdrafts were the company's own disclosures. The audit failings are the regulator's findings. The fraud charges are allegations, and all four deny them.",
+   "visual": {
+    "type": "list",
+    "title": "What kind of fact is it?",
+    "items": [
+     "Company disclosure: irregularities, mis-stated cash, overdrafts",
+     "Regulator finding: audit failings, admitted",
+     "Allegation only: the fraud charges, denied"
+    ]
+   }
+  },
+  {
+   "say": "Chapter 7. Our analysis.",
+   "visual": {
+    "type": "chapter",
+    "n": 7,
+    "text": "Our analysis"
+   },
+   "chapter": "Our analysis",
+   "pause": 0.5
+  },
+  {
+   "say": "Here's what we think the paperwork shows. First: cash is supposed to be the hardest number to fake.",
+   "visual": {
+    "type": "title",
+    "text": "Cash is the hardest number to fake.",
+    "sub": "Our analysis"
+   }
+  },
+  {
+   "say": "Profits involve judgement. A bank balance should be one phone call to the bank away. Yet the company itself admitted its historical cash statements were wrong.",
+   "visual": {
+    "type": "quote",
+    "text": "Historical statements on the cash position of the Company were mis-stated",
+    "by": "Patisserie Holdings, 12 Oct 2018",
+    "src": "Patisserie Holdings placing announcement, 12 Oct 2018"
+   },
+   "src": "Patisserie Holdings placing announcement, 12 Oct 2018"
+  },
+  {
+   "say": "Second: the warning signs weren't hidden in some vault. The regulator found missed red flags across three separate audit years, and the firm admitted it.",
+   "visual": {
+    "type": "stat",
+    "value": "3 years",
+    "label": "of admitted audit failings, 2015 to 2017",
+    "src": "FRC press notice, 27 Sep 2021"
+   },
+   "src": "FRC press notice, 27 Sep 2021"
+  },
+  {
+   "say": "Third: the first to pay were staff and shareholders. Nine hundred and twenty staff were made redundant as administration began. Shareholders saw a four hundred and fifty million pound valuation wiped out.",
+   "visual": {
+    "type": "stats",
+    "title": "Who paid",
+    "items": [
+     [
+      "920",
+      "redundancies"
+     ],
+     [
+      "£450m",
+      "valuation gone"
+     ]
+    ],
+    "hi": 0,
+    "src": "The Grocer, Jan 2019"
+   },
+   "src": "The Grocer, Jan 2019"
+  },
+  {
+   "say": "Fourth: justice is slow. Irregularities disclosed in 2018 will not reach a jury until 2028, and until then, four people remain innocent in law.",
+   "visual": {
+    "type": "timeline",
+    "date": "2018 → 2028",
+    "text": "Discovery to trial: a decade",
+    "red": true,
+    "src": "SFO case page: Patisserie Holdings plc"
+   },
+   "src": "SFO case page: Patisserie Holdings plc"
+  },
+  {
+   "say": "And the comeback? By September 2023, Time Out reported the chain was down to twenty-nine cafés from a peak of one hundred and ninety-three, and was reopening some sites.",
+   "visual": {
+    "type": "bars",
+    "title": "Patisserie Valerie cafés",
+    "items": [
+     [
+      "At peak",
+      193,
+      "193"
+     ],
+     [
+      "Sept 2023",
+      29,
+      "29"
+     ]
+    ],
+    "hi": 1,
+    "src": "Time Out, 4 Sep 2023"
+   },
+   "src": "Time Out, 4 Sep 2023"
+  },
+  {
+   "say": "The new owner inherited a mess. Time Out reported broken ovens left unused for months, unpaid suppliers, and a leaking roof at head office. At one point, money was so short the chain stopped using butter in its puff pastry.",
+   "visual": {
+    "type": "document",
+    "header": "Reported by Time Out, 2023",
+    "title": "What the buyer found",
+    "lines": [
+     "Broken ovens, unused for months",
+     "Unpaid suppliers",
+     "!No butter in the puff pastry"
+    ],
+    "src": "Time Out, 4 Sep 2023"
+   },
+   "src": "Time Out, 4 Sep 2023"
+  },
+  {
+   "say": "Its cakes are still sold in around four hundred Sainsbury's supermarkets. The name outlived the company that owned it.",
+   "visual": {
+    "type": "stat",
+    "value": "~400",
+    "label": "Sainsbury's stores selling its cakes, 2023",
+    "src": "Time Out, 4 Sep 2023"
+   },
+   "src": "Time Out, 4 Sep 2023"
+  },
+  {
+   "say": "Patisserie Valerie wasn't killed by bad cakes. According to the company's own disclosures, it was killed by numbers that weren't true.",
+   "visual": {
+    "type": "title",
+    "text": "Not bad cakes. Bad numbers."
+   },
+   "chapter": "Outro"
+  },
+  {
+   "say": "Every source for this episode is numbered in the description. If we've got something wrong, tell us, and we'll correct it.",
+   "visual": {
+    "type": "title",
+    "text": "Sources in the description"
+   }
+  },
+  {
+   "say": "The next case file is Wirecard, the German payments company. Subscribe so it's waiting for you.",
+   "visual": {
+    "type": "title",
+    "text": "Next case file: Wirecard",
+    "kicker": "Subscribe"
+   },
+   "pause": 1.0
+  }
+ ],
+ "shorts": [
+  {
+   "id": "a",
+   "title": "Patisserie Valerie: worth £450m on Tuesday, frozen by Wednesday #Shorts",
+   "hook": "£450m. Then frozen.",
+   "blurb": "The day Patisserie Valerie's owner disclosed potentially fraudulent accounting irregularities, from the company's own announcements.",
+   "scenes": [
+    {
+     "say": "On a Tuesday in October 2018, Patisserie Valerie's owner was worth about four hundred and fifty million pounds.",
+     "visual": {
+      "type": "stat",
+      "value": "£450m",
+      "label": "stock-market value, 9 Oct 2018",
+      "red": true,
+      "src": "The Grocer, 10 Oct 2018"
+     },
+     "caption": "Worth £450m on Tuesday"
+    },
+    {
+     "say": "The next day, its shares were suspended. The company said it had been notified of significant, and potentially fraudulent, accounting irregularities.",
+     "visual": {
+      "type": "quote",
+      "text": "significant, and potentially fraudulent, accounting irregularities",
+      "by": "Patisserie Holdings, 10 Oct 2018",
+      "src": "News Letter, 10 Oct 2018"
+     },
+     "caption": "Shares suspended on Wednesday"
+    },
+    {
+     "say": "Two days later it admitted its historical statements on cash had been mis-stated. Its estimated net debt was nine point eight million pounds.",
+     "visual": {
+      "type": "stat",
+      "value": "−£9.8m",
+      "label": "estimated net debt, 12 Oct 2018",
+      "red": true,
+      "src": "Patisserie Holdings placing announcement, 12 Oct 2018"
+     },
+     "caption": "Cash statements mis-stated"
+    },
+    {
+     "say": "Rescue shares were offered at fifty pence. Three days earlier they had closed at four hundred and twenty-nine and a half.",
+     "visual": {
+      "type": "bars",
+      "title": "Price per share",
+      "items": [
+       [
+        "9 Oct 2018",
+        429.5,
+        "429.5p"
+       ],
+       [
+        "Rescue placing",
+        50,
+        "50p"
+       ]
+      ],
+      "hi": 1,
+      "src": "Patisserie Holdings placing announcement, 12 Oct 2018"
+     },
+     "caption": "429.5p became 50p"
+    },
+    {
+     "say": "Three months later, the company was in administration. The full story is on our channel.",
+     "visual": {
+      "type": "timeline",
+      "date": "Jan 2019",
+      "text": "Administration",
+      "src": "ITV News, 14 Feb 2019"
+     },
+     "caption": "Gone by January"
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "title": "The overdrafts Patisserie Valerie's board didn't know existed #Shorts",
+   "hook": "The secret overdrafts",
+   "blurb": "Two overdrafts at HSBC and Barclays, set up without the board's knowledge, as reported in October 2018.",
+   "scenes": [
+    {
+     "say": "Nine point seven million pounds had been drawn on two overdrafts that Patisserie Valerie's board didn't know existed.",
+     "visual": {
+      "type": "stat",
+      "value": "£9.7m",
+      "label": "drawn on overdrafts unknown to the board",
+      "red": true,
+      "src": "Restaurant Online, 15 Oct 2018"
+     },
+     "caption": "£9.7m the board didn't know about"
+    },
+    {
+     "say": "They were at HSBC and Barclays, and had been set up without the board's knowledge, the trade press reported in October 2018.",
+     "visual": {
+      "type": "document",
+      "header": "Discovered, Oct 2018",
+      "title": "Two overdrafts",
+      "lines": [
+       "HSBC and Barclays",
+       "!Set up without the board's knowledge"
+      ],
+      "src": "Restaurant Online, 15 Oct 2018"
+     },
+     "caption": "HSBC and Barclays"
+    },
+    {
+     "say": "The chairman, Luke Johnson, told The Sunday Times: I didn't even know there were bank overdraft facilities.",
+     "visual": {
+      "type": "quote",
+      "text": "I didn't even know there were bank overdraft facilities.",
+      "by": "Luke Johnson to The Sunday Times",
+      "src": "Restaurant Online, 15 Oct 2018"
+     },
+     "caption": "\"I didn't even know\""
+    },
+    {
+     "say": "He said the banks were as shocked as the board. Three months later, the company could not renew its facilities with those banks. The full story is on our channel.",
+     "visual": {
+      "type": "timeline",
+      "date": "Jan 2019",
+      "text": "Banking facilities not renewed",
+      "src": "ITV News, 14 Feb 2019"
+     },
+     "caption": "Facilities not renewed"
+    }
+   ]
+  },
+  {
+   "id": "c",
+   "title": "Who paid when Patisserie Valerie collapsed? 920 redundancies #Shorts",
+   "hook": "Who paid? 920 staff.",
+   "blurb": "The first wave of Patisserie Valerie closures in administration, from the closure list.",
+   "scenes": [
+    {
+     "say": "Nine hundred and twenty people were made redundant as Patisserie Valerie's owner went into administration.",
+     "visual": {
+      "type": "stat",
+      "value": "920",
+      "label": "redundancies as administration began",
+      "red": true,
+      "src": "The Grocer, Jan 2019"
+     },
+     "caption": "920 redundancies"
+    },
+    {
+     "say": "Twenty-seven Patisserie Valerie shops closed, with nineteen Druckers cafés, twenty-five concessions and the Spitalfields bakery.",
+     "visual": {
+      "type": "bars",
+      "title": "First wave of closures",
+      "items": [
+       [
+        "PV shops",
+        27,
+        "27"
+       ],
+       [
+        "Concessions",
+        25,
+        "25"
+       ],
+       [
+        "Druckers cafés",
+        19,
+        "19"
+       ]
+      ],
+      "hi": 0,
+      "src": "The Grocer, Jan 2019"
+     },
+     "caption": "71 outlets and a bakery"
+    },
+    {
+     "say": "The company said it was a direct result of the significant fraud referred to in its previous announcements.",
+     "visual": {
+      "type": "quote",
+      "text": "As a direct result of the significant fraud referred to in previous announcements",
+      "by": "Patisserie Holdings, Jan 2019",
+      "src": "The Grocer, Jan 2019"
+     },
+     "caption": "\"The significant fraud\""
+    },
+    {
+     "say": "The original Soho shop, on Old Compton Street for about seventy years, closed on the twenty-third of January 2019. The full story is on our channel.",
+     "visual": {
+      "type": "timeline",
+      "date": "23 Jan 2019",
+      "text": "Old Compton Street closes",
+      "src": "Time Out, 23 Jan 2019"
+     },
+     "caption": "Soho's original shop closed"
+    }
+   ]
+  },
+  {
+   "id": "d",
+   "title": "Patisserie Valerie's auditor missed the red flags – the FRC's verdict #Shorts",
+   "hook": "The warning was on the record",
+   "blurb": "What the Financial Reporting Council found, and Grant Thornton admitted, about three years of audits.",
+   "scenes": [
+    {
+     "say": "For three years running, Patisserie Valerie's auditor signed off accounts that the regulator later found were audited without enough evidence.",
+     "visual": {
+      "type": "stat",
+      "value": "3 years",
+      "label": "of admitted audit failings, 2015 to 2017",
+      "red": true,
+      "src": "FRC press notice, 27 Sep 2021"
+     },
+     "caption": "Three years of failed audits"
+    },
+    {
+     "say": "The Financial Reporting Council said Grant Thornton missed red flags and failed to stand back and question information provided by management.",
+     "visual": {
+      "type": "quote",
+      "text": "a failure to stand back and question information provided by management",
+      "by": "FRC, Sep 2021",
+      "src": "FRC press notice, 27 Sep 2021"
+     },
+     "caption": "\"Missed red flags\""
+    },
+    {
+     "say": "Press reports of the decision said three quarters of 2016's voucher income came in a single transaction, and nobody asked about it.",
+     "visual": {
+      "type": "stat",
+      "value": "¾",
+      "label": "of 2016 voucher income in one payment, as reported",
+      "red": true,
+      "src": "Yahoo News report of FRC notice, Sep 2021"
+     },
+     "caption": "¾ of voucher income, one payment"
+    },
+    {
+     "say": "Grant Thornton admitted the failings. Its fine was cut from four million pounds to two point three four million. The full story is on our channel.",
+     "visual": {
+      "type": "bars",
+      "title": "Grant Thornton's fine",
+      "items": [
+       [
+        "Starting sanction",
+        4,
+        "£4m"
+       ],
+       [
+        "After discounts",
+        2.34,
+        "£2.34m"
+       ]
+      ],
+      "hi": 1,
+      "src": "FRC press notice, 27 Sep 2021"
+     },
+     "caption": "£4m fine cut to £2.34m"
+    }
+   ]
+  },
+  {
+   "id": "e",
+   "title": "Patisserie Valerie collapsed in 2019. The fraud trial is in 2028 #Shorts",
+   "hook": "Trial date: 2028",
+   "blurb": "The Serious Fraud Office's case so far: charges, not-guilty pleas, and a trial moved to January 2028.",
+   "scenes": [
+    {
+     "say": "Patisserie Valerie collapsed in 2019, but its fraud trial won't start until January 2028.",
+     "visual": {
+      "type": "timeline",
+      "date": "4 Jan 2028",
+      "text": "Trial relisted",
+      "src": "SFO case page: Patisserie Holdings plc"
+     },
+     "caption": "Trial: January 2028"
+    },
+    {
+     "say": "The Serious Fraud Office opened its investigation in October 2018, and charged four people in September 2023.",
+     "visual": {
+      "type": "timeline",
+      "date": "13 Sep 2023",
+      "text": "Four people charged",
+      "src": "SFO case page: Patisserie Holdings plc"
+     },
+     "caption": "Charged five years later"
+    },
+    {
+     "say": "On the twenty-sixth of April 2024, all four pleaded not guilty to all charges. They remain innocent in law.",
+     "visual": {
+      "type": "title",
+      "text": "Not guilty pleas, 26 Apr 2024",
+      "sub": "No one has been convicted.",
+      "src": "SFO case page: Patisserie Holdings plc"
+     },
+     "caption": "All four deny the charges"
+    },
+    {
+     "say": "The trial was due in March 2026. In February it was relisted for 2028, more than nine years after the investigation began. The full story is on our channel.",
+     "visual": {
+      "type": "stat",
+      "value": "9+ years",
+      "label": "from investigation to trial date",
+      "red": true,
+      "src": "Accountancy Daily, 10 Feb 2026"
+     },
+     "caption": "9+ years to reach a jury"
+    }
+   ]
+  },
+  {
+   "id": "f",
+   "title": "£28m in the accounts – what the SFO alleges about Patisserie Valerie #Shorts",
+   "hook": "Not a theory: the SFO charge",
+   "blurb": "The Serious Fraud Office's allegation, set out in its charging announcement. The four accused deny it.",
+   "scenes": [
+    {
+     "say": "Patisserie Valerie reported twenty-eight million pounds in its accounts. The Serious Fraud Office alleges ten million pounds of debt was hidden.",
+     "visual": {
+      "type": "bars",
+      "title": "The SFO's allegation",
+      "items": [
+       [
+        "Reported in accounts",
+        28,
+        "£28m"
+       ],
+       [
+        "Debt allegedly hidden",
+        10,
+        "£10m"
+       ]
+      ],
+      "hi": 1,
+      "src": "SFO press release, 13 Sep 2023"
+     },
+     "caption": "£28m reported, £10m debt alleged hidden"
+    },
+    {
+     "say": "It alleges four people conspired to inflate the cash in the company's balance sheets and annual reports, from 2015 to 2018.",
+     "visual": {
+      "type": "document",
+      "header": "SFO allegation, not a finding",
+      "title": "The charge",
+      "lines": [
+       "Conspiracy to inflate cash, 2015 to 2018"
+      ],
+      "stamp": "ALLEGED",
+      "src": "SFO press release, 13 Sep 2023"
+     },
+     "caption": "Alleged: inflating cash"
+    },
+    {
+     "say": "The SFO says this included giving false documents to the company's auditors.",
+     "visual": {
+      "type": "document",
+      "header": "SFO allegation",
+      "title": "The auditors",
+      "lines": [
+       "!Allegedly given false documents"
+      ],
+      "src": "SFO press release, 13 Sep 2023"
+     },
+     "caption": "Alleged: false documents"
+    },
+    {
+     "say": "All four have pleaded not guilty. None of this has been tested before a jury. The full story is on our channel.",
+     "visual": {
+      "type": "title",
+      "text": "Denied. Untested.",
+      "sub": "Trial listed for January 2028",
+      "src": "SFO case page: Patisserie Holdings plc"
+     },
+     "caption": "Denied and untested"
+    }
+   ]
+  },
+  {
+   "id": "g",
+   "title": "From Soho in 1926 to 193 cafés – and back to 29 #Shorts",
+   "hook": "193 cafés. Then 29.",
+   "blurb": "How Patisserie Valerie's name outlived the listed company that owned it.",
+   "scenes": [
+    {
+     "say": "Patisserie Valerie went from one hundred and ninety-three cafés to twenty-nine.",
+     "visual": {
+      "type": "bars",
+      "title": "Patisserie Valerie cafés",
+      "items": [
+       [
+        "At peak",
+        193,
+        "193"
+       ],
+       [
+        "Sept 2023",
+        29,
+        "29"
+       ]
+      ],
+      "hi": 1,
+      "src": "Time Out, 4 Sep 2023"
+     },
+     "caption": "193 cafés became 29"
+    },
+    {
+     "say": "It began in 1926, on Frith Street in Soho, with a Belgian woman remembered as Madame Valerie.",
+     "visual": {
+      "type": "timeline",
+      "date": "1926",
+      "text": "Frith Street, Soho",
+      "src": "Time Out, 23 Jan 2019"
+     },
+     "caption": "Soho, 1926"
+    },
+    {
+     "say": "After its owner collapsed in 2019, Causeway Capital Partners bought ninety-six sites and saved nearly two thousand jobs.",
+     "visual": {
+      "type": "stat",
+      "value": "96",
+      "label": "sites bought by Causeway Capital, Feb 2019",
+      "red": false,
+      "src": "ITV News, 14 Feb 2019"
+     },
+     "caption": "96 sites rescued"
+    },
+    {
+     "say": "By 2023 it was reopening cafés, and its cakes were sold in around four hundred Sainsbury's stores. The brand survived. The listed company didn't. The full story is on our channel.",
+     "visual": {
+      "type": "stat",
+      "value": "~400",
+      "label": "Sainsbury's stores selling its cakes, 2023",
+      "red": false,
+      "src": "Time Out, 4 Sep 2023"
+     },
+     "caption": "The name survived"
+    }
+   ]
+  }
+ ]
+}
