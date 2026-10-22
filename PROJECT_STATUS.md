@@ -1,6 +1,6 @@
 # PROJECT_STATUS — Filed Under Failure
 
-_Last updated: 2026-10-22 (11:00 PKT)_
+_Last updated: 2026-10-22 (14:10 PKT)_
 
 ## Goal
 Faceless business-collapse documentary channel. Daily Short + weekly long episode, free tools only, hands-off, reach YPP honestly.
@@ -22,6 +22,7 @@ Faceless business-collapse documentary channel. Daily Short + weekly long episod
 - 004 rollout: all scheduled on YouTube except 004-g (auto-queued next).
 
 ## Blockers
+- 22 Oct 14:10 (monitor): social/queue.json has no posts after 22 Oct; social batch ran twice today (incl. monitor retry 13:44) but pushed nothing — Qazi to check. YouTube OK through 29 Oct (004-g queues automatically).
 - Renderer lives in the control-room artifact (pipeline/*.py.txt); render with python3.13 + Poppins/Lora fonts from raw.githubusercontent.com/google/fonts.
 
 ## Next steps
