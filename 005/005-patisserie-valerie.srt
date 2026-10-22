@@ -1,0 +1,859 @@
+1
+00:00:00,150 --> 00:00:04,301
+On a Tuesday in October 2018, Patisserie Valerie's owner
+
+2
+00:00:04,301 --> 00:00:08,303
+was worth about four hundred and fifty million pounds.
+
+3
+00:00:08,303 --> 00:00:11,787
+By Wednesday afternoon, its shares were frozen.
+
+4
+00:00:12,450 --> 00:00:14,978
+The company said it had been notified
+
+5
+00:00:14,978 --> 00:00:19,762
+of significant, and potentially fraudulent, accounting irregularities.
+
+6
+00:00:20,416 --> 00:00:22,879
+Within days, its chairman said he hadn't
+
+7
+00:00:22,879 --> 00:00:25,526
+even known the company had bank overdrafts.
+
+8
+00:00:25,526 --> 00:00:28,973
+There were two of them, worth almost ten million pounds.
+
+9
+00:00:29,649 --> 00:00:33,956
+Eight years on, nobody has been convicted of anything.
+
+10
+00:00:33,956 --> 00:00:38,183
+The criminal trial has just been pushed back to 2028.
+
+11
+00:00:38,783 --> 00:00:42,248
+So what does the official record actually establish?
+
+12
+00:00:42,248 --> 00:00:46,379
+And who saw the warning signs, years earlier, and missed them?
+
+13
+00:00:46,379 --> 00:00:48,511
+Hold on to that second question.
+
+14
+00:00:49,350 --> 00:00:54,442
+We go through the paperwork: the company's own stock-market announcements, the
+
+15
+00:00:54,442 --> 00:00:59,012
+audit regulator's sanctions, and the Serious Fraud Office's case file.
+
+16
+00:00:59,683 --> 00:01:01,023
+Chapter 1.
+
+17
+00:01:01,023 --> 00:01:03,971
+A cake shop from 1926.
+
+18
+00:01:04,616 --> 00:01:08,953
+The story starts in 1926, on Frith Street in Soho,
+
+19
+00:01:08,953 --> 00:01:13,724
+with a Belgian woman remembered only as Madame Valerie.
+
+20
+00:01:14,416 --> 00:01:18,485
+The first café was bombed during the Second World War.
+
+21
+00:01:18,485 --> 00:01:21,950
+In the 1940s it moved around the corner to Old
+
+22
+00:01:21,950 --> 00:01:26,245
+Compton Street, and stayed there for about seventy years.
+
+23
+00:01:26,916 --> 00:01:29,974
+By 2018 the brand had grown into a listed
+
+24
+00:01:29,974 --> 00:01:35,567
+company, Patisserie Holdings, with almost two hundred high-street bakeries.
+
+25
+00:01:36,250 --> 00:01:41,195
+On paper it was a rare thing: a cake chain the stock market adored.
+
+26
+00:01:41,195 --> 00:01:44,591
+On the ninth of October 2018 its shares closed
+
+27
+00:01:44,591 --> 00:01:48,208
+at four hundred and twenty-nine and a half pence.
+
+28
+00:01:48,883 --> 00:01:50,925
+The man in the chair was Luke
+
+29
+00:01:50,925 --> 00:01:54,868
+Johnson, the executive chairman and largest shareholder.
+
+30
+00:01:54,868 --> 00:01:57,474
+The finance director was Chris Marsh.
+
+31
+00:01:58,149 --> 00:02:00,061
+Keep that word cash in mind.
+
+32
+00:02:00,061 --> 00:02:04,976
+Everything in this story turns on how much of it the company really had.
+
+33
+00:02:05,583 --> 00:02:06,794
+Chapter 2.
+
+34
+00:02:06,794 --> 00:02:10,063
+Wednesday, 10 October 2018.
+
+35
+00:02:10,716 --> 00:02:14,478
+On Wednesday the tenth of October 2018, Patisserie
+
+36
+00:02:14,478 --> 00:02:17,864
+Holdings told the market it had been notified
+
+37
+00:02:17,864 --> 00:02:23,131
+of significant, and potentially fraudulent, accounting irregularities.
+
+38
+00:02:23,883 --> 00:02:29,257
+It said the irregularities had significantly impacted its cash position, and
+
+39
+00:02:29,257 --> 00:02:33,924
+might lead to a material change in its overall financial position.
+
+40
+00:02:34,583 --> 00:02:37,828
+It asked for its shares to be suspended, and said
+
+41
+00:02:37,828 --> 00:02:41,471
+its finance chief, Chris Marsh, had been suspended too.
+
+42
+00:02:42,149 --> 00:02:44,849
+Its shares traded on AIM, the London
+
+43
+00:02:44,849 --> 00:02:48,899
+Stock Exchange's market for smaller growing companies.
+
+44
+00:02:48,899 --> 00:02:52,424
+A suspension means nobody can buy or sell them.
+
+45
+00:02:52,424 --> 00:02:54,299
+Investors were locked in.
+
+46
+00:02:54,983 --> 00:02:57,613
+There was a second disclosure that day.
+
+47
+00:02:57,613 --> 00:03:01,593
+The taxman had filed a winding-up petition against the main
+
+48
+00:03:01,593 --> 00:03:06,179
+trading company, Stonebeach, over one point one four million pounds.
+
+49
+00:03:06,849 --> 00:03:11,319
+A company valued at four hundred and fifty million pounds, facing
+
+50
+00:03:11,319 --> 00:03:15,308
+a court petition over one point one million pounds of tax.
+
+51
+00:03:15,308 --> 00:03:19,090
+That doesn't add up, and it was the first public crack.
+
+52
+00:03:19,750 --> 00:03:23,291
+Luke Johnson said: we are all deeply concerned about
+
+53
+00:03:23,291 --> 00:03:26,764
+this news and the potential impact on the business.
+
+54
+00:03:27,416 --> 00:03:32,940
+Two days later, the Serious Fraud Office opened a criminal investigation.
+
+55
+00:03:32,940 --> 00:03:35,437
+Its codename was Operation Venom.
+
+56
+00:03:36,049 --> 00:03:39,424
+By the following week, the trade press reported that
+
+57
+00:03:39,424 --> 00:03:42,668
+the finance director had been arrested and bailed.
+
+58
+00:03:42,668 --> 00:03:45,329
+Being arrested is not a finding of guilt.
+
+59
+00:03:45,983 --> 00:03:46,777
+Chapter 3.
+
+60
+00:03:46,777 --> 00:03:49,396
+The overdrafts nobody knew about.
+
+61
+00:03:50,049 --> 00:03:54,405
+On the twelfth of October the company published a rescue plan.
+
+62
+00:03:54,405 --> 00:03:57,004
+It began with a remarkable admission.
+
+63
+00:03:57,616 --> 00:04:00,565
+Its words: historical statements on the cash
+
+64
+00:04:00,565 --> 00:04:03,245
+position of the Company were mis-stated.
+
+65
+00:04:03,916 --> 00:04:07,546
+Instead of cash in the bank, the board now estimated
+
+66
+00:04:07,546 --> 00:04:11,036
+net debt of about nine point eight million pounds.
+
+67
+00:04:11,716 --> 00:04:14,664
+It said it needed an immediate cash injection
+
+68
+00:04:14,664 --> 00:04:17,154
+of no less than twenty million pounds.
+
+69
+00:04:17,154 --> 00:04:19,643
+Without it, there was no scope for the
+
+70
+00:04:19,643 --> 00:04:22,657
+group to continue trading in its current form.
+
+71
+00:04:23,383 --> 00:04:25,469
+The money came from two places.
+
+72
+00:04:25,469 --> 00:04:30,582
+Luke Johnson offered a ten million pound loan for three years, interest free
+
+73
+00:04:30,582 --> 00:04:34,686
+and fee free, plus a bridging loan of up to ten million more.
+
+74
+00:04:35,349 --> 00:04:38,000
+And new shares were to be placed at fifty
+
+75
+00:04:38,000 --> 00:04:41,232
+pence each, to raise about fifteen million pounds.
+
+76
+00:04:41,232 --> 00:04:45,952
+Three days earlier, the shares had been worth more than eight times that.
+
+77
+00:04:46,616 --> 00:04:51,166
+Put simply, anyone who bought at the old price had lost almost nine
+
+78
+00:04:51,166 --> 00:04:55,444
+tenths of it, on paper, before the full picture was even known.
+
+79
+00:04:56,116 --> 00:04:58,067
+Then the story got stranger.
+
+80
+00:04:58,067 --> 00:05:01,900
+The company found two overdrafts, at HSBC and Barclays,
+
+81
+00:05:01,900 --> 00:05:05,454
+that had been set up without the board's knowledge.
+
+82
+00:05:06,116 --> 00:05:10,127
+Nine point seven million pounds had been drawn on them.
+
+83
+00:05:10,716 --> 00:05:13,283
+Johnson told The Sunday Times: I didn't
+
+84
+00:05:13,283 --> 00:05:16,376
+even know there were bank overdraft facilities.
+
+85
+00:05:16,376 --> 00:05:18,416
+He called the week a nightmare.
+
+86
+00:05:19,083 --> 00:05:21,675
+He added that the banks were as shocked as
+
+87
+00:05:21,675 --> 00:05:24,267
+the board, and, he was sure, the auditors.
+
+88
+00:05:24,267 --> 00:05:25,625
+Remember the auditors.
+
+89
+00:05:25,625 --> 00:05:27,106
+We'll come back to them.
+
+90
+00:05:27,783 --> 00:05:28,604
+Chapter 4.
+
+91
+00:05:28,604 --> 00:05:30,492
+The end of the counter.
+
+92
+00:05:31,149 --> 00:05:33,729
+The rescue bought three months.
+
+93
+00:05:33,729 --> 00:05:37,308
+In January 2019 the company could not renew
+
+94
+00:05:37,308 --> 00:05:41,136
+its banking facilities with HSBC and Barclays.
+
+95
+00:05:41,816 --> 00:05:46,549
+It entered administration, with KPMG appointed as administrator.
+
+96
+00:05:46,549 --> 00:05:50,691
+The company blamed what it called the significant fraud.
+
+97
+00:05:51,283 --> 00:05:55,831
+The first wave of closures took in twenty-seven Patisserie Valerie
+
+98
+00:05:55,831 --> 00:06:01,689
+shops, nineteen Druckers cafés, twenty-five concessions, and the Spitalfields bakery.
+
+99
+00:06:02,349 --> 00:06:06,019
+Nine hundred and twenty people were made redundant.
+
+100
+00:06:06,616 --> 00:06:11,767
+On the twenty-third of January 2019, the shop on Old Compton Street,
+
+101
+00:06:11,767 --> 00:06:16,311
+home to the brand for about seventy years, closed its doors.
+
+102
+00:06:16,983 --> 00:06:20,758
+Johnson made a further interest-free loan, so staff in
+
+103
+00:06:20,758 --> 00:06:24,742
+the surviving business could be paid their January wages.
+
+104
+00:06:25,416 --> 00:06:28,445
+One hundred and twenty-two outlets kept trading
+
+105
+00:06:28,445 --> 00:06:31,281
+while the administrators looked for a buyer.
+
+106
+00:06:31,281 --> 00:06:35,084
+Mike Ashley's Sports Direct bid, then withdrew, complaining
+
+107
+00:06:35,084 --> 00:06:37,533
+it had been locked out of the process.
+
+108
+00:06:38,249 --> 00:06:43,266
+In February, the Dublin-based investor Causeway Capital Partners bought
+
+109
+00:06:43,266 --> 00:06:48,142
+ninety-six Patisserie Valerie sites, saving nearly two thousand jobs.
+
+110
+00:06:48,816 --> 00:06:50,060
+The brand survived.
+
+111
+00:06:50,060 --> 00:06:53,595
+The listed company, and its shareholders' four hundred
+
+112
+00:06:53,595 --> 00:06:56,409
+and fifty million pound valuation, did not.
+
+113
+00:06:57,083 --> 00:06:57,814
+Chapter 5.
+
+114
+00:06:57,814 --> 00:06:59,643
+Where were the auditors?.
+
+115
+00:07:00,283 --> 00:07:03,052
+Now, that second question.
+
+116
+00:07:03,052 --> 00:07:09,336
+The company's auditor since 2007 was Grant Thornton, and it
+
+117
+00:07:09,336 --> 00:07:14,875
+signed clean audit opinions for 2015, 2016 and 2017.
+
+118
+00:07:15,583 --> 00:07:18,875
+In September 2021 the audit regulator, the
+
+119
+00:07:18,875 --> 00:07:23,030
+Financial Reporting Council, published its sanctions.
+
+120
+00:07:23,030 --> 00:07:28,987
+Grant Thornton and its audit partner, David Newstead, had admitted failures.
+
+121
+00:07:29,649 --> 00:07:33,096
+The admitted failures covered four areas: revenue,
+
+122
+00:07:33,096 --> 00:07:36,266
+cash, journals, and additions to fixed assets.
+
+123
+00:07:36,266 --> 00:07:39,437
+They happened in every one of the three years.
+
+124
+00:07:40,116 --> 00:07:43,796
+The FRC said they reflected lapses in professional
+
+125
+00:07:43,796 --> 00:07:48,875
+judgement, professional scepticism, audit evidence and documentation.
+
+126
+00:07:49,549 --> 00:07:55,215
+The regulator's deputy executive counsel, Claudia Mortimore, said the case showed
+
+127
+00:07:55,215 --> 00:07:59,272
+a serious lack of competence in conducting the audit work.
+
+128
+00:07:59,949 --> 00:08:04,812
+She listed missed red flags, a failure to obtain enough audit evidence,
+
+129
+00:08:04,812 --> 00:08:09,332
+and a failure to stand back and question what management provided.
+
+130
+00:08:10,016 --> 00:08:13,129
+Press reports of the decision gave examples.
+
+131
+00:08:13,129 --> 00:08:16,667
+Third-party invoices were accepted despite missing
+
+132
+00:08:16,667 --> 00:08:19,780
+branding, typing errors and wrong addresses.
+
+133
+00:08:20,449 --> 00:08:24,405
+And in 2016, three quarters of the year's voucher
+
+134
+00:08:24,405 --> 00:08:28,521
+income was reportedly paid in a single transaction.
+
+135
+00:08:28,521 --> 00:08:31,185
+The auditors didn't ask about it.
+
+136
+00:08:31,849 --> 00:08:32,548
+The fines.
+
+137
+00:08:32,548 --> 00:08:37,438
+Grant Thornton's starting sanction was four million pounds, cut to two
+
+138
+00:08:37,438 --> 00:08:42,468
+point three four million after discounts for admissions and cooperation.
+
+139
+00:08:43,149 --> 00:08:46,717
+David Newstead's fine fell from one hundred and fifty
+
+140
+00:08:46,717 --> 00:08:51,160
+thousand pounds to eighty-seven thousand, seven hundred and fifty,
+
+141
+00:08:51,160 --> 00:08:53,852
+with a three-year ban on signing audits.
+
+142
+00:08:54,583 --> 00:08:58,473
+Both received a severe reprimand, and a declaration that
+
+143
+00:08:58,473 --> 00:09:02,364
+each audit report failed to meet the required standards.
+
+144
+00:09:03,049 --> 00:09:07,337
+The FRC also ordered Grant Thornton to report to it every year
+
+145
+00:09:07,337 --> 00:09:11,902
+for three years on its fixes, review its culture of challenge, and
+
+146
+00:09:11,902 --> 00:09:15,775
+accept extra monitoring of its bank and cash audit work.
+
+147
+00:09:16,516 --> 00:09:18,521
+There was a civil case too.
+
+148
+00:09:18,521 --> 00:09:24,459
+The administrators sought around two hundred million pounds from Grant Thornton.
+
+149
+00:09:24,459 --> 00:09:29,359
+In 2022 it was settled for an undisclosed multi-million pound sum.
+
+150
+00:09:29,949 --> 00:09:32,542
+Luke Johnson, who is not accused of
+
+151
+00:09:32,542 --> 00:09:36,097
+any wrongdoing, was among the largest creditors.
+
+152
+00:09:36,097 --> 00:09:40,022
+He has said other executive directors misled him with
+
+153
+00:09:40,022 --> 00:09:44,244
+a false picture of the finances, Consultancy.uk reported.
+
+154
+00:09:44,983 --> 00:09:45,867
+Chapter 6.
+
+155
+00:09:45,867 --> 00:09:47,457
+The criminal case.
+
+156
+00:09:48,116 --> 00:09:50,683
+Back to the Serious Fraud Office.
+
+157
+00:09:50,683 --> 00:09:54,415
+In June 2019, five more people were arrested and
+
+158
+00:09:54,415 --> 00:09:59,004
+interviewed, in a joint operation with three police forces.
+
+159
+00:09:59,683 --> 00:10:03,727
+Then, nearly five years after the collapse, in
+
+160
+00:10:03,727 --> 00:10:07,595
+September 2023, the SFO charged four people.
+
+161
+00:10:08,283 --> 00:10:12,685
+They are Christopher Marsh, the former finance director; Louise
+
+162
+00:10:12,685 --> 00:10:16,459
+Marsh, an accountant and his wife; Pritesh Mistry, the
+
+163
+00:10:16,459 --> 00:10:21,071
+financial controller; and Nileshkumar Lad, a financial consultant.
+
+164
+00:10:21,816 --> 00:10:26,315
+The SFO's director at the time, Lisa Osofsky, said the collapse
+
+165
+00:10:26,315 --> 00:10:31,814
+rocked our high streets, leaving boarded-up shops and devastating job losses.
+
+166
+00:10:32,483 --> 00:10:37,058
+The SFO alleges they conspired to inflate the cash in
+
+167
+00:10:37,058 --> 00:10:42,237
+the company's balance sheets and annual reports from 2015 to
+
+168
+00:10:42,237 --> 00:10:47,244
+2018, including by giving false documents to the auditors.
+
+169
+00:10:48,016 --> 00:10:53,322
+The SFO says the company reported twenty-eight million pounds in its accounts,
+
+170
+00:10:53,322 --> 00:10:58,288
+while ten million pounds of debt was hidden from investors and creditors.
+
+171
+00:10:58,288 --> 00:11:02,369
+That is the prosecution's case, and it is untested in court.
+
+172
+00:11:03,049 --> 00:11:07,659
+On the twenty-sixth of April 2024, at Southwark Crown
+
+173
+00:11:07,659 --> 00:11:12,008
+Court, all four pleaded not guilty to all charges.
+
+174
+00:11:12,683 --> 00:11:16,452
+The trial was listed for March 2026.
+
+175
+00:11:16,452 --> 00:11:20,536
+Then, on the ninth of February 2026, it
+
+176
+00:11:20,536 --> 00:11:25,143
+was relisted for the fourth of January 2028.
+
+177
+00:11:25,849 --> 00:11:29,376
+The published listings give no reason for the delay.
+
+178
+00:11:29,376 --> 00:11:34,191
+By then, it will be more than nine years since the investigation began.
+
+179
+00:11:34,783 --> 00:11:37,911
+So, to be precise: the irregularities and the
+
+180
+00:11:37,911 --> 00:11:41,595
+hidden overdrafts were the company's own disclosures.
+
+181
+00:11:41,595 --> 00:11:44,932
+The audit failings are the regulator's findings.
+
+182
+00:11:44,932 --> 00:11:48,964
+The fraud charges are allegations, and all four deny them.
+
+183
+00:11:49,649 --> 00:11:50,688
+Chapter 7.
+
+184
+00:11:50,688 --> 00:11:52,039
+Our analysis.
+
+185
+00:11:52,683 --> 00:11:55,244
+Here's what we think the paperwork shows.
+
+186
+00:11:55,244 --> 00:11:58,805
+First: cash is supposed to be the hardest number to fake.
+
+187
+00:11:59,416 --> 00:12:01,232
+Profits involve judgement.
+
+188
+00:12:01,232 --> 00:12:05,213
+A bank balance should be one phone call to the bank away.
+
+189
+00:12:05,213 --> 00:12:10,381
+Yet the company itself admitted its historical cash statements were wrong.
+
+190
+00:12:10,983 --> 00:12:14,580
+Second: the warning signs weren't hidden in some vault.
+
+191
+00:12:14,580 --> 00:12:17,785
+The regulator found missed red flags across three
+
+192
+00:12:17,785 --> 00:12:20,859
+separate audit years, and the firm admitted it.
+
+193
+00:12:21,516 --> 00:12:25,102
+Third: the first to pay were staff and shareholders.
+
+194
+00:12:25,102 --> 00:12:30,206
+Nine hundred and twenty staff were made redundant as administration began.
+
+195
+00:12:30,206 --> 00:12:35,447
+Shareholders saw a four hundred and fifty million pound valuation wiped out.
+
+196
+00:12:36,049 --> 00:12:38,260
+Fourth: justice is slow.
+
+197
+00:12:38,260 --> 00:12:43,785
+Irregularities disclosed in 2018 will not reach a jury until
+
+198
+00:12:43,785 --> 00:12:49,035
+2028, and until then, four people remain innocent in law.
+
+199
+00:12:49,716 --> 00:12:50,996
+And the comeback?
+
+200
+00:12:50,996 --> 00:12:56,719
+By September 2023, Time Out reported the chain was down to twenty-nine cafés
+
+201
+00:12:56,719 --> 00:13:02,292
+from a peak of one hundred and ninety-three, and was reopening some sites.
+
+202
+00:13:02,983 --> 00:13:05,191
+The new owner inherited a mess.
+
+203
+00:13:05,191 --> 00:13:09,038
+Time Out reported broken ovens left unused for months,
+
+204
+00:13:09,038 --> 00:13:12,743
+unpaid suppliers, and a leaking roof at head office.
+
+205
+00:13:12,743 --> 00:13:15,307
+At one point, money was so short the
+
+206
+00:13:15,307 --> 00:13:18,584
+chain stopped using butter in its puff pastry.
+
+207
+00:13:19,316 --> 00:13:24,175
+Its cakes are still sold in around four hundred Sainsbury's supermarkets.
+
+208
+00:13:24,175 --> 00:13:27,103
+The name outlived the company that owned it.
+
+209
+00:13:27,716 --> 00:13:30,719
+Patisserie Valerie wasn't killed by bad cakes.
+
+210
+00:13:30,719 --> 00:13:33,722
+According to the company's own disclosures, it
+
+211
+00:13:33,722 --> 00:13:36,334
+was killed by numbers that weren't true.
+
+212
+00:13:36,983 --> 00:13:40,833
+Every source for this episode is numbered in the description.
+
+213
+00:13:40,833 --> 00:13:44,620
+If we've got something wrong, tell us, and we'll correct it.
+
+214
+00:13:45,216 --> 00:13:49,519
+The next case file is Wirecard, the German payments company.
+
+215
+00:13:49,519 --> 00:13:51,957
+Subscribe so it's waiting for you.
