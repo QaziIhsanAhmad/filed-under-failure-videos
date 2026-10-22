@@ -22,6 +22,7 @@ Faceless business-collapse documentary channel. Daily Short + weekly long episod
 - 004 rollout: all scheduled on YouTube except 004-g (auto-queued next).
 
 ## Blockers
+- 22 Oct (monitor, social batch): FAILED at step 3: applying batch.patch (artifact YPvXAv4qjjGx224Jeb1VQY, sha256 OK, touches only social/) was denied by the sandbox auto-mode classifier [Untrusted Code Integration]; nothing pushed.
 - 22 Oct 14:10 (monitor): social/queue.json has no posts after 22 Oct; social batch ran twice today (incl. monitor retry 13:44) but pushed nothing — Qazi to check. YouTube OK through 29 Oct (004-g queues automatically).
 - Renderer lives in the control-room artifact (pipeline/*.py.txt); render with python3.13 + Poppins/Lora fonts from raw.githubusercontent.com/google/fonts.
 
