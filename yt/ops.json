@@ -1738,5 +1738,487 @@
    "items-PLeG-fjD34jcg"
   ],
   "note": "empty duplicate from 15 Oct overlapping runs"
+ },
+ {
+  "id": "pi-003-AOAkm12RI7I",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-003"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-003",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "AOAkm12RI7I"
+    }
+   }
+  }
+ },
+ {
+  "id": "get-AOAkm12RI7I",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=AOAkm12RI7I"
+ },
+ {
+  "id": "upd-AOAkm12RI7I",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "after": [
+   "get-AOAkm12RI7I"
+  ],
+  "transform": {
+   "kind": "replace_line",
+   "prefix": "Full episode",
+   "text": "Full episode ▶ https://youtu.be/vdXslodih6A"
+  },
+  "body": {
+   "id": "AOAkm12RI7I",
+   "snippet": {
+    "title": "Theranos voided every patient result from its own blood-testing machine #Shorts",
+    "categoryId": "27",
+    "description": "@desc:get-AOAkm12RI7I",
+    "tags": [
+     "Theranos",
+     "Elizabeth Holmes",
+     "Theranos verdict",
+     "Sunny Balwani",
+     "business documentary",
+     "fraud trial",
+     "Silicon Valley",
+     "what went wrong"
+    ],
+    "defaultLanguage": "en",
+    "defaultAudioLanguage": "en"
+   }
+  }
+ },
+ {
+  "id": "pl-004",
+  "method": "POST",
+  "path": "/v3/playlists?part=snippet,status",
+  "body": {
+   "snippet": {
+    "title": "Northern Rock Collapse Explained",
+    "description": "What the record shows about the 2007 run on Northern Rock: the full episode first, then the short case notes. From the Treasury Committee report, Bank of England statements and the FSA's own internal audit.",
+    "defaultLanguage": "en"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  }
+ },
+ {
+  "id": "pi-004-sKaLC6A0Igw",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-004"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-004",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "sKaLC6A0Igw"
+    }
+   }
+  }
+ },
+ {
+  "id": "pi-all-sKaLC6A0Igw",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-all"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-all",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "sKaLC6A0Igw"
+    }
+   }
+  }
+ },
+ {
+  "id": "get-sKaLC6A0Igw",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=sKaLC6A0Igw"
+ },
+ {
+  "id": "upd-sKaLC6A0Igw",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "after": [
+   "get-sKaLC6A0Igw",
+   "pl-004",
+   "pl-all"
+  ],
+  "transform": {
+   "kind": "none",
+   "append": "▶ Shorts from this case: https://www.youtube.com/playlist?list=@res:pl-004\n▶ All full episodes: https://www.youtube.com/playlist?list=@res:pl-all\n🔔 Subscribe for the next case file: https://www.youtube.com/@FiledUnderFailure-d6j?sub_confirmation=1"
+  },
+  "body": {
+   "id": "sKaLC6A0Igw",
+   "snippet": {
+    "title": "Why Did Northern Rock Collapse? £4.45bn Withdrawn in 3 Days",
+    "categoryId": "27",
+    "description": "@desc:get-sKaLC6A0Igw",
+    "tags": [
+     "Northern Rock",
+     "bank run",
+     "2008 financial crisis",
+     "UK banking crisis",
+     "Northern Rock collapse",
+     "business documentary",
+     "nationalisation",
+     "what went wrong"
+    ],
+    "defaultLanguage": "en",
+    "defaultAudioLanguage": "en"
+   }
+  }
+ },
+ {
+  "id": "pi-004-9kHvzWHymns",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-004"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-004",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "9kHvzWHymns"
+    }
+   }
+  }
+ },
+ {
+  "id": "get-9kHvzWHymns",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=9kHvzWHymns"
+ },
+ {
+  "id": "upd-9kHvzWHymns",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "after": [
+   "get-9kHvzWHymns"
+  ],
+  "transform": {
+   "kind": "replace_line",
+   "prefix": "Full episode",
+   "text": "Full episode ▶ https://youtu.be/sKaLC6A0Igw"
+  },
+  "body": {
+   "id": "9kHvzWHymns",
+   "snippet": {
+    "title": "Savers pulled £4.45bn out of Northern Rock in three days #Shorts",
+    "categoryId": "27",
+    "description": "@desc:get-9kHvzWHymns",
+    "tags": [
+     "Northern Rock",
+     "bank run",
+     "2008 financial crisis",
+     "UK banking crisis",
+     "Northern Rock collapse",
+     "business documentary",
+     "nationalisation",
+     "what went wrong"
+    ],
+    "defaultLanguage": "en",
+    "defaultAudioLanguage": "en"
+   }
+  }
+ },
+ {
+  "id": "pi-004-ZHXvZTY_pYc",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-004"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-004",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ZHXvZTY_pYc"
+    }
+   }
+  }
+ },
+ {
+  "id": "get-ZHXvZTY_pYc",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=ZHXvZTY_pYc"
+ },
+ {
+  "id": "upd-ZHXvZTY_pYc",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "after": [
+   "get-ZHXvZTY_pYc"
+  ],
+  "transform": {
+   "kind": "replace_line",
+   "prefix": "Full episode",
+   "text": "Full episode ▶ https://youtu.be/sKaLC6A0Igw"
+  },
+  "body": {
+   "id": "ZHXvZTY_pYc",
+   "snippet": {
+    "title": "1,917 loans missing from Northern Rock's bad-loan figures #Shorts",
+    "categoryId": "27",
+    "description": "@desc:get-ZHXvZTY_pYc",
+    "tags": [
+     "Northern Rock",
+     "bank run",
+     "2008 financial crisis",
+     "UK banking crisis",
+     "Northern Rock collapse",
+     "business documentary",
+     "nationalisation",
+     "what went wrong"
+    ],
+    "defaultLanguage": "en",
+    "defaultAudioLanguage": "en"
+   }
+  }
+ },
+ {
+  "id": "pi-004-GpTMCeqeRAo",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-004"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-004",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "GpTMCeqeRAo"
+    }
+   }
+  }
+ },
+ {
+  "id": "get-GpTMCeqeRAo",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=GpTMCeqeRAo"
+ },
+ {
+  "id": "upd-GpTMCeqeRAo",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "after": [
+   "get-GpTMCeqeRAo"
+  ],
+  "transform": {
+   "kind": "replace_line",
+   "prefix": "Full episode",
+   "text": "Full episode ▶ https://youtu.be/sKaLC6A0Igw"
+  },
+  "body": {
+   "id": "GpTMCeqeRAo",
+   "snippet": {
+    "title": "Northern Rock's shareholders got £0. Here's why #Shorts",
+    "categoryId": "27",
+    "description": "@desc:get-GpTMCeqeRAo",
+    "tags": [
+     "Northern Rock",
+     "bank run",
+     "2008 financial crisis",
+     "UK banking crisis",
+     "Northern Rock collapse",
+     "business documentary",
+     "nationalisation",
+     "what went wrong"
+    ],
+    "defaultLanguage": "en",
+    "defaultAudioLanguage": "en"
+   }
+  }
+ },
+ {
+  "id": "pi-004-uG7AAPsinFA",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-004"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-004",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "uG7AAPsinFA"
+    }
+   }
+  }
+ },
+ {
+  "id": "get-uG7AAPsinFA",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=uG7AAPsinFA"
+ },
+ {
+  "id": "upd-uG7AAPsinFA",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "after": [
+   "get-uG7AAPsinFA"
+  ],
+  "transform": {
+   "kind": "replace_line",
+   "prefix": "Full episode",
+   "text": "Full episode ▶ https://youtu.be/sKaLC6A0Igw"
+  },
+  "body": {
+   "id": "uG7AAPsinFA",
+   "snippet": {
+    "title": "Northern Rock's regulator kept no formal records of key meetings #Shorts",
+    "categoryId": "27",
+    "description": "@desc:get-uG7AAPsinFA",
+    "tags": [
+     "Northern Rock",
+     "bank run",
+     "2008 financial crisis",
+     "UK banking crisis",
+     "Northern Rock collapse",
+     "business documentary",
+     "nationalisation",
+     "what went wrong"
+    ],
+    "defaultLanguage": "en",
+    "defaultAudioLanguage": "en"
+   }
+  }
+ },
+ {
+  "id": "pi-004-CK68ozwGawQ",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-004"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-004",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "CK68ozwGawQ"
+    }
+   }
+  }
+ },
+ {
+  "id": "get-CK68ozwGawQ",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=CK68ozwGawQ"
+ },
+ {
+  "id": "upd-CK68ozwGawQ",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "after": [
+   "get-CK68ozwGawQ"
+  ],
+  "transform": {
+   "kind": "replace_line",
+   "prefix": "Full episode",
+   "text": "Full episode ▶ https://youtu.be/sKaLC6A0Igw"
+  },
+  "body": {
+   "id": "CK68ozwGawQ",
+   "snippet": {
+    "title": "Why queuing at Northern Rock wasn't irrational #Shorts",
+    "categoryId": "27",
+    "description": "@desc:get-CK68ozwGawQ",
+    "tags": [
+     "Northern Rock",
+     "bank run",
+     "2008 financial crisis",
+     "UK banking crisis",
+     "Northern Rock collapse",
+     "business documentary",
+     "nationalisation",
+     "what went wrong"
+    ],
+    "defaultLanguage": "en",
+    "defaultAudioLanguage": "en"
+   }
+  }
+ },
+ {
+  "id": "pi-004-iACz_Qwu6Kw",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-004"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-004",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "iACz_Qwu6Kw"
+    }
+   }
+  }
+ },
+ {
+  "id": "get-iACz_Qwu6Kw",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=iACz_Qwu6Kw"
+ },
+ {
+  "id": "upd-iACz_Qwu6Kw",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "after": [
+   "get-iACz_Qwu6Kw"
+  ],
+  "transform": {
+   "kind": "replace_line",
+   "prefix": "Full episode",
+   "text": "Full episode ▶ https://youtu.be/sKaLC6A0Igw"
+  },
+  "body": {
+   "id": "iACz_Qwu6Kw",
+   "snippet": {
+    "title": "Only 23% of Northern Rock's money came from savers #Shorts",
+    "categoryId": "27",
+    "description": "@desc:get-iACz_Qwu6Kw",
+    "tags": [
+     "Northern Rock",
+     "bank run",
+     "2008 financial crisis",
+     "UK banking crisis",
+     "Northern Rock collapse",
+     "business documentary",
+     "nationalisation",
+     "what went wrong"
+    ],
+    "defaultLanguage": "en",
+    "defaultAudioLanguage": "en"
+   }
+  }
  }
 ]
