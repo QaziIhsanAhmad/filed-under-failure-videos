@@ -1,0 +1,915 @@
+1
+00:00:00,150 --> 00:00:04,753
+In three days in September 2007, savers pulled four point
+
+2
+00:00:04,753 --> 00:00:09,114
+four five billion pounds out of a single British bank.
+
+3
+00:00:09,783 --> 00:00:14,898
+That was nearly a fifth of everything its retail customers had deposited.
+
+4
+00:00:14,898 --> 00:00:19,383
+And it happened on television, with queues outside the branches.
+
+5
+00:00:19,983 --> 00:00:23,608
+MPs later called it the first run on the retail
+
+6
+00:00:23,608 --> 00:00:27,927
+deposits of a United Kingdom bank since Victorian times.
+
+7
+00:00:28,616 --> 00:00:30,885
+So why did Northern Rock collapse?
+
+8
+00:00:30,885 --> 00:00:34,889
+Not, the courts would say, because it had run out of assets.
+
+9
+00:00:34,889 --> 00:00:36,957
+Because it had run out of cash.
+
+10
+00:00:37,816 --> 00:00:40,790
+Today we go through the paperwork: the Bank of
+
+11
+00:00:40,790 --> 00:00:45,251
+England's statements, a Commons committee report, the regulator's own
+
+12
+00:00:45,251 --> 00:00:48,354
+internal audit, and a string of court judgments.
+
+13
+00:00:49,083 --> 00:00:52,665
+And later, the strangest number in the whole file: why
+
+14
+00:00:52,665 --> 00:00:56,047
+a bank the stock market still valued at hundreds of
+
+15
+00:00:56,047 --> 00:00:59,894
+millions of pounds was judged to be worth exactly nothing.
+
+16
+00:01:00,616 --> 00:01:01,336
+Chapter 1.
+
+17
+00:01:01,336 --> 00:01:03,709
+The bank that borrowed the world.
+
+18
+00:01:04,349 --> 00:01:10,093
+Northern Rock was a former building society from the north-east of England.
+
+19
+00:01:10,093 --> 00:01:12,237
+By the summer of 2007 it was
+
+20
+00:01:12,237 --> 00:01:16,220
+the country's fifth-largest bank by mortgage assets.
+
+21
+00:01:16,883 --> 00:01:23,402
+In June 1998 its total assets were seventeen point four billion pounds.
+
+22
+00:01:23,402 --> 00:01:29,555
+By June 2007 they were one hundred and thirteen point five billion.
+
+23
+00:01:30,149 --> 00:01:33,120
+That is an average of about twenty-three per
+
+24
+00:01:33,120 --> 00:01:35,821
+cent a year, compounded over nine years.
+
+25
+00:01:36,483 --> 00:01:37,842
+Here's the problem.
+
+26
+00:01:37,842 --> 00:01:41,991
+Over the same period, money from ordinary savers grew only
+
+27
+00:01:41,991 --> 00:01:46,139
+from ten point four billion pounds to twenty-four billion.
+
+28
+00:01:46,816 --> 00:01:50,465
+By the summer of 2007, retail deposits made up
+
+29
+00:01:50,465 --> 00:01:54,353
+just twenty-three per cent of what the bank owed.
+
+30
+00:01:55,016 --> 00:01:59,136
+The economist Hyun Song Shin set out, from the bank's own
+
+31
+00:01:59,136 --> 00:02:04,050
+accounts, that in June 2007 Northern Rock had forty-five point seven
+
+32
+00:02:04,050 --> 00:02:09,687
+billion pounds of securitised notes, another twenty-six point seven billion of
+
+33
+00:02:09,687 --> 00:02:14,746
+other wholesale funding, and eight point one billion of covered bonds.
+
+34
+00:02:15,549 --> 00:02:19,655
+The securitised notes came through a vehicle called Granite.
+
+35
+00:02:19,655 --> 00:02:23,419
+Northern Rock bundled mortgages together, and investors
+
+36
+00:02:23,419 --> 00:02:26,020
+bought bonds backed by the repayments.
+
+37
+00:02:26,683 --> 00:02:30,232
+Reuters later reported that the strategy relied on
+
+38
+00:02:30,232 --> 00:02:34,420
+wholesale markets for three-quarters of the bank's funding.
+
+39
+00:02:35,083 --> 00:02:39,384
+The model worked as long as one thing stayed true: that investors
+
+40
+00:02:39,384 --> 00:02:43,486
+would always be there to lend again when old funding came due.
+
+41
+00:02:44,149 --> 00:02:44,882
+Chapter 2.
+
+42
+00:02:44,882 --> 00:02:46,859
+The summer the market shut.
+
+43
+00:02:47,516 --> 00:02:52,283
+On the twenty-seventh of June 2007, Northern Rock warned that its
+
+44
+00:02:52,283 --> 00:02:56,829
+profits would fall short, because its funding costs had risen.
+
+45
+00:02:57,516 --> 00:03:01,158
+Then, in August, the markets it depended on seized up.
+
+46
+00:03:01,158 --> 00:03:04,666
+Shin dates the bank's demise to the ninth of August,
+
+47
+00:03:04,666 --> 00:03:08,713
+when short-term funding and interbank lending all but froze.
+
+48
+00:03:09,383 --> 00:03:13,051
+According to facts agreed before the European Court of
+
+49
+00:03:13,051 --> 00:03:17,399
+Human Rights, Northern Rock alerted its regulator, the Financial
+
+50
+00:03:17,399 --> 00:03:20,660
+Services Authority, on the thirteenth of August.
+
+51
+00:03:21,383 --> 00:03:26,535
+By the third of September, the three authorities, the Treasury, the Bank of
+
+52
+00:03:26,535 --> 00:03:31,618
+England and the FSA, had agreed in principle to provide emergency support.
+
+53
+00:03:32,283 --> 00:03:35,030
+In the week of the tenth of September, Northern
+
+54
+00:03:35,030 --> 00:03:37,835
+Rock approached the Bank of England for support.
+
+55
+00:03:38,483 --> 00:03:41,993
+The official statement came on Friday the fourteenth.
+
+56
+00:03:41,993 --> 00:03:45,569
+The Chancellor had authorised the Bank to lend against
+
+57
+00:03:45,569 --> 00:03:49,211
+appropriate collateral and at an interest rate premium.
+
+58
+00:03:49,883 --> 00:03:52,488
+And the statement tried to reassure.
+
+59
+00:03:52,488 --> 00:03:56,613
+The FSA judged that Northern Rock is solvent, exceeds its
+
+60
+00:03:56,613 --> 00:04:01,245
+regulatory capital requirement and has a good quality loan book.
+
+61
+00:04:01,916 --> 00:04:05,340
+It also named the weak spot plainly: the mortgage
+
+62
+00:04:05,340 --> 00:04:10,230
+securitisation market, on which Northern Rock is particularly reliant.
+
+63
+00:04:10,916 --> 00:04:13,085
+But the news had already leaked.
+
+64
+00:04:13,085 --> 00:04:16,068
+On the thirteenth, the BBC broadcast news of
+
+65
+00:04:16,068 --> 00:04:20,406
+the bank's liquidity problems, before the official announcement.
+
+66
+00:04:21,083 --> 00:04:22,058
+Chapter 3.
+
+67
+00:04:22,058 --> 00:04:23,131
+The queues.
+
+68
+00:04:23,783 --> 00:04:28,103
+What followed was a scene Britain had not seen in living memory.
+
+69
+00:04:28,103 --> 00:04:32,017
+Customers queued outside branches to take their money out.
+
+70
+00:04:32,616 --> 00:04:36,358
+Part of the reason was the deposit protection of the time.
+
+71
+00:04:36,358 --> 00:04:39,777
+It covered the first two thousand pounds in full, but
+
+72
+00:04:39,777 --> 00:04:43,325
+only ninety per cent of the next thirty-three thousand.
+
+73
+00:04:43,983 --> 00:04:47,610
+So a saver with thirty thousand pounds stood to lose up
+
+74
+00:04:47,610 --> 00:04:51,304
+to two thousand eight hundred pounds if the bank failed.
+
+75
+00:04:51,304 --> 00:04:54,008
+Rushing to the branch was not irrational.
+
+76
+00:04:54,683 --> 00:04:59,897
+Over three days, depositors withdrew four point four five billion pounds.
+
+77
+00:04:59,897 --> 00:05:04,539
+A Yale study puts the outflow at at least four point six billion.
+
+78
+00:05:05,149 --> 00:05:06,797
+The shares collapsed too.
+
+79
+00:05:06,797 --> 00:05:10,882
+On the fourteenth, the Associated Press reported, they fell by
+
+80
+00:05:10,882 --> 00:05:14,769
+thirty-one per cent to four hundred and thirty-eight pence.
+
+81
+00:05:15,449 --> 00:05:19,648
+Shin argued it was not quite the classic run of the textbooks.
+
+82
+00:05:19,648 --> 00:05:22,290
+In his account, the true run was in the
+
+83
+00:05:22,290 --> 00:05:25,947
+wholesale markets, as maturing loans were not renewed.
+
+84
+00:05:25,947 --> 00:05:28,182
+The queues were the visible part.
+
+85
+00:05:28,849 --> 00:05:32,608
+On Monday the seventeenth, the Chancellor announced that
+
+86
+00:05:32,608 --> 00:05:36,165
+the government would guarantee all existing deposits.
+
+87
+00:05:36,165 --> 00:05:37,508
+The queues subsided.
+
+88
+00:05:38,183 --> 00:05:42,633
+The guarantee was widened to new retail deposits on the ninth
+
+89
+00:05:42,633 --> 00:05:47,155
+of October, and to a broader range of liabilities in December.
+
+90
+00:05:47,816 --> 00:05:52,258
+And from the first of October, the national scheme itself changed.
+
+91
+00:05:52,258 --> 00:05:56,968
+Deposits were now protected in full up to thirty-five thousand pounds.
+
+92
+00:05:57,583 --> 00:05:58,436
+Chapter 4.
+
+93
+00:05:58,436 --> 00:06:00,313
+The taxpayer steps in.
+
+94
+00:06:00,949 --> 00:06:03,632
+The emergency loan did not stay small.
+
+95
+00:06:03,632 --> 00:06:08,008
+By the ninth of October the first facility was nearly used up,
+
+96
+00:06:08,008 --> 00:06:12,314
+and a second, secured on all the company's assets, was added.
+
+97
+00:06:12,983 --> 00:06:16,569
+By the end of 2007, the Court of Appeal recorded,
+
+98
+00:06:16,569 --> 00:06:21,254
+the Bank of England had lent almost twenty-seven billion pounds,
+
+99
+00:06:21,254 --> 00:06:25,572
+with Treasury guarantees of about twenty-nine billion more.
+
+100
+00:06:26,316 --> 00:06:29,732
+The government spent the winter looking for a buyer.
+
+101
+00:06:29,732 --> 00:06:33,936
+On the seventeenth of February 2008, the Treasury announced that
+
+102
+00:06:33,936 --> 00:06:37,024
+the private bids did not offer value for money.
+
+103
+00:06:37,683 --> 00:06:41,083
+Northern Rock would be taken into temporary public
+
+104
+00:06:41,083 --> 00:06:44,484
+ownership, with Ron Sandler as executive chairman.
+
+105
+00:06:45,149 --> 00:06:48,764
+Parliament passed an emergency law, the Banking Special
+
+106
+00:06:48,764 --> 00:06:52,115
+Provisions Act, dated the twenty-first of February.
+
+107
+00:06:52,115 --> 00:06:56,518
+The next day the shares were transferred to the Treasury Solicitor.
+
+108
+00:06:57,183 --> 00:07:02,436
+On that day, a tribunal later recorded, Northern Rock owed the Bank of England
+
+109
+00:07:02,436 --> 00:07:07,825
+twenty-five point two eight billion pounds, almost a quarter of its book assets.
+
+110
+00:07:08,483 --> 00:07:12,488
+The Court of Appeal summed up the paradox in two sentences.
+
+111
+00:07:12,488 --> 00:07:15,068
+It was solvent in balance sheet terms.
+
+112
+00:07:15,068 --> 00:07:19,277
+But it was unable to meet its debts as and when they fell due.
+
+113
+00:07:19,883 --> 00:07:23,855
+The National Audit Office reviewed the decision in 2009.
+
+114
+00:07:23,855 --> 00:07:28,536
+It found nationalisation was the best option for the taxpayer, but
+
+115
+00:07:28,536 --> 00:07:33,359
+said the Treasury could have assessed the risks more systematically.
+
+116
+00:07:34,016 --> 00:07:39,845
+The NAO also noted that, while on state support, the bank kept offering mortgages
+
+117
+00:07:39,845 --> 00:07:44,739
+of up to one hundred and twenty-five per cent of a property's value.
+
+118
+00:07:45,416 --> 00:07:46,209
+Chapter 5.
+
+119
+00:07:46,209 --> 00:07:47,635
+Who was watching?.
+
+120
+00:07:48,283 --> 00:07:50,513
+So where was the regulator?
+
+121
+00:07:50,513 --> 00:07:55,220
+In March 2008, the Financial Services Authority published
+
+122
+00:07:55,220 --> 00:07:58,440
+the findings of its own internal audit.
+
+123
+00:07:59,116 --> 00:08:03,556
+It found four failings in the period leading up to the crisis.
+
+124
+00:08:03,556 --> 00:08:08,353
+One was inadequate specific resource directly supervising the firm.
+
+125
+00:08:08,949 --> 00:08:13,980
+Reporting on the audit, the finance magazine The CFO set out the detail.
+
+126
+00:08:13,980 --> 00:08:18,101
+There were no formal records of key meetings with the bank.
+
+127
+00:08:18,716 --> 00:08:23,473
+And between January 2005 and August 2007, three different
+
+128
+00:08:23,473 --> 00:08:29,065
+heads of department were responsible for supervising Northern Rock.
+
+129
+00:08:29,749 --> 00:08:34,297
+Compared with the other firms it reviewed, the audit put Northern Rock's
+
+130
+00:08:34,297 --> 00:08:38,402
+supervision at the extreme end of the spectrum on these failings.
+
+131
+00:08:38,402 --> 00:08:42,445
+The FSA's chief executive, Hector Sants, said it was not carried
+
+132
+00:08:42,445 --> 00:08:46,108
+out to a standard that is acceptable, though he added that
+
+133
+00:08:46,108 --> 00:08:50,403
+whether that would have changed the outcome was impossible to judge.
+
+134
+00:08:51,183 --> 00:08:52,506
+MPs went further.
+
+135
+00:08:52,506 --> 00:08:56,008
+The Treasury Committee concluded that the FSA
+
+136
+00:08:56,008 --> 00:08:59,510
+systematically failed in its regulatory duty.
+
+137
+00:09:00,183 --> 00:09:04,053
+But the Committee placed the first blame on the bank itself.
+
+138
+00:09:04,053 --> 00:09:08,503
+It said the directors were the principal authors of the difficulties.
+
+139
+00:09:09,116 --> 00:09:12,164
+And it described their strategy as a reckless
+
+140
+00:09:12,164 --> 00:09:16,024
+business model, excessively reliant on wholesale funding.
+
+141
+00:09:16,683 --> 00:09:20,818
+Then, in 2010, the regulator found something else.
+
+142
+00:09:20,818 --> 00:09:24,043
+Not about funding, but about bad loans.
+
+143
+00:09:24,783 --> 00:09:30,053
+According to the FSA's final notice, the deputy chief executive, David
+
+144
+00:09:30,053 --> 00:09:34,948
+Baker, knew from December 2006 that one thousand nine hundred and
+
+145
+00:09:34,948 --> 00:09:39,992
+seventeen loans were missing from the bank's impaired-loan figures.
+
+146
+00:09:40,749 --> 00:09:45,659
+Counting them would have lifted reported arrears from zero point four two
+
+147
+00:09:45,659 --> 00:09:49,896
+per cent to zero point six eight per cent, and possessions from
+
+148
+00:09:49,896 --> 00:09:54,738
+six hundred and sixty-two to two thousand five hundred and seventy-nine.
+
+149
+00:09:55,483 --> 00:10:00,719
+The FSA found that Mr Baker's conduct demonstrated a lack of integrity.
+
+150
+00:10:00,719 --> 00:10:06,619
+He was fined five hundred and four thousand pounds and banned from the industry.
+
+151
+00:10:07,216 --> 00:10:11,689
+The managing credit director, Richard Barclay, was fined one hundred
+
+152
+00:10:11,689 --> 00:10:15,569
+and forty thousand pounds and barred from senior roles, for
+
+153
+00:10:15,569 --> 00:10:19,516
+failures of skill, care and diligence rather than integrity.
+
+154
+00:10:19,516 --> 00:10:24,054
+The finance director, David Jones, was fined three hundred and twenty
+
+155
+00:10:24,054 --> 00:10:28,395
+thousand pounds and banned; the FSA found he too lacked integrity.
+
+156
+00:10:29,183 --> 00:10:34,558
+All three settled with the FSA, and their fines include settlement discounts.
+
+157
+00:10:34,558 --> 00:10:38,537
+These were regulatory findings, set out in final notices.
+
+158
+00:10:38,537 --> 00:10:40,980
+They were not criminal convictions.
+
+159
+00:10:41,583 --> 00:10:42,507
+Chapter 6.
+
+160
+00:10:42,507 --> 00:10:43,801
+Worth nothing.
+
+161
+00:10:44,449 --> 00:10:46,942
+Now, the strangest number in the file.
+
+162
+00:10:46,942 --> 00:10:50,287
+Immediately before nationalisation, Northern Rock's
+
+163
+00:10:50,287 --> 00:10:52,189
+shares stood at ninety pence.
+
+164
+00:10:52,189 --> 00:10:54,485
+The market valued the bank at about
+
+165
+00:10:54,485 --> 00:10:57,502
+three hundred and seventy-nine million pounds.
+
+166
+00:10:58,249 --> 00:11:00,603
+Shareholders expected compensation.
+
+167
+00:11:00,603 --> 00:11:04,705
+But the emergency law set the rules for valuing their shares.
+
+168
+00:11:04,705 --> 00:11:08,134
+The valuer had to assume that all state support had
+
+169
+00:11:08,134 --> 00:11:11,900
+been withdrawn, and that the bank was in administration.
+
+170
+00:11:12,583 --> 00:11:16,761
+Shareholders, including hedge funds, challenged the law.
+
+171
+00:11:16,761 --> 00:11:22,133
+The largest shareholder, SRM, held more than forty-eight million shares.
+
+172
+00:11:22,133 --> 00:11:26,385
+In July 2009 the Court of Appeal dismissed the challenge.
+
+173
+00:11:26,983 --> 00:11:33,313
+The independent valuer, Andrew Caldwell, was appointed in September 2008.
+
+174
+00:11:33,313 --> 00:11:37,735
+In March 2010, he assessed the compensation at nil.
+
+175
+00:11:38,349 --> 00:11:43,481
+More than four hundred and forty former shareholders appealed.
+
+176
+00:11:43,481 --> 00:11:48,696
+In October 2011 the Upper Tribunal dismissed every application.
+
+177
+00:11:49,283 --> 00:11:51,960
+In 2012, the European Court of Human
+
+178
+00:11:51,960 --> 00:11:55,828
+Rights declared the shareholders' case inadmissible.
+
+179
+00:11:55,828 --> 00:11:58,877
+It said the government's approach was far
+
+180
+00:11:58,877 --> 00:12:02,745
+from being manifestly without reasonable foundation.
+
+181
+00:12:03,483 --> 00:12:07,773
+One last appeal reached the Court of Appeal in 2013.
+
+182
+00:12:07,773 --> 00:12:13,467
+It failed by two judges to one, with Lord Justice Lewison dissenting.
+
+183
+00:12:14,083 --> 00:12:18,408
+On the valuer's assumptions, the court noted, the bank's surplus
+
+184
+00:12:18,408 --> 00:12:22,193
+became a deficit of about two point four billion pounds.
+
+185
+00:12:22,193 --> 00:12:25,302
+On those assumptions the valuer found, and the
+
+186
+00:12:25,302 --> 00:12:28,817
+tribunal upheld, that the shares were worth nothing.
+
+187
+00:12:29,549 --> 00:12:30,588
+Chapter 7.
+
+188
+00:12:30,588 --> 00:12:31,939
+Our analysis.
+
+189
+00:12:32,583 --> 00:12:34,695
+So what was the final bill?
+
+190
+00:12:34,695 --> 00:12:38,137
+We can now answer it from the audit reports.
+
+191
+00:12:38,137 --> 00:12:43,143
+In 2008 alone, Northern Rock lost one point four billion pounds.
+
+192
+00:12:43,749 --> 00:12:46,067
+In 2010 it was split in two.
+
+193
+00:12:46,067 --> 00:12:50,121
+A good bank kept the deposits and some mortgages.
+
+194
+00:12:50,121 --> 00:12:54,011
+The rest stayed in public hands to be run down.
+
+195
+00:12:54,616 --> 00:13:00,061
+In November 2011, Virgin Money agreed to buy the good bank for seven
+
+196
+00:13:00,061 --> 00:13:06,867
+hundred and forty-seven million pounds in cash, potentially rising above one billion.
+
+197
+00:13:07,549 --> 00:13:12,291
+The National Audit Office put the taxpayer's loss on that part at four
+
+198
+00:13:12,291 --> 00:13:17,914
+hundred and eighty million pounds, against an investment of one point four billion.
+
+199
+00:13:18,583 --> 00:13:21,362
+Across the whole rescue, the NAO counted
+
+200
+00:13:21,362 --> 00:13:24,419
+thirty-seven billion pounds of cash support.
+
+201
+00:13:24,419 --> 00:13:29,421
+UK Financial Investments, which managed the state's stake, expected that
+
+202
+00:13:29,421 --> 00:13:32,687
+cash to be repaid, but the NAO said there could
+
+203
+00:13:32,687 --> 00:13:36,230
+be a net present cost of around two billion pounds.
+
+204
+00:13:37,049 --> 00:13:42,104
+In May 2016, a Cerberus-led consortium completed its purchase of
+
+205
+00:13:42,104 --> 00:13:47,632
+thirteen point three billion pounds of former Northern Rock mortgages.
+
+206
+00:13:47,632 --> 00:13:53,397
+The NAO found the price was seventy-four million pounds above face value.
+
+207
+00:13:54,083 --> 00:13:56,305
+Here is our reading of the record.
+
+208
+00:13:56,305 --> 00:14:00,488
+Northern Rock did not fail because its borrowers stopped paying.
+
+209
+00:14:00,488 --> 00:14:03,691
+It failed because it borrowed short to lend long,
+
+210
+00:14:03,691 --> 00:14:06,305
+on a scale its savers could never cover.
+
+211
+00:14:06,983 --> 00:14:11,513
+The regulator, by its own audit, was not watching closely enough.
+
+212
+00:14:11,513 --> 00:14:13,883
+And inside the bank, the FSA later
+
+213
+00:14:13,883 --> 00:14:17,089
+found, the arrears figures had been flattered.
+
+214
+00:14:17,749 --> 00:14:21,547
+The shareholder cases are the part most explainers skip.
+
+215
+00:14:21,547 --> 00:14:26,225
+The courts accepted a simple idea: value created by a taxpayer rescue
+
+216
+00:14:26,225 --> 00:14:30,226
+does not belong to the people who owned the bank before it.
+
+217
+00:14:30,883 --> 00:14:33,506
+Whether that was fair is still argued.
+
+218
+00:14:33,506 --> 00:14:35,992
+One Court of Appeal judge disagreed.
+
+219
+00:14:35,992 --> 00:14:40,824
+But the shareholders lost in every court and tribunal that heard them.
+
+220
+00:14:41,416 --> 00:14:43,746
+And the queues did change the rules.
+
+221
+00:14:43,746 --> 00:14:46,789
+Full protection of deposits, rather than ninety
+
+222
+00:14:46,789 --> 00:14:48,925
+per cent, dates from that autumn.
+
+223
+00:14:49,583 --> 00:14:53,717
+Northern Rock was solvent on paper and broke in practice.
+
+224
+00:14:53,717 --> 00:14:56,111
+That gap is where bank runs live.
+
+225
+00:14:56,716 --> 00:15:00,566
+Every source for this episode is numbered in the description.
+
+226
+00:15:00,566 --> 00:15:04,353
+If we've got something wrong, tell us, and we'll correct it.
+
+227
+00:15:04,949 --> 00:15:08,075
+The next case file is Patisserie Valerie, the
+
+228
+00:15:08,075 --> 00:15:10,924
+cafe chain whose accounts did not add up.
+
+229
+00:15:10,924 --> 00:15:13,285
+Subscribe so it's waiting for you.
