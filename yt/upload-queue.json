@@ -1,26 +1,4 @@
 {
- "generated": "2026-10-23T06:55:49.517751+05:00",
- "items": [
-  {
-   "id": "004-ep-thumb0",
-   "row": "004-ep",
-   "kind": "thumb",
-   "file": "004/004-northern-rock-thumbnail.png",
-   "ctype": "image/png",
-   "size": 71849,
-   "meta": "{}",
-   "path": "/../upload/youtube/v3/thumbnails/set?uploadType=resumable&videoId=sKaLC6A0Igw"
-  },
-  {
-   "id": "004-g-a0",
-   "row": "004-g",
-   "kind": "video",
-   "file": "004/004-northern-rock-short-g.mp4",
-   "ctype": "video/mp4",
-   "size": 4116583,
-   "meta": "{\"snippet\": {\"title\": \"Who paid for Northern Rock? The final bill #Shorts\", \"description\": \"The taxpayer's bill for Northern Rock, from National Audit Office reports.\\n\\nFull episode: \\\"Why Did Northern Rock Collapse? £4.45bn Withdrawn in 3 Days\\\" on Filed Under Failure.\\nSources: Treasury Committee, 'The run on the Rock', Fifth Report of Session 2007–08, HC 56-I (Jan 2008), summary; Bank of England / HM Treasury / FSA, 'Liquidity support facility for Northern Rock plc' (14 Sep 2007); European Court of Human Rights, Grainger and Others v the United Kingdom, no. 34940/10, decision of 10 Jul 2012 (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #NorthernRock #bankrun #2008financialcrisis\", \"tags\": [\"Northern Rock\", \"bank run\", \"2008 financial crisis\", \"UK banking crisis\", \"Northern Rock collapse\", \"business documentary\", \"nationalisation\", \"what went wrong\"], \"categoryId\": \"27\", \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}, \"status\": {\"selfDeclaredMadeForKids\": false, \"containsSyntheticMedia\": false, \"privacyStatus\": \"private\", \"publishAt\": \"2026-10-30T16:00:00Z\"}}",
-   "path": "/../upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
-   "publishAt": "2026-10-30T16:00:00Z"
-  }
- ]
+ "generated": "2026-10-23T12:56:10.404344+05:00",
+ "items": []
 }

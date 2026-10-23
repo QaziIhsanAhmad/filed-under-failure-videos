@@ -528,12 +528,14 @@
     "reason": "Generic synthetic narrator (Kokoro bm_george) not imitating any real person; quotes are attributed by the narrator and shown as on-screen text; original code-generated charts, text graphics and music; no realistic synthetic imagery or altered real footage."
    },
    "apiApplied": [
-    "004-ep-a0"
+    "004-ep-a0",
+    "004-ep-thumb0"
    ],
    "videoId": "sKaLC6A0Igw",
    "url": "https://www.youtube.com/watch?v=sKaLC6A0Igw",
    "uploadedAt": "2026-10-22T10:52:54.906374+05:00",
-   "publishAt": "2026-10-24T16:00:00Z"
+   "publishAt": "2026-10-24T16:00:00Z",
+   "thumbSet": true
   },
   {
    "id": "004-a",
@@ -675,12 +677,19 @@
    "title": "Who paid for Northern Rock? The final bill #Shorts",
    "file": "004/004-northern-rock-short-g.mp4",
    "lane": "api",
-   "status": "planned",
+   "status": "scheduled",
    "description": "The taxpayer's bill for Northern Rock, from National Audit Office reports.\n\nFull episode: \"Why Did Northern Rock Collapse? £4.45bn Withdrawn in 3 Days\" on Filed Under Failure.\nSources: Treasury Committee, 'The run on the Rock', Fifth Report of Session 2007–08, HC 56-I (Jan 2008), summary; Bank of England / HM Treasury / FSA, 'Liquidity support facility for Northern Rock plc' (14 Sep 2007); European Court of Human Rights, Grainger and Others v the United Kingdom, no. 34940/10, decision of 10 Jul 2012 (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #NorthernRock #bankrun #2008financialcrisis",
    "altered": {
     "disclose": false,
     "reason": "Generic synthetic narrator (Kokoro bm_george) not imitating any real person; quotes are attributed by the narrator and shown as on-screen text; original code-generated charts, text graphics and music; no realistic synthetic imagery or altered real footage."
-   }
+   },
+   "apiApplied": [
+    "004-g-a0"
+   ],
+   "videoId": "9TKmRYB1Wo4",
+   "url": "https://www.youtube.com/shorts/9TKmRYB1Wo4",
+   "uploadedAt": "2026-10-23T12:45:31.151095+05:00",
+   "publishAt": "2026-10-30T16:00:00Z"
   },
   {
    "id": "005-ep",
