@@ -1,0 +1,76 @@
+{
+ "id": "xv-1102-identixa-kyc",
+ "cal": "xv-1102",
+ "date": "2026-11-02",
+ "scenes": [
+  {
+   "layout": "hook",
+   "kicker": "KYC, explained",
+   "title": "Are your users *who they say they are?*",
+   "body": "How an identity check works, using Identixa, the platform we built.",
+   "say": "Are your users who they say they are? Here's how a K Y C check works, using Identixa, the platform we built.",
+   "sub": "Are your users who they say they are? Here's how a KYC check works, using Identixa, the platform we built."
+  },
+  {
+   "layout": "step",
+   "n": "01",
+   "kicker": "Read the document",
+   "title": "OCR reads the ID",
+   "body": "Name, date of birth and document number are extracted, so *nobody types them.*",
+   "say": "First, O C R reads the I D document and pulls out the name, date of birth and document number. Nobody types them.",
+   "sub": "First, OCR reads the ID document and pulls out the name, date of birth and document number. Nobody types them."
+  },
+  {
+   "layout": "step",
+   "n": "02",
+   "kicker": "Match the face",
+   "title": "Selfie vs ID photo",
+   "body": "Face matching compares the two and returns a *similarity score.*",
+   "say": "Second, face matching compares a selfie with the photo on the I D, and returns a similarity score.",
+   "sub": "Second, face matching compares a selfie with the photo on the ID, and returns a similarity score."
+  },
+  {
+   "layout": "step",
+   "n": "03",
+   "kicker": "Screen the name",
+   "title": "AML screening",
+   "body": "The person is checked against watchlists *in the same flow.*",
+   "say": "Third, the name is screened against watchlists, in the same flow."
+  },
+  {
+   "layout": "flow",
+   "kicker": "The design choice that matters",
+   "title": "Automate the clear cases. *People decide the rest.*",
+   "nodes": [
+    {
+     "label": "Clear pass",
+     "sub": "moves on automatically"
+    },
+    {
+     "label": "Low score or possible match",
+     "sub": "goes to a review dashboard"
+    },
+    {
+     "label": "One REST API",
+     "sub": "result plus an audit trail"
+    }
+   ],
+   "say": "Clear passes move on automatically. Low scores and possible matches go to a review dashboard, where a person decides. Your product gets the result through one API, with an audit trail.",
+   "sub": "Clear passes move on automatically. Low scores and possible matches go to a review dashboard, where a person decides. Your product gets the result through one API, with an audit trail."
+  },
+  {
+   "layout": "cta",
+   "kicker": "Building a fintech or marketplace?",
+   "title": "Plan KYC in *from the start.*",
+   "body": "Book a free 30-minute scoping call.",
+   "cta": "xenovasolutions.com/contact",
+   "say": "Building a fintech or marketplace product? Plan identity checks in from the start. Book a free thirty minute scoping call at xenova solutions dot com.",
+   "sub": "Building a fintech or marketplace product? Plan identity checks in from the start. Book a free 30-minute scoping call at xenovasolutions.com."
+  }
+ ],
+ "post": {
+  "yt_title": "How a KYC identity check works (OCR, face match, AML) #Shorts",
+  "caption": "Are your users who they say they are?\n\nHow an identity check works, shown with Identixa, the verification platform we built:\n01 OCR reads the ID document\n02 Face matching compares a selfie with the ID photo\n03 AML screening checks watchlists\n04 Clear passes move on; edge cases go to a person on a review dashboard\n\nPlanning KYC for a fintech or marketplace product? Book a free 30-minute scoping call. Link in bio.\n\n#kyc #identityverification #fintech #ai #startups #softwaredevelopment",
+  "yt_description": "How a KYC identity check works, explained with Identixa, the identity verification platform built by Xenova Solutions: OCR reads the ID document, face matching compares a selfie with the ID photo, AML screening checks watchlists, and edge cases go to a human review dashboard.\n\nPlanning identity checks for a fintech or marketplace product? Book a free 30-minute scoping call: https://xenovasolutions.com/contact\n\n#KYC #FinTech #Shorts"
+ }
+}

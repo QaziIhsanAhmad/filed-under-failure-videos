@@ -1,0 +1,23 @@
+1
+00:00:00,250 --> 00:00:07,674
+Are your users who they say they are? Here's how a KYC check works, using Identixa, the platform we built.
+
+2
+00:00:08,524 --> 00:00:16,631
+First, OCR reads the ID document and pulls out the name, date of birth and document number. Nobody types them.
+
+3
+00:00:17,481 --> 00:00:24,627
+Second, face matching compares a selfie with the photo on the ID, and returns a similarity score.
+
+4
+00:00:25,477 --> 00:00:29,552
+Third, the name is screened against watchlists, in the same flow.
+
+5
+00:00:30,402 --> 00:00:43,309
+Clear passes move on automatically. Low scores and possible matches go to a review dashboard, where a person decides. Your product gets the result through one API, with an audit trail.
+
+6
+00:00:44,159 --> 00:00:54,676
+Building a fintech or marketplace product? Plan identity checks in from the start. Book a free 30-minute scoping call at xenovasolutions.com.
