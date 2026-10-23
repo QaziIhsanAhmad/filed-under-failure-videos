@@ -37,7 +37,9 @@ Faceless business-collapse documentary channel. Daily Short + weekly long episod
 - 90-day plan: social/calendar/calendar-90d.json (+ .csv, build_calendar.py). Weekly social batch MUST follow it (feed rows by brand/date; Fri offer, Sat carousel, Sun poll, Mon mistakes/tip, Tue comparison, Wed demo/BTS, Thu checklist; alternate dark/light per brand). Artifact: https://claude.ai/artifact/T5y6fPAw8AZVZ9QUJQ2vzA
 - Feed queued through 5 Nov (posts/2026-10-30.json, 14 posts, rendered, pushed). Next batch: 6–12 Nov rows.
 - Render: CHROMIUM=/opt/pw-browsers/chromium-*/chrome-linux64/chrome node studio/render.js <posts.json> "$PWD/social/img" (outDir must be ABSOLUTE).
-- Blockers: Metricool free limit used until 1 Nov (Xenova FB/IG via Metricool errored 23 Oct; Make lane unaffected). Metricool YouTube = FUF channel, never post Xenova/FrontDesk there. No Xenova or FrontDesk YouTube channel connected for Shorts/long/community. Reel batch task (trig_01DokTa9hY1NLERpXhouHCJf) still disabled; prompt update to follow the calendar was blocked pending Qazi's OK.
+- Blockers: Metricool free limit used until 1 Nov (Xenova FB/IG via Metricool errored 23 Oct; Make lane unaffected). Metricool YouTube = FUF channel, never post Xenova/FrontDesk there. No Xenova or FrontDesk YouTube channel connected for Shorts/long/community. Reel batch task (trig_01DokTa9hY1NLERpXhouHCJf) updated to follow the calendar and ENABLED 23 Oct (first FrontDesk calendar Reel Tue 3 Nov).
+- Xenova video template: studio/xreel.js (frames) + xreel.py (Kokoro TTS bm_george, generated pad music, zoom, .srt, cover). Specs in social/xreels/. First: xv-1102 Identixa KYC, scheduled in Metricool (post 404126943) Mon 2 Nov 19:00 PKT IG+FB Reel. Xenova videos go via Metricool (20/month free); feed stays on Make.
+- YouTube for both brands: waiting on Qazi to create/connect channels (Xenova: new channel under xenovasolutionsofficial + Make eu2 YouTube connection; FrontDesk: check eu1 scenario "FDF Instagram to YouTube Shorts").
 
 ## Key files
 - `yt/ledger.json`, `yt/published.json`, `yt/stats/` — state

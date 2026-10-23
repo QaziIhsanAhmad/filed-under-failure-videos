@@ -72,7 +72,7 @@ def main():
         run(["ffmpeg", "-y", "-loop", "1", "-framerate", "30", "-i", os.path.join(frames, f"s{i + 1:02d}.png"), "-t", f"{d:.3f}",
              "-vf", f"scale=1188:2112,zoompan=z='min(zoom+0.00035,1.06)':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={int(d * 30) + 2}:s=1080x1920:fps=30,"
                    f"fade=in:st=0:d=0.25,fade=out:st={max(0, d - 0.2):.3f}:d=0.2,format=yuv420p",
-             "-c:v", "libx264", "-preset", "medium", "-crf", "20", "-r", "30", clip])
+             "-c:v", "libx264", "-preset", "medium", "-crf", "27", "-r", "30", clip])
         lst.append(f"file '{clip}'")
     open(os.path.join(out, "list.txt"), "w").write("\n".join(lst))
     final = os.path.join(out, f"{vid}.mp4")
