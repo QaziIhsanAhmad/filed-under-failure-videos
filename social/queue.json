@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T12:25:15.295287+05:00",
+ "generated": "2026-10-23T17:04:45.493406+05:00",
  "problems": [],
  "items": [
   {
@@ -729,6 +729,370 @@
     }
    },
    "src": "social/posts/2026-10-23.json"
+  },
+  {
+   "id": "f-1030-returns-offer",
+   "brand": "frontdesk",
+   "date": "2026-10-30",
+   "pillar": "offer",
+   "slides": 1,
+   "status": "planned",
+   "platforms": {
+    "fb": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    },
+    "ig": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    }
+   },
+   "src": "social/posts/2026-10-30.json"
+  },
+  {
+   "id": "x-1030-shopify-custom",
+   "brand": "xenova",
+   "date": "2026-10-30",
+   "pillar": "offer",
+   "slides": 1,
+   "status": "planned",
+   "platforms": {
+    "fb": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    },
+    "ig": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    },
+    "li": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    }
+   },
+   "src": "social/posts/2026-10-30.json"
+  },
+  {
+   "id": "f-1031-size-exchange",
+   "brand": "frontdesk",
+   "date": "2026-10-31",
+   "pillar": "educational-carousel",
+   "slides": 7,
+   "status": "planned",
+   "platforms": {
+    "fb": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    },
+    "ig": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    }
+   },
+   "src": "social/posts/2026-10-30.json"
+  },
+  {
+   "id": "x-1031-identixa-case",
+   "brand": "xenova",
+   "date": "2026-10-31",
+   "pillar": "case-study",
+   "slides": 7,
+   "status": "planned",
+   "platforms": {
+    "fb": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    },
+    "ig": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    },
+    "li": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    }
+   },
+   "src": "social/posts/2026-10-30.json"
+  },
+  {
+   "id": "f-1101-poll-support",
+   "brand": "frontdesk",
+   "date": "2026-11-01",
+   "pillar": "poll",
+   "slides": 1,
+   "status": "planned",
+   "platforms": {
+    "fb": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    },
+    "ig": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    }
+   },
+   "src": "social/posts/2026-10-30.json"
+  },
+  {
+   "id": "x-1101-poll-next-fix",
+   "brand": "xenova",
+   "date": "2026-11-01",
+   "pillar": "poll",
+   "slides": 1,
+   "status": "planned",
+   "platforms": {
+    "fb": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    },
+    "ig": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    },
+    "li": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    }
+   },
+   "src": "social/posts/2026-10-30.json"
+  },
+  {
+   "id": "f-1102-failure-alerts",
+   "brand": "frontdesk",
+   "date": "2026-11-02",
+   "pillar": "mistakes",
+   "slides": 6,
+   "status": "planned",
+   "platforms": {
+    "fb": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    },
+    "ig": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    }
+   },
+   "src": "social/posts/2026-10-30.json"
+  },
+  {
+   "id": "x-1102-spec-first",
+   "brand": "xenova",
+   "date": "2026-11-02",
+   "pillar": "tip",
+   "slides": 6,
+   "status": "planned",
+   "platforms": {
+    "fb": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    },
+    "ig": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    },
+    "li": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    }
+   },
+   "src": "social/posts/2026-10-30.json"
+  },
+  {
+   "id": "f-1103-make-vs-n8n-reminders",
+   "brand": "frontdesk",
+   "date": "2026-11-03",
+   "pillar": "comparison",
+   "slides": 6,
+   "status": "planned",
+   "platforms": {
+    "fb": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    },
+    "ig": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    }
+   },
+   "src": "social/posts/2026-10-30.json"
+  },
+  {
+   "id": "x-1103-saas-vs-custom",
+   "brand": "xenova",
+   "date": "2026-11-03",
+   "pillar": "comparison",
+   "slides": 6,
+   "status": "planned",
+   "platforms": {
+    "fb": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    },
+    "ig": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    },
+    "li": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    }
+   },
+   "src": "social/posts/2026-10-30.json"
+  },
+  {
+   "id": "f-1104-kyc-chase-demo",
+   "brand": "frontdesk",
+   "date": "2026-11-04",
+   "pillar": "real-demo",
+   "slides": 1,
+   "status": "planned",
+   "platforms": {
+    "fb": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    },
+    "ig": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    }
+   },
+   "src": "social/posts/2026-10-30.json"
+  },
+  {
+   "id": "x-1104-bts-testing",
+   "brand": "xenova",
+   "date": "2026-11-04",
+   "pillar": "behind-the-scenes",
+   "slides": 1,
+   "status": "planned",
+   "platforms": {
+    "fb": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    },
+    "ig": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    },
+    "li": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    }
+   },
+   "src": "social/posts/2026-10-30.json"
+  },
+  {
+   "id": "f-1105-bf-checklist",
+   "brand": "frontdesk",
+   "date": "2026-11-05",
+   "pillar": "checklist",
+   "slides": 9,
+   "status": "planned",
+   "platforms": {
+    "fb": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    },
+    "ig": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    }
+   },
+   "src": "social/posts/2026-10-30.json"
+  },
+  {
+   "id": "x-1105-website-signs",
+   "brand": "xenova",
+   "date": "2026-11-05",
+   "pillar": "checklist",
+   "slides": 8,
+   "status": "planned",
+   "platforms": {
+    "fb": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    },
+    "ig": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    },
+    "li": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    }
+   },
+   "src": "social/posts/2026-10-30.json"
   }
  ]
 }
