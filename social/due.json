@@ -1,1 +1,54 @@
-[]
+[
+ {
+  "id": "x-1024-approval-stall",
+  "brand": "xenova",
+  "kind": "single",
+  "fb_on": "1",
+  "ig_on": "1",
+  "li_on": "1",
+  "fb_page": "1267773913096573",
+  "ig_account": "17841428615145019",
+  "fb": "\"I thought you'd signed it off.\" \"I was waiting for you.\"\n\nMost approvals don't fail, they just stall. One named owner, a deadline and an automatic reminder sorts most of it out.\n\nHas this happened in your team? Be honest.",
+  "ig": "Everyone thought someone else had it.\n\nApprovals don't usually break with an error message. They sit in an inbox, both people assume the other one has it, and the customer gets tired of waiting.\n\nThe fix is boring: one named owner per approval, a deadline, and an automatic nudge when it's close.\n\nWho's the fastest approver in your team? Tag them.\n\n#smallbusiness #operations #teamwork #workflow #worklife",
+  "li": "Most approval delays aren't caused by anyone being slow. They're caused by nobody being sure it's theirs.\n\nThree small changes that fix most of it:\n→ One named owner for every approval, not a group\n→ A deadline that the requester can see\n→ An automatic nudge before it's due, and an escalation after\n\nNo new system required to start. A shared rule and a reminder will do.\n\nWhere do approvals get stuck in your business?\n\nhttps://xenovasolutions.com/contact\n\n{hashtag|\\#|Operations} {hashtag|\\#|Productivity} {hashtag|\\#|SMEs}",
+  "image": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1024-approval-stall-1.jpg",
+  "fb_photos": [
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1024-approval-stall-1.jpg"
+   }
+  ],
+  "ig_files": [
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1024-approval-stall-1.jpg"
+   }
+  ]
+ },
+ {
+  "id": "f-1024-stock-mismatch",
+  "brand": "frontdesk",
+  "kind": "single",
+  "fb_on": "1",
+  "ig_on": "1",
+  "li_on": "0",
+  "fb_page": "1354185007779555",
+  "ig_account": "17841416945478586",
+  "fb": "Website says 3 left. Stockroom says sold out on Tuesday. Customer says \"where's my order?\"\n\nIf you build automations for shops, stock sync between the till and the website is boring, and worth every penny to the owner. Has this happened to a shop you work with?",
+  "ig": "Every clothing and shoe shop that sells in-store and online knows this one.\n\nThe till sells the last pair. The website doesn't hear about it until someone updates a spreadsheet. A customer pays for shoes that don't exist.\n\nThe fix isn't clever: when stock changes in one place, update the other, and alert someone when a count goes below a threshold. It's one of the most useful flows you can sell to a retailer.\n\nWhat's the most boring automation that's paid you the best?\n\n#n8n #retail #ecommerce #inventory #automation #freelancer",
+  "li": "",
+  "image": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1024-stock-mismatch-1.jpg",
+  "fb_photos": [
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1024-stock-mismatch-1.jpg"
+   }
+  ],
+  "ig_files": [
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1024-stock-mismatch-1.jpg"
+   }
+  ]
+ }
+]
