@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T18:07:11.301818+05:00",
+ "generated": "2026-10-23T18:07:16.200874+05:00",
  "problems": [],
  "items": [
   {
@@ -395,7 +395,7 @@
    "date": "2026-10-23",
    "pillar": "educational-carousel",
    "slides": 7,
-   "status": "unverified",
+   "status": "posted",
    "platforms": {
     "fb": {
      "state": "posted",
@@ -410,10 +410,10 @@
      "at": "2026-10-23T13:07:10.896344+00:00"
     },
     "li": {
-     "state": "pending",
-     "id": "",
-     "tries": 0,
-     "at": ""
+     "state": "posted",
+     "id": "urn:li:share:7519383889711181824",
+     "tries": 1,
+     "at": "2026-10-23T13:07:15.362365+00:00"
     }
    },
    "src": "social/posts/2026-10-23.json"
