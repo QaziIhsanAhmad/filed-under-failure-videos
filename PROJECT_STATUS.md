@@ -33,6 +33,12 @@ Faceless business-collapse documentary channel. Daily Short + weekly long episod
 2. Episode 006 Wirecard (Sat 7 Nov): run demand check first (005 demand unmeasured, likely <100K).
 3. Weekly update to Qazi (uploads, views, subs, YPP progress).
 
+## Social (Xenova + FrontDesk) — 23 Oct 2026
+- 90-day plan: social/calendar/calendar-90d.json (+ .csv, build_calendar.py). Weekly social batch MUST follow it (feed rows by brand/date; Fri offer, Sat carousel, Sun poll, Mon mistakes/tip, Tue comparison, Wed demo/BTS, Thu checklist; alternate dark/light per brand). Artifact: https://claude.ai/artifact/T5y6fPAw8AZVZ9QUJQ2vzA
+- Feed queued through 5 Nov (posts/2026-10-30.json, 14 posts, rendered, pushed). Next batch: 6–12 Nov rows.
+- Render: CHROMIUM=/opt/pw-browsers/chromium-*/chrome-linux64/chrome node studio/render.js <posts.json> "$PWD/social/img" (outDir must be ABSOLUTE).
+- Blockers: Metricool free limit used until 1 Nov (Xenova FB/IG via Metricool errored 23 Oct; Make lane unaffected). Metricool YouTube = FUF channel, never post Xenova/FrontDesk there. No Xenova or FrontDesk YouTube channel connected for Shorts/long/community. Reel batch task (trig_01DokTa9hY1NLERpXhouHCJf) still disabled; prompt update to follow the calendar was blocked pending Qazi's OK.
+
 ## Key files
 - `yt/ledger.json`, `yt/published.json`, `yt/stats/` — state
 - `NNN/NNN-<slug>.json` — episode spec (scenes, shorts, sources, notes)
