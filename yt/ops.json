@@ -1,2224 +1,2280 @@
 [
- {
-  "id": "items-PLeG-fjD34jcg",
-  "method": "GET",
-  "path": "/v3/playlistItems?part=snippet&maxResults=5&playlistId=PLeG-fjD34jcg",
-  "note": "emptiness check before deletion"
- },
- {
-  "id": "items-PLMQvLXpWXhzI",
-  "method": "GET",
-  "path": "/v3/playlistItems?part=snippet&maxResults=5&playlistId=PLMQvLXpWXhzI",
-  "note": "emptiness check before deletion"
- },
- {
-  "id": "items-PLBT8K08GTT9E",
-  "method": "GET",
-  "path": "/v3/playlistItems?part=snippet&maxResults=5&playlistId=PLBT8K08GTT9E",
-  "note": "emptiness check before deletion"
- },
- {
-  "id": "items-PLD31qM5nTM5w",
-  "method": "GET",
-  "path": "/v3/playlistItems?part=snippet&maxResults=5&playlistId=PLD31qM5nTM5w",
-  "note": "emptiness check before deletion"
- },
- {
-  "id": "items-PLdRSQJWxvElM",
-  "method": "GET",
-  "path": "/v3/playlistItems?part=snippet&maxResults=5&playlistId=PLdRSQJWxvElM",
-  "note": "emptiness check before deletion"
- },
- {
-  "id": "items-PLV0-pYYsmr2Y",
-  "method": "GET",
-  "path": "/v3/playlistItems?part=snippet&maxResults=5&playlistId=PLV0-pYYsmr2Y",
-  "note": "emptiness check before deletion"
- },
- {
-  "id": "items-PLTA4gygMr53o",
-  "method": "GET",
-  "path": "/v3/playlistItems?part=snippet&maxResults=5&playlistId=PLTA4gygMr53o",
-  "note": "emptiness check before deletion"
- },
- {
-  "id": "hide-PLMQvLXpWXhzI",
-  "method": "PUT",
-  "path": "/v3/playlists?part=snippet,status",
-  "body": {
-   "id": "PLMQvLXpWXhzI",
-   "snippet": {
-    "title": "(unused duplicate)",
-    "description": ""
-   },
-   "status": {
-    "privacyStatus": "private"
-   }
+  {
+    "id": "items-PLeG-fjD34jcg",
+    "method": "GET",
+    "path": "/v3/playlistItems?part=snippet&maxResults=5&playlistId=PLeG-fjD34jcg",
+    "note": "emptiness check before deletion"
   },
-  "note": "API DELETE through Make failed; hide the empty duplicate instead"
- },
- {
-  "id": "hide-PLBT8K08GTT9E",
-  "method": "PUT",
-  "path": "/v3/playlists?part=snippet,status",
-  "body": {
-   "id": "PLBT8K08GTT9E",
-   "snippet": {
-    "title": "(unused duplicate)",
-    "description": ""
-   },
-   "status": {
-    "privacyStatus": "private"
-   }
+  {
+    "id": "items-PLMQvLXpWXhzI",
+    "method": "GET",
+    "path": "/v3/playlistItems?part=snippet&maxResults=5&playlistId=PLMQvLXpWXhzI",
+    "note": "emptiness check before deletion"
   },
-  "note": "API DELETE through Make failed; hide the empty duplicate instead"
- },
- {
-  "id": "hide-PLD31qM5nTM5w",
-  "method": "PUT",
-  "path": "/v3/playlists?part=snippet,status",
-  "body": {
-   "id": "PLD31qM5nTM5w",
-   "snippet": {
-    "title": "(unused duplicate)",
-    "description": ""
-   },
-   "status": {
-    "privacyStatus": "private"
-   }
+  {
+    "id": "items-PLBT8K08GTT9E",
+    "method": "GET",
+    "path": "/v3/playlistItems?part=snippet&maxResults=5&playlistId=PLBT8K08GTT9E",
+    "note": "emptiness check before deletion"
   },
-  "note": "API DELETE through Make failed; hide the empty duplicate instead"
- },
- {
-  "id": "hide-PLeG-fjD34jcg",
-  "method": "PUT",
-  "path": "/v3/playlists?part=snippet,status",
-  "body": {
-   "id": "PLeG-fjD34jcg",
-   "snippet": {
-    "title": "(unused duplicate)",
-    "description": ""
-   },
-   "status": {
-    "privacyStatus": "private"
-   }
+  {
+    "id": "items-PLD31qM5nTM5w",
+    "method": "GET",
+    "path": "/v3/playlistItems?part=snippet&maxResults=5&playlistId=PLD31qM5nTM5w",
+    "note": "emptiness check before deletion"
   },
-  "note": "API DELETE through Make failed; hide the empty duplicate instead"
- },
- {
-  "id": "hide-PLV0-pYYsmr2Y",
-  "method": "PUT",
-  "path": "/v3/playlists?part=snippet,status",
-  "body": {
-   "id": "PLV0-pYYsmr2Y",
-   "snippet": {
-    "title": "(unused duplicate)",
-    "description": ""
-   },
-   "status": {
-    "privacyStatus": "private"
-   }
+  {
+    "id": "items-PLdRSQJWxvElM",
+    "method": "GET",
+    "path": "/v3/playlistItems?part=snippet&maxResults=5&playlistId=PLdRSQJWxvElM",
+    "note": "emptiness check before deletion"
   },
-  "note": "API DELETE through Make failed; hide the empty duplicate instead"
- },
- {
-  "id": "hide-PLTA4gygMr53o",
-  "method": "PUT",
-  "path": "/v3/playlists?part=snippet,status",
-  "body": {
-   "id": "PLTA4gygMr53o",
-   "snippet": {
-    "title": "(unused duplicate)",
-    "description": ""
-   },
-   "status": {
-    "privacyStatus": "private"
-   }
+  {
+    "id": "items-PLV0-pYYsmr2Y",
+    "method": "GET",
+    "path": "/v3/playlistItems?part=snippet&maxResults=5&playlistId=PLV0-pYYsmr2Y",
+    "note": "emptiness check before deletion"
   },
-  "note": "API DELETE through Make failed; hide the empty duplicate instead"
- },
- {
-  "id": "hide-PLdRSQJWxvElM",
-  "method": "PUT",
-  "path": "/v3/playlists?part=snippet,status",
-  "body": {
-   "id": "PLdRSQJWxvElM",
-   "snippet": {
-    "title": "(unused duplicate)",
-    "description": ""
-   },
-   "status": {
-    "privacyStatus": "private"
-   }
+  {
+    "id": "items-PLTA4gygMr53o",
+    "method": "GET",
+    "path": "/v3/playlistItems?part=snippet&maxResults=5&playlistId=PLTA4gygMr53o",
+    "note": "emptiness check before deletion"
   },
-  "note": "API DELETE through Make failed; hide the empty duplicate instead"
- },
- {
-  "id": "chk-PLAY8kmI7UCNk",
-  "method": "GET",
-  "path": "/v3/playlists?part=snippet&id=PLAY8kmI7UCNk",
-  "note": "verify duplicate deletion (empty description = gone)"
- },
- {
-  "id": "chk-PLMQvLXpWXhzI",
-  "method": "GET",
-  "path": "/v3/playlists?part=snippet&id=PLMQvLXpWXhzI",
-  "note": "verify duplicate deletion (empty description = gone)"
- },
- {
-  "id": "chk-PLBT8K08GTT9E",
-  "method": "GET",
-  "path": "/v3/playlists?part=snippet&id=PLBT8K08GTT9E",
-  "note": "verify duplicate deletion (empty description = gone)"
- },
- {
-  "id": "chk-PLD31qM5nTM5w",
-  "method": "GET",
-  "path": "/v3/playlists?part=snippet&id=PLD31qM5nTM5w",
-  "note": "verify duplicate deletion (empty description = gone)"
- },
- {
-  "id": "chk-PLeG-fjD34jcg",
-  "method": "GET",
-  "path": "/v3/playlists?part=snippet&id=PLeG-fjD34jcg",
-  "note": "verify duplicate deletion (empty description = gone)"
- },
- {
-  "id": "chk-PLV0-pYYsmr2Y",
-  "method": "GET",
-  "path": "/v3/playlists?part=snippet&id=PLV0-pYYsmr2Y",
-  "note": "verify duplicate deletion (empty description = gone)"
- },
- {
-  "id": "chk-PLTA4gygMr53o",
-  "method": "GET",
-  "path": "/v3/playlists?part=snippet&id=PLTA4gygMr53o",
-  "note": "verify duplicate deletion (empty description = gone)"
- },
- {
-  "id": "chk-PLdRSQJWxvElM",
-  "method": "GET",
-  "path": "/v3/playlists?part=snippet&id=PLdRSQJWxvElM",
-  "note": "verify duplicate deletion (empty description = gone)"
- },
- {
-  "id": "del-PLdRSQJWxvElM",
-  "method": "DELETE",
-  "path": "/v3/playlists?id=PLdRSQJWxvElM",
-  "note": "duplicate from stale raw.githubusercontent read, 15 Oct",
-  "skip": true
- },
- {
-  "id": "del-PLTA4gygMr53o",
-  "method": "DELETE",
-  "path": "/v3/playlists?id=PLTA4gygMr53o",
-  "note": "duplicate from stale raw.githubusercontent read, 15 Oct",
-  "skip": true
- },
- {
-  "id": "del-PLV0-pYYsmr2Y",
-  "method": "DELETE",
-  "path": "/v3/playlists?id=PLV0-pYYsmr2Y",
-  "note": "duplicate from stale raw.githubusercontent read, 15 Oct",
-  "skip": true
- },
- {
-  "id": "del-PLeG-fjD34jcg",
-  "method": "DELETE",
-  "path": "/v3/playlists?id=PLeG-fjD34jcg",
-  "note": "duplicate created by an overlapping manual run on 15 Oct",
-  "skip": true
- },
- {
-  "id": "del-PLD31qM5nTM5w",
-  "method": "DELETE",
-  "path": "/v3/playlists?id=PLD31qM5nTM5w",
-  "note": "duplicate created by an overlapping manual run on 15 Oct",
-  "skip": true
- },
- {
-  "id": "del-PLBT8K08GTT9E",
-  "method": "DELETE",
-  "path": "/v3/playlists?id=PLBT8K08GTT9E",
-  "note": "duplicate created by an overlapping manual run on 15 Oct",
-  "skip": true
- },
- {
-  "id": "del-PLMQvLXpWXhzI",
-  "method": "DELETE",
-  "path": "/v3/playlists?id=PLMQvLXpWXhzI",
-  "note": "duplicate created by an overlapping manual run on 15 Oct",
-  "skip": true
- },
- {
-  "id": "pl-all",
-  "method": "POST",
-  "path": "/v3/playlists?part=snippet,status",
-  "body": {
-   "snippet": {
-    "title": "Filed Under Failure: Full Episodes",
-    "description": "Every full case file in one place: how real companies failed, told from court, parliamentary and regulator records. Start with any episode.",
-    "defaultLanguage": "en"
-   },
-   "status": {
-    "privacyStatus": "public"
-   }
-  }
- },
- {
-  "id": "pl-001",
-  "method": "POST",
-  "path": "/v3/playlists?part=snippet,status",
-  "body": {
-   "snippet": {
-    "title": "Carillion Collapse Explained",
-    "description": "How Britain's second-largest construction company went from government contractor to liquidation in January 2018: the full episode first, then the short case notes. From the parliamentary and official record.",
-    "defaultLanguage": "en"
-   },
-   "status": {
-    "privacyStatus": "public"
-   }
-  }
- },
- {
-  "id": "pl-002",
-  "method": "POST",
-  "path": "/v3/playlists?part=snippet,status",
-  "body": {
-   "snippet": {
-    "title": "Silicon Valley Bank Collapse Explained",
-    "description": "The March 2023 Silicon Valley Bank run: the full episode first, then the short case notes. Built from the Federal Reserve, FDIC and other official reviews.",
-    "defaultLanguage": "en"
-   },
-   "status": {
-    "privacyStatus": "public"
-   }
-  }
- },
- {
-  "id": "pl-003",
-  "method": "POST",
-  "path": "/v3/playlists?part=snippet,status",
-  "body": {
-   "snippet": {
-    "title": "Theranos and Elizabeth Holmes Explained",
-    "description": "What the Theranos court record actually established: the full episode first, then the short case notes. From the Ninth Circuit opinion, SEC charges and regulator findings.",
-    "defaultLanguage": "en"
-   },
-   "status": {
-    "privacyStatus": "public"
-   }
-  }
- },
- {
-  "id": "pi-all-vdXslodih6A",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "after": [
-   "pl-all"
-  ],
-  "body": {
-   "snippet": {
-    "playlistId": "@res:pl-all",
-    "position": 0,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "vdXslodih6A"
-    }
-   }
-  }
- },
- {
-  "id": "pi-all-5fPvAEfxo6w",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "after": [
-   "pl-all"
-  ],
-  "body": {
-   "snippet": {
-    "playlistId": "@res:pl-all",
-    "position": 1,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "5fPvAEfxo6w"
-    }
-   }
-  }
- },
- {
-  "id": "pi-all-EgM6A2U6Qag",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "after": [
-   "pl-all"
-  ],
-  "body": {
-   "snippet": {
-    "playlistId": "@res:pl-all",
-    "position": 2,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "EgM6A2U6Qag"
-    }
-   }
-  }
- },
- {
-  "id": "pi-001-EgM6A2U6Qag",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "after": [
-   "pl-001"
-  ],
-  "body": {
-   "snippet": {
-    "playlistId": "@res:pl-001",
-    "position": 0,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "EgM6A2U6Qag"
-    }
-   }
-  }
- },
- {
-  "id": "pi-001-nAPJEMBh1Rk",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "after": [
-   "pl-001"
-  ],
-  "body": {
-   "snippet": {
-    "playlistId": "@res:pl-001",
-    "position": 1,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "nAPJEMBh1Rk"
-    }
-   }
-  }
- },
- {
-  "id": "pi-001-l1QDHr0GoUY",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "after": [
-   "pl-001"
-  ],
-  "body": {
-   "snippet": {
-    "playlistId": "@res:pl-001",
-    "position": 2,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "l1QDHr0GoUY"
-    }
-   }
-  }
- },
- {
-  "id": "pi-001-MvUDWLKMasI",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "after": [
-   "pl-001"
-  ],
-  "body": {
-   "snippet": {
-    "playlistId": "@res:pl-001",
-    "position": 3,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "MvUDWLKMasI"
-    }
-   }
-  }
- },
- {
-  "id": "pi-001-90ByqlGonLI",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "after": [
-   "pl-001"
-  ],
-  "body": {
-   "snippet": {
-    "playlistId": "@res:pl-001",
-    "position": 4,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "90ByqlGonLI"
-    }
-   }
-  }
- },
- {
-  "id": "pi-001-GgKOpONeN_o",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "after": [
-   "pl-001"
-  ],
-  "body": {
-   "snippet": {
-    "playlistId": "@res:pl-001",
-    "position": 5,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "GgKOpONeN_o"
-    }
-   }
-  }
- },
- {
-  "id": "pi-001-9CIuSts7dDU",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "after": [
-   "pl-001"
-  ],
-  "body": {
-   "snippet": {
-    "playlistId": "@res:pl-001",
-    "position": 6,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "9CIuSts7dDU"
-    }
-   }
-  }
- },
- {
-  "id": "get-EgM6A2U6Qag",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=EgM6A2U6Qag"
- },
- {
-  "id": "upd-EgM6A2U6Qag",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "after": [
-   "get-EgM6A2U6Qag",
-   "pl-001",
-   "pl-all"
-  ],
-  "transform": {
-   "kind": "none",
-   "append": "▶ Shorts from this case: https://www.youtube.com/playlist?list=@res:pl-001\n▶ All full episodes: https://www.youtube.com/playlist?list=@res:pl-all\n🔔 Subscribe for the next case file: https://www.youtube.com/@FiledUnderFailure-d6j?sub_confirmation=1"
+  {
+    "id": "hide-PLMQvLXpWXhzI",
+    "method": "PUT",
+    "path": "/v3/playlists?part=snippet,status",
+    "body": {
+      "id": "PLMQvLXpWXhzI",
+      "snippet": {
+        "title": "(unused duplicate)",
+        "description": ""
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    "note": "API DELETE through Make failed; hide the empty duplicate instead"
   },
-  "body": {
-   "id": "EgM6A2U6Qag",
-   "snippet": {
-    "title": "Why Did Carillion Collapse? How Britain's Biggest Builder Ran Out of Money",
-    "categoryId": "27",
-    "description": "@desc:get-EgM6A2U6Qag",
-    "tags": [
-     "Carillion",
-     "Carillion collapse",
-     "business documentary",
-     "UK business",
-     "corporate collapse",
-     "construction",
-     "KPMG",
-     "liquidation"
+  {
+    "id": "hide-PLBT8K08GTT9E",
+    "method": "PUT",
+    "path": "/v3/playlists?part=snippet,status",
+    "body": {
+      "id": "PLBT8K08GTT9E",
+      "snippet": {
+        "title": "(unused duplicate)",
+        "description": ""
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    "note": "API DELETE through Make failed; hide the empty duplicate instead"
+  },
+  {
+    "id": "hide-PLD31qM5nTM5w",
+    "method": "PUT",
+    "path": "/v3/playlists?part=snippet,status",
+    "body": {
+      "id": "PLD31qM5nTM5w",
+      "snippet": {
+        "title": "(unused duplicate)",
+        "description": ""
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    "note": "API DELETE through Make failed; hide the empty duplicate instead"
+  },
+  {
+    "id": "hide-PLeG-fjD34jcg",
+    "method": "PUT",
+    "path": "/v3/playlists?part=snippet,status",
+    "body": {
+      "id": "PLeG-fjD34jcg",
+      "snippet": {
+        "title": "(unused duplicate)",
+        "description": ""
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    "note": "API DELETE through Make failed; hide the empty duplicate instead"
+  },
+  {
+    "id": "hide-PLV0-pYYsmr2Y",
+    "method": "PUT",
+    "path": "/v3/playlists?part=snippet,status",
+    "body": {
+      "id": "PLV0-pYYsmr2Y",
+      "snippet": {
+        "title": "(unused duplicate)",
+        "description": ""
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    "note": "API DELETE through Make failed; hide the empty duplicate instead"
+  },
+  {
+    "id": "hide-PLTA4gygMr53o",
+    "method": "PUT",
+    "path": "/v3/playlists?part=snippet,status",
+    "body": {
+      "id": "PLTA4gygMr53o",
+      "snippet": {
+        "title": "(unused duplicate)",
+        "description": ""
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    "note": "API DELETE through Make failed; hide the empty duplicate instead"
+  },
+  {
+    "id": "hide-PLdRSQJWxvElM",
+    "method": "PUT",
+    "path": "/v3/playlists?part=snippet,status",
+    "body": {
+      "id": "PLdRSQJWxvElM",
+      "snippet": {
+        "title": "(unused duplicate)",
+        "description": ""
+      },
+      "status": {
+        "privacyStatus": "private"
+      }
+    },
+    "note": "API DELETE through Make failed; hide the empty duplicate instead"
+  },
+  {
+    "id": "chk-PLAY8kmI7UCNk",
+    "method": "GET",
+    "path": "/v3/playlists?part=snippet&id=PLAY8kmI7UCNk",
+    "note": "verify duplicate deletion (empty description = gone)"
+  },
+  {
+    "id": "chk-PLMQvLXpWXhzI",
+    "method": "GET",
+    "path": "/v3/playlists?part=snippet&id=PLMQvLXpWXhzI",
+    "note": "verify duplicate deletion (empty description = gone)"
+  },
+  {
+    "id": "chk-PLBT8K08GTT9E",
+    "method": "GET",
+    "path": "/v3/playlists?part=snippet&id=PLBT8K08GTT9E",
+    "note": "verify duplicate deletion (empty description = gone)"
+  },
+  {
+    "id": "chk-PLD31qM5nTM5w",
+    "method": "GET",
+    "path": "/v3/playlists?part=snippet&id=PLD31qM5nTM5w",
+    "note": "verify duplicate deletion (empty description = gone)"
+  },
+  {
+    "id": "chk-PLeG-fjD34jcg",
+    "method": "GET",
+    "path": "/v3/playlists?part=snippet&id=PLeG-fjD34jcg",
+    "note": "verify duplicate deletion (empty description = gone)"
+  },
+  {
+    "id": "chk-PLV0-pYYsmr2Y",
+    "method": "GET",
+    "path": "/v3/playlists?part=snippet&id=PLV0-pYYsmr2Y",
+    "note": "verify duplicate deletion (empty description = gone)"
+  },
+  {
+    "id": "chk-PLTA4gygMr53o",
+    "method": "GET",
+    "path": "/v3/playlists?part=snippet&id=PLTA4gygMr53o",
+    "note": "verify duplicate deletion (empty description = gone)"
+  },
+  {
+    "id": "chk-PLdRSQJWxvElM",
+    "method": "GET",
+    "path": "/v3/playlists?part=snippet&id=PLdRSQJWxvElM",
+    "note": "verify duplicate deletion (empty description = gone)"
+  },
+  {
+    "id": "del-PLdRSQJWxvElM",
+    "method": "DELETE",
+    "path": "/v3/playlists?id=PLdRSQJWxvElM",
+    "note": "duplicate from stale raw.githubusercontent read, 15 Oct",
+    "skip": true
+  },
+  {
+    "id": "del-PLTA4gygMr53o",
+    "method": "DELETE",
+    "path": "/v3/playlists?id=PLTA4gygMr53o",
+    "note": "duplicate from stale raw.githubusercontent read, 15 Oct",
+    "skip": true
+  },
+  {
+    "id": "del-PLV0-pYYsmr2Y",
+    "method": "DELETE",
+    "path": "/v3/playlists?id=PLV0-pYYsmr2Y",
+    "note": "duplicate from stale raw.githubusercontent read, 15 Oct",
+    "skip": true
+  },
+  {
+    "id": "del-PLeG-fjD34jcg",
+    "method": "DELETE",
+    "path": "/v3/playlists?id=PLeG-fjD34jcg",
+    "note": "duplicate created by an overlapping manual run on 15 Oct",
+    "skip": true
+  },
+  {
+    "id": "del-PLD31qM5nTM5w",
+    "method": "DELETE",
+    "path": "/v3/playlists?id=PLD31qM5nTM5w",
+    "note": "duplicate created by an overlapping manual run on 15 Oct",
+    "skip": true
+  },
+  {
+    "id": "del-PLBT8K08GTT9E",
+    "method": "DELETE",
+    "path": "/v3/playlists?id=PLBT8K08GTT9E",
+    "note": "duplicate created by an overlapping manual run on 15 Oct",
+    "skip": true
+  },
+  {
+    "id": "del-PLMQvLXpWXhzI",
+    "method": "DELETE",
+    "path": "/v3/playlists?id=PLMQvLXpWXhzI",
+    "note": "duplicate created by an overlapping manual run on 15 Oct",
+    "skip": true
+  },
+  {
+    "id": "pl-all",
+    "method": "POST",
+    "path": "/v3/playlists?part=snippet,status",
+    "body": {
+      "snippet": {
+        "title": "Filed Under Failure: Full Episodes",
+        "description": "Every full case file in one place: how real companies failed, told from court, parliamentary and regulator records. Start with any episode.",
+        "defaultLanguage": "en"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  },
+  {
+    "id": "pl-001",
+    "method": "POST",
+    "path": "/v3/playlists?part=snippet,status",
+    "body": {
+      "snippet": {
+        "title": "Carillion Collapse Explained",
+        "description": "How Britain's second-largest construction company went from government contractor to liquidation in January 2018: the full episode first, then the short case notes. From the parliamentary and official record.",
+        "defaultLanguage": "en"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  },
+  {
+    "id": "pl-002",
+    "method": "POST",
+    "path": "/v3/playlists?part=snippet,status",
+    "body": {
+      "snippet": {
+        "title": "Silicon Valley Bank Collapse Explained",
+        "description": "The March 2023 Silicon Valley Bank run: the full episode first, then the short case notes. Built from the Federal Reserve, FDIC and other official reviews.",
+        "defaultLanguage": "en"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  },
+  {
+    "id": "pl-003",
+    "method": "POST",
+    "path": "/v3/playlists?part=snippet,status",
+    "body": {
+      "snippet": {
+        "title": "Theranos and Elizabeth Holmes Explained",
+        "description": "What the Theranos court record actually established: the full episode first, then the short case notes. From the Ninth Circuit opinion, SEC charges and regulator findings.",
+        "defaultLanguage": "en"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  },
+  {
+    "id": "pi-all-vdXslodih6A",
+    "method": "POST",
+    "path": "/v3/playlistItems?part=snippet",
+    "after": [
+      "pl-all"
     ],
-    "defaultLanguage": "en",
-    "defaultAudioLanguage": "en"
-   }
-  }
- },
- {
-  "id": "get-nAPJEMBh1Rk",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=nAPJEMBh1Rk"
- },
- {
-  "id": "upd-nAPJEMBh1Rk",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "after": [
-   "get-nAPJEMBh1Rk"
-  ],
-  "transform": {
-   "kind": "replace_line",
-   "prefix": "Full episode",
-   "text": "Full episode ▶ https://youtu.be/EgM6A2U6Qag"
-  },
-  "body": {
-   "id": "nAPJEMBh1Rk",
-   "snippet": {
-    "title": "Carillion paid £554m in dividends while its debt rose fivefold #Shorts",
-    "categoryId": "27",
-    "description": "@desc:get-nAPJEMBh1Rk",
-    "tags": [
-     "Carillion",
-     "Carillion collapse",
-     "business documentary",
-     "UK business",
-     "corporate collapse",
-     "construction",
-     "KPMG",
-     "liquidation"
-    ],
-    "defaultLanguage": "en",
-    "defaultAudioLanguage": "en"
-   }
-  }
- },
- {
-  "id": "get-l1QDHr0GoUY",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=l1QDHr0GoUY"
- },
- {
-  "id": "upd-l1QDHr0GoUY",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "after": [
-   "get-l1QDHr0GoUY"
-  ],
-  "transform": {
-   "kind": "replace_line",
-   "prefix": "Full episode",
-   "text": "Full episode ▶ https://youtu.be/EgM6A2U6Qag"
-  },
-  "body": {
-   "id": "l1QDHr0GoUY",
-   "snippet": {
-    "title": "Carillion made suppliers wait 120 days to be paid #Shorts",
-    "categoryId": "27",
-    "description": "@desc:get-l1QDHr0GoUY",
-    "tags": [
-     "Carillion",
-     "Carillion collapse",
-     "business documentary",
-     "UK business",
-     "corporate collapse",
-     "construction",
-     "KPMG",
-     "liquidation"
-    ],
-    "defaultLanguage": "en",
-    "defaultAudioLanguage": "en"
-   }
-  }
- },
- {
-  "id": "get-MvUDWLKMasI",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=MvUDWLKMasI"
- },
- {
-  "id": "upd-MvUDWLKMasI",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "after": [
-   "get-MvUDWLKMasI"
-  ],
-  "transform": {
-   "kind": "replace_line",
-   "prefix": "Full episode",
-   "text": "Full episode ▶ https://youtu.be/EgM6A2U6Qag"
-  },
-  "body": {
-   "id": "MvUDWLKMasI",
-   "snippet": {
-    "title": "After Carillion's profit warning, government still gave it £1.9bn of work #Shorts",
-    "categoryId": "27",
-    "description": "@desc:get-MvUDWLKMasI",
-    "tags": [
-     "Carillion",
-     "Carillion collapse",
-     "business documentary",
-     "UK business",
-     "corporate collapse",
-     "construction",
-     "KPMG",
-     "liquidation"
-    ],
-    "defaultLanguage": "en",
-    "defaultAudioLanguage": "en"
-   }
-  }
- },
- {
-  "id": "get-90ByqlGonLI",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=90ByqlGonLI"
- },
- {
-  "id": "upd-90ByqlGonLI",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "after": [
-   "get-90ByqlGonLI"
-  ],
-  "transform": {
-   "kind": "replace_line",
-   "prefix": "Full episode",
-   "text": "Full episode ▶ https://youtu.be/EgM6A2U6Qag"
-  },
-  "body": {
-   "id": "90ByqlGonLI",
-   "snippet": {
-    "title": "Carillion asked the government for £223m. The answer was no. #Shorts",
-    "categoryId": "27",
-    "description": "@desc:get-90ByqlGonLI",
-    "tags": [
-     "Carillion",
-     "Carillion collapse",
-     "business documentary",
-     "UK business",
-     "corporate collapse",
-     "construction",
-     "KPMG",
-     "liquidation"
-    ],
-    "defaultLanguage": "en",
-    "defaultAudioLanguage": "en"
-   }
-  }
- },
- {
-  "id": "get-GgKOpONeN_o",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=GgKOpONeN_o"
- },
- {
-  "id": "upd-GgKOpONeN_o",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "after": [
-   "get-GgKOpONeN_o"
-  ],
-  "transform": {
-   "kind": "replace_line",
-   "prefix": "Full episode",
-   "text": "Full episode ▶ https://youtu.be/EgM6A2U6Qag"
-  },
-  "body": {
-   "id": "GgKOpONeN_o",
-   "snippet": {
-    "title": "Who paid when Carillion collapsed? Staff, pensioners and taxpayers #Shorts",
-    "categoryId": "27",
-    "description": "@desc:get-GgKOpONeN_o",
-    "tags": [
-     "Carillion",
-     "Carillion collapse",
-     "business documentary",
-     "UK business",
-     "corporate collapse",
-     "construction",
-     "KPMG",
-     "liquidation"
-    ],
-    "defaultLanguage": "en",
-    "defaultAudioLanguage": "en"
-   }
-  }
- },
- {
-  "id": "get-9CIuSts7dDU",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=9CIuSts7dDU"
- },
- {
-  "id": "upd-9CIuSts7dDU",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "after": [
-   "get-9CIuSts7dDU"
-  ],
-  "transform": {
-   "kind": "replace_line",
-   "prefix": "Full episode",
-   "text": "Full episode ▶ https://youtu.be/EgM6A2U6Qag"
-  },
-  "body": {
-   "id": "9CIuSts7dDU",
-   "snippet": {
-    "title": "MPs' verdict on Carillion: recklessness, hubris and greed #Shorts",
-    "categoryId": "27",
-    "description": "@desc:get-9CIuSts7dDU",
-    "tags": [
-     "Carillion",
-     "Carillion collapse",
-     "business documentary",
-     "UK business",
-     "corporate collapse",
-     "construction",
-     "KPMG",
-     "liquidation"
-    ],
-    "defaultLanguage": "en",
-    "defaultAudioLanguage": "en"
-   }
-  }
- },
- {
-  "id": "pi-002-5fPvAEfxo6w",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "after": [
-   "pl-002"
-  ],
-  "body": {
-   "snippet": {
-    "playlistId": "@res:pl-002",
-    "position": 0,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "5fPvAEfxo6w"
+    "body": {
+      "snippet": {
+        "playlistId": "@res:pl-all",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vdXslodih6A"
+        }
+      }
     }
-   }
-  }
- },
- {
-  "id": "pi-002-5pxZ6aDQGxw",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "after": [
-   "pl-002"
-  ],
-  "body": {
-   "snippet": {
-    "playlistId": "@res:pl-002",
-    "position": 1,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "5pxZ6aDQGxw"
-    }
-   }
-  }
- },
- {
-  "id": "pi-002-PgoTuPDONh4",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "after": [
-   "pl-002"
-  ],
-  "body": {
-   "snippet": {
-    "playlistId": "@res:pl-002",
-    "position": 2,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "PgoTuPDONh4"
-    }
-   }
-  }
- },
- {
-  "id": "pi-002-94egvFj1fbY",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "after": [
-   "pl-002"
-  ],
-  "body": {
-   "snippet": {
-    "playlistId": "@res:pl-002",
-    "position": 3,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "94egvFj1fbY"
-    }
-   }
-  }
- },
- {
-  "id": "pi-002-jtFeifCjRHc",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "after": [
-   "pl-002"
-  ],
-  "body": {
-   "snippet": {
-    "playlistId": "@res:pl-002",
-    "position": 4,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "jtFeifCjRHc"
-    }
-   }
-  }
- },
- {
-  "id": "pi-002-Qzu2G7C3TC8",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "after": [
-   "pl-002"
-  ],
-  "body": {
-   "snippet": {
-    "playlistId": "@res:pl-002",
-    "position": 5,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "Qzu2G7C3TC8"
-    }
-   }
-  }
- },
- {
-  "id": "pi-002-9Ua3QYxB1E4",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "after": [
-   "pl-002"
-  ],
-  "body": {
-   "snippet": {
-    "playlistId": "@res:pl-002",
-    "position": 6,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "9Ua3QYxB1E4"
-    }
-   }
-  }
- },
- {
-  "id": "pi-002-DtDUPPB90xg",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "after": [
-   "pl-002"
-  ],
-  "body": {
-   "snippet": {
-    "playlistId": "@res:pl-002",
-    "position": 7,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "DtDUPPB90xg"
-    }
-   }
-  }
- },
- {
-  "id": "get-5fPvAEfxo6w",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=5fPvAEfxo6w"
- },
- {
-  "id": "upd-5fPvAEfxo6w",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "after": [
-   "get-5fPvAEfxo6w",
-   "pl-002",
-   "pl-all"
-  ],
-  "transform": {
-   "kind": "none",
-   "append": "▶ Shorts from this case: https://www.youtube.com/playlist?list=@res:pl-002\n▶ All full episodes: https://www.youtube.com/playlist?list=@res:pl-all\n🔔 Subscribe for the next case file: https://www.youtube.com/@FiledUnderFailure-d6j?sub_confirmation=1"
   },
-  "body": {
-   "id": "5fPvAEfxo6w",
-   "snippet": {
-    "title": "Why Did Silicon Valley Bank Collapse? $40 Billion Gone in One Day",
-    "categoryId": "27",
-    "description": "@desc:get-5fPvAEfxo6w",
-    "tags": [
-     "Silicon Valley Bank",
-     "SVB collapse",
-     "bank run",
-     "business documentary",
-     "Federal Reserve",
-     "FDIC",
-     "banking crisis 2023",
-     "what went wrong"
+  {
+    "id": "pi-all-5fPvAEfxo6w",
+    "method": "POST",
+    "path": "/v3/playlistItems?part=snippet",
+    "after": [
+      "pl-all"
     ],
-    "defaultLanguage": "en",
-    "defaultAudioLanguage": "en"
-   }
-  }
- },
- {
-  "id": "get-5pxZ6aDQGxw",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=5pxZ6aDQGxw"
- },
- {
-  "id": "upd-5pxZ6aDQGxw",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "after": [
-   "get-5pxZ6aDQGxw"
-  ],
-  "transform": {
-   "kind": "replace_line",
-   "prefix": "Full episode",
-   "text": "Full episode ▶ https://youtu.be/5fPvAEfxo6w"
-  },
-  "body": {
-   "id": "5pxZ6aDQGxw",
-   "snippet": {
-    "title": "Silicon Valley Bank took 40 years to build and two days to fall #Shorts",
-    "categoryId": "27",
-    "description": "@desc:get-5pxZ6aDQGxw",
-    "tags": [
-     "Silicon Valley Bank",
-     "SVB collapse",
-     "bank run",
-     "business documentary",
-     "Federal Reserve",
-     "FDIC",
-     "banking crisis 2023",
-     "what went wrong"
-    ],
-    "defaultLanguage": "en",
-    "defaultAudioLanguage": "en"
-   }
-  }
- },
- {
-  "id": "get-PgoTuPDONh4",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=PgoTuPDONh4"
- },
- {
-  "id": "upd-PgoTuPDONh4",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "after": [
-   "get-PgoTuPDONh4"
-  ],
-  "transform": {
-   "kind": "replace_line",
-   "prefix": "Full episode",
-   "text": "Full episode ▶ https://youtu.be/5fPvAEfxo6w"
-  },
-  "body": {
-   "id": "PgoTuPDONh4",
-   "snippet": {
-    "title": "Customers pulled $40 billion from Silicon Valley Bank in one day #Shorts",
-    "categoryId": "27",
-    "description": "@desc:get-PgoTuPDONh4",
-    "tags": [
-     "Silicon Valley Bank",
-     "SVB collapse",
-     "bank run",
-     "business documentary",
-     "Federal Reserve",
-     "FDIC",
-     "banking crisis 2023",
-     "what went wrong"
-    ],
-    "defaultLanguage": "en",
-    "defaultAudioLanguage": "en"
-   }
-  }
- },
- {
-  "id": "get-94egvFj1fbY",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=94egvFj1fbY"
- },
- {
-  "id": "upd-94egvFj1fbY",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "after": [
-   "get-94egvFj1fbY"
-  ],
-  "transform": {
-   "kind": "replace_line",
-   "prefix": "Full episode",
-   "text": "Full episode ▶ https://youtu.be/5fPvAEfxo6w"
-  },
-  "body": {
-   "id": "94egvFj1fbY",
-   "snippet": {
-    "title": "94% of Silicon Valley Bank's deposits were uninsured #Shorts",
-    "categoryId": "27",
-    "description": "@desc:get-94egvFj1fbY",
-    "tags": [
-     "Silicon Valley Bank",
-     "SVB collapse",
-     "bank run",
-     "business documentary",
-     "Federal Reserve",
-     "FDIC",
-     "banking crisis 2023",
-     "what went wrong"
-    ],
-    "defaultLanguage": "en",
-    "defaultAudioLanguage": "en"
-   }
-  }
- },
- {
-  "id": "get-jtFeifCjRHc",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=jtFeifCjRHc"
- },
- {
-  "id": "upd-jtFeifCjRHc",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "after": [
-   "get-jtFeifCjRHc"
-  ],
-  "transform": {
-   "kind": "replace_line",
-   "prefix": "Full episode",
-   "text": "Full episode ▶ https://youtu.be/5fPvAEfxo6w"
-  },
-  "body": {
-   "id": "jtFeifCjRHc",
-   "snippet": {
-    "title": "Silicon Valley Bank had 31 open supervisory findings when it failed #Shorts",
-    "categoryId": "27",
-    "description": "@desc:get-jtFeifCjRHc",
-    "tags": [
-     "Silicon Valley Bank",
-     "SVB collapse",
-     "bank run",
-     "business documentary",
-     "Federal Reserve",
-     "FDIC",
-     "banking crisis 2023",
-     "what went wrong"
-    ],
-    "defaultLanguage": "en",
-    "defaultAudioLanguage": "en"
-   }
-  }
- },
- {
-  "id": "get-Qzu2G7C3TC8",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=Qzu2G7C3TC8"
- },
- {
-  "id": "upd-Qzu2G7C3TC8",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "after": [
-   "get-Qzu2G7C3TC8"
-  ],
-  "transform": {
-   "kind": "replace_line",
-   "prefix": "Full episode",
-   "text": "Full episode ▶ https://youtu.be/5fPvAEfxo6w"
-  },
-  "body": {
-   "id": "Qzu2G7C3TC8",
-   "snippet": {
-    "title": "Silicon Valley Bank put 55% of its assets into securities #Shorts",
-    "categoryId": "27",
-    "description": "@desc:get-Qzu2G7C3TC8",
-    "tags": [
-     "Silicon Valley Bank",
-     "SVB collapse",
-     "bank run",
-     "business documentary",
-     "Federal Reserve",
-     "FDIC",
-     "banking crisis 2023",
-     "what went wrong"
-    ],
-    "defaultLanguage": "en",
-    "defaultAudioLanguage": "en"
-   }
-  }
- },
- {
-  "id": "get-9Ua3QYxB1E4",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=9Ua3QYxB1E4"
- },
- {
-  "id": "upd-9Ua3QYxB1E4",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "after": [
-   "get-9Ua3QYxB1E4"
-  ],
-  "transform": {
-   "kind": "replace_line",
-   "prefix": "Full episode",
-   "text": "Full episode ▶ https://youtu.be/5fPvAEfxo6w"
-  },
-  "body": {
-   "id": "9Ua3QYxB1E4",
-   "snippet": {
-    "title": "Who paid for the Silicon Valley Bank collapse? #Shorts",
-    "categoryId": "27",
-    "description": "@desc:get-9Ua3QYxB1E4",
-    "tags": [
-     "Silicon Valley Bank",
-     "SVB collapse",
-     "bank run",
-     "business documentary",
-     "Federal Reserve",
-     "FDIC",
-     "banking crisis 2023",
-     "what went wrong"
-    ],
-    "defaultLanguage": "en",
-    "defaultAudioLanguage": "en"
-   }
-  }
- },
- {
-  "id": "get-DtDUPPB90xg",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=DtDUPPB90xg"
- },
- {
-  "id": "upd-DtDUPPB90xg",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "after": [
-   "get-DtDUPPB90xg"
-  ],
-  "transform": {
-   "kind": "replace_line",
-   "prefix": "Full episode",
-   "text": "Full episode ▶ https://youtu.be/5fPvAEfxo6w"
-  },
-  "body": {
-   "id": "DtDUPPB90xg",
-   "snippet": {
-    "title": "Did social media cause the Silicon Valley Bank run? Two reviews disagree #Shorts",
-    "categoryId": "27",
-    "description": "@desc:get-DtDUPPB90xg",
-    "tags": [
-     "Silicon Valley Bank",
-     "SVB collapse",
-     "bank run",
-     "business documentary",
-     "Federal Reserve",
-     "FDIC",
-     "banking crisis 2023",
-     "what went wrong"
-    ],
-    "defaultLanguage": "en",
-    "defaultAudioLanguage": "en"
-   }
-  }
- },
- {
-  "id": "pi-003-vdXslodih6A",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "after": [
-   "pl-003"
-  ],
-  "body": {
-   "snippet": {
-    "playlistId": "@res:pl-003",
-    "position": 0,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "vdXslodih6A"
+    "body": {
+      "snippet": {
+        "playlistId": "@res:pl-all",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5fPvAEfxo6w"
+        }
+      }
     }
-   }
-  }
- },
- {
-  "id": "pi-003-CxmwCDb7zIE",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "after": [
-   "pl-003"
-  ],
-  "body": {
-   "snippet": {
-    "playlistId": "@res:pl-003",
-    "position": 1,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "CxmwCDb7zIE"
-    }
-   }
-  }
- },
- {
-  "id": "pi-003-cXfkAdwVW_A",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "after": [
-   "pl-003"
-  ],
-  "body": {
-   "snippet": {
-    "playlistId": "@res:pl-003",
-    "position": 2,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "cXfkAdwVW_A"
-    }
-   }
-  }
- },
- {
-  "id": "pi-003-B1_OPLwLHoA",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "after": [
-   "pl-003"
-  ],
-  "body": {
-   "snippet": {
-    "playlistId": "@res:pl-003",
-    "position": 3,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "B1_OPLwLHoA"
-    }
-   }
-  }
- },
- {
-  "id": "pi-003-P8Xj13VCpZw",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "after": [
-   "pl-003"
-  ],
-  "body": {
-   "snippet": {
-    "playlistId": "@res:pl-003",
-    "position": 4,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "P8Xj13VCpZw"
-    }
-   }
-  }
- },
- {
-  "id": "pi-003-9dcti-HWqVc",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "after": [
-   "pl-003"
-  ],
-  "body": {
-   "snippet": {
-    "playlistId": "@res:pl-003",
-    "position": 5,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "9dcti-HWqVc"
-    }
-   }
-  }
- },
- {
-  "id": "pi-003-KkqfSkA3i-o",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "after": [
-   "pl-003"
-  ],
-  "body": {
-   "snippet": {
-    "playlistId": "@res:pl-003",
-    "position": 6,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "KkqfSkA3i-o"
-    }
-   }
-  }
- },
- {
-  "id": "pi-003-xD8054ghl_Q",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "after": [
-   "pl-003"
-  ],
-  "body": {
-   "snippet": {
-    "playlistId": "@res:pl-003",
-    "position": 7,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "xD8054ghl_Q"
-    }
-   }
-  }
- },
- {
-  "id": "get-vdXslodih6A",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=vdXslodih6A"
- },
- {
-  "id": "upd-vdXslodih6A",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "after": [
-   "get-vdXslodih6A",
-   "pl-003",
-   "pl-all"
-  ],
-  "transform": {
-   "kind": "none",
-   "append": "▶ Shorts from this case: https://www.youtube.com/playlist?list=@res:pl-003\n▶ All full episodes: https://www.youtube.com/playlist?list=@res:pl-all\n🔔 Subscribe for the next case file: https://www.youtube.com/@FiledUnderFailure-d6j?sub_confirmation=1"
   },
-  "body": {
-   "id": "vdXslodih6A",
-   "snippet": {
-    "title": "Was Elizabeth Holmes Guilty? What the Theranos Jury Actually Decided",
-    "categoryId": "27",
-    "description": "@desc:get-vdXslodih6A",
-    "tags": [
-     "Theranos",
-     "Elizabeth Holmes",
-     "Theranos verdict",
-     "Sunny Balwani",
-     "business documentary",
-     "fraud trial",
-     "Silicon Valley",
-     "what went wrong"
+  {
+    "id": "pi-all-EgM6A2U6Qag",
+    "method": "POST",
+    "path": "/v3/playlistItems?part=snippet",
+    "after": [
+      "pl-all"
     ],
-    "defaultLanguage": "en",
-    "defaultAudioLanguage": "en"
-   }
-  }
- },
- {
-  "id": "get-CxmwCDb7zIE",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=CxmwCDb7zIE"
- },
- {
-  "id": "upd-CxmwCDb7zIE",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "after": [
-   "get-CxmwCDb7zIE"
-  ],
-  "transform": {
-   "kind": "replace_line",
-   "prefix": "Full episode",
-   "text": "Full episode ▶ https://youtu.be/vdXslodih6A"
-  },
-  "body": {
-   "id": "CxmwCDb7zIE",
-   "snippet": {
-    "title": "An appeals court called the Theranos claims 'half-truths and outright lies' #Shorts",
-    "categoryId": "27",
-    "description": "@desc:get-CxmwCDb7zIE",
-    "tags": [
-     "Theranos",
-     "Elizabeth Holmes",
-     "Theranos verdict",
-     "Sunny Balwani",
-     "business documentary",
-     "fraud trial",
-     "Silicon Valley",
-     "what went wrong"
-    ],
-    "defaultLanguage": "en",
-    "defaultAudioLanguage": "en"
-   }
-  }
- },
- {
-  "id": "get-cXfkAdwVW_A",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=cXfkAdwVW_A"
- },
- {
-  "id": "upd-cXfkAdwVW_A",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "after": [
-   "get-cXfkAdwVW_A"
-  ],
-  "transform": {
-   "kind": "replace_line",
-   "prefix": "Full episode",
-   "text": "Full episode ▶ https://youtu.be/vdXslodih6A"
-  },
-  "body": {
-   "id": "cXfkAdwVW_A",
-   "snippet": {
-    "title": "Elizabeth Holmes was convicted of defrauding investors, not patients #Shorts",
-    "categoryId": "27",
-    "description": "@desc:get-cXfkAdwVW_A",
-    "tags": [
-     "Theranos",
-     "Elizabeth Holmes",
-     "Theranos verdict",
-     "Sunny Balwani",
-     "business documentary",
-     "fraud trial",
-     "Silicon Valley",
-     "what went wrong"
-    ],
-    "defaultLanguage": "en",
-    "defaultAudioLanguage": "en"
-   }
-  }
- },
- {
-  "id": "get-B1_OPLwLHoA",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=B1_OPLwLHoA"
- },
- {
-  "id": "upd-B1_OPLwLHoA",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "after": [
-   "get-B1_OPLwLHoA"
-  ],
-  "transform": {
-   "kind": "replace_line",
-   "prefix": "Full episode",
-   "text": "Full episode ▶ https://youtu.be/vdXslodih6A"
-  },
-  "body": {
-   "id": "B1_OPLwLHoA",
-   "snippet": {
-    "title": "Theranos developed 300 blood tests. Only 12 ever ran on its own machine #Shorts",
-    "categoryId": "27",
-    "description": "@desc:get-B1_OPLwLHoA",
-    "tags": [
-     "Theranos",
-     "Elizabeth Holmes",
-     "Theranos verdict",
-     "Sunny Balwani",
-     "business documentary",
-     "fraud trial",
-     "Silicon Valley",
-     "what went wrong"
-    ],
-    "defaultLanguage": "en",
-    "defaultAudioLanguage": "en"
-   }
-  }
- },
- {
-  "id": "get-P8Xj13VCpZw",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=P8Xj13VCpZw"
- },
- {
-  "id": "upd-P8Xj13VCpZw",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "after": [
-   "get-P8Xj13VCpZw"
-  ],
-  "transform": {
-   "kind": "replace_line",
-   "prefix": "Full episode",
-   "text": "Full episode ▶ https://youtu.be/vdXslodih6A"
-  },
-  "body": {
-   "id": "P8Xj13VCpZw",
-   "snippet": {
-    "title": "Theranos showed VIP investors a machine running a 'null protocol' #Shorts",
-    "categoryId": "27",
-    "description": "@desc:get-P8Xj13VCpZw",
-    "tags": [
-     "Theranos",
-     "Elizabeth Holmes",
-     "Theranos verdict",
-     "Sunny Balwani",
-     "business documentary",
-     "fraud trial",
-     "Silicon Valley",
-     "what went wrong"
-    ],
-    "defaultLanguage": "en",
-    "defaultAudioLanguage": "en"
-   }
-  }
- },
- {
-  "id": "get-9dcti-HWqVc",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=9dcti-HWqVc"
- },
- {
-  "id": "upd-9dcti-HWqVc",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "after": [
-   "get-9dcti-HWqVc"
-  ],
-  "transform": {
-   "kind": "replace_line",
-   "prefix": "Full episode",
-   "text": "Full episode ▶ https://youtu.be/vdXslodih6A"
-  },
-  "body": {
-   "id": "9dcti-HWqVc",
-   "snippet": {
-    "title": "Holmes admitted she put Pfizer's logo on reports praising Theranos #Shorts",
-    "categoryId": "27",
-    "description": "@desc:get-9dcti-HWqVc",
-    "tags": [
-     "Theranos",
-     "Elizabeth Holmes",
-     "Theranos verdict",
-     "Sunny Balwani",
-     "business documentary",
-     "fraud trial",
-     "Silicon Valley",
-     "what went wrong"
-    ],
-    "defaultLanguage": "en",
-    "defaultAudioLanguage": "en"
-   }
-  }
- },
- {
-  "id": "get-KkqfSkA3i-o",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=KkqfSkA3i-o"
- },
- {
-  "id": "upd-KkqfSkA3i-o",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "after": [
-   "get-KkqfSkA3i-o"
-  ],
-  "transform": {
-   "kind": "replace_line",
-   "prefix": "Full episode",
-   "text": "Full episode ▶ https://youtu.be/vdXslodih6A"
-  },
-  "body": {
-   "id": "KkqfSkA3i-o",
-   "snippet": {
-    "title": "Theranos projected $230m profit. It reported $1.94m income #Shorts",
-    "categoryId": "27",
-    "description": "@desc:get-KkqfSkA3i-o",
-    "tags": [
-     "Theranos",
-     "Elizabeth Holmes",
-     "Theranos verdict",
-     "Sunny Balwani",
-     "business documentary",
-     "fraud trial",
-     "Silicon Valley",
-     "what went wrong"
-    ],
-    "defaultLanguage": "en",
-    "defaultAudioLanguage": "en"
-   }
-  }
- },
- {
-  "id": "get-xD8054ghl_Q",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=xD8054ghl_Q"
- },
- {
-  "id": "upd-xD8054ghl_Q",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "after": [
-   "get-xD8054ghl_Q"
-  ],
-  "transform": {
-   "kind": "replace_line",
-   "prefix": "Full episode",
-   "text": "Full episode ▶ https://youtu.be/vdXslodih6A"
-  },
-  "body": {
-   "id": "xD8054ghl_Q",
-   "snippet": {
-    "title": "Theranos told investors about military work. General Mattis testified otherwise #Shorts",
-    "categoryId": "27",
-    "description": "@desc:get-xD8054ghl_Q",
-    "tags": [
-     "Theranos",
-     "Elizabeth Holmes",
-     "Theranos verdict",
-     "Sunny Balwani",
-     "business documentary",
-     "fraud trial",
-     "Silicon Valley",
-     "what went wrong"
-    ],
-    "defaultLanguage": "en",
-    "defaultAudioLanguage": "en"
-   }
-  }
- },
- {
-  "id": "time-vdXslodih6A",
-  "method": "PUT",
-  "path": "/v3/videos?part=status",
-  "body": {
-   "id": "vdXslodih6A",
-   "status": {
-    "privacyStatus": "private",
-    "publishAt": "2026-10-17T18:00:00Z",
-    "selfDeclaredMadeForKids": false,
-    "containsSyntheticMedia": false
-   }
-  }
- },
- {
-  "id": "delpl-PLTA4gygMr53o",
-  "method": "DELETE_PLAYLIST",
-  "playlistId": "PLTA4gygMr53o",
-  "empty_check": "items-PLTA4gygMr53o",
-  "after": [
-   "items-PLTA4gygMr53o"
-  ],
-  "note": "empty duplicate from 15 Oct overlapping runs"
- },
- {
-  "id": "delpl-PLV0-pYYsmr2Y",
-  "method": "DELETE_PLAYLIST",
-  "playlistId": "PLV0-pYYsmr2Y",
-  "empty_check": "items-PLV0-pYYsmr2Y",
-  "after": [
-   "items-PLV0-pYYsmr2Y"
-  ],
-  "note": "empty duplicate from 15 Oct overlapping runs"
- },
- {
-  "id": "delpl-PLdRSQJWxvElM",
-  "method": "DELETE_PLAYLIST",
-  "playlistId": "PLdRSQJWxvElM",
-  "empty_check": "items-PLdRSQJWxvElM",
-  "after": [
-   "items-PLdRSQJWxvElM"
-  ],
-  "note": "empty duplicate from 15 Oct overlapping runs"
- },
- {
-  "id": "delpl-PLD31qM5nTM5w",
-  "method": "DELETE_PLAYLIST",
-  "playlistId": "PLD31qM5nTM5w",
-  "empty_check": "items-PLD31qM5nTM5w",
-  "after": [
-   "items-PLD31qM5nTM5w"
-  ],
-  "note": "empty duplicate from 15 Oct overlapping runs"
- },
- {
-  "id": "delpl-PLBT8K08GTT9E",
-  "method": "DELETE_PLAYLIST",
-  "playlistId": "PLBT8K08GTT9E",
-  "empty_check": "items-PLBT8K08GTT9E",
-  "after": [
-   "items-PLBT8K08GTT9E"
-  ],
-  "note": "empty duplicate from 15 Oct overlapping runs"
- },
- {
-  "id": "delpl-PLMQvLXpWXhzI",
-  "method": "DELETE_PLAYLIST",
-  "playlistId": "PLMQvLXpWXhzI",
-  "empty_check": "items-PLMQvLXpWXhzI",
-  "after": [
-   "items-PLMQvLXpWXhzI"
-  ],
-  "note": "empty duplicate from 15 Oct overlapping runs"
- },
- {
-  "id": "delpl-PLeG-fjD34jcg",
-  "method": "DELETE_PLAYLIST",
-  "playlistId": "PLeG-fjD34jcg",
-  "empty_check": "items-PLeG-fjD34jcg",
-  "after": [
-   "items-PLeG-fjD34jcg"
-  ],
-  "note": "empty duplicate from 15 Oct overlapping runs"
- },
- {
-  "id": "pi-003-AOAkm12RI7I",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "after": [
-   "pl-003"
-  ],
-  "body": {
-   "snippet": {
-    "playlistId": "@res:pl-003",
-    "position": 8,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "AOAkm12RI7I"
+    "body": {
+      "snippet": {
+        "playlistId": "@res:pl-all",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EgM6A2U6Qag"
+        }
+      }
     }
-   }
-  }
- },
- {
-  "id": "get-AOAkm12RI7I",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=AOAkm12RI7I"
- },
- {
-  "id": "upd-AOAkm12RI7I",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "after": [
-   "get-AOAkm12RI7I"
-  ],
-  "transform": {
-   "kind": "replace_line",
-   "prefix": "Full episode",
-   "text": "Full episode ▶ https://youtu.be/vdXslodih6A"
   },
-  "body": {
-   "id": "AOAkm12RI7I",
-   "snippet": {
-    "title": "Theranos voided every patient result from its own blood-testing machine #Shorts",
-    "categoryId": "27",
-    "description": "@desc:get-AOAkm12RI7I",
-    "tags": [
-     "Theranos",
-     "Elizabeth Holmes",
-     "Theranos verdict",
-     "Sunny Balwani",
-     "business documentary",
-     "fraud trial",
-     "Silicon Valley",
-     "what went wrong"
+  {
+    "id": "pi-001-EgM6A2U6Qag",
+    "method": "POST",
+    "path": "/v3/playlistItems?part=snippet",
+    "after": [
+      "pl-001"
     ],
-    "defaultLanguage": "en",
-    "defaultAudioLanguage": "en"
-   }
-  }
- },
- {
-  "id": "pl-004",
-  "method": "POST",
-  "path": "/v3/playlists?part=snippet,status",
-  "body": {
-   "snippet": {
-    "title": "Northern Rock Collapse Explained",
-    "description": "What the record shows about the 2007 run on Northern Rock: the full episode first, then the short case notes. From the Treasury Committee report, Bank of England statements and the FSA's own internal audit.",
-    "defaultLanguage": "en"
-   },
-   "status": {
-    "privacyStatus": "public"
-   }
-  }
- },
- {
-  "id": "pi-004-sKaLC6A0Igw",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "after": [
-   "pl-004"
-  ],
-  "body": {
-   "snippet": {
-    "playlistId": "@res:pl-004",
-    "position": 0,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "sKaLC6A0Igw"
+    "body": {
+      "snippet": {
+        "playlistId": "@res:pl-001",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EgM6A2U6Qag"
+        }
+      }
     }
-   }
-  }
- },
- {
-  "id": "pi-all-sKaLC6A0Igw",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "after": [
-   "pl-all"
-  ],
-  "body": {
-   "snippet": {
-    "playlistId": "@res:pl-all",
-    "position": 0,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "sKaLC6A0Igw"
-    }
-   }
-  }
- },
- {
-  "id": "get-sKaLC6A0Igw",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=sKaLC6A0Igw"
- },
- {
-  "id": "upd-sKaLC6A0Igw",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "after": [
-   "get-sKaLC6A0Igw",
-   "pl-004",
-   "pl-all"
-  ],
-  "transform": {
-   "kind": "none",
-   "append": "▶ Shorts from this case: https://www.youtube.com/playlist?list=@res:pl-004\n▶ All full episodes: https://www.youtube.com/playlist?list=@res:pl-all\n🔔 Subscribe for the next case file: https://www.youtube.com/@FiledUnderFailure-d6j?sub_confirmation=1"
   },
-  "body": {
-   "id": "sKaLC6A0Igw",
-   "snippet": {
-    "title": "Why Did Northern Rock Collapse? £4.45bn Withdrawn in 3 Days",
-    "categoryId": "27",
-    "description": "@desc:get-sKaLC6A0Igw",
-    "tags": [
-     "Northern Rock",
-     "bank run",
-     "2008 financial crisis",
-     "UK banking crisis",
-     "Northern Rock collapse",
-     "business documentary",
-     "nationalisation",
-     "what went wrong"
+  {
+    "id": "pi-001-nAPJEMBh1Rk",
+    "method": "POST",
+    "path": "/v3/playlistItems?part=snippet",
+    "after": [
+      "pl-001"
     ],
-    "defaultLanguage": "en",
-    "defaultAudioLanguage": "en"
-   }
-  }
- },
- {
-  "id": "pi-004-9kHvzWHymns",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "after": [
-   "pl-004"
-  ],
-  "body": {
-   "snippet": {
-    "playlistId": "@res:pl-004",
-    "position": 1,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "9kHvzWHymns"
+    "body": {
+      "snippet": {
+        "playlistId": "@res:pl-001",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nAPJEMBh1Rk"
+        }
+      }
     }
-   }
-  }
- },
- {
-  "id": "get-9kHvzWHymns",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=9kHvzWHymns"
- },
- {
-  "id": "upd-9kHvzWHymns",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "after": [
-   "get-9kHvzWHymns"
-  ],
-  "transform": {
-   "kind": "replace_line",
-   "prefix": "Full episode",
-   "text": "Full episode ▶ https://youtu.be/sKaLC6A0Igw"
   },
-  "body": {
-   "id": "9kHvzWHymns",
-   "snippet": {
-    "title": "Savers pulled £4.45bn out of Northern Rock in three days #Shorts",
-    "categoryId": "27",
-    "description": "@desc:get-9kHvzWHymns",
-    "tags": [
-     "Northern Rock",
-     "bank run",
-     "2008 financial crisis",
-     "UK banking crisis",
-     "Northern Rock collapse",
-     "business documentary",
-     "nationalisation",
-     "what went wrong"
+  {
+    "id": "pi-001-l1QDHr0GoUY",
+    "method": "POST",
+    "path": "/v3/playlistItems?part=snippet",
+    "after": [
+      "pl-001"
     ],
-    "defaultLanguage": "en",
-    "defaultAudioLanguage": "en"
-   }
-  }
- },
- {
-  "id": "pi-004-ZHXvZTY_pYc",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "after": [
-   "pl-004"
-  ],
-  "body": {
-   "snippet": {
-    "playlistId": "@res:pl-004",
-    "position": 2,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "ZHXvZTY_pYc"
+    "body": {
+      "snippet": {
+        "playlistId": "@res:pl-001",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "l1QDHr0GoUY"
+        }
+      }
     }
-   }
-  }
- },
- {
-  "id": "get-ZHXvZTY_pYc",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=ZHXvZTY_pYc"
- },
- {
-  "id": "upd-ZHXvZTY_pYc",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "after": [
-   "get-ZHXvZTY_pYc"
-  ],
-  "transform": {
-   "kind": "replace_line",
-   "prefix": "Full episode",
-   "text": "Full episode ▶ https://youtu.be/sKaLC6A0Igw"
   },
-  "body": {
-   "id": "ZHXvZTY_pYc",
-   "snippet": {
-    "title": "1,917 loans missing from Northern Rock's bad-loan figures #Shorts",
-    "categoryId": "27",
-    "description": "@desc:get-ZHXvZTY_pYc",
-    "tags": [
-     "Northern Rock",
-     "bank run",
-     "2008 financial crisis",
-     "UK banking crisis",
-     "Northern Rock collapse",
-     "business documentary",
-     "nationalisation",
-     "what went wrong"
+  {
+    "id": "pi-001-MvUDWLKMasI",
+    "method": "POST",
+    "path": "/v3/playlistItems?part=snippet",
+    "after": [
+      "pl-001"
     ],
-    "defaultLanguage": "en",
-    "defaultAudioLanguage": "en"
-   }
-  }
- },
- {
-  "id": "pi-004-GpTMCeqeRAo",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "after": [
-   "pl-004"
-  ],
-  "body": {
-   "snippet": {
-    "playlistId": "@res:pl-004",
-    "position": 3,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "GpTMCeqeRAo"
+    "body": {
+      "snippet": {
+        "playlistId": "@res:pl-001",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MvUDWLKMasI"
+        }
+      }
     }
-   }
-  }
- },
- {
-  "id": "get-GpTMCeqeRAo",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=GpTMCeqeRAo"
- },
- {
-  "id": "upd-GpTMCeqeRAo",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "after": [
-   "get-GpTMCeqeRAo"
-  ],
-  "transform": {
-   "kind": "replace_line",
-   "prefix": "Full episode",
-   "text": "Full episode ▶ https://youtu.be/sKaLC6A0Igw"
   },
-  "body": {
-   "id": "GpTMCeqeRAo",
-   "snippet": {
-    "title": "Northern Rock's shareholders got £0. Here's why #Shorts",
-    "categoryId": "27",
-    "description": "@desc:get-GpTMCeqeRAo",
-    "tags": [
-     "Northern Rock",
-     "bank run",
-     "2008 financial crisis",
-     "UK banking crisis",
-     "Northern Rock collapse",
-     "business documentary",
-     "nationalisation",
-     "what went wrong"
+  {
+    "id": "pi-001-90ByqlGonLI",
+    "method": "POST",
+    "path": "/v3/playlistItems?part=snippet",
+    "after": [
+      "pl-001"
     ],
-    "defaultLanguage": "en",
-    "defaultAudioLanguage": "en"
-   }
-  }
- },
- {
-  "id": "pi-004-uG7AAPsinFA",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "after": [
-   "pl-004"
-  ],
-  "body": {
-   "snippet": {
-    "playlistId": "@res:pl-004",
-    "position": 4,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "uG7AAPsinFA"
+    "body": {
+      "snippet": {
+        "playlistId": "@res:pl-001",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "90ByqlGonLI"
+        }
+      }
     }
-   }
-  }
- },
- {
-  "id": "get-uG7AAPsinFA",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=uG7AAPsinFA"
- },
- {
-  "id": "upd-uG7AAPsinFA",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "after": [
-   "get-uG7AAPsinFA"
-  ],
-  "transform": {
-   "kind": "replace_line",
-   "prefix": "Full episode",
-   "text": "Full episode ▶ https://youtu.be/sKaLC6A0Igw"
   },
-  "body": {
-   "id": "uG7AAPsinFA",
-   "snippet": {
-    "title": "Northern Rock's regulator kept no formal records of key meetings #Shorts",
-    "categoryId": "27",
-    "description": "@desc:get-uG7AAPsinFA",
-    "tags": [
-     "Northern Rock",
-     "bank run",
-     "2008 financial crisis",
-     "UK banking crisis",
-     "Northern Rock collapse",
-     "business documentary",
-     "nationalisation",
-     "what went wrong"
+  {
+    "id": "pi-001-GgKOpONeN_o",
+    "method": "POST",
+    "path": "/v3/playlistItems?part=snippet",
+    "after": [
+      "pl-001"
     ],
-    "defaultLanguage": "en",
-    "defaultAudioLanguage": "en"
-   }
-  }
- },
- {
-  "id": "pi-004-CK68ozwGawQ",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "after": [
-   "pl-004"
-  ],
-  "body": {
-   "snippet": {
-    "playlistId": "@res:pl-004",
-    "position": 5,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "CK68ozwGawQ"
+    "body": {
+      "snippet": {
+        "playlistId": "@res:pl-001",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GgKOpONeN_o"
+        }
+      }
     }
-   }
-  }
- },
- {
-  "id": "get-CK68ozwGawQ",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=CK68ozwGawQ"
- },
- {
-  "id": "upd-CK68ozwGawQ",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "after": [
-   "get-CK68ozwGawQ"
-  ],
-  "transform": {
-   "kind": "replace_line",
-   "prefix": "Full episode",
-   "text": "Full episode ▶ https://youtu.be/sKaLC6A0Igw"
   },
-  "body": {
-   "id": "CK68ozwGawQ",
-   "snippet": {
-    "title": "Why queuing at Northern Rock wasn't irrational #Shorts",
-    "categoryId": "27",
-    "description": "@desc:get-CK68ozwGawQ",
-    "tags": [
-     "Northern Rock",
-     "bank run",
-     "2008 financial crisis",
-     "UK banking crisis",
-     "Northern Rock collapse",
-     "business documentary",
-     "nationalisation",
-     "what went wrong"
+  {
+    "id": "pi-001-9CIuSts7dDU",
+    "method": "POST",
+    "path": "/v3/playlistItems?part=snippet",
+    "after": [
+      "pl-001"
     ],
-    "defaultLanguage": "en",
-    "defaultAudioLanguage": "en"
-   }
-  }
- },
- {
-  "id": "pi-004-iACz_Qwu6Kw",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "after": [
-   "pl-004"
-  ],
-  "body": {
-   "snippet": {
-    "playlistId": "@res:pl-004",
-    "position": 6,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "iACz_Qwu6Kw"
+    "body": {
+      "snippet": {
+        "playlistId": "@res:pl-001",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9CIuSts7dDU"
+        }
+      }
     }
-   }
-  }
- },
- {
-  "id": "get-iACz_Qwu6Kw",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=iACz_Qwu6Kw"
- },
- {
-  "id": "upd-iACz_Qwu6Kw",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "after": [
-   "get-iACz_Qwu6Kw"
-  ],
-  "transform": {
-   "kind": "replace_line",
-   "prefix": "Full episode",
-   "text": "Full episode ▶ https://youtu.be/sKaLC6A0Igw"
   },
-  "body": {
-   "id": "iACz_Qwu6Kw",
-   "snippet": {
-    "title": "Only 23% of Northern Rock's money came from savers #Shorts",
-    "categoryId": "27",
-    "description": "@desc:get-iACz_Qwu6Kw",
-    "tags": [
-     "Northern Rock",
-     "bank run",
-     "2008 financial crisis",
-     "UK banking crisis",
-     "Northern Rock collapse",
-     "business documentary",
-     "nationalisation",
-     "what went wrong"
+  {
+    "id": "get-EgM6A2U6Qag",
+    "method": "GET",
+    "path": "/v3/videos?part=snippet&id=EgM6A2U6Qag"
+  },
+  {
+    "id": "upd-EgM6A2U6Qag",
+    "method": "PUT",
+    "path": "/v3/videos?part=snippet",
+    "after": [
+      "get-EgM6A2U6Qag",
+      "pl-001",
+      "pl-all"
     ],
-    "defaultLanguage": "en",
-    "defaultAudioLanguage": "en"
-   }
+    "transform": {
+      "kind": "none",
+      "append": "▶ Shorts from this case: https://www.youtube.com/playlist?list=@res:pl-001\n▶ All full episodes: https://www.youtube.com/playlist?list=@res:pl-all\n🔔 Subscribe for the next case file: https://www.youtube.com/@FiledUnderFailure-d6j?sub_confirmation=1"
+    },
+    "body": {
+      "id": "EgM6A2U6Qag",
+      "snippet": {
+        "title": "Why Did Carillion Collapse? How Britain's Biggest Builder Ran Out of Money",
+        "categoryId": "27",
+        "description": "@desc:get-EgM6A2U6Qag",
+        "tags": [
+          "Carillion",
+          "Carillion collapse",
+          "business documentary",
+          "UK business",
+          "corporate collapse",
+          "construction",
+          "KPMG",
+          "liquidation"
+        ],
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      }
+    }
+  },
+  {
+    "id": "get-nAPJEMBh1Rk",
+    "method": "GET",
+    "path": "/v3/videos?part=snippet&id=nAPJEMBh1Rk"
+  },
+  {
+    "id": "upd-nAPJEMBh1Rk",
+    "method": "PUT",
+    "path": "/v3/videos?part=snippet",
+    "after": [
+      "get-nAPJEMBh1Rk"
+    ],
+    "transform": {
+      "kind": "replace_line",
+      "prefix": "Full episode",
+      "text": "Full episode ▶ https://youtu.be/EgM6A2U6Qag"
+    },
+    "body": {
+      "id": "nAPJEMBh1Rk",
+      "snippet": {
+        "title": "Carillion paid £554m in dividends while its debt rose fivefold #Shorts",
+        "categoryId": "27",
+        "description": "@desc:get-nAPJEMBh1Rk",
+        "tags": [
+          "Carillion",
+          "Carillion collapse",
+          "business documentary",
+          "UK business",
+          "corporate collapse",
+          "construction",
+          "KPMG",
+          "liquidation"
+        ],
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      }
+    }
+  },
+  {
+    "id": "get-l1QDHr0GoUY",
+    "method": "GET",
+    "path": "/v3/videos?part=snippet&id=l1QDHr0GoUY"
+  },
+  {
+    "id": "upd-l1QDHr0GoUY",
+    "method": "PUT",
+    "path": "/v3/videos?part=snippet",
+    "after": [
+      "get-l1QDHr0GoUY"
+    ],
+    "transform": {
+      "kind": "replace_line",
+      "prefix": "Full episode",
+      "text": "Full episode ▶ https://youtu.be/EgM6A2U6Qag"
+    },
+    "body": {
+      "id": "l1QDHr0GoUY",
+      "snippet": {
+        "title": "Carillion made suppliers wait 120 days to be paid #Shorts",
+        "categoryId": "27",
+        "description": "@desc:get-l1QDHr0GoUY",
+        "tags": [
+          "Carillion",
+          "Carillion collapse",
+          "business documentary",
+          "UK business",
+          "corporate collapse",
+          "construction",
+          "KPMG",
+          "liquidation"
+        ],
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      }
+    }
+  },
+  {
+    "id": "get-MvUDWLKMasI",
+    "method": "GET",
+    "path": "/v3/videos?part=snippet&id=MvUDWLKMasI"
+  },
+  {
+    "id": "upd-MvUDWLKMasI",
+    "method": "PUT",
+    "path": "/v3/videos?part=snippet",
+    "after": [
+      "get-MvUDWLKMasI"
+    ],
+    "transform": {
+      "kind": "replace_line",
+      "prefix": "Full episode",
+      "text": "Full episode ▶ https://youtu.be/EgM6A2U6Qag"
+    },
+    "body": {
+      "id": "MvUDWLKMasI",
+      "snippet": {
+        "title": "After Carillion's profit warning, government still gave it £1.9bn of work #Shorts",
+        "categoryId": "27",
+        "description": "@desc:get-MvUDWLKMasI",
+        "tags": [
+          "Carillion",
+          "Carillion collapse",
+          "business documentary",
+          "UK business",
+          "corporate collapse",
+          "construction",
+          "KPMG",
+          "liquidation"
+        ],
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      }
+    }
+  },
+  {
+    "id": "get-90ByqlGonLI",
+    "method": "GET",
+    "path": "/v3/videos?part=snippet&id=90ByqlGonLI"
+  },
+  {
+    "id": "upd-90ByqlGonLI",
+    "method": "PUT",
+    "path": "/v3/videos?part=snippet",
+    "after": [
+      "get-90ByqlGonLI"
+    ],
+    "transform": {
+      "kind": "replace_line",
+      "prefix": "Full episode",
+      "text": "Full episode ▶ https://youtu.be/EgM6A2U6Qag"
+    },
+    "body": {
+      "id": "90ByqlGonLI",
+      "snippet": {
+        "title": "Carillion asked the government for £223m. The answer was no. #Shorts",
+        "categoryId": "27",
+        "description": "@desc:get-90ByqlGonLI",
+        "tags": [
+          "Carillion",
+          "Carillion collapse",
+          "business documentary",
+          "UK business",
+          "corporate collapse",
+          "construction",
+          "KPMG",
+          "liquidation"
+        ],
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      }
+    }
+  },
+  {
+    "id": "get-GgKOpONeN_o",
+    "method": "GET",
+    "path": "/v3/videos?part=snippet&id=GgKOpONeN_o"
+  },
+  {
+    "id": "upd-GgKOpONeN_o",
+    "method": "PUT",
+    "path": "/v3/videos?part=snippet",
+    "after": [
+      "get-GgKOpONeN_o"
+    ],
+    "transform": {
+      "kind": "replace_line",
+      "prefix": "Full episode",
+      "text": "Full episode ▶ https://youtu.be/EgM6A2U6Qag"
+    },
+    "body": {
+      "id": "GgKOpONeN_o",
+      "snippet": {
+        "title": "Who paid when Carillion collapsed? Staff, pensioners and taxpayers #Shorts",
+        "categoryId": "27",
+        "description": "@desc:get-GgKOpONeN_o",
+        "tags": [
+          "Carillion",
+          "Carillion collapse",
+          "business documentary",
+          "UK business",
+          "corporate collapse",
+          "construction",
+          "KPMG",
+          "liquidation"
+        ],
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      }
+    }
+  },
+  {
+    "id": "get-9CIuSts7dDU",
+    "method": "GET",
+    "path": "/v3/videos?part=snippet&id=9CIuSts7dDU"
+  },
+  {
+    "id": "upd-9CIuSts7dDU",
+    "method": "PUT",
+    "path": "/v3/videos?part=snippet",
+    "after": [
+      "get-9CIuSts7dDU"
+    ],
+    "transform": {
+      "kind": "replace_line",
+      "prefix": "Full episode",
+      "text": "Full episode ▶ https://youtu.be/EgM6A2U6Qag"
+    },
+    "body": {
+      "id": "9CIuSts7dDU",
+      "snippet": {
+        "title": "MPs' verdict on Carillion: recklessness, hubris and greed #Shorts",
+        "categoryId": "27",
+        "description": "@desc:get-9CIuSts7dDU",
+        "tags": [
+          "Carillion",
+          "Carillion collapse",
+          "business documentary",
+          "UK business",
+          "corporate collapse",
+          "construction",
+          "KPMG",
+          "liquidation"
+        ],
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      }
+    }
+  },
+  {
+    "id": "pi-002-5fPvAEfxo6w",
+    "method": "POST",
+    "path": "/v3/playlistItems?part=snippet",
+    "after": [
+      "pl-002"
+    ],
+    "body": {
+      "snippet": {
+        "playlistId": "@res:pl-002",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5fPvAEfxo6w"
+        }
+      }
+    }
+  },
+  {
+    "id": "pi-002-5pxZ6aDQGxw",
+    "method": "POST",
+    "path": "/v3/playlistItems?part=snippet",
+    "after": [
+      "pl-002"
+    ],
+    "body": {
+      "snippet": {
+        "playlistId": "@res:pl-002",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5pxZ6aDQGxw"
+        }
+      }
+    }
+  },
+  {
+    "id": "pi-002-PgoTuPDONh4",
+    "method": "POST",
+    "path": "/v3/playlistItems?part=snippet",
+    "after": [
+      "pl-002"
+    ],
+    "body": {
+      "snippet": {
+        "playlistId": "@res:pl-002",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PgoTuPDONh4"
+        }
+      }
+    }
+  },
+  {
+    "id": "pi-002-94egvFj1fbY",
+    "method": "POST",
+    "path": "/v3/playlistItems?part=snippet",
+    "after": [
+      "pl-002"
+    ],
+    "body": {
+      "snippet": {
+        "playlistId": "@res:pl-002",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "94egvFj1fbY"
+        }
+      }
+    }
+  },
+  {
+    "id": "pi-002-jtFeifCjRHc",
+    "method": "POST",
+    "path": "/v3/playlistItems?part=snippet",
+    "after": [
+      "pl-002"
+    ],
+    "body": {
+      "snippet": {
+        "playlistId": "@res:pl-002",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jtFeifCjRHc"
+        }
+      }
+    }
+  },
+  {
+    "id": "pi-002-Qzu2G7C3TC8",
+    "method": "POST",
+    "path": "/v3/playlistItems?part=snippet",
+    "after": [
+      "pl-002"
+    ],
+    "body": {
+      "snippet": {
+        "playlistId": "@res:pl-002",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Qzu2G7C3TC8"
+        }
+      }
+    }
+  },
+  {
+    "id": "pi-002-9Ua3QYxB1E4",
+    "method": "POST",
+    "path": "/v3/playlistItems?part=snippet",
+    "after": [
+      "pl-002"
+    ],
+    "body": {
+      "snippet": {
+        "playlistId": "@res:pl-002",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9Ua3QYxB1E4"
+        }
+      }
+    }
+  },
+  {
+    "id": "pi-002-DtDUPPB90xg",
+    "method": "POST",
+    "path": "/v3/playlistItems?part=snippet",
+    "after": [
+      "pl-002"
+    ],
+    "body": {
+      "snippet": {
+        "playlistId": "@res:pl-002",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DtDUPPB90xg"
+        }
+      }
+    }
+  },
+  {
+    "id": "get-5fPvAEfxo6w",
+    "method": "GET",
+    "path": "/v3/videos?part=snippet&id=5fPvAEfxo6w"
+  },
+  {
+    "id": "upd-5fPvAEfxo6w",
+    "method": "PUT",
+    "path": "/v3/videos?part=snippet",
+    "after": [
+      "get-5fPvAEfxo6w",
+      "pl-002",
+      "pl-all"
+    ],
+    "transform": {
+      "kind": "none",
+      "append": "▶ Shorts from this case: https://www.youtube.com/playlist?list=@res:pl-002\n▶ All full episodes: https://www.youtube.com/playlist?list=@res:pl-all\n🔔 Subscribe for the next case file: https://www.youtube.com/@FiledUnderFailure-d6j?sub_confirmation=1"
+    },
+    "body": {
+      "id": "5fPvAEfxo6w",
+      "snippet": {
+        "title": "Why Did Silicon Valley Bank Collapse? $40 Billion Gone in One Day",
+        "categoryId": "27",
+        "description": "@desc:get-5fPvAEfxo6w",
+        "tags": [
+          "Silicon Valley Bank",
+          "SVB collapse",
+          "bank run",
+          "business documentary",
+          "Federal Reserve",
+          "FDIC",
+          "banking crisis 2023",
+          "what went wrong"
+        ],
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      }
+    }
+  },
+  {
+    "id": "get-5pxZ6aDQGxw",
+    "method": "GET",
+    "path": "/v3/videos?part=snippet&id=5pxZ6aDQGxw"
+  },
+  {
+    "id": "upd-5pxZ6aDQGxw",
+    "method": "PUT",
+    "path": "/v3/videos?part=snippet",
+    "after": [
+      "get-5pxZ6aDQGxw"
+    ],
+    "transform": {
+      "kind": "replace_line",
+      "prefix": "Full episode",
+      "text": "Full episode ▶ https://youtu.be/5fPvAEfxo6w"
+    },
+    "body": {
+      "id": "5pxZ6aDQGxw",
+      "snippet": {
+        "title": "Silicon Valley Bank took 40 years to build and two days to fall #Shorts",
+        "categoryId": "27",
+        "description": "@desc:get-5pxZ6aDQGxw",
+        "tags": [
+          "Silicon Valley Bank",
+          "SVB collapse",
+          "bank run",
+          "business documentary",
+          "Federal Reserve",
+          "FDIC",
+          "banking crisis 2023",
+          "what went wrong"
+        ],
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      }
+    }
+  },
+  {
+    "id": "get-PgoTuPDONh4",
+    "method": "GET",
+    "path": "/v3/videos?part=snippet&id=PgoTuPDONh4"
+  },
+  {
+    "id": "upd-PgoTuPDONh4",
+    "method": "PUT",
+    "path": "/v3/videos?part=snippet",
+    "after": [
+      "get-PgoTuPDONh4"
+    ],
+    "transform": {
+      "kind": "replace_line",
+      "prefix": "Full episode",
+      "text": "Full episode ▶ https://youtu.be/5fPvAEfxo6w"
+    },
+    "body": {
+      "id": "PgoTuPDONh4",
+      "snippet": {
+        "title": "Customers pulled $40 billion from Silicon Valley Bank in one day #Shorts",
+        "categoryId": "27",
+        "description": "@desc:get-PgoTuPDONh4",
+        "tags": [
+          "Silicon Valley Bank",
+          "SVB collapse",
+          "bank run",
+          "business documentary",
+          "Federal Reserve",
+          "FDIC",
+          "banking crisis 2023",
+          "what went wrong"
+        ],
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      }
+    }
+  },
+  {
+    "id": "get-94egvFj1fbY",
+    "method": "GET",
+    "path": "/v3/videos?part=snippet&id=94egvFj1fbY"
+  },
+  {
+    "id": "upd-94egvFj1fbY",
+    "method": "PUT",
+    "path": "/v3/videos?part=snippet",
+    "after": [
+      "get-94egvFj1fbY"
+    ],
+    "transform": {
+      "kind": "replace_line",
+      "prefix": "Full episode",
+      "text": "Full episode ▶ https://youtu.be/5fPvAEfxo6w"
+    },
+    "body": {
+      "id": "94egvFj1fbY",
+      "snippet": {
+        "title": "94% of Silicon Valley Bank's deposits were uninsured #Shorts",
+        "categoryId": "27",
+        "description": "@desc:get-94egvFj1fbY",
+        "tags": [
+          "Silicon Valley Bank",
+          "SVB collapse",
+          "bank run",
+          "business documentary",
+          "Federal Reserve",
+          "FDIC",
+          "banking crisis 2023",
+          "what went wrong"
+        ],
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      }
+    }
+  },
+  {
+    "id": "get-jtFeifCjRHc",
+    "method": "GET",
+    "path": "/v3/videos?part=snippet&id=jtFeifCjRHc"
+  },
+  {
+    "id": "upd-jtFeifCjRHc",
+    "method": "PUT",
+    "path": "/v3/videos?part=snippet",
+    "after": [
+      "get-jtFeifCjRHc"
+    ],
+    "transform": {
+      "kind": "replace_line",
+      "prefix": "Full episode",
+      "text": "Full episode ▶ https://youtu.be/5fPvAEfxo6w"
+    },
+    "body": {
+      "id": "jtFeifCjRHc",
+      "snippet": {
+        "title": "Silicon Valley Bank had 31 open supervisory findings when it failed #Shorts",
+        "categoryId": "27",
+        "description": "@desc:get-jtFeifCjRHc",
+        "tags": [
+          "Silicon Valley Bank",
+          "SVB collapse",
+          "bank run",
+          "business documentary",
+          "Federal Reserve",
+          "FDIC",
+          "banking crisis 2023",
+          "what went wrong"
+        ],
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      }
+    }
+  },
+  {
+    "id": "get-Qzu2G7C3TC8",
+    "method": "GET",
+    "path": "/v3/videos?part=snippet&id=Qzu2G7C3TC8"
+  },
+  {
+    "id": "upd-Qzu2G7C3TC8",
+    "method": "PUT",
+    "path": "/v3/videos?part=snippet",
+    "after": [
+      "get-Qzu2G7C3TC8"
+    ],
+    "transform": {
+      "kind": "replace_line",
+      "prefix": "Full episode",
+      "text": "Full episode ▶ https://youtu.be/5fPvAEfxo6w"
+    },
+    "body": {
+      "id": "Qzu2G7C3TC8",
+      "snippet": {
+        "title": "Silicon Valley Bank put 55% of its assets into securities #Shorts",
+        "categoryId": "27",
+        "description": "@desc:get-Qzu2G7C3TC8",
+        "tags": [
+          "Silicon Valley Bank",
+          "SVB collapse",
+          "bank run",
+          "business documentary",
+          "Federal Reserve",
+          "FDIC",
+          "banking crisis 2023",
+          "what went wrong"
+        ],
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      }
+    }
+  },
+  {
+    "id": "get-9Ua3QYxB1E4",
+    "method": "GET",
+    "path": "/v3/videos?part=snippet&id=9Ua3QYxB1E4"
+  },
+  {
+    "id": "upd-9Ua3QYxB1E4",
+    "method": "PUT",
+    "path": "/v3/videos?part=snippet",
+    "after": [
+      "get-9Ua3QYxB1E4"
+    ],
+    "transform": {
+      "kind": "replace_line",
+      "prefix": "Full episode",
+      "text": "Full episode ▶ https://youtu.be/5fPvAEfxo6w"
+    },
+    "body": {
+      "id": "9Ua3QYxB1E4",
+      "snippet": {
+        "title": "Who paid for the Silicon Valley Bank collapse? #Shorts",
+        "categoryId": "27",
+        "description": "@desc:get-9Ua3QYxB1E4",
+        "tags": [
+          "Silicon Valley Bank",
+          "SVB collapse",
+          "bank run",
+          "business documentary",
+          "Federal Reserve",
+          "FDIC",
+          "banking crisis 2023",
+          "what went wrong"
+        ],
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      }
+    }
+  },
+  {
+    "id": "get-DtDUPPB90xg",
+    "method": "GET",
+    "path": "/v3/videos?part=snippet&id=DtDUPPB90xg"
+  },
+  {
+    "id": "upd-DtDUPPB90xg",
+    "method": "PUT",
+    "path": "/v3/videos?part=snippet",
+    "after": [
+      "get-DtDUPPB90xg"
+    ],
+    "transform": {
+      "kind": "replace_line",
+      "prefix": "Full episode",
+      "text": "Full episode ▶ https://youtu.be/5fPvAEfxo6w"
+    },
+    "body": {
+      "id": "DtDUPPB90xg",
+      "snippet": {
+        "title": "Did social media cause the Silicon Valley Bank run? Two reviews disagree #Shorts",
+        "categoryId": "27",
+        "description": "@desc:get-DtDUPPB90xg",
+        "tags": [
+          "Silicon Valley Bank",
+          "SVB collapse",
+          "bank run",
+          "business documentary",
+          "Federal Reserve",
+          "FDIC",
+          "banking crisis 2023",
+          "what went wrong"
+        ],
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      }
+    }
+  },
+  {
+    "id": "pi-003-vdXslodih6A",
+    "method": "POST",
+    "path": "/v3/playlistItems?part=snippet",
+    "after": [
+      "pl-003"
+    ],
+    "body": {
+      "snippet": {
+        "playlistId": "@res:pl-003",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vdXslodih6A"
+        }
+      }
+    }
+  },
+  {
+    "id": "pi-003-CxmwCDb7zIE",
+    "method": "POST",
+    "path": "/v3/playlistItems?part=snippet",
+    "after": [
+      "pl-003"
+    ],
+    "body": {
+      "snippet": {
+        "playlistId": "@res:pl-003",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CxmwCDb7zIE"
+        }
+      }
+    }
+  },
+  {
+    "id": "pi-003-cXfkAdwVW_A",
+    "method": "POST",
+    "path": "/v3/playlistItems?part=snippet",
+    "after": [
+      "pl-003"
+    ],
+    "body": {
+      "snippet": {
+        "playlistId": "@res:pl-003",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cXfkAdwVW_A"
+        }
+      }
+    }
+  },
+  {
+    "id": "pi-003-B1_OPLwLHoA",
+    "method": "POST",
+    "path": "/v3/playlistItems?part=snippet",
+    "after": [
+      "pl-003"
+    ],
+    "body": {
+      "snippet": {
+        "playlistId": "@res:pl-003",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "B1_OPLwLHoA"
+        }
+      }
+    }
+  },
+  {
+    "id": "pi-003-P8Xj13VCpZw",
+    "method": "POST",
+    "path": "/v3/playlistItems?part=snippet",
+    "after": [
+      "pl-003"
+    ],
+    "body": {
+      "snippet": {
+        "playlistId": "@res:pl-003",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "P8Xj13VCpZw"
+        }
+      }
+    }
+  },
+  {
+    "id": "pi-003-9dcti-HWqVc",
+    "method": "POST",
+    "path": "/v3/playlistItems?part=snippet",
+    "after": [
+      "pl-003"
+    ],
+    "body": {
+      "snippet": {
+        "playlistId": "@res:pl-003",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9dcti-HWqVc"
+        }
+      }
+    }
+  },
+  {
+    "id": "pi-003-KkqfSkA3i-o",
+    "method": "POST",
+    "path": "/v3/playlistItems?part=snippet",
+    "after": [
+      "pl-003"
+    ],
+    "body": {
+      "snippet": {
+        "playlistId": "@res:pl-003",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KkqfSkA3i-o"
+        }
+      }
+    }
+  },
+  {
+    "id": "pi-003-xD8054ghl_Q",
+    "method": "POST",
+    "path": "/v3/playlistItems?part=snippet",
+    "after": [
+      "pl-003"
+    ],
+    "body": {
+      "snippet": {
+        "playlistId": "@res:pl-003",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xD8054ghl_Q"
+        }
+      }
+    }
+  },
+  {
+    "id": "get-vdXslodih6A",
+    "method": "GET",
+    "path": "/v3/videos?part=snippet&id=vdXslodih6A"
+  },
+  {
+    "id": "upd-vdXslodih6A",
+    "method": "PUT",
+    "path": "/v3/videos?part=snippet",
+    "after": [
+      "get-vdXslodih6A",
+      "pl-003",
+      "pl-all"
+    ],
+    "transform": {
+      "kind": "none",
+      "append": "▶ Shorts from this case: https://www.youtube.com/playlist?list=@res:pl-003\n▶ All full episodes: https://www.youtube.com/playlist?list=@res:pl-all\n🔔 Subscribe for the next case file: https://www.youtube.com/@FiledUnderFailure-d6j?sub_confirmation=1"
+    },
+    "body": {
+      "id": "vdXslodih6A",
+      "snippet": {
+        "title": "Was Elizabeth Holmes Guilty? What the Theranos Jury Actually Decided",
+        "categoryId": "27",
+        "description": "@desc:get-vdXslodih6A",
+        "tags": [
+          "Theranos",
+          "Elizabeth Holmes",
+          "Theranos verdict",
+          "Sunny Balwani",
+          "business documentary",
+          "fraud trial",
+          "Silicon Valley",
+          "what went wrong"
+        ],
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      }
+    }
+  },
+  {
+    "id": "get-CxmwCDb7zIE",
+    "method": "GET",
+    "path": "/v3/videos?part=snippet&id=CxmwCDb7zIE"
+  },
+  {
+    "id": "upd-CxmwCDb7zIE",
+    "method": "PUT",
+    "path": "/v3/videos?part=snippet",
+    "after": [
+      "get-CxmwCDb7zIE"
+    ],
+    "transform": {
+      "kind": "replace_line",
+      "prefix": "Full episode",
+      "text": "Full episode ▶ https://youtu.be/vdXslodih6A"
+    },
+    "body": {
+      "id": "CxmwCDb7zIE",
+      "snippet": {
+        "title": "An appeals court called the Theranos claims 'half-truths and outright lies' #Shorts",
+        "categoryId": "27",
+        "description": "@desc:get-CxmwCDb7zIE",
+        "tags": [
+          "Theranos",
+          "Elizabeth Holmes",
+          "Theranos verdict",
+          "Sunny Balwani",
+          "business documentary",
+          "fraud trial",
+          "Silicon Valley",
+          "what went wrong"
+        ],
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      }
+    }
+  },
+  {
+    "id": "get-cXfkAdwVW_A",
+    "method": "GET",
+    "path": "/v3/videos?part=snippet&id=cXfkAdwVW_A"
+  },
+  {
+    "id": "upd-cXfkAdwVW_A",
+    "method": "PUT",
+    "path": "/v3/videos?part=snippet",
+    "after": [
+      "get-cXfkAdwVW_A"
+    ],
+    "transform": {
+      "kind": "replace_line",
+      "prefix": "Full episode",
+      "text": "Full episode ▶ https://youtu.be/vdXslodih6A"
+    },
+    "body": {
+      "id": "cXfkAdwVW_A",
+      "snippet": {
+        "title": "Elizabeth Holmes was convicted of defrauding investors, not patients #Shorts",
+        "categoryId": "27",
+        "description": "@desc:get-cXfkAdwVW_A",
+        "tags": [
+          "Theranos",
+          "Elizabeth Holmes",
+          "Theranos verdict",
+          "Sunny Balwani",
+          "business documentary",
+          "fraud trial",
+          "Silicon Valley",
+          "what went wrong"
+        ],
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      }
+    }
+  },
+  {
+    "id": "get-B1_OPLwLHoA",
+    "method": "GET",
+    "path": "/v3/videos?part=snippet&id=B1_OPLwLHoA"
+  },
+  {
+    "id": "upd-B1_OPLwLHoA",
+    "method": "PUT",
+    "path": "/v3/videos?part=snippet",
+    "after": [
+      "get-B1_OPLwLHoA"
+    ],
+    "transform": {
+      "kind": "replace_line",
+      "prefix": "Full episode",
+      "text": "Full episode ▶ https://youtu.be/vdXslodih6A"
+    },
+    "body": {
+      "id": "B1_OPLwLHoA",
+      "snippet": {
+        "title": "Theranos developed 300 blood tests. Only 12 ever ran on its own machine #Shorts",
+        "categoryId": "27",
+        "description": "@desc:get-B1_OPLwLHoA",
+        "tags": [
+          "Theranos",
+          "Elizabeth Holmes",
+          "Theranos verdict",
+          "Sunny Balwani",
+          "business documentary",
+          "fraud trial",
+          "Silicon Valley",
+          "what went wrong"
+        ],
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      }
+    }
+  },
+  {
+    "id": "get-P8Xj13VCpZw",
+    "method": "GET",
+    "path": "/v3/videos?part=snippet&id=P8Xj13VCpZw"
+  },
+  {
+    "id": "upd-P8Xj13VCpZw",
+    "method": "PUT",
+    "path": "/v3/videos?part=snippet",
+    "after": [
+      "get-P8Xj13VCpZw"
+    ],
+    "transform": {
+      "kind": "replace_line",
+      "prefix": "Full episode",
+      "text": "Full episode ▶ https://youtu.be/vdXslodih6A"
+    },
+    "body": {
+      "id": "P8Xj13VCpZw",
+      "snippet": {
+        "title": "Theranos showed VIP investors a machine running a 'null protocol' #Shorts",
+        "categoryId": "27",
+        "description": "@desc:get-P8Xj13VCpZw",
+        "tags": [
+          "Theranos",
+          "Elizabeth Holmes",
+          "Theranos verdict",
+          "Sunny Balwani",
+          "business documentary",
+          "fraud trial",
+          "Silicon Valley",
+          "what went wrong"
+        ],
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      }
+    }
+  },
+  {
+    "id": "get-9dcti-HWqVc",
+    "method": "GET",
+    "path": "/v3/videos?part=snippet&id=9dcti-HWqVc"
+  },
+  {
+    "id": "upd-9dcti-HWqVc",
+    "method": "PUT",
+    "path": "/v3/videos?part=snippet",
+    "after": [
+      "get-9dcti-HWqVc"
+    ],
+    "transform": {
+      "kind": "replace_line",
+      "prefix": "Full episode",
+      "text": "Full episode ▶ https://youtu.be/vdXslodih6A"
+    },
+    "body": {
+      "id": "9dcti-HWqVc",
+      "snippet": {
+        "title": "Holmes admitted she put Pfizer's logo on reports praising Theranos #Shorts",
+        "categoryId": "27",
+        "description": "@desc:get-9dcti-HWqVc",
+        "tags": [
+          "Theranos",
+          "Elizabeth Holmes",
+          "Theranos verdict",
+          "Sunny Balwani",
+          "business documentary",
+          "fraud trial",
+          "Silicon Valley",
+          "what went wrong"
+        ],
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      }
+    }
+  },
+  {
+    "id": "get-KkqfSkA3i-o",
+    "method": "GET",
+    "path": "/v3/videos?part=snippet&id=KkqfSkA3i-o"
+  },
+  {
+    "id": "upd-KkqfSkA3i-o",
+    "method": "PUT",
+    "path": "/v3/videos?part=snippet",
+    "after": [
+      "get-KkqfSkA3i-o"
+    ],
+    "transform": {
+      "kind": "replace_line",
+      "prefix": "Full episode",
+      "text": "Full episode ▶ https://youtu.be/vdXslodih6A"
+    },
+    "body": {
+      "id": "KkqfSkA3i-o",
+      "snippet": {
+        "title": "Theranos projected $230m profit. It reported $1.94m income #Shorts",
+        "categoryId": "27",
+        "description": "@desc:get-KkqfSkA3i-o",
+        "tags": [
+          "Theranos",
+          "Elizabeth Holmes",
+          "Theranos verdict",
+          "Sunny Balwani",
+          "business documentary",
+          "fraud trial",
+          "Silicon Valley",
+          "what went wrong"
+        ],
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      }
+    }
+  },
+  {
+    "id": "get-xD8054ghl_Q",
+    "method": "GET",
+    "path": "/v3/videos?part=snippet&id=xD8054ghl_Q"
+  },
+  {
+    "id": "upd-xD8054ghl_Q",
+    "method": "PUT",
+    "path": "/v3/videos?part=snippet",
+    "after": [
+      "get-xD8054ghl_Q"
+    ],
+    "transform": {
+      "kind": "replace_line",
+      "prefix": "Full episode",
+      "text": "Full episode ▶ https://youtu.be/vdXslodih6A"
+    },
+    "body": {
+      "id": "xD8054ghl_Q",
+      "snippet": {
+        "title": "Theranos told investors about military work. General Mattis testified otherwise #Shorts",
+        "categoryId": "27",
+        "description": "@desc:get-xD8054ghl_Q",
+        "tags": [
+          "Theranos",
+          "Elizabeth Holmes",
+          "Theranos verdict",
+          "Sunny Balwani",
+          "business documentary",
+          "fraud trial",
+          "Silicon Valley",
+          "what went wrong"
+        ],
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      }
+    }
+  },
+  {
+    "id": "time-vdXslodih6A",
+    "method": "PUT",
+    "path": "/v3/videos?part=status",
+    "body": {
+      "id": "vdXslodih6A",
+      "status": {
+        "privacyStatus": "private",
+        "publishAt": "2026-10-17T18:00:00Z",
+        "selfDeclaredMadeForKids": false,
+        "containsSyntheticMedia": false
+      }
+    }
+  },
+  {
+    "id": "delpl-PLTA4gygMr53o",
+    "method": "DELETE_PLAYLIST",
+    "playlistId": "PLTA4gygMr53o",
+    "empty_check": "items-PLTA4gygMr53o",
+    "after": [
+      "items-PLTA4gygMr53o"
+    ],
+    "note": "empty duplicate from 15 Oct overlapping runs"
+  },
+  {
+    "id": "delpl-PLV0-pYYsmr2Y",
+    "method": "DELETE_PLAYLIST",
+    "playlistId": "PLV0-pYYsmr2Y",
+    "empty_check": "items-PLV0-pYYsmr2Y",
+    "after": [
+      "items-PLV0-pYYsmr2Y"
+    ],
+    "note": "empty duplicate from 15 Oct overlapping runs"
+  },
+  {
+    "id": "delpl-PLdRSQJWxvElM",
+    "method": "DELETE_PLAYLIST",
+    "playlistId": "PLdRSQJWxvElM",
+    "empty_check": "items-PLdRSQJWxvElM",
+    "after": [
+      "items-PLdRSQJWxvElM"
+    ],
+    "note": "empty duplicate from 15 Oct overlapping runs"
+  },
+  {
+    "id": "delpl-PLD31qM5nTM5w",
+    "method": "DELETE_PLAYLIST",
+    "playlistId": "PLD31qM5nTM5w",
+    "empty_check": "items-PLD31qM5nTM5w",
+    "after": [
+      "items-PLD31qM5nTM5w"
+    ],
+    "note": "empty duplicate from 15 Oct overlapping runs"
+  },
+  {
+    "id": "delpl-PLBT8K08GTT9E",
+    "method": "DELETE_PLAYLIST",
+    "playlistId": "PLBT8K08GTT9E",
+    "empty_check": "items-PLBT8K08GTT9E",
+    "after": [
+      "items-PLBT8K08GTT9E"
+    ],
+    "note": "empty duplicate from 15 Oct overlapping runs"
+  },
+  {
+    "id": "delpl-PLMQvLXpWXhzI",
+    "method": "DELETE_PLAYLIST",
+    "playlistId": "PLMQvLXpWXhzI",
+    "empty_check": "items-PLMQvLXpWXhzI",
+    "after": [
+      "items-PLMQvLXpWXhzI"
+    ],
+    "note": "empty duplicate from 15 Oct overlapping runs"
+  },
+  {
+    "id": "delpl-PLeG-fjD34jcg",
+    "method": "DELETE_PLAYLIST",
+    "playlistId": "PLeG-fjD34jcg",
+    "empty_check": "items-PLeG-fjD34jcg",
+    "after": [
+      "items-PLeG-fjD34jcg"
+    ],
+    "note": "empty duplicate from 15 Oct overlapping runs"
+  },
+  {
+    "id": "pi-003-AOAkm12RI7I",
+    "method": "POST",
+    "path": "/v3/playlistItems?part=snippet",
+    "after": [
+      "pl-003"
+    ],
+    "body": {
+      "snippet": {
+        "playlistId": "@res:pl-003",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AOAkm12RI7I"
+        }
+      }
+    }
+  },
+  {
+    "id": "get-AOAkm12RI7I",
+    "method": "GET",
+    "path": "/v3/videos?part=snippet&id=AOAkm12RI7I"
+  },
+  {
+    "id": "upd-AOAkm12RI7I",
+    "method": "PUT",
+    "path": "/v3/videos?part=snippet",
+    "after": [
+      "get-AOAkm12RI7I"
+    ],
+    "transform": {
+      "kind": "replace_line",
+      "prefix": "Full episode",
+      "text": "Full episode ▶ https://youtu.be/vdXslodih6A"
+    },
+    "body": {
+      "id": "AOAkm12RI7I",
+      "snippet": {
+        "title": "Theranos voided every patient result from its own blood-testing machine #Shorts",
+        "categoryId": "27",
+        "description": "@desc:get-AOAkm12RI7I",
+        "tags": [
+          "Theranos",
+          "Elizabeth Holmes",
+          "Theranos verdict",
+          "Sunny Balwani",
+          "business documentary",
+          "fraud trial",
+          "Silicon Valley",
+          "what went wrong"
+        ],
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      }
+    }
+  },
+  {
+    "id": "pl-004",
+    "method": "POST",
+    "path": "/v3/playlists?part=snippet,status",
+    "body": {
+      "snippet": {
+        "title": "Northern Rock Collapse Explained",
+        "description": "What the record shows about the 2007 run on Northern Rock: the full episode first, then the short case notes. From the Treasury Committee report, Bank of England statements and the FSA's own internal audit.",
+        "defaultLanguage": "en"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  },
+  {
+    "id": "pi-004-sKaLC6A0Igw",
+    "method": "POST",
+    "path": "/v3/playlistItems?part=snippet",
+    "after": [
+      "pl-004"
+    ],
+    "body": {
+      "snippet": {
+        "playlistId": "@res:pl-004",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sKaLC6A0Igw"
+        }
+      }
+    }
+  },
+  {
+    "id": "pi-all-sKaLC6A0Igw",
+    "method": "POST",
+    "path": "/v3/playlistItems?part=snippet",
+    "after": [
+      "pl-all"
+    ],
+    "body": {
+      "snippet": {
+        "playlistId": "@res:pl-all",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sKaLC6A0Igw"
+        }
+      }
+    }
+  },
+  {
+    "id": "get-sKaLC6A0Igw",
+    "method": "GET",
+    "path": "/v3/videos?part=snippet&id=sKaLC6A0Igw"
+  },
+  {
+    "id": "upd-sKaLC6A0Igw",
+    "method": "PUT",
+    "path": "/v3/videos?part=snippet",
+    "after": [
+      "get-sKaLC6A0Igw",
+      "pl-004",
+      "pl-all"
+    ],
+    "transform": {
+      "kind": "none",
+      "append": "▶ Shorts from this case: https://www.youtube.com/playlist?list=@res:pl-004\n▶ All full episodes: https://www.youtube.com/playlist?list=@res:pl-all\n🔔 Subscribe for the next case file: https://www.youtube.com/@FiledUnderFailure-d6j?sub_confirmation=1"
+    },
+    "body": {
+      "id": "sKaLC6A0Igw",
+      "snippet": {
+        "title": "Why Did Northern Rock Collapse? £4.45bn Withdrawn in 3 Days",
+        "categoryId": "27",
+        "description": "@desc:get-sKaLC6A0Igw",
+        "tags": [
+          "Northern Rock",
+          "bank run",
+          "2008 financial crisis",
+          "UK banking crisis",
+          "Northern Rock collapse",
+          "business documentary",
+          "nationalisation",
+          "what went wrong"
+        ],
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      }
+    }
+  },
+  {
+    "id": "pi-004-9kHvzWHymns",
+    "method": "POST",
+    "path": "/v3/playlistItems?part=snippet",
+    "after": [
+      "pl-004"
+    ],
+    "body": {
+      "snippet": {
+        "playlistId": "@res:pl-004",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9kHvzWHymns"
+        }
+      }
+    }
+  },
+  {
+    "id": "get-9kHvzWHymns",
+    "method": "GET",
+    "path": "/v3/videos?part=snippet&id=9kHvzWHymns"
+  },
+  {
+    "id": "upd-9kHvzWHymns",
+    "method": "PUT",
+    "path": "/v3/videos?part=snippet",
+    "after": [
+      "get-9kHvzWHymns"
+    ],
+    "transform": {
+      "kind": "replace_line",
+      "prefix": "Full episode",
+      "text": "Full episode ▶ https://youtu.be/sKaLC6A0Igw"
+    },
+    "body": {
+      "id": "9kHvzWHymns",
+      "snippet": {
+        "title": "Savers pulled £4.45bn out of Northern Rock in three days #Shorts",
+        "categoryId": "27",
+        "description": "@desc:get-9kHvzWHymns",
+        "tags": [
+          "Northern Rock",
+          "bank run",
+          "2008 financial crisis",
+          "UK banking crisis",
+          "Northern Rock collapse",
+          "business documentary",
+          "nationalisation",
+          "what went wrong"
+        ],
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      }
+    }
+  },
+  {
+    "id": "pi-004-ZHXvZTY_pYc",
+    "method": "POST",
+    "path": "/v3/playlistItems?part=snippet",
+    "after": [
+      "pl-004"
+    ],
+    "body": {
+      "snippet": {
+        "playlistId": "@res:pl-004",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZHXvZTY_pYc"
+        }
+      }
+    }
+  },
+  {
+    "id": "get-ZHXvZTY_pYc",
+    "method": "GET",
+    "path": "/v3/videos?part=snippet&id=ZHXvZTY_pYc"
+  },
+  {
+    "id": "upd-ZHXvZTY_pYc",
+    "method": "PUT",
+    "path": "/v3/videos?part=snippet",
+    "after": [
+      "get-ZHXvZTY_pYc"
+    ],
+    "transform": {
+      "kind": "replace_line",
+      "prefix": "Full episode",
+      "text": "Full episode ▶ https://youtu.be/sKaLC6A0Igw"
+    },
+    "body": {
+      "id": "ZHXvZTY_pYc",
+      "snippet": {
+        "title": "1,917 loans missing from Northern Rock's bad-loan figures #Shorts",
+        "categoryId": "27",
+        "description": "@desc:get-ZHXvZTY_pYc",
+        "tags": [
+          "Northern Rock",
+          "bank run",
+          "2008 financial crisis",
+          "UK banking crisis",
+          "Northern Rock collapse",
+          "business documentary",
+          "nationalisation",
+          "what went wrong"
+        ],
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      }
+    }
+  },
+  {
+    "id": "pi-004-GpTMCeqeRAo",
+    "method": "POST",
+    "path": "/v3/playlistItems?part=snippet",
+    "after": [
+      "pl-004"
+    ],
+    "body": {
+      "snippet": {
+        "playlistId": "@res:pl-004",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GpTMCeqeRAo"
+        }
+      }
+    }
+  },
+  {
+    "id": "get-GpTMCeqeRAo",
+    "method": "GET",
+    "path": "/v3/videos?part=snippet&id=GpTMCeqeRAo"
+  },
+  {
+    "id": "upd-GpTMCeqeRAo",
+    "method": "PUT",
+    "path": "/v3/videos?part=snippet",
+    "after": [
+      "get-GpTMCeqeRAo"
+    ],
+    "transform": {
+      "kind": "replace_line",
+      "prefix": "Full episode",
+      "text": "Full episode ▶ https://youtu.be/sKaLC6A0Igw"
+    },
+    "body": {
+      "id": "GpTMCeqeRAo",
+      "snippet": {
+        "title": "Northern Rock's shareholders got £0. Here's why #Shorts",
+        "categoryId": "27",
+        "description": "@desc:get-GpTMCeqeRAo",
+        "tags": [
+          "Northern Rock",
+          "bank run",
+          "2008 financial crisis",
+          "UK banking crisis",
+          "Northern Rock collapse",
+          "business documentary",
+          "nationalisation",
+          "what went wrong"
+        ],
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      }
+    }
+  },
+  {
+    "id": "pi-004-uG7AAPsinFA",
+    "method": "POST",
+    "path": "/v3/playlistItems?part=snippet",
+    "after": [
+      "pl-004"
+    ],
+    "body": {
+      "snippet": {
+        "playlistId": "@res:pl-004",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uG7AAPsinFA"
+        }
+      }
+    }
+  },
+  {
+    "id": "get-uG7AAPsinFA",
+    "method": "GET",
+    "path": "/v3/videos?part=snippet&id=uG7AAPsinFA"
+  },
+  {
+    "id": "upd-uG7AAPsinFA",
+    "method": "PUT",
+    "path": "/v3/videos?part=snippet",
+    "after": [
+      "get-uG7AAPsinFA"
+    ],
+    "transform": {
+      "kind": "replace_line",
+      "prefix": "Full episode",
+      "text": "Full episode ▶ https://youtu.be/sKaLC6A0Igw"
+    },
+    "body": {
+      "id": "uG7AAPsinFA",
+      "snippet": {
+        "title": "Northern Rock's regulator kept no formal records of key meetings #Shorts",
+        "categoryId": "27",
+        "description": "@desc:get-uG7AAPsinFA",
+        "tags": [
+          "Northern Rock",
+          "bank run",
+          "2008 financial crisis",
+          "UK banking crisis",
+          "Northern Rock collapse",
+          "business documentary",
+          "nationalisation",
+          "what went wrong"
+        ],
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      }
+    }
+  },
+  {
+    "id": "pi-004-CK68ozwGawQ",
+    "method": "POST",
+    "path": "/v3/playlistItems?part=snippet",
+    "after": [
+      "pl-004"
+    ],
+    "body": {
+      "snippet": {
+        "playlistId": "@res:pl-004",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CK68ozwGawQ"
+        }
+      }
+    }
+  },
+  {
+    "id": "get-CK68ozwGawQ",
+    "method": "GET",
+    "path": "/v3/videos?part=snippet&id=CK68ozwGawQ"
+  },
+  {
+    "id": "upd-CK68ozwGawQ",
+    "method": "PUT",
+    "path": "/v3/videos?part=snippet",
+    "after": [
+      "get-CK68ozwGawQ"
+    ],
+    "transform": {
+      "kind": "replace_line",
+      "prefix": "Full episode",
+      "text": "Full episode ▶ https://youtu.be/sKaLC6A0Igw"
+    },
+    "body": {
+      "id": "CK68ozwGawQ",
+      "snippet": {
+        "title": "Why queuing at Northern Rock wasn't irrational #Shorts",
+        "categoryId": "27",
+        "description": "@desc:get-CK68ozwGawQ",
+        "tags": [
+          "Northern Rock",
+          "bank run",
+          "2008 financial crisis",
+          "UK banking crisis",
+          "Northern Rock collapse",
+          "business documentary",
+          "nationalisation",
+          "what went wrong"
+        ],
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      }
+    }
+  },
+  {
+    "id": "pi-004-iACz_Qwu6Kw",
+    "method": "POST",
+    "path": "/v3/playlistItems?part=snippet",
+    "after": [
+      "pl-004"
+    ],
+    "body": {
+      "snippet": {
+        "playlistId": "@res:pl-004",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iACz_Qwu6Kw"
+        }
+      }
+    }
+  },
+  {
+    "id": "get-iACz_Qwu6Kw",
+    "method": "GET",
+    "path": "/v3/videos?part=snippet&id=iACz_Qwu6Kw"
+  },
+  {
+    "id": "upd-iACz_Qwu6Kw",
+    "method": "PUT",
+    "path": "/v3/videos?part=snippet",
+    "after": [
+      "get-iACz_Qwu6Kw"
+    ],
+    "transform": {
+      "kind": "replace_line",
+      "prefix": "Full episode",
+      "text": "Full episode ▶ https://youtu.be/sKaLC6A0Igw"
+    },
+    "body": {
+      "id": "iACz_Qwu6Kw",
+      "snippet": {
+        "title": "Only 23% of Northern Rock's money came from savers #Shorts",
+        "categoryId": "27",
+        "description": "@desc:get-iACz_Qwu6Kw",
+        "tags": [
+          "Northern Rock",
+          "bank run",
+          "2008 financial crisis",
+          "UK banking crisis",
+          "Northern Rock collapse",
+          "business documentary",
+          "nationalisation",
+          "what went wrong"
+        ],
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      }
+    }
+  },
+  {
+    "id": "pi-004-9TKmRYB1Wo4",
+    "method": "POST",
+    "path": "/v3/playlistItems?part=snippet",
+    "after": [
+      "pl-004"
+    ],
+    "body": {
+      "snippet": {
+        "playlistId": "@res:pl-004",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9TKmRYB1Wo4"
+        }
+      }
+    }
+  },
+  {
+    "id": "get-9TKmRYB1Wo4",
+    "method": "GET",
+    "path": "/v3/videos?part=snippet&id=9TKmRYB1Wo4"
+  },
+  {
+    "id": "upd-9TKmRYB1Wo4",
+    "method": "PUT",
+    "path": "/v3/videos?part=snippet",
+    "after": [
+      "get-9TKmRYB1Wo4"
+    ],
+    "transform": {
+      "kind": "replace_line",
+      "prefix": "Full episode",
+      "text": "Full episode ▶ https://youtu.be/sKaLC6A0Igw"
+    },
+    "body": {
+      "id": "9TKmRYB1Wo4",
+      "snippet": {
+        "title": "Who paid for Northern Rock? The final bill #Shorts",
+        "categoryId": "27",
+        "description": "@desc:get-9TKmRYB1Wo4",
+        "tags": [
+          "Northern Rock",
+          "bank run",
+          "2008 financial crisis",
+          "UK banking crisis",
+          "Northern Rock collapse",
+          "business documentary",
+          "nationalisation",
+          "what went wrong"
+        ],
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      }
+    }
   }
- }
 ]
