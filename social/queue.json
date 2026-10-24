@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T18:05:37.641937+05:00",
+ "generated": "2026-10-24T18:05:43.078149+05:00",
  "problems": [],
  "items": [
   {
@@ -424,13 +424,13 @@
    "date": "2026-10-24",
    "pillar": "humour",
    "slides": 1,
-   "status": "planned",
+   "status": "unverified",
    "platforms": {
     "fb": {
-     "state": "pending",
-     "id": "",
-     "tries": 0,
-     "at": ""
+     "state": "posted",
+     "id": "1354185007779555_122114691117497533",
+     "tries": 1,
+     "at": "2026-10-24T13:05:42.560672+00:00"
     },
     "ig": {
      "state": "pending",
