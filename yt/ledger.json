@@ -712,12 +712,14 @@
     "reason": "Generic synthetic narrator (Kokoro bm_george) not imitating any real person; quotes are attributed by the narrator and shown as on-screen text; original code-generated charts, text graphics and music; no realistic synthetic imagery or altered real footage."
    },
    "apiApplied": [
-    "005-ep-a0"
+    "005-ep-a0",
+    "005-ep-thumb0"
    ],
    "videoId": "Q6xdj5CqZMI",
    "url": "https://www.youtube.com/watch?v=Q6xdj5CqZMI",
    "uploadedAt": "2026-10-24T12:45:21.051815+05:00",
-   "publishAt": "2026-10-31T16:00:00Z"
+   "publishAt": "2026-10-31T16:00:00Z",
+   "thumbSet": true
   },
   {
    "id": "005-a",
@@ -749,12 +751,19 @@
    "title": "The overdrafts Patisserie Valerie's board didn't know existed #Shorts",
    "file": "005/005-patisserie-valerie-short-b.mp4",
    "lane": "api",
-   "status": "planned",
+   "status": "scheduled",
    "description": "Two overdrafts at HSBC and Barclays, set up without the board's knowledge, as reported in October 2018.\n\nFull episode: \"Why Did Patisserie Valerie Collapse? The Secret Overdrafts\" on Filed Under Failure.\nSources: Serious Fraud Office, case page 'Patisserie Holdings plc' (timeline to 9 Feb 2026); Serious Fraud Office, 'SFO charges four individuals behind Patisserie Valerie collapse' (13 Sep 2023); Financial Reporting Council, 'Sanctions against Grant Thornton UK LLP and David Newstead' (27 Sep 2021) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #PatisserieValerie #PatisserieValeriecollapse #accountingscandal",
    "altered": {
     "disclose": false,
     "reason": "Generic synthetic narrator (Kokoro bm_george) not imitating any real person; quotes are attributed by the narrator and shown as on-screen text; original code-generated charts, text graphics and music; no realistic synthetic imagery or altered real footage."
-   }
+   },
+   "apiApplied": [
+    "005-b-a0"
+   ],
+   "videoId": "h9tEOFDll_0",
+   "url": "https://www.youtube.com/shorts/h9tEOFDll_0",
+   "uploadedAt": "2026-10-25T12:45:18.066293+05:00",
+   "publishAt": "2026-11-01T16:00:00Z"
   },
   {
    "id": "005-c",
