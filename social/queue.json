@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T18:05:42.098895+05:00",
+ "generated": "2026-10-25T18:05:46.469414+05:00",
  "problems": [],
  "items": [
   {
@@ -476,7 +476,7 @@
    "date": "2026-10-25",
    "pillar": "poll",
    "slides": 1,
-   "status": "unverified",
+   "status": "posted",
    "platforms": {
     "fb": {
      "state": "posted",
@@ -485,10 +485,10 @@
      "at": "2026-10-25T13:05:32.134153+00:00"
     },
     "ig": {
-     "state": "pending",
-     "id": "",
-     "tries": 0,
-     "at": ""
+     "state": "posted",
+     "id": "18154249846484215",
+     "tries": 1,
+     "at": "2026-10-25T13:05:45.681529+00:00"
     }
    },
    "src": "social/posts/2026-10-23.json"
