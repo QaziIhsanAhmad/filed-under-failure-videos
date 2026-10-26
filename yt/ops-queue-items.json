@@ -1,38 +1,38 @@
 [
  {
-  "id": "upd-9TKmRYB1Wo4",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "body": "{\"id\": \"9TKmRYB1Wo4\", \"snippet\": {\"title\": \"Who paid for Northern Rock? The final bill #Shorts\", \"categoryId\": \"27\", \"description\": \"Full episode ▶ https://youtu.be/sKaLC6A0Igw\\n\\nThe taxpayer's bill for Northern Rock, from National Audit Office reports.\\n\\nSources: Treasury Committee, 'The run on the Rock', Fifth Report of Session 2007–08, HC 56-I (Jan 2008), summary; Bank of England / HM Treasury / FSA, 'Liquidity support facility for Northern Rock plc' (14 Sep 2007); European Court of Human Rights, Grainger and Others v the United Kingdom, no. 34940/10, decision of 10 Jul 2012 (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #NorthernRock #bankrun #2008financialcrisis\", \"tags\": [\"Northern Rock\", \"bank run\", \"2008 financial crisis\", \"UK banking crisis\", \"Northern Rock collapse\", \"business documentary\", \"nationalisation\", \"what went wrong\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
- },
- {
-  "id": "pl-005",
-  "method": "POST",
-  "path": "/v3/playlists?part=snippet,status",
-  "body": "{\"snippet\": {\"title\": \"Patisserie Valerie Collapse Explained\", \"description\": \"What the record shows about the 2018 collapse of Patisserie Valerie: the full episode first, then the short case notes. From Patisserie Holdings' own announcements, the FRC's sanctions against Grant Thornton and Serious Fraud Office records.\", \"defaultLanguage\": \"en\"}, \"status\": {\"privacyStatus\": \"public\"}}"
- },
- {
-  "id": "pi-all-Q6xdj5CqZMI",
+  "id": "pi-005-Q6xdj5CqZMI",
   "method": "POST",
   "path": "/v3/playlistItems?part=snippet",
-  "body": "{\"snippet\": {\"playlistId\": \"PLcJ0qXrqBDRU\", \"position\": 0, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"Q6xdj5CqZMI\"}}}"
+  "body": "{\"snippet\": {\"playlistId\": \"PLE_qz-rndBLM\", \"position\": 0, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"Q6xdj5CqZMI\"}}}"
  },
  {
-  "id": "get-Q6xdj5CqZMI",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=Q6xdj5CqZMI",
-  "body": ""
+  "id": "upd-Q6xdj5CqZMI",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "body": "{\"id\": \"Q6xdj5CqZMI\", \"snippet\": {\"title\": \"Why Did Patisserie Valerie Collapse? The Secret Overdrafts\", \"categoryId\": \"27\", \"description\": \"Patisserie Valerie collapse explained from company, regulator and Serious Fraud Office records.\\nWorth £450m on a Tuesday in October 2018, shares frozen by Wednesday. Using Patisserie Holdings' own stock-market announcements, the Financial Reporting Council's sanctions against its auditor Grant Thornton, and the SFO's case file, we separate what the company disclosed, what the regulator found, and what is still only alleged, as the fraud trial moves to January 2028.\\n\\nChapters\\n0:00 Cold open\\n0:59 A cake shop from 1926\\n2:05 Wednesday, 10 October 2018\\n3:45 The overdrafts nobody knew about\\n5:27 The end of the counter\\n6:56 Where were the auditors?\\n9:44 The criminal case\\n11:49 Our analysis\\n13:27 Outro\\n\\nSources\\n[1] Serious Fraud Office, case page 'Patisserie Holdings plc' (timeline to 9 Feb 2026): https://www.gov.uk/sfo-cases/patisserie-holdings-plc\\n[2] Serious Fraud Office, 'SFO charges four individuals behind Patisserie Valerie collapse' (13 Sep 2023): https://sfo.gov.uk/2023/09/13/sfo-charges-four-individuals-behind-patisserie-valerie-collapse\\n[3] Financial Reporting Council, 'Sanctions against Grant Thornton UK LLP and David Newstead' (27 Sep 2021): https://www.frc.org.uk/news-and-events/news/2021/09/sanctions-against-grant-thornton-uk-llp-and-david-newstead/\\n[4] Patisserie Holdings plc, announcement of proposed placing and loans (12 Oct 2018): https://lexismarkettracker.lexisnexis.com/documents/0031/31264/152348/MT_announcement%20of%20proposed%20placing_12%20October%202018_Patesserie%20Holdings%20plc.pdf\\n[5] News Letter, 'Patisserie Valerie faces winding up order' (10 Oct 2018): https://www.newsletter.co.uk/business/patisserie-valerie-faces-winding-up-order-563210\\n[6] The Grocer, 'Patisserie Valerie shares suspended after potential fraud' (10 Oct 2018): https://www.thegrocer.co.uk/finance/patisserie-valerie-shares-suspended-after-potential-fraud/572525.article\\n[7] Restaurant Online, 'Luke Johnson: Patisserie Holdings' secret overdrafts a nightmare' (15 Oct 2018): https://www.restaurantonline.co.uk/Article/2018/10/15/Luke-Johnson-Patisserie-Holdings-secret-overdrafts-a-nightmare/\\n[8] The Grocer, 'Patisserie Valerie shutters 71 outlets at the cost of 920 jobs' (Jan 2019): https://www.thegrocer.co.uk/restructures-and-receiverships/patisserie-valerie-shutters-71-outlets-at-the-cost-of-920-jobs/575869.article\\n[9] ITV News, 'Cake chain Patisserie Valerie gobbled up by Irish private equity firm' (14 Feb 2019): https://www.itv.com/news/2019-02-14/cake-chain-patisserie-valerie-gobbled-up-by-irish-private-equity-firm\\n[10] The Caterer, 'Five arrested in investigation into alleged Patisserie Valerie fraud' (24 Jun 2019): https://www.thecaterer.com/news/five-arrested-in-investigation-into-alleged-patisserie-valerie-fraud\\n[11] Yahoo News, 'Grant Thornton fined £2.3 million over Patisserie Valerie collapse' (Sep 2021): https://news.yahoo.com/grant-thornton-fined-2-3-074451482.html\\n[12] Consultancy.uk, 'Settlement struck between Grant Thornton and Patisserie Valerie creditors' (30 Jun 2022): https://www.consultancy.uk/news/31658/settlement-struck-between-grant-thornton-and-patisserie-valerie-creditors\\n[13] Accountancy Daily, 'Patisserie Valerie fraud trial delayed to 2028' (10 Feb 2026): https://www.accountancydaily.co/patisserie-valerie-fraud-trial-delayed-2028\\n[14] Time Out London, 'Soho's original Patisserie Valerie has closed' (23 Jan 2019): https://www.timeout.com/london/news/sohos-original-patisserie-valerie-has-closed-012319\\n[15] Time Out, 'After shutting 170 branches this beloved UK high street bakery chain is making a comeback' (4 Sep 2023): https://www.timeout.com/uk/news/after-shutting-170-branches-this-beloved-uk-high-street-bakery-chain-is-making-a-comeback-090423\\n\\nFiled Under Failure tells business collapses and comebacks from the public record. Findings and quotes are those of the bodies cited. Narration uses a synthetic voice; graphics are our own. Music: original.\\n\\n#PatisserieValerie #PatisserieValeriecollapse #accountingscandal\\n\\n▶ Shorts from this case: https://www.youtube.com/playlist?list=PLE_qz-rndBLM\\n▶ All full episodes: https://www.youtube.com/playlist?list=PLcJ0qXrqBDRU\\n🔔 Subscribe for the next case file: https://www.youtube.com/@FiledUnderFailure-d6j?sub_confirmation=1\", \"tags\": [\"Patisserie Valerie\", \"Patisserie Valerie collapse\", \"accounting scandal\", \"Grant Thornton\", \"Serious Fraud Office\", \"UK business documentary\", \"audit failure\", \"what went wrong\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
  },
  {
-  "id": "get-BUIUkfEzlFI",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=BUIUkfEzlFI",
-  "body": ""
+  "id": "pi-005-BUIUkfEzlFI",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "body": "{\"snippet\": {\"playlistId\": \"PLE_qz-rndBLM\", \"position\": 1, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"BUIUkfEzlFI\"}}}"
  },
  {
-  "id": "get-h9tEOFDll_0",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=h9tEOFDll_0",
-  "body": ""
+  "id": "upd-BUIUkfEzlFI",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "body": "{\"id\": \"BUIUkfEzlFI\", \"snippet\": {\"title\": \"Patisserie Valerie: worth £450m on Tuesday, frozen by Wednesday #Shorts\", \"categoryId\": \"27\", \"description\": \"Full episode ▶ https://youtu.be/Q6xdj5CqZMI\\n\\nThe day Patisserie Valerie's owner disclosed potentially fraudulent accounting irregularities, from the company's own announcements.\\n\\nSources: Serious Fraud Office, case page 'Patisserie Holdings plc' (timeline to 9 Feb 2026); Serious Fraud Office, 'SFO charges four individuals behind Patisserie Valerie collapse' (13 Sep 2023); Financial Reporting Council, 'Sanctions against Grant Thornton UK LLP and David Newstead' (27 Sep 2021) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #PatisserieValerie #PatisserieValeriecollapse #accountingscandal\", \"tags\": [\"Patisserie Valerie\", \"Patisserie Valerie collapse\", \"accounting scandal\", \"Grant Thornton\", \"Serious Fraud Office\", \"UK business documentary\", \"audit failure\", \"what went wrong\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
+ },
+ {
+  "id": "pi-005-h9tEOFDll_0",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "body": "{\"snippet\": {\"playlistId\": \"PLE_qz-rndBLM\", \"position\": 2, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"h9tEOFDll_0\"}}}"
+ },
+ {
+  "id": "upd-h9tEOFDll_0",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "body": "{\"id\": \"h9tEOFDll_0\", \"snippet\": {\"title\": \"The overdrafts Patisserie Valerie's board didn't know existed #Shorts\", \"categoryId\": \"27\", \"description\": \"Full episode ▶ https://youtu.be/Q6xdj5CqZMI\\n\\nTwo overdrafts at HSBC and Barclays, set up without the board's knowledge, as reported in October 2018.\\n\\nSources: Serious Fraud Office, case page 'Patisserie Holdings plc' (timeline to 9 Feb 2026); Serious Fraud Office, 'SFO charges four individuals behind Patisserie Valerie collapse' (13 Sep 2023); Financial Reporting Council, 'Sanctions against Grant Thornton UK LLP and David Newstead' (27 Sep 2021) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #PatisserieValerie #PatisserieValeriecollapse #accountingscandal\", \"tags\": [\"Patisserie Valerie\", \"Patisserie Valerie collapse\", \"accounting scandal\", \"Grant Thornton\", \"Serious Fraud Office\", \"UK business documentary\", \"audit failure\", \"what went wrong\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
  }
 ]
