@@ -33,10 +33,14 @@
   "Vehicle Service Pros, 'First Brands Bankruptcy Sparks Investigation into $2.3 Billion Missing Assets' (20 Oct 2025): https://www.vehicleservicepros.com/aftermarket-business-world/news/news/55324288/first-brands-bankruptcy-sparks-investigation-into-23-billion-missing-assets",
   "Jefferies, letter regarding Point Bonita Capital and First Brands Group (Oct 2025): https://www.jefferies.com/about/leadership-letters/jefferies-provides-letter-from-its-ceo-and-president-regarding-point-bonita-capital-and-first-brands-group/",
   "Wikipedia, 'First Brands Group' (pointer only; no claim now rests on it alone): https://en.wikipedia.org/wiki/First_Brands_Group",
-  "CAT Magazine, 'Trico Group renames as First Brands Group' (18 Aug 2020): https://www.catmag.co.uk/news/trico-group-renames-as-first-brands-group/"
+  "CAT Magazine, 'Trico Group renames as First Brands Group' (18 Aug 2020): https://www.catmag.co.uk/news/trico-group-renames-as-first-brands-group/",
+  "Global Trade Review, 'US prosecutors file criminal charges against First Brands founder' (Jan 2026): https://www.gtreview.com/news/americas/us-prosecutors-file-criminal-charges-against-first-brands-founder/",
+  "Jones Day, 'Crowne Group acquires Trico Products' (Sep 2014): https://www.jonesday.com/en/practices/experience/2014/09/crowne-group-acquires-trico-products",
+  "Fortune, First Brands founder responds to company's allegations (5 Nov 2025): https://fortune.com/2025/11/05/first-brands-bankruptcy-founder-allegations-patrick-james",
+  "Reuters via GV Wire, First Brands winds down units (Jan 2026): https://gvwire.com/?p=230130"
  ],
  "notes": {
-  "status": "scripted 26 Oct 2026; self-check done 26 Oct (see factcheck_log). Independent sub-agent fact-check (step 5) still REQUIRED before build.",
+  "status": "fact-checked 26 Oct 2026 (independent sub-agent: ~58 verified; 1 wrong citation, 4,000-jobs claim, round-trip wording, off-balance-sheet wording, conversion date, $43m wording and 2 framing issues fixed). Re-check severance ruling (replies due 9 Nov 2026) before publish.",
   "alt_titles": [
    "Where Did First Brands' Money Go? The Car-Parts Collapse",
    "The Fram and Autolite Owner That Went Bust Owing $9 Billion"
@@ -51,7 +55,8 @@
   "end_screen": "Patisserie Valerie (005) — hidden overdrafts; then playlist pl-006.",
   "visual_upgrade": "Add 3-5 licensed real images (Wikimedia Commons or Pexels/Pixabay: car-parts aisle, Manhattan federal courthouse exterior, Cleveland skyline) to vary the text-card format; credit in description.",
   "factcheck_log": [
-   "26 Oct self-check by drafter (not independent): 2020 rename was from 'Trico Group' (CAT Magazine 18 Aug 2020), fixed; '~24 acquisitions' was Wikipedia-only, removed; 'retail chains' unsourced, changed to aftermarket (AP); OHA wording aligned to source; Raistone described as trade-finance creditor (VSP); invoice amounts rounded correctly ($17,826.26, $463,734.92); clawback line aligned to Brake Report; Jefferies $43m = its own investment (letter). All other claims matched sources fetched 26 Oct."
+   "26 Oct self-check by drafter (not independent): 2020 rename was from 'Trico Group' (CAT Magazine 18 Aug 2020), fixed; '~24 acquisitions' was Wikipedia-only, removed; 'retail chains' unsourced, changed to aftermarket (AP); OHA wording aligned to source; Raistone described as trade-finance creditor (VSP); invoice amounts rounded correctly ($17,826.26, $463,734.92); clawback line aligned to Brake Report; Jefferies $43m = its own investment (letter). All other claims matched sources fetched 26 Oct.",
+   "26 Oct independent check: fixes applied as above; added sources GTR, Jones Day, Fortune, Reuters/GV Wire. Claims Journal (Bloomberg) page blocked; no claim now rests on it alone. Trial 9 Feb 2027 (Inner City Press, 1 Jul 2026)."
   ]
  },
  "altered": {
@@ -109,9 +114,9 @@
      "Raybestos brakes",
      "Trico wipers"
     ],
-    "src": "Associated Press, 29 Jan 2026"
+    "src": "AP, 29 Jan 2026; CAT Magazine, 18 Aug 2020"
    },
-   "src": "Associated Press, 29 Jan 2026"
+   "src": "AP, 29 Jan 2026; CAT Magazine, 18 Aug 2020"
   },
   {
    "say": "Prosecutors say the money was raised with fake invoices and debts hidden from lenders. The founder and his brother deny it. Their trial is set for February 2027.",
@@ -172,9 +177,9 @@
     "type": "timeline",
     "date": "Aug 2020",
     "text": "Trico Group renamed First Brands Group",
-    "src": "CAT Magazine, 18 Aug 2020"
+    "src": "Jones Day, Sep 2014; CAT Magazine, 18 Aug 2020"
    },
-   "src": "CAT Magazine, 18 Aug 2020"
+   "src": "Jones Day, Sep 2014; CAT Magazine, 18 Aug 2020"
   },
   {
    "say": "From the outside, it looked boring in a good way. Cars always need filters, wipers and brake pads.",
@@ -338,9 +343,9 @@
     "date": "28 Sep 2025",
     "text": "Chapter 11 filing, Southern District of Texas",
     "red": true,
-    "src": "US Attorney's Office SDNY, 29 Jan 2026"
+    "src": "SDNY, 29 Jan 2026; The Brake Report, 26 Aug 2026"
    },
-   "src": "US Attorney's Office SDNY, 29 Jan 2026"
+   "src": "SDNY, 29 Jan 2026; The Brake Report, 26 Aug 2026"
   },
   {
    "say": "It reported about five billion dollars in annual sales, twelve million dollars in cash, and more than nine billion dollars in liabilities.",
@@ -408,7 +413,7 @@
    "src": "Vehicle Service Pros, 20 Oct 2025"
   },
   {
-   "say": "Asked how much was in the accounts meant to hold that money, a company lawyer answered: zero dollars.",
+   "say": "Asked how much was in the accounts meant to hold that money, a company lawyer answered: zero dollars. Asked whether the company had actually received the one point nine billion, its lawyer said: we don't know.",
    "visual": {
     "type": "stat",
     "value": "$0",
@@ -419,7 +424,7 @@
    "src": "Vehicle Service Pros, 20 Oct 2025"
   },
   {
-   "say": "Big names were exposed. Jefferies said its own investment in one affected fund was forty-three million dollars, and that nobody at the bank had known of any fraud.",
+   "say": "Big names were exposed. Jefferies said its share of one affected fund's First Brands invoices was about forty-three million dollars, and that nobody at the bank had known of any fraud.",
    "visual": {
     "type": "quote",
     "text": "Nobody at Jefferies was aware of fraudulent activity at First Brands",
@@ -535,18 +540,18 @@
    "src": "US Attorney's Office SDNY, 29 Jan 2026"
   },
   {
-   "say": "Then there were the round trips. Money that financers thought would pay suppliers was allegedly routed back to First Brands, to cover interest, rent and running costs.",
+   "say": "Then there were the round trips. Money that financers thought would pay suppliers was allegedly routed back to First Brands, prosecutors say, to pay debt, rent and other running costs.",
    "visual": {
     "type": "list",
     "title": "Alleged 'round trips'",
     "items": [
-     "Financer pays a bill-processing intermediary",
+     "Financer pays for supplier invoices",
      "Expects it to reach suppliers",
      "!Allegedly routed back to First Brands"
     ],
-    "src": "US Attorney's Office SDNY, 29 Jan 2026"
+    "src": "SDNY, 29 Jan 2026; GTR, Jan 2026"
    },
-   "src": "US Attorney's Office SDNY, 29 Jan 2026"
+   "src": "SDNY, 29 Jan 2026; GTR, Jan 2026"
   },
   {
    "say": "Internally, the release says, these were called corporate initiatives.",
@@ -574,13 +579,13 @@
    "src": "US Attorney's Office SDNY, 29 Jan 2026"
   },
   {
-   "say": "In July 2025, according to the indictment as reported, a senior executive told a lender there was no off-balance-sheet financing. Prosecutors put it at about two billion dollars.",
+   "say": "In July 2025, prosecutors allege, a senior executive, at Patrick James's direction, told lenders there was no off-balance-sheet financing involving special-purpose entities. Prosecutors put such debt at about two billion dollars.",
    "visual": {
     "type": "bars",
     "title": "Off-balance-sheet financing, July 2025",
     "items": [
      [
-      "Told to a lender",
+      "Told to lenders",
       0,
       "none"
      ],
@@ -591,12 +596,12 @@
      ]
     ],
     "hi": 1,
-    "src": "Truck Parts & Service, Mar 2026"
+    "src": "GTR, Jan 2026; Truck Parts & Service, Mar 2026"
    },
-   "src": "Truck Parts & Service, Mar 2026"
+   "src": "GTR, Jan 2026; Truck Parts & Service, Mar 2026"
   },
   {
-   "say": "Prosecutors say Patrick James received at least hundreds of millions of dollars in his personal accounts. His lawyers dispute the spending claims made against him.",
+   "say": "Prosecutors say Patrick James received at least hundreds of millions of dollars in his personal accounts. His spokesperson called the company's spending claims baseless.",
    "visual": {
     "type": "document",
     "header": "Contested",
@@ -606,9 +611,9 @@
      "Company civil suit lists rent, a chef, a trainer",
      "!Patrick James disputes these claims"
     ],
-    "src": "US Attorney's Office SDNY, 29 Jan 2026"
+    "src": "SDNY, 29 Jan 2026; Truck Parts & Service, Mar 2026; Fortune, 5 Nov 2025"
    },
-   "src": "US Attorney's Office SDNY, 29 Jan 2026"
+   "src": "SDNY, 29 Jan 2026; Truck Parts & Service, Mar 2026; Fortune, 5 Nov 2025"
   },
   {
    "say": "Chapter 6. Brother against brother.",
@@ -670,9 +675,9 @@
     "type": "timeline",
     "date": "Feb 2027",
     "text": "Trial scheduled, Judge Analisa Torres, Manhattan",
-    "src": "Transport Topics, 8 Oct 2026"
+    "src": "SDNY, 29 Jan 2026; Transport Topics, 8 Oct 2026"
    },
-   "src": "Transport Topics, 8 Oct 2026"
+   "src": "SDNY, 29 Jan 2026; Transport Topics, 8 Oct 2026"
   },
   {
    "say": "Chapter 7. Who paid.",
@@ -685,22 +690,22 @@
    "pause": 0.5
   },
   {
-   "say": "In January 2026, the company began winding down Autolite, Brake Parts Inc and Cardone. Bloomberg reported at least four thousand jobs already lost in North America.",
+   "say": "In January 2026, the company began winding down Autolite, Brake Parts Inc and Cardone. Reuters reported those units employed about four thousand people.",
    "visual": {
     "type": "stat",
-    "value": "4,000+",
-    "label": "North American jobs lost, Bloomberg, Jan 2026",
+    "value": "~4,000",
+    "label": "people employed by the units being wound down",
     "red": true,
-    "src": "Bloomberg via Claims Journal, 30 Jan 2026"
+    "src": "Reuters, Jan 2026"
    },
-   "src": "Bloomberg via Claims Journal, 30 Jan 2026"
+   "src": "Reuters, Jan 2026"
   },
   {
-   "say": "Other businesses were sold off. In August 2026, the bankruptcy judge rejected the rescue plan and converted the case into a Chapter 7 liquidation. In plain English: it's being sold in pieces.",
+   "say": "Other businesses were sold off. In late August 2026, the bankruptcy judge rejected the rescue plan and ordered the case converted into a Chapter 7 liquidation. In plain English: it's being sold in pieces.",
    "visual": {
     "type": "timeline",
-    "date": "24 Aug 2026",
-    "text": "Case converted to Chapter 7 liquidation",
+    "date": "Aug 2026",
+    "text": "Judge orders conversion to Chapter 7 liquidation",
     "red": true,
     "src": "The Brake Report, 26 Aug 2026"
    },
@@ -759,14 +764,14 @@
    "src": "Filed Under Failure analysis"
   },
   {
-   "say": "Lesson three. When every lender sees only its own slice, nobody sees the whole picture. No single factor could check whether an invoice had already been sold to someone else.",
+   "say": "Lesson three. When every lender sees only its own slice, nobody sees the whole picture. In our view, no single factor had an easy way to check whether an invoice had already been sold to someone else.",
    "visual": {
     "type": "list",
     "title": "Lesson 3",
     "items": [
      "Many lenders",
      "Each saw its own invoices",
-     "!Nobody checked the whole set"
+     "!No easy way to check the whole set"
     ],
     "src": "Filed Under Failure analysis"
    },
@@ -979,7 +984,7 @@
      "caption": "$1.9bn collected"
     },
     {
-     "say": "That money should have been passed on. So how much was in the accounts meant to hold it? A company lawyer answered: zero dollars.",
+     "say": "Raistone said that money should have been passed on. So how much was in the accounts meant to hold it? A company lawyer answered: zero dollars.",
      "visual": {
       "type": "stat",
       "value": "$0",
