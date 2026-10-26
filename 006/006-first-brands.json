@@ -32,10 +32,11 @@
   "OHA (T. Rowe Price), 'Looking under the hood: The First Brands bankruptcy' (Oct 2025): https://www.troweprice.com/en/us/ocredit/insights/looking-under-the-hood-the-first-brands-bankruptcy",
   "Vehicle Service Pros, 'First Brands Bankruptcy Sparks Investigation into $2.3 Billion Missing Assets' (20 Oct 2025): https://www.vehicleservicepros.com/aftermarket-business-world/news/news/55324288/first-brands-bankruptcy-sparks-investigation-into-23-billion-missing-assets",
   "Jefferies, letter regarding Point Bonita Capital and First Brands Group (Oct 2025): https://www.jefferies.com/about/leadership-letters/jefferies-provides-letter-from-its-ceo-and-president-regarding-point-bonita-capital-and-first-brands-group/",
-  "Wikipedia, 'First Brands Group' (pointer only for 2013 founding as Crowne Group, Trico purchase, ~24 acquisitions, 2020 rename, Raybestos; fact-checker must confirm from primary/press): https://en.wikipedia.org/wiki/First_Brands_Group"
+  "Wikipedia, 'First Brands Group' (pointer only; no claim now rests on it alone): https://en.wikipedia.org/wiki/First_Brands_Group",
+  "CAT Magazine, 'Trico Group renames as First Brands Group' (18 Aug 2020): https://www.catmag.co.uk/news/trico-group-renames-as-first-brands-group/"
  ],
  "notes": {
-  "status": "scripted 26 Oct 2026 (interactive session). Production run: skip research/script; run the independent fact-check (step 5), fix, then build.",
+  "status": "scripted 26 Oct 2026; self-check done 26 Oct (see factcheck_log). Independent sub-agent fact-check (step 5) still REQUIRED before build.",
   "alt_titles": [
    "Where Did First Brands' Money Go? The Car-Parts Collapse",
    "The Fram and Autolite Owner That Went Bust Owing $9 Billion"
@@ -48,7 +49,10 @@
   "demand_check": "26 Oct 2026: no measured YouTube search data this run. Signals: fresh court news (8 Oct 2026 severance filings, Aug 2026 Chapter 7, Feb 2027 trial) and US audience. Run research.yml before the next topic swap.",
   "legal": "Charges are allegations; both defendants pleaded not guilty and are presumed innocent. Only Brumbergs and Graham have pleaded guilty. Spending items come from the company's civil suit and are disputed; named generically. Jefferies is quoted saying it had no knowledge of fraud. No one is called a fraudster.",
   "end_screen": "Patisserie Valerie (005) — hidden overdrafts; then playlist pl-006.",
-  "visual_upgrade": "Add 3-5 licensed real images (Wikimedia Commons or Pexels/Pixabay: car-parts aisle, Manhattan federal courthouse exterior, Cleveland skyline) to vary the text-card format; credit in description."
+  "visual_upgrade": "Add 3-5 licensed real images (Wikimedia Commons or Pexels/Pixabay: car-parts aisle, Manhattan federal courthouse exterior, Cleveland skyline) to vary the text-card format; credit in description.",
+  "factcheck_log": [
+   "26 Oct self-check by drafter (not independent): 2020 rename was from 'Trico Group' (CAT Magazine 18 Aug 2020), fixed; '~24 acquisitions' was Wikipedia-only, removed; 'retail chains' unsourced, changed to aftermarket (AP); OHA wording aligned to source; Raistone described as trade-finance creditor (VSP); invoice amounts rounded correctly ($17,826.26, $463,734.92); clawback line aligned to Brake Report; Jefferies $43m = its own investment (letter). All other claims matched sources fetched 26 Oct."
+  ]
  },
  "altered": {
   "disclose": false,
@@ -158,19 +162,19 @@
     "type": "timeline",
     "date": "2013",
     "text": "Crowne Group founded in Ohio by Patrick James",
-    "src": "Wikipedia: First Brands Group (pointer only, verify)"
+    "src": "Truck Parts & Service, Mar 2026; AP, 29 Jan 2026"
    },
-   "src": "Wikipedia: First Brands Group (pointer only, verify)"
+   "src": "Truck Parts & Service, Mar 2026; AP, 29 Jan 2026"
   },
   {
-   "say": "It bought windscreen-wiper maker Trico, then about two dozen more parts makers, mostly with borrowed money. In 2020 it renamed itself First Brands Group.",
+   "say": "It grew by buying parts makers, wiper brand Trico among them, mostly with borrowed money. In August 2020 the group renamed itself First Brands.",
    "visual": {
     "type": "timeline",
-    "date": "2020",
-    "text": "Renamed First Brands Group after ~24 debt-funded acquisitions",
-    "src": "Wikipedia: First Brands Group (pointer only, verify)"
+    "date": "Aug 2020",
+    "text": "Trico Group renamed First Brands Group",
+    "src": "CAT Magazine, 18 Aug 2020"
    },
-   "src": "Wikipedia: First Brands Group (pointer only, verify)"
+   "src": "CAT Magazine, 18 Aug 2020"
   },
   {
    "say": "From the outside, it looked boring in a good way. Cars always need filters, wipers and brake pads.",
@@ -180,12 +184,12 @@
     "title": "A steady parts business",
     "lines": [
      "Products people replace every year",
-     "Sold through big retail chains",
+     "Sold into the car-parts aftermarket",
      "!Growth funded by debt"
     ],
-    "src": "Filed Under Failure analysis"
+    "src": "AP, 29 Jan 2026"
    },
-   "src": "Filed Under Failure analysis"
+   "src": "AP, 29 Jan 2026"
   },
   {
    "say": "But a business like that has a cash problem built in. And the way it solved that problem is the heart of this story.",
@@ -296,7 +300,7 @@
    "src": "OHA (T. Rowe Price), Oct 2025"
   },
   {
-   "say": "Investors asked for a deeper check, including a quality-of-earnings report. According to the investment firm OHA, that review exposed expensive, risky financing that hadn't been clear before.",
+   "say": "Investors asked for a deeper check, including a quality-of-earnings report. According to the investment firm OHA, that review uncovered increasingly risky and expensive financing.",
    "visual": {
     "type": "quote",
     "text": "increasingly risky and expensive working capital financing",
@@ -373,7 +377,7 @@
    "pause": 0.5
   },
   {
-   "say": "Ten days after the filing, Raistone, a finance platform that had arranged funding for First Brands, asked the court to appoint an independent examiner.",
+   "say": "Ten days after the filing, Raistone, a trade-finance firm and one of the company's creditors, asked the court to appoint an independent examiner.",
    "visual": {
     "type": "timeline",
     "date": "8 Oct 2025",
@@ -415,7 +419,7 @@
    "src": "Vehicle Service Pros, 20 Oct 2025"
   },
   {
-   "say": "Big names were exposed. Jefferies said its own share of one affected fund was forty-three million dollars, and that nobody at the bank had known of any fraud.",
+   "say": "Big names were exposed. Jefferies said its own investment in one affected fund was forty-three million dollars, and that nobody at the bank had known of any fraud.",
    "visual": {
     "type": "quote",
     "text": "Nobody at Jefferies was aware of fraudulent activity at First Brands",
@@ -471,7 +475,7 @@
    "src": "US Attorney's Office SDNY, 29 Jan 2026"
   },
   {
-   "say": "One example in court filings: an invoice worth eight thousand nine hundred and seventy-six dollars was allegedly sold to one factor as seventeen thousand eight hundred dollars.",
+   "say": "One example in court filings: an invoice worth eight thousand nine hundred and seventy-six dollars was allegedly sold to one factor for almost eighteen thousand dollars.",
    "visual": {
     "type": "bars",
     "title": "One invoice, as alleged",
@@ -493,7 +497,7 @@
    "src": "Truck Parts & Service, Mar 2026"
   },
   {
-   "say": "Three days later, prosecutors say, the same invoice was sold to another factor as four hundred and sixty-three thousand dollars.",
+   "say": "Three days later, prosecutors say, the same invoice was sold to another factor for nearly four hundred and sixty-four thousand dollars.",
    "visual": {
     "type": "bars",
     "title": "Three days later, as alleged",
@@ -703,7 +707,7 @@
    "src": "The Brake Report, 26 Aug 2026"
   },
   {
-   "say": "That rejected plan relied on about two billion dollars of future lawsuit recoveries from former insiders, mostly by the end of 2028.",
+   "say": "That rejected plan relied on about two billion dollars of future lawsuit recoveries, including from former insiders, projected by the end of 2028.",
    "visual": {
     "type": "stat",
     "value": "~$2bn",
@@ -869,7 +873,7 @@
    "blurb": "An example from court filings in the First Brands fraud case, as alleged by prosecutors. The defendants deny the charges.",
    "scenes": [
     {
-     "say": "Prosecutors say one invoice for eight thousand nine hundred and seventy-six dollars was sold to a finance firm as seventeen thousand eight hundred dollars.",
+     "say": "Prosecutors say one invoice for eight thousand nine hundred and seventy-six dollars was sold to a finance firm for almost eighteen thousand dollars.",
      "visual": {
       "type": "bars",
       "title": "One invoice, as alleged",
@@ -891,7 +895,7 @@
      "caption": "$8,976 sold as $17,826"
     },
     {
-     "say": "Three days later, they say, the same invoice was sold to a second firm as four hundred and sixty-three thousand dollars.",
+     "say": "Three days later, they say, the same invoice was sold to a second firm for nearly four hundred and sixty-four thousand dollars.",
      "visual": {
       "type": "bars",
       "title": "Three days later",
@@ -996,7 +1000,7 @@
      "caption": "Up to $2.3bn unaccounted for"
     },
     {
-     "say": "Four months later, the founder and his brother were charged with fraud. They deny it.",
+     "say": "About four months later, the founder and his brother were charged with fraud. They deny it.",
      "visual": {
       "type": "timeline",
       "date": "29 Jan 2026",

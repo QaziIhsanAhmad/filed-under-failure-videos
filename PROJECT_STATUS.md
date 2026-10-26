@@ -23,7 +23,8 @@ Faceless business-collapse documentary channel. Daily Short + weekly long episod
 - Qazi's new brief: 2 episodes/week (Wed + Sat, 8–12 min), 1 Short daily (3–4 per episode, 25–45 s), monetisation via watch hours; weekly reports separating Analytics vs Earn counters.
 - Audit: 4 episodes = 47 views total; 24 Shorts ≈ 2,700 views (median 38). Long-form distribution is the bottleneck. No CTR/retention/watch-time data reaches automation (Metricool per-video watch fields empty; yt-analytics error-B).
 - 006 First Brands scripted (006/006-first-brands.json: 57 scenes ~9 min, 4 Shorts, 12 sources). NOT fact-checked or rendered. Control room re-planned: e006 First Brands Wed 4 Nov, e007 Wirecard Sat 7 Nov, e008 Greensill Wed 11 Nov, e009 FTX Sat 14 Nov, e010 NR vs SVB Wed 18 Nov, e011 Thomas Cook Sat 21 Nov, e012 BHS Wed 25 Nov (Bulb/Quibi to backlog; e013+ still old Saturday dates).
-- BLOCKED: updating scheduled tasks was denied by the permission check. Pending Qazi OK: (1) production task trig_01QChYBvjSyKkYAhkTi9NFBK → prompt in strategy/prod-task-prompt-2026-10-26.txt; (2) weekly growth review trig_01UZmpFcVhTEpe3WETCoACrV is monthly ("41 9 1 * *") → should be Mondays "41 9 * * 1"; (3) monitor check "Saturday with no episode" → "Wednesday or Saturday".
+- 26 Oct 10:00 (Qazi approved): task changes SAVED and verified — production trig_01QChYBvjSyKkYAhkTi9NFBK (Wed+Sat 8–12 min, 4 Shorts, pre-scripted rule, no render before independent fact-check); growth review trig_01UZmpFcVhTEpe3WETCoACrV now Mondays 09:41 PKT (next 2 Nov), Analytics vs Earn blocks; monitor checks Wed+Sat episodes (Wed 28 Oct known gap).
+- 006 self-checked 26 Oct (6 fixes, see notes.factcheck_log); status still "scripted" → tonight's run (23:02 PKT) must run the independent fact-check before rendering.
 
 ## In progress
 - 004 rollout: all scheduled on YouTube except 004-g (auto-queued next).

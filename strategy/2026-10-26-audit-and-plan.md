@@ -96,9 +96,9 @@ Record views, likes, comments for every upload at ~48 h and ~7 days (public coun
 
 **Length:** 57 scenes, ~1,110 words ≈ 9 min.
 
-**Status / blocker:** scripted, not yet fact-checked or rendered. Spec: 006/006-first-brands.json. The production task (Mon/Thu 23:02 PKT) runs the independent fact-check, renders, uploads private and schedules via the API lane. Nothing is published or scheduled yet.
+**Status / blocker:** scripted and self-checked (6 fixes, 26 Oct); independent fact-check, render and scheduling still pending. Spec: 006/006-first-brands.json. The production task (Mon/Thu 23:02 PKT) runs the independent fact-check, renders, uploads private and schedules via the API lane. Nothing is published or scheduled yet.
 
-## Narration script (fact-check pending)
+## Narration script (self-checked 26 Oct; independent fact-check pending)
 
 
 **Cold open**
@@ -121,11 +121,11 @@ Record views, likes, comments for every upload at ~48 h and ~7 days (public coun
 - Chapter 1. Built on borrowed money.  
   _Visual: chapter — Built on borrowed money_
 - Patrick James founded the business in Ohio in 2013. It was then called Crowne Group.  
-  _Visual: timeline — Crowne Group founded in Ohio by Patrick James_ · _Source: Wikipedia: First Brands Group (pointer only, verify)_
-- It bought windscreen-wiper maker Trico, then about two dozen more parts makers, mostly with borrowed money. In 2020 it renamed itself First Brands Group.  
-  _Visual: timeline — Renamed First Brands Group after ~24 debt-funded acquisitions_ · _Source: Wikipedia: First Brands Group (pointer only, verify)_
+  _Visual: timeline — Crowne Group founded in Ohio by Patrick James_ · _Source: Truck Parts & Service, Mar 2026; AP, 29 Jan 2026_
+- It grew by buying parts makers, wiper brand Trico among them, mostly with borrowed money. In August 2020 the group renamed itself First Brands.  
+  _Visual: timeline — Trico Group renamed First Brands Group_ · _Source: CAT Magazine, 18 Aug 2020_
 - From the outside, it looked boring in a good way. Cars always need filters, wipers and brake pads.  
-  _Visual: document — A steady parts business_ · _Source: Filed Under Failure analysis_
+  _Visual: document — A steady parts business_ · _Source: AP, 29 Jan 2026_
 - But a business like that has a cash problem built in. And the way it solved that problem is the heart of this story.  
   _Visual: title — The cash gap_ · _Source: Filed Under Failure analysis_
 
@@ -150,7 +150,7 @@ Record views, likes, comments for every upload at ~48 h and ~7 days (public coun
   _Visual: chapter — One question too many_
 - By August 2025, First Brands had about five point six billion dollars of corporate debt on its balance sheet, and a refinancing deal in the works.  
   _Visual: stat — $5.6bn_ · _Source: OHA (T. Rowe Price), Oct 2025_
-- Investors asked for a deeper check, including a quality-of-earnings report. According to the investment firm OHA, that review exposed expensive, risky financing that hadn't been clear before.  
+- Investors asked for a deeper check, including a quality-of-earnings report. According to the investment firm OHA, that review uncovered increasingly risky and expensive financing.  
   _Visual: quote — increasingly risky and expensive working capital financing_ · _Source: OHA (T. Rowe Price), Oct 2025_
 - The deal collapsed. Within three weeks, the price of the company's main loan fell by nearly eighty-three per cent.  
   _Visual: stat — -83%_ · _Source: OHA (T. Rowe Price), Oct 2025_
@@ -165,7 +165,7 @@ Record views, likes, comments for every upload at ~48 h and ~7 days (public coun
 
 - Chapter 4. Up to two point three billion dollars.  
   _Visual: chapter — Up to $2.3 billion_
-- Ten days after the filing, Raistone, a finance platform that had arranged funding for First Brands, asked the court to appoint an independent examiner.  
+- Ten days after the filing, Raistone, a trade-finance firm and one of the company's creditors, asked the court to appoint an independent examiner.  
   _Visual: timeline — Raistone asks for an independent examiner_ · _Source: Vehicle Service Pros, 20 Oct 2025_
 - Its filing said up to two point three billion dollars in assets were unaccounted for.  
   _Visual: quote — up to $2.3 billion in assets unaccounted for_ · _Source: Vehicle Service Pros, 20 Oct 2025_
@@ -173,7 +173,7 @@ Record views, likes, comments for every upload at ~48 h and ~7 days (public coun
   _Visual: stat — $1.9bn_ · _Source: Vehicle Service Pros, 20 Oct 2025_
 - Asked how much was in the accounts meant to hold that money, a company lawyer answered: zero dollars.  
   _Visual: stat — $0_ · _Source: Vehicle Service Pros, 20 Oct 2025_
-- Big names were exposed. Jefferies said its own share of one affected fund was forty-three million dollars, and that nobody at the bank had known of any fraud.  
+- Big names were exposed. Jefferies said its own investment in one affected fund was forty-three million dollars, and that nobody at the bank had known of any fraud.  
   _Visual: quote — Nobody at Jefferies was aware of fraudulent activity at First Brands_ · _Source: Jefferies letter, Oct 2025_
 
 **The indictment**
@@ -186,9 +186,9 @@ Record views, likes, comments for every upload at ~48 h and ~7 days (public coun
   _Visual: quote — merely accusations, and the defendants are presumed innocent_ · _Source: US Attorney's Office SDNY, 29 Jan 2026_
 - Prosecutors allege that from at least 2018, the company used fake and inflated invoices to raise money from factors, including on bills that didn't exist.  
   _Visual: document — Fake and inflated invoices_ · _Source: US Attorney's Office SDNY, 29 Jan 2026_
-- One example in court filings: an invoice worth eight thousand nine hundred and seventy-six dollars was allegedly sold to one factor as seventeen thousand eight hundred dollars.  
+- One example in court filings: an invoice worth eight thousand nine hundred and seventy-six dollars was allegedly sold to one factor for almost eighteen thousand dollars.  
   _Visual: bars — One invoice, as alleged_ · _Source: Truck Parts & Service, Mar 2026_
-- Three days later, prosecutors say, the same invoice was sold to another factor as four hundred and sixty-three thousand dollars.  
+- Three days later, prosecutors say, the same invoice was sold to another factor for nearly four hundred and sixty-four thousand dollars.  
   _Visual: bars — Three days later, as alleged_ · _Source: Truck Parts & Service, Mar 2026_
 - They also allege the same collateral was pledged two or three times, so several lenders thought they had a claim on the same thing.  
   _Visual: stat — 2-3x_ · _Source: US Attorney's Office SDNY, 29 Jan 2026_
@@ -224,7 +224,7 @@ Record views, likes, comments for every upload at ~48 h and ~7 days (public coun
   _Visual: stat — 4,000+_ · _Source: Bloomberg via Claims Journal, 30 Jan 2026_
 - Other businesses were sold off. In August 2026, the bankruptcy judge rejected the rescue plan and converted the case into a Chapter 7 liquidation. In plain English: it's being sold in pieces.  
   _Visual: timeline — Case converted to Chapter 7 liquidation_ · _Source: The Brake Report, 26 Aug 2026_
-- That rejected plan relied on about two billion dollars of future lawsuit recoveries from former insiders, mostly by the end of 2028.  
+- That rejected plan relied on about two billion dollars of future lawsuit recoveries, including from former insiders, projected by the end of 2028.  
   _Visual: stat — ~$2bn_ · _Source: The Brake Report, 26 Aug 2026_
 
 **Our analysis**
@@ -255,8 +255,8 @@ Record views, likes, comments for every upload at ~48 h and ~7 days (public coun
 
 **b. One invoice, sold for $17,826 and then $463,735 – the First Brands allegation #Shorts**
 
-- Prosecutors say one invoice for eight thousand nine hundred and seventy-six dollars was sold to a finance firm as seventeen thousand eight hundred dollars.
-- Three days later, they say, the same invoice was sold to a second firm as four hundred and sixty-three thousand dollars.
+- Prosecutors say one invoice for eight thousand nine hundred and seventy-six dollars was sold to a finance firm for almost eighteen thousand dollars.
+- Three days later, they say, the same invoice was sold to a second firm for nearly four hundred and sixty-four thousand dollars.
 - Invoice finance only works if the bill is real and sold once. Each lender saw only its own copy.
 - This is an allegation in the First Brands case. Founder Patrick James and his brother deny the charges; their trial is set for February 2027.
 - The full story is on our channel.
@@ -266,7 +266,7 @@ Record views, likes, comments for every upload at ~48 h and ~7 days (public coun
 - After First Brands went bankrupt, a creditor told the court the company had collected about one point nine billion dollars on invoices other investors had already bought.
 - That money should have been passed on. So how much was in the accounts meant to hold it? A company lawyer answered: zero dollars.
 - The creditor, Raistone, said up to two point three billion dollars in assets were unaccounted for, and asked for an independent examiner.
-- Four months later, the founder and his brother were charged with fraud. They deny it.
+- About four months later, the founder and his brother were charged with fraud. They deny it.
 - The full story is on our channel.
 
 **d. Two brothers, one fraud case – and each blames the other #Shorts**
@@ -290,4 +290,5 @@ Record views, likes, comments for every upload at ~48 h and ~7 days (public coun
 9. OHA (T. Rowe Price), 'Looking under the hood: The First Brands bankruptcy' (Oct 2025): https://www.troweprice.com/en/us/ocredit/insights/looking-under-the-hood-the-first-brands-bankruptcy
 10. Vehicle Service Pros, 'First Brands Bankruptcy Sparks Investigation into $2.3 Billion Missing Assets' (20 Oct 2025): https://www.vehicleservicepros.com/aftermarket-business-world/news/news/55324288/first-brands-bankruptcy-sparks-investigation-into-23-billion-missing-assets
 11. Jefferies, letter regarding Point Bonita Capital and First Brands Group (Oct 2025): https://www.jefferies.com/about/leadership-letters/jefferies-provides-letter-from-its-ceo-and-president-regarding-point-bonita-capital-and-first-brands-group/
-12. Wikipedia, 'First Brands Group' (pointer only for 2013 founding as Crowne Group, Trico purchase, ~24 acquisitions, 2020 rename, Raybestos; fact-checker must confirm from primary/press): https://en.wikipedia.org/wiki/First_Brands_Group
+12. Wikipedia, 'First Brands Group' (pointer only; no claim now rests on it alone): https://en.wikipedia.org/wiki/First_Brands_Group
+13. CAT Magazine, 'Trico Group renames as First Brands Group' (18 Aug 2020): https://www.catmag.co.uk/news/trico-group-renames-as-first-brands-group/
