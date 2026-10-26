@@ -1,16 +1,4 @@
 {
- "generated": "2026-10-26T11:59:47.724114+05:00",
- "items": [
-  {
-   "id": "005-c-a0",
-   "row": "005-c",
-   "kind": "video",
-   "file": "005/005-patisserie-valerie-short-c.mp4",
-   "ctype": "video/mp4",
-   "size": 4280211,
-   "meta": "{\"snippet\": {\"title\": \"Who paid when Patisserie Valerie collapsed? 920 redundancies #Shorts\", \"description\": \"The first wave of Patisserie Valerie closures in administration, from the closure list.\\n\\nFull episode: \\\"Why Did Patisserie Valerie Collapse? The Secret Overdrafts\\\" on Filed Under Failure.\\nSources: Serious Fraud Office, case page 'Patisserie Holdings plc' (timeline to 9 Feb 2026); Serious Fraud Office, 'SFO charges four individuals behind Patisserie Valerie collapse' (13 Sep 2023); Financial Reporting Council, 'Sanctions against Grant Thornton UK LLP and David Newstead' (27 Sep 2021) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #PatisserieValerie #PatisserieValeriecollapse #accountingscandal\", \"tags\": [\"Patisserie Valerie\", \"Patisserie Valerie collapse\", \"accounting scandal\", \"Grant Thornton\", \"Serious Fraud Office\", \"UK business documentary\", \"audit failure\", \"what went wrong\"], \"categoryId\": \"27\", \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}, \"status\": {\"selfDeclaredMadeForKids\": false, \"containsSyntheticMedia\": false, \"privacyStatus\": \"private\", \"publishAt\": \"2026-11-02T16:00:00Z\"}}",
-   "path": "/../upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
-   "publishAt": "2026-11-02T16:00:00Z"
-  }
- ]
+ "generated": "2026-10-26T20:15:21.023901+05:00",
+ "items": []
 }
