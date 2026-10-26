@@ -1,0 +1,575 @@
+1
+00:00:00,150 --> 00:00:03,819
+A car-parts company selling five billion dollars a year
+
+2
+00:00:03,819 --> 00:00:07,421
+went bankrupt with twelve million dollars in the bank.
+
+3
+00:00:08,083 --> 00:00:10,792
+And more than nine billion dollars of debts.
+
+4
+00:00:11,383 --> 00:00:14,072
+You've probably used its products.
+
+5
+00:00:14,072 --> 00:00:15,417
+Fram oil filters.
+
+6
+00:00:15,417 --> 00:00:17,078
+Autolite spark plugs.
+
+7
+00:00:17,078 --> 00:00:18,423
+Raybestos brakes.
+
+8
+00:00:19,016 --> 00:00:22,157
+Prosecutors say the money was raised with
+
+9
+00:00:22,157 --> 00:00:25,528
+fake invoices and debts hidden from lenders.
+
+10
+00:00:25,528 --> 00:00:28,286
+The founder and his brother deny it.
+
+11
+00:00:28,286 --> 00:00:31,121
+Their trial is set for February 2027.
+
+12
+00:00:31,783 --> 00:00:33,480
+So where did the money go?
+
+13
+00:00:33,480 --> 00:00:37,201
+And how did some of the biggest names in finance miss it?
+
+14
+00:00:37,201 --> 00:00:39,420
+Keep that second question in mind.
+
+15
+00:00:40,283 --> 00:00:44,538
+We use the court record: the US Attorney's charges, bankruptcy
+
+16
+00:00:44,538 --> 00:00:49,068
+court filings, lenders' own statements, and reporting on the case.
+
+17
+00:00:49,068 --> 00:00:52,225
+Where something is only alleged, we'll say so.
+
+18
+00:00:52,883 --> 00:00:53,692
+Chapter 1.
+
+19
+00:00:53,692 --> 00:00:55,635
+Built on borrowed money.
+
+20
+00:00:56,283 --> 00:01:00,897
+Patrick James founded the business in Ohio in 2013.
+
+21
+00:01:00,897 --> 00:01:03,792
+It was then called Crowne Group.
+
+22
+00:01:04,383 --> 00:01:07,716
+It grew by buying parts makers, wiper brand
+
+23
+00:01:07,716 --> 00:01:11,205
+Trico among them, mostly with borrowed money.
+
+24
+00:01:11,205 --> 00:01:15,313
+In August 2020 the group renamed itself First Brands.
+
+25
+00:01:15,983 --> 00:01:19,593
+From the outside, it looked boring in a good way.
+
+26
+00:01:19,593 --> 00:01:23,129
+Cars always need filters, wipers and brake pads.
+
+27
+00:01:23,716 --> 00:01:27,118
+But a business like that has a cash problem built in.
+
+28
+00:01:27,118 --> 00:01:31,097
+And the way it solved that problem is the heart of this story.
+
+29
+00:01:31,683 --> 00:01:32,437
+Chapter 2.
+
+30
+00:01:32,437 --> 00:01:34,776
+Selling tomorrow's money today.
+
+31
+00:01:35,416 --> 00:01:40,737
+When a parts maker ships to a retailer, the retailer often pays months later.
+
+32
+00:01:40,737 --> 00:01:43,502
+That unpaid bill is called a receivable.
+
+33
+00:01:44,116 --> 00:01:48,101
+Instead of waiting, the company can sell the bill to a finance
+
+34
+00:01:48,101 --> 00:01:51,571
+firm, called a factor, for a bit less than it's worth.
+
+35
+00:01:51,571 --> 00:01:54,271
+The factor collects the full amount later.
+
+36
+00:01:54,950 --> 00:01:57,228
+This is legal and very common.
+
+37
+00:01:57,228 --> 00:02:03,227
+A related version, used to pay suppliers early, is called supply-chain finance.
+
+38
+00:02:03,816 --> 00:02:06,554
+It only works if two things are true.
+
+39
+00:02:06,554 --> 00:02:08,035
+The invoice is real.
+
+40
+00:02:08,035 --> 00:02:09,811
+And it's sold only once.
+
+41
+00:02:10,416 --> 00:02:12,328
+Hold on to those two rules.
+
+42
+00:02:12,328 --> 00:02:15,728
+Prosecutors say First Brands broke both of them.
+
+43
+00:02:16,383 --> 00:02:17,088
+Chapter 3.
+
+44
+00:02:17,088 --> 00:02:20,052
+The deal that asked one question too many.
+
+45
+00:02:20,716 --> 00:02:26,239
+By August 2025, First Brands had about five point six billion dollars of
+
+46
+00:02:26,239 --> 00:02:31,839
+corporate debt on its balance sheet, and a refinancing deal in the works.
+
+47
+00:02:32,516 --> 00:02:37,864
+Investors asked for a deeper check, including a quality-of-earnings report.
+
+48
+00:02:37,864 --> 00:02:40,860
+According to the investment firm OHA, that
+
+49
+00:02:40,860 --> 00:02:45,138
+review uncovered increasingly risky and expensive financing.
+
+50
+00:02:45,816 --> 00:02:47,075
+The deal collapsed.
+
+51
+00:02:47,075 --> 00:02:50,123
+Within three weeks, the price of the company's
+
+52
+00:02:50,123 --> 00:02:53,238
+main loan fell by nearly eighty-three per cent.
+
+53
+00:02:53,916 --> 00:02:57,304
+OHA said some of the off-balance-sheet financing
+
+54
+00:02:57,304 --> 00:03:00,480
+carried interest rates above thirty per cent.
+
+55
+00:03:01,150 --> 00:03:05,013
+On the twenty-eighth of September 2025, First
+
+56
+00:03:05,013 --> 00:03:08,189
+Brands filed for bankruptcy in Texas.
+
+57
+00:03:08,883 --> 00:03:13,590
+It reported about five billion dollars in annual sales, twelve million
+
+58
+00:03:13,590 --> 00:03:18,096
+dollars in cash, and more than nine billion dollars in liabilities.
+
+59
+00:03:18,750 --> 00:03:19,478
+Chapter 4.
+
+60
+00:03:19,478 --> 00:03:22,248
+Up to two point three billion dollars.
+
+61
+00:03:22,883 --> 00:03:27,525
+Ten days after the filing, Raistone, a trade-finance firm and one of
+
+62
+00:03:27,525 --> 00:03:32,713
+the company's creditors, asked the court to appoint an independent examiner.
+
+63
+00:03:33,383 --> 00:03:35,890
+Its filing said up to two point three
+
+64
+00:03:35,890 --> 00:03:39,075
+billion dollars in assets were unaccounted for.
+
+65
+00:03:39,750 --> 00:03:43,438
+It said that after the bankruptcy began, the company had
+
+66
+00:03:43,438 --> 00:03:47,587
+collected about one point nine billion dollars on invoices that
+
+67
+00:03:47,587 --> 00:03:50,946
+others had already bought, but hadn't passed it on.
+
+68
+00:03:51,683 --> 00:03:54,452
+Asked how much was in the accounts meant to
+
+69
+00:03:54,452 --> 00:03:58,124
+hold that money, a company lawyer answered: zero dollars.
+
+70
+00:03:58,124 --> 00:04:01,666
+Asked whether the company had actually received the one
+
+71
+00:04:01,666 --> 00:04:04,951
+point nine billion, its lawyer said: we don't know.
+
+72
+00:04:05,683 --> 00:04:07,246
+Big names were exposed.
+
+73
+00:04:07,246 --> 00:04:13,431
+Jefferies said its share of one affected fund's First Brands invoices was about forty-three
+
+74
+00:04:13,431 --> 00:04:18,052
+million dollars, and that nobody at the bank had known of any fraud.
+
+75
+00:04:18,716 --> 00:04:19,604
+Chapter 5.
+
+76
+00:04:19,604 --> 00:04:20,935
+The indictment.
+
+77
+00:04:21,583 --> 00:04:27,033
+On the twenty-ninth of January 2026, federal prosecutors in New York
+
+78
+00:04:27,033 --> 00:04:32,804
+charged Patrick James and his brother Edward, a former senior executive.
+
+79
+00:04:32,804 --> 00:04:35,689
+Both were arrested in Ohio that day.
+
+80
+00:04:36,383 --> 00:04:37,982
+These are accusations.
+
+81
+00:04:37,982 --> 00:04:41,908
+Both men pleaded not guilty and are presumed innocent.
+
+82
+00:04:42,516 --> 00:04:48,632
+Prosecutors allege that from at least 2018, the company used fake and inflated
+
+83
+00:04:48,632 --> 00:04:54,512
+invoices to raise money from factors, including on bills that didn't exist.
+
+84
+00:04:55,183 --> 00:04:58,747
+One example in court filings: an invoice worth eight
+
+85
+00:04:58,747 --> 00:05:03,134
+thousand nine hundred and seventy-six dollars was allegedly sold
+
+86
+00:05:03,134 --> 00:05:06,630
+to one factor for almost eighteen thousand dollars.
+
+87
+00:05:07,383 --> 00:05:11,644
+Three days later, prosecutors say, the same invoice was sold to
+
+88
+00:05:11,644 --> 00:05:16,446
+another factor for nearly four hundred and sixty-four thousand dollars.
+
+89
+00:05:17,116 --> 00:05:21,601
+They also allege the same collateral was pledged two or three times,
+
+90
+00:05:21,601 --> 00:05:25,690
+so several lenders thought they had a claim on the same thing.
+
+91
+00:05:26,350 --> 00:05:28,528
+Then there were the round trips.
+
+92
+00:05:28,528 --> 00:05:33,770
+Money that financers thought would pay suppliers was allegedly routed back to
+
+93
+00:05:33,770 --> 00:05:38,740
+First Brands, prosecutors say, to pay debt, rent and other running costs.
+
+94
+00:05:39,416 --> 00:05:43,704
+Internally, the release says, these were called corporate initiatives.
+
+95
+00:05:44,316 --> 00:05:49,227
+Prosecutors also allege that companies controlled by Patrick James took
+
+96
+00:05:49,227 --> 00:05:53,378
+on inventory loans that were hidden from the senior lenders.
+
+97
+00:05:54,050 --> 00:05:58,324
+In July 2025, prosecutors allege, a senior executive,
+
+98
+00:05:58,324 --> 00:06:02,518
+at Patrick James's direction, told lenders there was
+
+99
+00:06:02,518 --> 00:06:07,841
+no off-balance-sheet financing involving special-purpose entities.
+
+100
+00:06:07,841 --> 00:06:12,278
+Prosecutors put such debt at about two billion dollars.
+
+101
+00:06:13,050 --> 00:06:16,861
+Prosecutors say Patrick James received at least hundreds
+
+102
+00:06:16,861 --> 00:06:20,128
+of millions of dollars in his personal accounts.
+
+103
+00:06:20,128 --> 00:06:24,416
+His spokesperson called the company's spending claims baseless.
+
+104
+00:06:25,083 --> 00:06:25,873
+Chapter 6.
+
+105
+00:06:25,873 --> 00:06:27,771
+Brother against brother.
+
+106
+00:06:28,416 --> 00:06:32,873
+Two insiders have already pleaded guilty and agreed to
+
+107
+00:06:32,873 --> 00:06:38,155
+cooperate: executive Peter Andrew Brumbergs in January 2026, and
+
+108
+00:06:38,155 --> 00:06:42,694
+former chief financial officer Stephen Graham in March.
+
+109
+00:06:43,450 --> 00:06:47,425
+Graham had been finance chief since 2014.
+
+110
+00:06:47,425 --> 00:06:49,850
+He's expected to testify.
+
+111
+00:06:50,450 --> 00:06:54,831
+In September 2026, both brothers asked for separate trials.
+
+112
+00:06:54,831 --> 00:06:58,618
+Patrick's lawyers say Edward ran the alleged fraud.
+
+113
+00:06:58,618 --> 00:07:04,188
+Edward's lawyers say Patrick controlled the company and Edward didn't know.
+
+114
+00:07:04,783 --> 00:07:07,878
+A jury will decide, not this video.
+
+115
+00:07:07,878 --> 00:07:11,503
+The trial is scheduled for February 2027.
+
+116
+00:07:12,116 --> 00:07:13,194
+Chapter 7.
+
+117
+00:07:13,194 --> 00:07:14,164
+Who paid.
+
+118
+00:07:14,816 --> 00:07:18,264
+In January 2026, the company began winding
+
+119
+00:07:18,264 --> 00:07:21,793
+down Autolite, Brake Parts Inc and Cardone.
+
+120
+00:07:21,793 --> 00:07:27,129
+Reuters reported those units employed about four thousand people.
+
+121
+00:07:27,816 --> 00:07:30,229
+Other businesses were sold off.
+
+122
+00:07:30,229 --> 00:07:35,366
+In late August 2026, the bankruptcy judge rejected the rescue plan
+
+123
+00:07:35,366 --> 00:07:40,036
+and ordered the case converted into a Chapter 7 liquidation.
+
+124
+00:07:40,036 --> 00:07:43,461
+In plain English: it's being sold in pieces.
+
+125
+00:07:44,149 --> 00:07:49,999
+That rejected plan relied on about two billion dollars of future lawsuit
+
+126
+00:07:49,999 --> 00:07:55,930
+recoveries, including from former insiders, projected by the end of 2028.
+
+127
+00:07:56,616 --> 00:07:57,896
+Our analysis.
+
+128
+00:07:58,549 --> 00:07:59,332
+Lesson one.
+
+129
+00:07:59,332 --> 00:08:01,038
+Compare cash with sales.
+
+130
+00:08:01,038 --> 00:08:04,665
+Five billion dollars of sales and twelve million in
+
+131
+00:08:04,665 --> 00:08:08,292
+the bank means a company living invoice to invoice.
+
+132
+00:08:08,949 --> 00:08:09,643
+Lesson two.
+
+133
+00:08:09,643 --> 00:08:11,724
+Debt you can't see is still debt.
+
+134
+00:08:11,724 --> 00:08:15,949
+Off-balance-sheet financing doesn't appear in the headline numbers.
+
+135
+00:08:15,949 --> 00:08:18,912
+That's exactly why lenders should ask about it.
+
+136
+00:08:19,516 --> 00:08:20,400
+Lesson three.
+
+137
+00:08:20,400 --> 00:08:25,363
+When every lender sees only its own slice, nobody sees the whole picture.
+
+138
+00:08:25,363 --> 00:08:28,626
+In our view, no single factor had an easy way to
+
+139
+00:08:28,626 --> 00:08:32,910
+check whether an invoice had already been sold to someone else.
+
+140
+00:08:33,583 --> 00:08:36,364
+Hidden debt is a pattern on this channel.
+
+141
+00:08:36,364 --> 00:08:41,588
+Patisserie Valerie's chairman said he hadn't known about two bank overdrafts.
+
+142
+00:08:41,588 --> 00:08:43,759
+That case file is on screen now.
+
+143
+00:08:44,349 --> 00:08:47,361
+The First Brands trial is set for February.
+
+144
+00:08:47,361 --> 00:08:51,283
+Subscribe if you want the follow-up when a jury decides.
