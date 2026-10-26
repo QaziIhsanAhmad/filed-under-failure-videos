@@ -1,0 +1,1076 @@
+{
+ "slug": "006-first-brands",
+ "title": "First Brands: $5 Billion in Sales, $12 Million in Cash",
+ "voice": "bm_george",
+ "speed": 0.95,
+ "summary": "First Brands collapse explained from court and bankruptcy records.\n\nThe owner of Fram, Autolite and Raybestos sold about $5 billion of car parts a year. In September 2025 it filed for bankruptcy with $12 million in cash and more than $9 billion in liabilities. Using the US Attorney's charges, bankruptcy filings and lenders' own statements, we explain how invoice finance works, what prosecutors allege happened, what is still disputed, and who paid. Patrick and Edward James deny the charges and are presumed innocent; their trial is scheduled for February 2027.",
+ "thumb": [
+  "$12M",
+  "IN THE BANK",
+  "$9B DEBT",
+  "FIRST BRANDS"
+ ],
+ "tags": [
+  "First Brands",
+  "First Brands bankruptcy",
+  "First Brands fraud",
+  "Patrick James",
+  "invoice factoring",
+  "off-balance-sheet debt",
+  "business documentary",
+  "what went wrong"
+ ],
+ "sources": [
+  "US Attorney's Office SDNY, 'First Brands Executives Charged In Multibillion-Dollar Fraud' (29 Jan 2026): https://www.justice.gov/usao-sdny/pr/first-brands-executives-charged-multibillion-dollar-fraud",
+  "Associated Press (via WTOP), 'Former First Brands CEO Patrick James and his brother are indicted' (29 Jan 2026): https://wtop.com/national/2026/01/former-first-brands-ceo-patrick-james-and-his-brother-are-indicted-for-bilking-billions-from-banks/",
+  "Bloomberg via Claims Journal, 'Founder of Auto Parts Maker Charged With Fraud That Wiped Out Billions' (30 Jan 2026): https://www.claimsjournal.com/news/national/2026/01/30/335391.htm",
+  "Truck Parts & Service, 'Prosecutors reveal details of multibillion dollar fraud at First Brands' (Mar 2026): https://www.truckpartsandservice.com/business/finance/article/15820570/prosecutors-reveal-details-of-multibillion-dollar-fraud-at-first-brands",
+  "Transport Topics, 'Ex-First Brands CFO Pleads Guilty in Fraud Case' (6 Mar 2026): https://www.ttnews.com/articles/first-brands-cfo-pleads-guilty",
+  "Truck Parts & Service, 'Judge modifies release conditions for former First Brands executives' (25 Jun 2026): https://www.truckpartsandservice.com/business/finance/article/15828455/judge-modifies-release-conditions-for-former-first-brands-executives",
+  "Transport Topics, 'James brothers trade blame in First Brands case' (8 Oct 2026): https://www.ttnews.com/articles/james-brothers-blame-first-brands",
+  "The Brake Report, 'First Brands Converted to Chapter 7 Liquidation' (26 Aug 2026): https://thebrakereport.com/first-brands-chapter-7-liquidation-conversion/",
+  "OHA (T. Rowe Price), 'Looking under the hood: The First Brands bankruptcy' (Oct 2025): https://www.troweprice.com/en/us/ocredit/insights/looking-under-the-hood-the-first-brands-bankruptcy",
+  "Vehicle Service Pros, 'First Brands Bankruptcy Sparks Investigation into $2.3 Billion Missing Assets' (20 Oct 2025): https://www.vehicleservicepros.com/aftermarket-business-world/news/news/55324288/first-brands-bankruptcy-sparks-investigation-into-23-billion-missing-assets",
+  "Jefferies, letter regarding Point Bonita Capital and First Brands Group (Oct 2025): https://www.jefferies.com/about/leadership-letters/jefferies-provides-letter-from-its-ceo-and-president-regarding-point-bonita-capital-and-first-brands-group/",
+  "Wikipedia, 'First Brands Group' (pointer only for 2013 founding as Crowne Group, Trico purchase, ~24 acquisitions, 2020 rename, Raybestos; fact-checker must confirm from primary/press): https://en.wikipedia.org/wiki/First_Brands_Group"
+ ],
+ "notes": {
+  "status": "scripted 26 Oct 2026 (interactive session). Production run: skip research/script; run the independent fact-check (step 5), fix, then build.",
+  "alt_titles": [
+   "Where Did First Brands' Money Go? The Car-Parts Collapse",
+   "The Fram and Autolite Owner That Went Bust Owing $9 Billion"
+  ],
+  "thumbnails": {
+   "A": "'$12M CASH' huge in red over '$9B DEBT' in white; generic spark plug/oil filter product photo (Pexels/Pixabay licence, no brand logos) cracked down the middle; dark background.",
+   "B": "'SOLD TWICE?' over a code-drawn invoice stamped twice in red; question mark keeps it an allegation."
+  },
+  "experiment": "Title pattern test vs channel default (\"Why Did X Collapse?\" episodes got 2-29 views): number-contrast title. Topic test: US/global story vs UK stories. Format held constant otherwise.",
+  "demand_check": "26 Oct 2026: no measured YouTube search data this run. Signals: fresh court news (8 Oct 2026 severance filings, Aug 2026 Chapter 7, Feb 2027 trial) and US audience. Run research.yml before the next topic swap.",
+  "legal": "Charges are allegations; both defendants pleaded not guilty and are presumed innocent. Only Brumbergs and Graham have pleaded guilty. Spending items come from the company's civil suit and are disputed; named generically. Jefferies is quoted saying it had no knowledge of fraud. No one is called a fraudster.",
+  "end_screen": "Patisserie Valerie (005) — hidden overdrafts; then playlist pl-006.",
+  "visual_upgrade": "Add 3-5 licensed real images (Wikimedia Commons or Pexels/Pixabay: car-parts aisle, Manhattan federal courthouse exterior, Cleveland skyline) to vary the text-card format; credit in description."
+ },
+ "altered": {
+  "disclose": false,
+  "reason": "Generic synthetic narrator (Kokoro bm_george) not imitating any real person; quotes attributed by the narrator and shown as on-screen text; original code-generated charts, text graphics and music; no realistic synthetic imagery or altered real footage."
+ },
+ "scenes": [
+  {
+   "say": "A car-parts company selling five billion dollars a year went bankrupt with twelve million dollars in the bank.",
+   "visual": {
+    "type": "stat",
+    "value": "$12m",
+    "label": "cash at bankruptcy, Sept 2025",
+    "red": true,
+    "src": "US Attorney's Office SDNY, 29 Jan 2026"
+   },
+   "src": "US Attorney's Office SDNY, 29 Jan 2026",
+   "chapter": "Cold open"
+  },
+  {
+   "say": "And more than nine billion dollars of debts.",
+   "visual": {
+    "type": "bars",
+    "title": "At the bankruptcy filing",
+    "items": [
+     [
+      "Annual sales",
+      5000,
+      "~$5bn"
+     ],
+     [
+      "Liabilities",
+      9000,
+      "$9bn+"
+     ],
+     [
+      "Cash",
+      12,
+      "$12m"
+     ]
+    ],
+    "hi": 2,
+    "src": "US Attorney's Office SDNY, 29 Jan 2026"
+   },
+   "src": "US Attorney's Office SDNY, 29 Jan 2026"
+  },
+  {
+   "say": "You've probably used its products. Fram oil filters. Autolite spark plugs. Raybestos brakes.",
+   "visual": {
+    "type": "list",
+    "title": "Brands it owned",
+    "items": [
+     "Fram filters",
+     "Autolite spark plugs",
+     "Raybestos brakes",
+     "Trico wipers"
+    ],
+    "src": "Associated Press, 29 Jan 2026"
+   },
+   "src": "Associated Press, 29 Jan 2026"
+  },
+  {
+   "say": "Prosecutors say the money was raised with fake invoices and debts hidden from lenders. The founder and his brother deny it. Their trial is set for February 2027.",
+   "visual": {
+    "type": "timeline",
+    "date": "Feb 2027",
+    "text": "Criminal trial scheduled, New York",
+    "red": true,
+    "src": "Transport Topics, 8 Oct 2026"
+   },
+   "src": "Transport Topics, 8 Oct 2026"
+  },
+  {
+   "say": "So where did the money go? And how did some of the biggest names in finance miss it? Keep that second question in mind.",
+   "visual": {
+    "type": "title",
+    "text": "Where did First Brands’ money go?",
+    "kicker": "Case file 006"
+   },
+   "pause": 0.7
+  },
+  {
+   "say": "We use the court record: the US Attorney's charges, bankruptcy court filings, lenders' own statements, and reporting on the case. Where something is only alleged, we'll say so.",
+   "visual": {
+    "type": "list",
+    "title": "The paperwork",
+    "items": [
+     "US Attorney (New York) indictment announcement, Jan 2026",
+     "Bankruptcy court filings, Texas, 2025 to 2026",
+     "Statements by lenders and creditors",
+     "Trade and business press on the case"
+    ]
+   }
+  },
+  {
+   "say": "Chapter 1. Built on borrowed money.",
+   "visual": {
+    "type": "chapter",
+    "n": 1,
+    "text": "Built on borrowed money"
+   },
+   "chapter": "Built on borrowed money",
+   "pause": 0.5
+  },
+  {
+   "say": "Patrick James founded the business in Ohio in 2013. It was then called Crowne Group.",
+   "visual": {
+    "type": "timeline",
+    "date": "2013",
+    "text": "Crowne Group founded in Ohio by Patrick James",
+    "src": "Wikipedia: First Brands Group (pointer only, verify)"
+   },
+   "src": "Wikipedia: First Brands Group (pointer only, verify)"
+  },
+  {
+   "say": "It bought windscreen-wiper maker Trico, then about two dozen more parts makers, mostly with borrowed money. In 2020 it renamed itself First Brands Group.",
+   "visual": {
+    "type": "timeline",
+    "date": "2020",
+    "text": "Renamed First Brands Group after ~24 debt-funded acquisitions",
+    "src": "Wikipedia: First Brands Group (pointer only, verify)"
+   },
+   "src": "Wikipedia: First Brands Group (pointer only, verify)"
+  },
+  {
+   "say": "From the outside, it looked boring in a good way. Cars always need filters, wipers and brake pads.",
+   "visual": {
+    "type": "document",
+    "header": "How it looked",
+    "title": "A steady parts business",
+    "lines": [
+     "Products people replace every year",
+     "Sold through big retail chains",
+     "!Growth funded by debt"
+    ],
+    "src": "Filed Under Failure analysis"
+   },
+   "src": "Filed Under Failure analysis"
+  },
+  {
+   "say": "But a business like that has a cash problem built in. And the way it solved that problem is the heart of this story.",
+   "visual": {
+    "type": "title",
+    "text": "The cash gap",
+    "kicker": "Chapter 1",
+    "src": "Filed Under Failure analysis"
+   },
+   "src": "Filed Under Failure analysis"
+  },
+  {
+   "say": "Chapter 2. Selling tomorrow's money today.",
+   "visual": {
+    "type": "chapter",
+    "n": 2,
+    "text": "Selling tomorrow's money today"
+   },
+   "chapter": "Selling tomorrow's money today",
+   "pause": 0.5
+  },
+  {
+   "say": "When a parts maker ships to a retailer, the retailer often pays months later. That unpaid bill is called a receivable.",
+   "visual": {
+    "type": "document",
+    "header": "Invoice",
+    "title": "Receivable",
+    "lines": [
+     "Parts shipped today",
+     "Payment due in 90+ days",
+     "!Cash tied up meanwhile"
+    ],
+    "src": "Filed Under Failure analysis"
+   },
+   "src": "Filed Under Failure analysis"
+  },
+  {
+   "say": "Instead of waiting, the company can sell the bill to a finance firm, called a factor, for a bit less than it's worth. The factor collects the full amount later.",
+   "visual": {
+    "type": "list",
+    "title": "How factoring works",
+    "items": [
+     "1. Company sells the unpaid invoice",
+     "2. Factor pays most of it now",
+     "3. Customer pays the factor later"
+    ],
+    "src": "Filed Under Failure analysis"
+   },
+   "src": "Filed Under Failure analysis"
+  },
+  {
+   "say": "This is legal and very common. A related version, used to pay suppliers early, is called supply-chain finance.",
+   "visual": {
+    "type": "quote",
+    "text": "Factoring and supply-chain finance are normal, legal tools",
+    "by": "Filed Under Failure",
+    "src": "Filed Under Failure analysis"
+   },
+   "src": "Filed Under Failure analysis"
+  },
+  {
+   "say": "It only works if two things are true. The invoice is real. And it's sold only once.",
+   "visual": {
+    "type": "stats",
+    "title": "Factoring only works if",
+    "items": [
+     [
+      "1",
+      "the invoice is real"
+     ],
+     [
+      "1x",
+      "it is sold only once"
+     ]
+    ],
+    "hi": 1,
+    "src": "Filed Under Failure analysis"
+   },
+   "src": "Filed Under Failure analysis"
+  },
+  {
+   "say": "Hold on to those two rules. Prosecutors say First Brands broke both of them.",
+   "visual": {
+    "type": "title",
+    "text": "Two rules",
+    "kicker": "Remember these"
+   },
+   "pause": 0.5
+  },
+  {
+   "say": "Chapter 3. The deal that asked one question too many.",
+   "visual": {
+    "type": "chapter",
+    "n": 3,
+    "text": "One question too many"
+   },
+   "chapter": "One question too many",
+   "pause": 0.5
+  },
+  {
+   "say": "By August 2025, First Brands had about five point six billion dollars of corporate debt on its balance sheet, and a refinancing deal in the works.",
+   "visual": {
+    "type": "stat",
+    "value": "$5.6bn",
+    "label": "corporate debt, Aug 2025 balance sheet",
+    "src": "OHA (T. Rowe Price), Oct 2025"
+   },
+   "src": "OHA (T. Rowe Price), Oct 2025"
+  },
+  {
+   "say": "Investors asked for a deeper check, including a quality-of-earnings report. According to the investment firm OHA, that review exposed expensive, risky financing that hadn't been clear before.",
+   "visual": {
+    "type": "quote",
+    "text": "increasingly risky and expensive working capital financing",
+    "by": "OHA, on what the diligence found",
+    "src": "OHA (T. Rowe Price), Oct 2025"
+   },
+   "src": "OHA (T. Rowe Price), Oct 2025"
+  },
+  {
+   "say": "The deal collapsed. Within three weeks, the price of the company's main loan fell by nearly eighty-three per cent.",
+   "visual": {
+    "type": "stat",
+    "value": "-83%",
+    "label": "fall in first-lien term loan price, within three weeks",
+    "red": true,
+    "src": "OHA (T. Rowe Price), Oct 2025"
+   },
+   "src": "OHA (T. Rowe Price), Oct 2025"
+  },
+  {
+   "say": "OHA said some of the off-balance-sheet financing carried interest rates above thirty per cent.",
+   "visual": {
+    "type": "stat",
+    "value": "30%+",
+    "label": "interest on some off-balance-sheet financing",
+    "red": true,
+    "src": "OHA (T. Rowe Price), Oct 2025"
+   },
+   "src": "OHA (T. Rowe Price), Oct 2025"
+  },
+  {
+   "say": "On the twenty-eighth of September 2025, First Brands filed for bankruptcy in Texas.",
+   "visual": {
+    "type": "timeline",
+    "date": "28 Sep 2025",
+    "text": "Chapter 11 filing, Southern District of Texas",
+    "red": true,
+    "src": "US Attorney's Office SDNY, 29 Jan 2026"
+   },
+   "src": "US Attorney's Office SDNY, 29 Jan 2026"
+  },
+  {
+   "say": "It reported about five billion dollars in annual sales, twelve million dollars in cash, and more than nine billion dollars in liabilities.",
+   "visual": {
+    "type": "stats",
+    "title": "At the filing",
+    "items": [
+     [
+      "~$5bn",
+      "annual net sales"
+     ],
+     [
+      "$12m",
+      "cash"
+     ],
+     [
+      "$9bn+",
+      "liabilities"
+     ]
+    ],
+    "hi": 1,
+    "src": "US Attorney's Office SDNY, 29 Jan 2026"
+   },
+   "src": "US Attorney's Office SDNY, 29 Jan 2026"
+  },
+  {
+   "say": "Chapter 4. Up to two point three billion dollars.",
+   "visual": {
+    "type": "chapter",
+    "n": 4,
+    "text": "Up to $2.3 billion"
+   },
+   "chapter": "Up to $2.3 billion",
+   "pause": 0.5
+  },
+  {
+   "say": "Ten days after the filing, Raistone, a finance platform that had arranged funding for First Brands, asked the court to appoint an independent examiner.",
+   "visual": {
+    "type": "timeline",
+    "date": "8 Oct 2025",
+    "text": "Raistone asks for an independent examiner",
+    "src": "Vehicle Service Pros, 20 Oct 2025"
+   },
+   "src": "Vehicle Service Pros, 20 Oct 2025"
+  },
+  {
+   "say": "Its filing said up to two point three billion dollars in assets were unaccounted for.",
+   "visual": {
+    "type": "quote",
+    "text": "up to $2.3 billion in assets unaccounted for",
+    "by": "Raistone court filing, Oct 2025",
+    "src": "Vehicle Service Pros, 20 Oct 2025"
+   },
+   "src": "Vehicle Service Pros, 20 Oct 2025"
+  },
+  {
+   "say": "It said that after the bankruptcy began, the company had collected about one point nine billion dollars on invoices that others had already bought, but hadn't passed it on.",
+   "visual": {
+    "type": "stat",
+    "value": "$1.9bn",
+    "label": "factored receivables collected, per Raistone",
+    "red": true,
+    "src": "Vehicle Service Pros, 20 Oct 2025"
+   },
+   "src": "Vehicle Service Pros, 20 Oct 2025"
+  },
+  {
+   "say": "Asked how much was in the accounts meant to hold that money, a company lawyer answered: zero dollars.",
+   "visual": {
+    "type": "stat",
+    "value": "$0",
+    "label": "in the segregated accounts, per a company lawyer",
+    "red": true,
+    "src": "Vehicle Service Pros, 20 Oct 2025"
+   },
+   "src": "Vehicle Service Pros, 20 Oct 2025"
+  },
+  {
+   "say": "Big names were exposed. Jefferies said its own share of one affected fund was forty-three million dollars, and that nobody at the bank had known of any fraud.",
+   "visual": {
+    "type": "quote",
+    "text": "Nobody at Jefferies was aware of fraudulent activity at First Brands",
+    "by": "Jefferies letter, Oct 2025",
+    "src": "Jefferies letter, Oct 2025"
+   },
+   "src": "Jefferies letter, Oct 2025"
+  },
+  {
+   "say": "Chapter 5. The indictment.",
+   "visual": {
+    "type": "chapter",
+    "n": 5,
+    "text": "The indictment"
+   },
+   "chapter": "The indictment",
+   "pause": 0.5
+  },
+  {
+   "say": "On the twenty-ninth of January 2026, federal prosecutors in New York charged Patrick James and his brother Edward, a former senior executive. Both were arrested in Ohio that day.",
+   "visual": {
+    "type": "timeline",
+    "date": "29 Jan 2026",
+    "text": "Patrick and Edward James charged and arrested",
+    "red": true,
+    "src": "US Attorney's Office SDNY, 29 Jan 2026"
+   },
+   "src": "US Attorney's Office SDNY, 29 Jan 2026"
+  },
+  {
+   "say": "These are accusations. Both men pleaded not guilty and are presumed innocent.",
+   "visual": {
+    "type": "quote",
+    "text": "merely accusations, and the defendants are presumed innocent",
+    "by": "US Attorney's Office, SDNY",
+    "src": "US Attorney's Office SDNY, 29 Jan 2026"
+   },
+   "src": "US Attorney's Office SDNY, 29 Jan 2026"
+  },
+  {
+   "say": "Prosecutors allege that from at least 2018, the company used fake and inflated invoices to raise money from factors, including on bills that didn't exist.",
+   "visual": {
+    "type": "document",
+    "header": "Alleged",
+    "title": "Fake and inflated invoices",
+    "lines": [
+     "From at least 2018 to 2025",
+     "Sold to invoice-finance firms",
+     "!Some receivables allegedly did not exist"
+    ],
+    "src": "US Attorney's Office SDNY, 29 Jan 2026"
+   },
+   "src": "US Attorney's Office SDNY, 29 Jan 2026"
+  },
+  {
+   "say": "One example in court filings: an invoice worth eight thousand nine hundred and seventy-six dollars was allegedly sold to one factor as seventeen thousand eight hundred dollars.",
+   "visual": {
+    "type": "bars",
+    "title": "One invoice, as alleged",
+    "items": [
+     [
+      "Real invoice",
+      8976,
+      "$8,976"
+     ],
+     [
+      "Sold to factor 1",
+      17826,
+      "$17,826"
+     ]
+    ],
+    "hi": 1,
+    "src": "Truck Parts & Service, Mar 2026"
+   },
+   "src": "Truck Parts & Service, Mar 2026"
+  },
+  {
+   "say": "Three days later, prosecutors say, the same invoice was sold to another factor as four hundred and sixty-three thousand dollars.",
+   "visual": {
+    "type": "bars",
+    "title": "Three days later, as alleged",
+    "items": [
+     [
+      "Real invoice",
+      8976,
+      "$8,976"
+     ],
+     [
+      "Sold to factor 1",
+      17826,
+      "$17,826"
+     ],
+     [
+      "Sold to factor 2",
+      463735,
+      "$463,735"
+     ]
+    ],
+    "hi": 2,
+    "src": "Truck Parts & Service, Mar 2026"
+   },
+   "src": "Truck Parts & Service, Mar 2026"
+  },
+  {
+   "say": "They also allege the same collateral was pledged two or three times, so several lenders thought they had a claim on the same thing.",
+   "visual": {
+    "type": "stat",
+    "value": "2-3x",
+    "label": "times collateral was pledged, as alleged",
+    "red": true,
+    "src": "US Attorney's Office SDNY, 29 Jan 2026"
+   },
+   "src": "US Attorney's Office SDNY, 29 Jan 2026"
+  },
+  {
+   "say": "Then there were the round trips. Money that financers thought would pay suppliers was allegedly routed back to First Brands, to cover interest, rent and running costs.",
+   "visual": {
+    "type": "list",
+    "title": "Alleged 'round trips'",
+    "items": [
+     "Financer pays a bill-processing intermediary",
+     "Expects it to reach suppliers",
+     "!Allegedly routed back to First Brands"
+    ],
+    "src": "US Attorney's Office SDNY, 29 Jan 2026"
+   },
+   "src": "US Attorney's Office SDNY, 29 Jan 2026"
+  },
+  {
+   "say": "Internally, the release says, these were called corporate initiatives.",
+   "visual": {
+    "type": "quote",
+    "text": "corporate initiatives",
+    "by": "internal name, per the US Attorney",
+    "src": "US Attorney's Office SDNY, 29 Jan 2026"
+   },
+   "src": "US Attorney's Office SDNY, 29 Jan 2026"
+  },
+  {
+   "say": "Prosecutors also allege that companies controlled by Patrick James took on inventory loans that were hidden from the senior lenders.",
+   "visual": {
+    "type": "document",
+    "header": "Alleged",
+    "title": "Hidden inventory financing",
+    "lines": [
+     "Entities controlled by Patrick James",
+     "Borrowed against company inventory",
+     "!Not disclosed to senior lenders"
+    ],
+    "src": "US Attorney's Office SDNY, 29 Jan 2026"
+   },
+   "src": "US Attorney's Office SDNY, 29 Jan 2026"
+  },
+  {
+   "say": "In July 2025, according to the indictment as reported, a senior executive told a lender there was no off-balance-sheet financing. Prosecutors put it at about two billion dollars.",
+   "visual": {
+    "type": "bars",
+    "title": "Off-balance-sheet financing, July 2025",
+    "items": [
+     [
+      "Told to a lender",
+      0,
+      "none"
+     ],
+     [
+      "Alleged by prosecutors",
+      2000,
+      "~$2bn"
+     ]
+    ],
+    "hi": 1,
+    "src": "Truck Parts & Service, Mar 2026"
+   },
+   "src": "Truck Parts & Service, Mar 2026"
+  },
+  {
+   "say": "Prosecutors say Patrick James received at least hundreds of millions of dollars in his personal accounts. His lawyers dispute the spending claims made against him.",
+   "visual": {
+    "type": "document",
+    "header": "Contested",
+    "title": "Where the money went",
+    "lines": [
+     "Alleged: hundreds of millions to personal accounts",
+     "Company civil suit lists rent, a chef, a trainer",
+     "!Patrick James disputes these claims"
+    ],
+    "src": "US Attorney's Office SDNY, 29 Jan 2026"
+   },
+   "src": "US Attorney's Office SDNY, 29 Jan 2026"
+  },
+  {
+   "say": "Chapter 6. Brother against brother.",
+   "visual": {
+    "type": "chapter",
+    "n": 6,
+    "text": "Brother against brother"
+   },
+   "chapter": "Brother against brother",
+   "pause": 0.5
+  },
+  {
+   "say": "Two insiders have already pleaded guilty and agreed to cooperate: executive Peter Andrew Brumbergs in January 2026, and former chief financial officer Stephen Graham in March.",
+   "visual": {
+    "type": "stats",
+    "title": "Guilty pleas, cooperating",
+    "items": [
+     [
+      "Jan 2026",
+      "Peter Andrew Brumbergs"
+     ],
+     [
+      "Mar 2026",
+      "Stephen Graham, ex-CFO"
+     ]
+    ],
+    "hi": 1,
+    "src": "Transport Topics, 6 Mar 2026"
+   },
+   "src": "Transport Topics, 6 Mar 2026"
+  },
+  {
+   "say": "Graham had been finance chief since 2014. He's expected to testify.",
+   "visual": {
+    "type": "timeline",
+    "date": "2 Mar 2026",
+    "text": "Ex-CFO pleads guilty, cooperation agreement",
+    "src": "Transport Topics, 6 Mar 2026"
+   },
+   "src": "Transport Topics, 6 Mar 2026"
+  },
+  {
+   "say": "In September 2026, both brothers asked for separate trials. Patrick's lawyers say Edward ran the alleged fraud. Edward's lawyers say Patrick controlled the company and Edward didn't know.",
+   "visual": {
+    "type": "list",
+    "title": "Each blames the other",
+    "items": [
+     "Patrick's lawyers: Edward ran it",
+     "Edward's lawyers: Patrick controlled it",
+     "Both ask for separate juries"
+    ],
+    "src": "Transport Topics, 8 Oct 2026"
+   },
+   "src": "Transport Topics, 8 Oct 2026"
+  },
+  {
+   "say": "A jury will decide, not this video. The trial is scheduled for February 2027.",
+   "visual": {
+    "type": "timeline",
+    "date": "Feb 2027",
+    "text": "Trial scheduled, Judge Analisa Torres, Manhattan",
+    "src": "Transport Topics, 8 Oct 2026"
+   },
+   "src": "Transport Topics, 8 Oct 2026"
+  },
+  {
+   "say": "Chapter 7. Who paid.",
+   "visual": {
+    "type": "chapter",
+    "n": 7,
+    "text": "Who paid"
+   },
+   "chapter": "Who paid",
+   "pause": 0.5
+  },
+  {
+   "say": "In January 2026, the company began winding down Autolite, Brake Parts Inc and Cardone. Bloomberg reported at least four thousand jobs already lost in North America.",
+   "visual": {
+    "type": "stat",
+    "value": "4,000+",
+    "label": "North American jobs lost, Bloomberg, Jan 2026",
+    "red": true,
+    "src": "Bloomberg via Claims Journal, 30 Jan 2026"
+   },
+   "src": "Bloomberg via Claims Journal, 30 Jan 2026"
+  },
+  {
+   "say": "Other businesses were sold off. In August 2026, the bankruptcy judge rejected the rescue plan and converted the case into a Chapter 7 liquidation. In plain English: it's being sold in pieces.",
+   "visual": {
+    "type": "timeline",
+    "date": "24 Aug 2026",
+    "text": "Case converted to Chapter 7 liquidation",
+    "red": true,
+    "src": "The Brake Report, 26 Aug 2026"
+   },
+   "src": "The Brake Report, 26 Aug 2026"
+  },
+  {
+   "say": "That rejected plan relied on about two billion dollars of future lawsuit recoveries from former insiders, mostly by the end of 2028.",
+   "visual": {
+    "type": "stat",
+    "value": "~$2bn",
+    "label": "projected clawbacks in the rejected plan, by end-2028",
+    "src": "The Brake Report, 26 Aug 2026"
+   },
+   "src": "The Brake Report, 26 Aug 2026"
+  },
+  {
+   "say": "Our analysis.",
+   "visual": {
+    "type": "chapter",
+    "n": 8,
+    "text": "Our analysis"
+   },
+   "chapter": "Our analysis",
+   "pause": 0.5
+  },
+  {
+   "say": "Lesson one. Compare cash with sales. Five billion dollars of sales and twelve million in the bank means a company living invoice to invoice.",
+   "visual": {
+    "type": "bars",
+    "title": "Lesson 1: cash vs sales",
+    "items": [
+     [
+      "Annual sales",
+      5000,
+      "~$5bn"
+     ],
+     [
+      "Cash",
+      12,
+      "$12m"
+     ]
+    ],
+    "hi": 1,
+    "src": "Filed Under Failure analysis"
+   },
+   "src": "Filed Under Failure analysis"
+  },
+  {
+   "say": "Lesson two. Debt you can't see is still debt. Off-balance-sheet financing doesn't appear in the headline numbers. That's exactly why lenders should ask about it.",
+   "visual": {
+    "type": "quote",
+    "text": "Debt you can't see is still debt",
+    "by": "Filed Under Failure",
+    "src": "Filed Under Failure analysis"
+   },
+   "src": "Filed Under Failure analysis"
+  },
+  {
+   "say": "Lesson three. When every lender sees only its own slice, nobody sees the whole picture. No single factor could check whether an invoice had already been sold to someone else.",
+   "visual": {
+    "type": "list",
+    "title": "Lesson 3",
+    "items": [
+     "Many lenders",
+     "Each saw its own invoices",
+     "!Nobody checked the whole set"
+    ],
+    "src": "Filed Under Failure analysis"
+   },
+   "src": "Filed Under Failure analysis"
+  },
+  {
+   "say": "Hidden debt is a pattern on this channel. Patisserie Valerie's chairman said he hadn't known about two bank overdrafts. That case file is on screen now.",
+   "visual": {
+    "type": "title",
+    "text": "Next: the secret overdrafts",
+    "kicker": "Case file 005",
+    "src": "Filed Under Failure analysis"
+   },
+   "src": "Filed Under Failure analysis"
+  },
+  {
+   "say": "The First Brands trial is set for February. Subscribe if you want the follow-up when a jury decides.",
+   "visual": {
+    "type": "title",
+    "text": "Filed Under Failure",
+    "kicker": "Follow the case"
+   },
+   "pause": 0.8
+  }
+ ],
+ "shorts": [
+  {
+   "id": "a",
+   "title": "$5 billion in sales. $12 million in the bank. The First Brands collapse #Shorts",
+   "hook": "$5bn sales. $12m cash.",
+   "blurb": "First Brands, owner of Fram and Autolite, filed for bankruptcy with $12m in cash and over $9bn in liabilities. From the US Attorney's announcement.",
+   "scenes": [
+    {
+     "say": "This company sold about five billion dollars of car parts a year. When it went bankrupt, it had twelve million dollars in the bank.",
+     "visual": {
+      "type": "stat",
+      "value": "$12m",
+      "label": "cash at bankruptcy, Sept 2025",
+      "red": true,
+      "src": "US Attorney's Office SDNY, 29 Jan 2026"
+     },
+     "caption": "$5bn sales, $12m cash"
+    },
+    {
+     "say": "Its debts? More than nine billion dollars.",
+     "visual": {
+      "type": "stats",
+      "title": "At the filing",
+      "items": [
+       [
+        "~$5bn",
+        "sales"
+       ],
+       [
+        "$12m",
+        "cash"
+       ],
+       [
+        "$9bn+",
+        "liabilities"
+       ]
+      ],
+      "hi": 2,
+      "src": "US Attorney's Office SDNY, 29 Jan 2026"
+     },
+     "caption": "$9bn+ in liabilities"
+    },
+    {
+     "say": "It was First Brands, the owner of Fram oil filters and Autolite spark plugs. It filed for bankruptcy in Texas in September 2025.",
+     "visual": {
+      "type": "timeline",
+      "date": "28 Sep 2025",
+      "text": "Chapter 11 filing, Texas",
+      "src": "US Attorney's Office SDNY, 29 Jan 2026"
+     },
+     "caption": "Owner of Fram and Autolite"
+    },
+    {
+     "say": "Prosecutors say fake invoices and hidden debts were behind it. The founder and his brother deny it, and go on trial in February 2027.",
+     "visual": {
+      "type": "timeline",
+      "date": "Feb 2027",
+      "text": "Trial scheduled",
+      "red": true,
+      "src": "Transport Topics, 8 Oct 2026"
+     },
+     "caption": "Alleged, denied, trial in 2027"
+    },
+    {
+     "say": "The full story is on our channel.",
+     "visual": {
+      "type": "title",
+      "text": "Where did the money go?",
+      "kicker": "Full case file 006"
+     },
+     "caption": "Full story on the channel"
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "title": "One invoice, sold for $17,826 and then $463,735 – the First Brands allegation #Shorts",
+   "hook": "One invoice. Two prices.",
+   "blurb": "An example from court filings in the First Brands fraud case, as alleged by prosecutors. The defendants deny the charges.",
+   "scenes": [
+    {
+     "say": "Prosecutors say one invoice for eight thousand nine hundred and seventy-six dollars was sold to a finance firm as seventeen thousand eight hundred dollars.",
+     "visual": {
+      "type": "bars",
+      "title": "One invoice, as alleged",
+      "items": [
+       [
+        "Real",
+        8976,
+        "$8,976"
+       ],
+       [
+        "Factor 1",
+        17826,
+        "$17,826"
+       ]
+      ],
+      "hi": 1,
+      "src": "Truck Parts & Service, Mar 2026"
+     },
+     "caption": "$8,976 sold as $17,826"
+    },
+    {
+     "say": "Three days later, they say, the same invoice was sold to a second firm as four hundred and sixty-three thousand dollars.",
+     "visual": {
+      "type": "bars",
+      "title": "Three days later",
+      "items": [
+       [
+        "Real",
+        8976,
+        "$8,976"
+       ],
+       [
+        "Factor 1",
+        17826,
+        "$17,826"
+       ],
+       [
+        "Factor 2",
+        463735,
+        "$463,735"
+       ]
+      ],
+      "hi": 2,
+      "src": "Truck Parts & Service, Mar 2026"
+     },
+     "caption": "Then sold as $463,735"
+    },
+    {
+     "say": "Invoice finance only works if the bill is real and sold once. Each lender saw only its own copy.",
+     "visual": {
+      "type": "stats",
+      "title": "Factoring only works if",
+      "items": [
+       [
+        "1",
+        "the invoice is real"
+       ],
+       [
+        "1x",
+        "it is sold once"
+       ]
+      ],
+      "hi": 1
+     },
+     "caption": "Real, and sold once"
+    },
+    {
+     "say": "This is an allegation in the First Brands case. Founder Patrick James and his brother deny the charges; their trial is set for February 2027.",
+     "visual": {
+      "type": "quote",
+      "text": "merely accusations, and the defendants are presumed innocent",
+      "by": "US Attorney's Office, SDNY",
+      "src": "US Attorney's Office SDNY, 29 Jan 2026"
+     },
+     "caption": "Alleged, not proven"
+    },
+    {
+     "say": "The full story is on our channel.",
+     "visual": {
+      "type": "title",
+      "text": "The First Brands case",
+      "kicker": "Full case file 006"
+     },
+     "caption": "Full story on the channel"
+    }
+   ]
+  },
+  {
+   "id": "c",
+   "title": "$1.9 billion collected. How much was in the account? \"$0\" #Shorts",
+   "hook": "$1.9bn in. $0 left.",
+   "blurb": "What creditor Raistone told the First Brands bankruptcy court in October 2025.",
+   "scenes": [
+    {
+     "say": "After First Brands went bankrupt, a creditor told the court the company had collected about one point nine billion dollars on invoices other investors had already bought.",
+     "visual": {
+      "type": "stat",
+      "value": "$1.9bn",
+      "label": "collected, per Raistone filing",
+      "red": true,
+      "src": "Vehicle Service Pros, 20 Oct 2025"
+     },
+     "caption": "$1.9bn collected"
+    },
+    {
+     "say": "That money should have been passed on. So how much was in the accounts meant to hold it? A company lawyer answered: zero dollars.",
+     "visual": {
+      "type": "stat",
+      "value": "$0",
+      "label": "in the segregated accounts",
+      "red": true,
+      "src": "Vehicle Service Pros, 20 Oct 2025"
+     },
+     "caption": "Answer: $0"
+    },
+    {
+     "say": "The creditor, Raistone, said up to two point three billion dollars in assets were unaccounted for, and asked for an independent examiner.",
+     "visual": {
+      "type": "quote",
+      "text": "up to $2.3 billion in assets unaccounted for",
+      "by": "Raistone court filing, Oct 2025",
+      "src": "Vehicle Service Pros, 20 Oct 2025"
+     },
+     "caption": "Up to $2.3bn unaccounted for"
+    },
+    {
+     "say": "Four months later, the founder and his brother were charged with fraud. They deny it.",
+     "visual": {
+      "type": "timeline",
+      "date": "29 Jan 2026",
+      "text": "Founder and brother charged; both deny",
+      "src": "US Attorney's Office SDNY, 29 Jan 2026"
+     },
+     "caption": "Charged; they deny it"
+    },
+    {
+     "say": "The full story is on our channel.",
+     "visual": {
+      "type": "title",
+      "text": "Where did the money go?",
+      "kicker": "Full case file 006"
+     },
+     "caption": "Full story on the channel"
+    }
+   ]
+  },
+  {
+   "id": "d",
+   "title": "Two brothers, one fraud case – and each blames the other #Shorts",
+   "hook": "Brother vs brother.",
+   "blurb": "Patrick and Edward James both asked for separate trials in the First Brands case, each blaming the other. Both deny the charges.",
+   "scenes": [
+    {
+     "say": "Two brothers are charged over a car-parts company that collapsed owing more than nine billion dollars. Now each one is blaming the other.",
+     "visual": {
+      "type": "title",
+      "text": "Brother vs brother",
+      "kicker": "First Brands"
+     },
+     "caption": "Each blames the other"
+    },
+    {
+     "say": "Lawyers for founder Patrick James say his brother Edward ran the alleged fraud.",
+     "visual": {
+      "type": "quote",
+      "text": "Patrick's lawyers: Edward ran the alleged scheme",
+      "by": "Court filings, Sept 2026",
+      "src": "Transport Topics, 8 Oct 2026"
+     },
+     "caption": "Patrick's side: Edward did it"
+    },
+    {
+     "say": "Edward's lawyers say Patrick controlled the company, was feared by senior staff, and that Edward didn't know. Both asked for separate juries.",
+     "visual": {
+      "type": "quote",
+      "text": "Edward's lawyers: Patrick controlled the company",
+      "by": "Court filings, Sept 2026",
+      "src": "Transport Topics, 8 Oct 2026"
+     },
+     "caption": "Edward's side: Patrick did it"
+    },
+    {
+     "say": "Two former insiders, including the ex-finance chief, have already pleaded guilty and will cooperate. The brothers deny the charges. Trial is set for February 2027.",
+     "visual": {
+      "type": "timeline",
+      "date": "Feb 2027",
+      "text": "Trial scheduled, Manhattan",
+      "src": "Transport Topics, 8 Oct 2026"
+     },
+     "caption": "Trial: Feb 2027"
+    },
+    {
+     "say": "The full story is on our channel.",
+     "visual": {
+      "type": "title",
+      "text": "The First Brands case",
+      "kicker": "Full case file 006"
+     },
+     "caption": "Full story on the channel"
+    }
+   ]
+  }
+ ]
+}

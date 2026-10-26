@@ -1,6 +1,6 @@
 # PROJECT_STATUS — Filed Under Failure
 
-_Last updated: 2026-10-26 06:30 PKT (monitor)_
+_Last updated: 2026-10-26 10:30 PKT (interactive: audit + 2/week plan)_
 
 ## Goal
 Faceless business-collapse documentary channel. Daily Short + weekly long episode, free tools only, hands-off, reach YPP honestly.
@@ -19,6 +19,12 @@ Faceless business-collapse documentary channel. Daily Short + weekly long episod
 - 22 Oct: 005 Patisserie Valerie built (13:53, -14.5 LUFS, 71 MB), fact-checked (fixes applied), thumbnail/.srt/7 Shorts pushed to 005/; ledger rows 005-ep + 005-a (Sat 31 Oct 21:00), 005-b..g (1–6 Nov), lane api, status planned.
 - `yt/native/004.md` is obsolete — do NOT upload 004 in Studio (would duplicate).
 
+## 26 Oct 2026 — audit + new plan (strategy/2026-10-26-audit-and-plan.md)
+- Qazi's new brief: 2 episodes/week (Wed + Sat, 8–12 min), 1 Short daily (3–4 per episode, 25–45 s), monetisation via watch hours; weekly reports separating Analytics vs Earn counters.
+- Audit: 4 episodes = 47 views total; 24 Shorts ≈ 2,700 views (median 38). Long-form distribution is the bottleneck. No CTR/retention/watch-time data reaches automation (Metricool per-video watch fields empty; yt-analytics error-B).
+- 006 First Brands scripted (006/006-first-brands.json: 57 scenes ~9 min, 4 Shorts, 12 sources). NOT fact-checked or rendered. Control room re-planned: e006 First Brands Wed 4 Nov, e007 Wirecard Sat 7 Nov, e008 Greensill Wed 11 Nov, e009 FTX Sat 14 Nov, e010 NR vs SVB Wed 18 Nov, e011 Thomas Cook Sat 21 Nov, e012 BHS Wed 25 Nov (Bulb/Quibi to backlog; e013+ still old Saturday dates).
+- BLOCKED: updating scheduled tasks was denied by the permission check. Pending Qazi OK: (1) production task trig_01QChYBvjSyKkYAhkTi9NFBK → prompt in strategy/prod-task-prompt-2026-10-26.txt; (2) weekly growth review trig_01UZmpFcVhTEpe3WETCoACrV is monthly ("41 9 1 * *") → should be Mondays "41 9 * * 1"; (3) monitor check "Saturday with no episode" → "Wednesday or Saturday".
+
 ## In progress
 - 004 rollout: all scheduled on YouTube except 004-g (auto-queued next).
 - 005: waiting for hourly feed + 12-hourly Make run to schedule; verify videoIds in ledger, then add yt/ops.json entries (playlist pl-005, episode links).
@@ -33,7 +39,7 @@ Faceless business-collapse documentary channel. Daily Short + weekly long episod
 
 ## Next steps
 1. Verify 005 rows become "scheduled"; add 005 ops (playlist, Full Episodes, Short links).
-2. Episode 006 Wirecard (Sat 7 Nov): run demand check first (005 demand unmeasured, likely <100K).
+2. Episode 006 First Brands (Wed 4 Nov): fact-check + build (scripted). 007 Wirecard Sat 7 Nov.
 3. Weekly update to Qazi (uploads, views, subs, YPP progress).
 
 ## Social (Xenova + FrontDesk) — 23 Oct 2026
