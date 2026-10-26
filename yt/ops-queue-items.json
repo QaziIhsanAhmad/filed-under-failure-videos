@@ -4,5 +4,35 @@
   "method": "PUT",
   "path": "/v3/videos?part=snippet",
   "body": "{\"id\": \"9TKmRYB1Wo4\", \"snippet\": {\"title\": \"Who paid for Northern Rock? The final bill #Shorts\", \"categoryId\": \"27\", \"description\": \"Full episode ▶ https://youtu.be/sKaLC6A0Igw\\n\\nThe taxpayer's bill for Northern Rock, from National Audit Office reports.\\n\\nSources: Treasury Committee, 'The run on the Rock', Fifth Report of Session 2007–08, HC 56-I (Jan 2008), summary; Bank of England / HM Treasury / FSA, 'Liquidity support facility for Northern Rock plc' (14 Sep 2007); European Court of Human Rights, Grainger and Others v the United Kingdom, no. 34940/10, decision of 10 Jul 2012 (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #NorthernRock #bankrun #2008financialcrisis\", \"tags\": [\"Northern Rock\", \"bank run\", \"2008 financial crisis\", \"UK banking crisis\", \"Northern Rock collapse\", \"business documentary\", \"nationalisation\", \"what went wrong\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
+ },
+ {
+  "id": "pl-005",
+  "method": "POST",
+  "path": "/v3/playlists?part=snippet,status",
+  "body": "{\"snippet\": {\"title\": \"Patisserie Valerie Collapse Explained\", \"description\": \"What the record shows about the 2018 collapse of Patisserie Valerie: the full episode first, then the short case notes. From Patisserie Holdings' own announcements, the FRC's sanctions against Grant Thornton and Serious Fraud Office records.\", \"defaultLanguage\": \"en\"}, \"status\": {\"privacyStatus\": \"public\"}}"
+ },
+ {
+  "id": "pi-all-Q6xdj5CqZMI",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "body": "{\"snippet\": {\"playlistId\": \"PLcJ0qXrqBDRU\", \"position\": 0, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"Q6xdj5CqZMI\"}}}"
+ },
+ {
+  "id": "get-Q6xdj5CqZMI",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=Q6xdj5CqZMI",
+  "body": ""
+ },
+ {
+  "id": "get-BUIUkfEzlFI",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=BUIUkfEzlFI",
+  "body": ""
+ },
+ {
+  "id": "get-h9tEOFDll_0",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=h9tEOFDll_0",
+  "body": ""
  }
 ]
