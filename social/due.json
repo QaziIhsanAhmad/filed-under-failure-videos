@@ -1,1 +1,54 @@
-[]
+[
+ {
+  "id": "x-1027-outage-stat",
+  "brand": "xenova",
+  "kind": "single",
+  "fb_on": "1",
+  "ig_on": "1",
+  "li_on": "1",
+  "fb_page": "1267773913096573",
+  "ig_account": "17841428615145019",
+  "fb": "Government figures worth knowing: 31% of UK small businesses (10 to 49 staff) that store data off-site were hit by a server or cloud outage in the past year. Across all businesses it was 20%.\n\nAnd this week marks a year since the big AWS outage, when a DNS fault took its main US region down for about 15 hours.\n\nThe question isn't whether to use the cloud. It's: what does your team do for those hours?\n\nSources: DSIT UK Business Data Survey 2026 (gov.uk); AWS post-event summary, October 2025.",
+  "ig": "31% of UK small businesses that keep data off-site were affected by a server or cloud outage in the last 12 months.\n\nThat's from the government's UK Business Data Survey 2026 (small = 10 to 49 staff; across all businesses it was 20%). And a year ago this week, a DNS fault knocked out AWS's US-East-1 region for around 15 hours, taking plenty of well-known apps with it.\n\nThe cloud is still the right choice for most. It just isn't a reason to skip a plan B:\n• Know which systems you can't work without\n• Keep an export or backup you can actually open\n• Write down what staff do while it's down\n\nSources: DSIT UK Business Data Survey 2026; AWS post-event summary, Oct 2025.\n\n#ukbusiness #smallbusiness #cloud #businesscontinuity #itsupport #operations",
+  "li": "A year ago this week, a DNS fault in AWS's US-EAST-1 region caused a disruption lasting roughly 15 hours \\(AWS post-event summary, 19–20 October 2025\\).\n\nIt wasn't a one-off risk. In the UK Business Data Survey 2026 \\(DSIT, published June 2026\\), 31% of small businesses that store data off-site said they'd been affected by a server or cloud outage in the previous 12 months. Across all businesses, the figure was 20%.\n\nThree practical takeaways:\n→ List the systems your business can't operate without\n→ Keep a recent export or backup you have actually tested opening\n→ Agree a simple manual fallback, and tell staff where it's written down\n\nResilience doesn't need to be expensive. It needs to be decided before the bad day.\n\nhttps://xenovasolutions.com/contact\n\n{hashtag|\\#|BusinessContinuity} {hashtag|\\#|CloudComputing} {hashtag|\\#|SMEs}",
+  "image": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1027-outage-stat-1.jpg",
+  "fb_photos": [
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1027-outage-stat-1.jpg"
+   }
+  ],
+  "ig_files": [
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1027-outage-stat-1.jpg"
+   }
+  ]
+ },
+ {
+  "id": "f-1027-n8n-budget-cap",
+  "brand": "frontdesk",
+  "kind": "single",
+  "fb_on": "1",
+  "ig_on": "1",
+  "li_on": "0",
+  "fb_page": "1354185007779555",
+  "ig_account": "17841416945478586",
+  "fb": "Worth knowing if you build AI workflows for clients: n8n 2.43.0 (6 Oct 2026) added an opt-in budget guardrail for agent runs, plus resumable executions.\n\nFor any client, \"we cap what the AI can spend\" is a reassuring line, as long as you've actually turned it on. Source: n8n v2.43.0 release notes on GitHub.",
+  "ig": "Small n8n change, big deal if you run AI on a client's account.\n\nn8n 2.43.0 (released 6 Oct 2026) added an opt-in budget guardrail for agent runs. The same release added resumable executions at node boundaries.\n\nWhy I care: whether it's a clinic, a restaurant or an online shop, owners fear one thing about AI more than bad answers. A bill they didn't expect. A spend cap on agent runs is an easy promise to make on a sales call, as long as you actually switch it on.\n\nIt's opt-in, so check your instance version and settings before you promise it.\n\nSource: n8n release notes, v2.43.0.\n\n#n8n #automation #aiagents #freelancer #nocode #smallbusiness",
+  "li": "",
+  "image": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1027-n8n-budget-cap-1.jpg",
+  "fb_photos": [
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1027-n8n-budget-cap-1.jpg"
+   }
+  ],
+  "ig_files": [
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1027-n8n-budget-cap-1.jpg"
+   }
+  ]
+ }
+]
