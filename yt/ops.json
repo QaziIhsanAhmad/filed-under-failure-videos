@@ -2478,5 +2478,61 @@
     "defaultAudioLanguage": "en"
    }
   }
+ },
+ {
+  "id": "pi-005-j5e58wCVuh8",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-005"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-005",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "j5e58wCVuh8"
+    }
+   }
+  }
+ },
+ {
+  "id": "get-j5e58wCVuh8",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=j5e58wCVuh8"
+ },
+ {
+  "id": "upd-j5e58wCVuh8",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "after": [
+   "get-j5e58wCVuh8"
+  ],
+  "transform": {
+   "kind": "replace_line",
+   "prefix": "Full episode",
+   "text": "Full episode ▶ https://youtu.be/Q6xdj5CqZMI"
+  },
+  "body": {
+   "id": "j5e58wCVuh8",
+   "snippet": {
+    "title": "Who paid when Patisserie Valerie collapsed? 920 redundancies #Shorts",
+    "categoryId": "27",
+    "description": "@desc:get-j5e58wCVuh8",
+    "tags": [
+     "Patisserie Valerie",
+     "Patisserie Valerie collapse",
+     "accounting scandal",
+     "Grant Thornton",
+     "Serious Fraud Office",
+     "UK business documentary",
+     "audit failure",
+     "what went wrong"
+    ],
+    "defaultLanguage": "en",
+    "defaultAudioLanguage": "en"
+   }
+  }
  }
 ]
