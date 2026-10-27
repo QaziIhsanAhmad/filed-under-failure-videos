@@ -799,12 +799,19 @@
    "title": "Patisserie Valerie's auditor missed the red flags – the FRC's verdict #Shorts",
    "file": "005/005-patisserie-valerie-short-d.mp4",
    "lane": "api",
-   "status": "planned",
+   "status": "scheduled",
    "description": "What the Financial Reporting Council found, and Grant Thornton admitted, about three years of audits.\n\nFull episode: \"Why Did Patisserie Valerie Collapse? The Secret Overdrafts\" on Filed Under Failure.\nSources: Serious Fraud Office, case page 'Patisserie Holdings plc' (timeline to 9 Feb 2026); Serious Fraud Office, 'SFO charges four individuals behind Patisserie Valerie collapse' (13 Sep 2023); Financial Reporting Council, 'Sanctions against Grant Thornton UK LLP and David Newstead' (27 Sep 2021) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #PatisserieValerie #PatisserieValeriecollapse #accountingscandal",
    "altered": {
     "disclose": false,
     "reason": "Generic synthetic narrator (Kokoro bm_george) not imitating any real person; quotes are attributed by the narrator and shown as on-screen text; original code-generated charts, text graphics and music; no realistic synthetic imagery or altered real footage."
-   }
+   },
+   "apiApplied": [
+    "005-d-a0"
+   ],
+   "videoId": "q867xRBxV6Y",
+   "url": "https://www.youtube.com/shorts/q867xRBxV6Y",
+   "uploadedAt": "2026-10-27T12:45:27.509605+05:00",
+   "publishAt": "2026-11-03T16:00:00Z"
   },
   {
    "id": "005-e",
