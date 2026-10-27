@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T18:05:34.767652+05:00",
+ "generated": "2026-10-27T18:05:37.834794+05:00",
  "problems": [],
  "items": [
   {
@@ -603,7 +603,7 @@
    "date": "2026-10-27",
    "pillar": "trend",
    "slides": 1,
-   "status": "unverified",
+   "status": "posted",
    "platforms": {
     "fb": {
      "state": "posted",
@@ -618,10 +618,10 @@
      "at": "2026-10-27T13:05:34.271989+00:00"
     },
     "li": {
-     "state": "pending",
-     "id": "",
-     "tries": 0,
-     "at": ""
+     "state": "posted",
+     "id": "urn:li:share:7520833042232389632",
+     "tries": 1,
+     "at": "2026-10-27T13:05:36.824217+00:00"
     }
    },
    "src": "social/posts/2026-10-23.json"
