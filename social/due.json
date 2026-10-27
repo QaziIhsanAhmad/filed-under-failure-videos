@@ -1,1 +1,70 @@
-[]
+[
+ {
+  "id": "x-1028-bts-social-pipeline",
+  "brand": "xenova",
+  "kind": "carousel",
+  "fb_on": "1",
+  "ig_on": "1",
+  "li_on": "1",
+  "fb_page": "1267773913096573",
+  "ig_account": "17841428615145019",
+  "fb": "A peek behind the curtain: this post went from a text file to your feed without anyone opening Instagram.\n\nA headless browser renders the images, GitHub holds the queue, and a daily automation posts and logs the results. The rule we care about most: nothing ever goes out twice.\n\nThe same pattern works for reports, invoices and order updates. xenovasolutions.com/contact",
+  "ig": "Behind the scenes: this post was written as a file, not typed into an app.\n\nEach post is a small JSON file. A headless browser turns it into images with our brand colours locked in code. GitHub holds the queue, and a daily automation publishes to Facebook, Instagram and LinkedIn, then writes the result back.\n\nThe most important part is a dull rule: nothing is ever posted twice, even if a run is retried.\n\nGot a repetitive job like this in your business? Link in bio.\n\n#behindthescenes #automation #github #nocode #smallbusiness #workflow",
+  "li": "Behind the scenes: how our own social posts are published.\n\n→ Each post is a JSON file: text, layout and a caption per platform\n→ A headless browser renders the images, with brand colours fixed in code\n→ A script builds each day's queue in GitHub\n→ A scheduled automation posts to Facebook, Instagram and LinkedIn, then logs the post IDs\n\nThe design decision that matters most is idempotency: a post is only sent on its own date and drops out of the queue once any attempt is reported, so retries never cause duplicates.\n\nThe same pattern applies to reports, invoices and order updates.\n\nhttps://xenovasolutions.com/contact\n\n{hashtag|\\#|Automation} {hashtag|\\#|DevOps} {hashtag|\\#|SMEs}",
+  "image": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1028-bts-social-pipeline-1.jpg",
+  "fb_photos": [
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1028-bts-social-pipeline-1.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1028-bts-social-pipeline-2.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1028-bts-social-pipeline-3.jpg"
+   }
+  ],
+  "ig_files": [
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1028-bts-social-pipeline-1.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1028-bts-social-pipeline-2.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1028-bts-social-pipeline-3.jpg"
+   }
+  ]
+ },
+ {
+  "id": "f-1028-reminder-flow",
+  "brand": "frontdesk",
+  "kind": "single",
+  "fb_on": "1",
+  "ig_on": "1",
+  "li_on": "0",
+  "fb_page": "1354185007779555",
+  "ig_account": "17841416945478586",
+  "fb": "My appointment reminder workflow in n8n is five nodes: a 6pm schedule, one call for tomorrow's bookings, split into rows, write the reminder, send the email.\n\nI built it for a clinic, but only the booking URL and the wording are clinic-specific. Restaurants, salons and repair shops can use the same pattern.",
+  "ig": "This is the whole appointment reminder workflow I built for a clinic. Five nodes.\n\nEvery day at 6pm it asks the booking system for tomorrow's bookings, splits them into one item each, writes a plain reminder (name, service, time) and emails it.\n\nThe interesting part: nothing in it is clinic-specific except the booking URL and the wording. Point it at a restaurant's table bookings, a salon's diary or a repair shop's job list and it does the same job.\n\nWhich business would you adapt it for first?\n\n#n8n #automation #appointments #restaurants #salonowner #freelancer",
+  "li": "",
+  "image": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1028-reminder-flow-1.jpg",
+  "fb_photos": [
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1028-reminder-flow-1.jpg"
+   }
+  ],
+  "ig_files": [
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1028-reminder-flow-1.jpg"
+   }
+  ]
+ }
+]
