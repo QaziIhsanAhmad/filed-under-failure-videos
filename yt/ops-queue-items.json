@@ -34,5 +34,17 @@
   "method": "PUT",
   "path": "/v3/videos?part=snippet",
   "body": "{\"id\": \"h9tEOFDll_0\", \"snippet\": {\"title\": \"The overdrafts Patisserie Valerie's board didn't know existed #Shorts\", \"categoryId\": \"27\", \"description\": \"Full episode ▶ https://youtu.be/Q6xdj5CqZMI\\n\\nTwo overdrafts at HSBC and Barclays, set up without the board's knowledge, as reported in October 2018.\\n\\nSources: Serious Fraud Office, case page 'Patisserie Holdings plc' (timeline to 9 Feb 2026); Serious Fraud Office, 'SFO charges four individuals behind Patisserie Valerie collapse' (13 Sep 2023); Financial Reporting Council, 'Sanctions against Grant Thornton UK LLP and David Newstead' (27 Sep 2021) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #PatisserieValerie #PatisserieValeriecollapse #accountingscandal\", \"tags\": [\"Patisserie Valerie\", \"Patisserie Valerie collapse\", \"accounting scandal\", \"Grant Thornton\", \"Serious Fraud Office\", \"UK business documentary\", \"audit failure\", \"what went wrong\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
+ },
+ {
+  "id": "pi-005-j5e58wCVuh8",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "body": "{\"snippet\": {\"playlistId\": \"PLE_qz-rndBLM\", \"position\": 3, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"j5e58wCVuh8\"}}}"
+ },
+ {
+  "id": "get-j5e58wCVuh8",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=j5e58wCVuh8",
+  "body": ""
  }
 ]
