@@ -1,5 +1,13 @@
 [
  {
+  "id": "005-f-a0",
+  "path": "/../upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
+  "ctype": "video/mp4",
+  "size": 4428773,
+  "meta": "{\"snippet\": {\"title\": \"£28m in the accounts – what the SFO alleges about Patisserie Valerie #Shorts\", \"description\": \"The Serious Fraud Office's allegation, set out in its charging announcement. The four accused deny it.\\n\\nFull episode: \\\"Why Did Patisserie Valerie Collapse? The Secret Overdrafts\\\" on Filed Under Failure.\\nSources: Serious Fraud Office, case page 'Patisserie Holdings plc' (timeline to 9 Feb 2026); Serious Fraud Office, 'SFO charges four individuals behind Patisserie Valerie collapse' (13 Sep 2023); Financial Reporting Council, 'Sanctions against Grant Thornton UK LLP and David Newstead' (27 Sep 2021) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #PatisserieValerie #PatisserieValeriecollapse #accountingscandal\", \"tags\": [\"Patisserie Valerie\", \"Patisserie Valerie collapse\", \"accounting scandal\", \"Grant Thornton\", \"Serious Fraud Office\", \"UK business documentary\", \"audit failure\", \"what went wrong\"], \"categoryId\": \"27\", \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}, \"status\": {\"selfDeclaredMadeForKids\": false, \"containsSyntheticMedia\": false, \"privacyStatus\": \"private\", \"publishAt\": \"2026-11-05T16:00:00Z\"}}",
+  "file": "005/005-patisserie-valerie-short-f.mp4"
+ },
+ {
   "id": "006-ep-thumb0",
   "path": "/../upload/youtube/v3/thumbnails/set?uploadType=resumable&videoId=yn1kj1tD3dM",
   "ctype": "image/png",

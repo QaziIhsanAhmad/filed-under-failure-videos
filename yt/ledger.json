@@ -645,7 +645,7 @@
    "title": "Why queuing at Northern Rock wasn't irrational #Shorts",
    "file": "004/004-northern-rock-short-e.mp4",
    "lane": "api",
-   "status": "scheduled",
+   "status": "published",
    "description": "The deposit protection rules that made the 2007 queues make sense.\n\nFull episode: \"Why Did Northern Rock Collapse? £4.45bn Withdrawn in 3 Days\" on Filed Under Failure.\nSources: Treasury Committee, 'The run on the Rock', Fifth Report of Session 2007–08, HC 56-I (Jan 2008), summary; Bank of England / HM Treasury / FSA, 'Liquidity support facility for Northern Rock plc' (14 Sep 2007); European Court of Human Rights, Grainger and Others v the United Kingdom, no. 34940/10, decision of 10 Jul 2012 (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #NorthernRock #bankrun #2008financialcrisis",
    "altered": {
     "disclose": false,
@@ -657,7 +657,9 @@
    "videoId": "CK68ozwGawQ",
    "url": "https://www.youtube.com/shorts/CK68ozwGawQ",
    "uploadedAt": "2026-10-22T10:53:03.327198+05:00",
-   "publishAt": "2026-10-28T16:00:00Z"
+   "publishAt": "2026-10-28T16:00:00Z",
+   "verifiedAt": "2026-10-29T00:51:56.383476+05:00",
+   "verification": "channel page"
   },
   {
    "id": "004-f",
