@@ -1,1 +1,54 @@
-[]
+[
+ {
+  "id": "x-1029-integration-promo",
+  "brand": "xenova",
+  "kind": "single",
+  "fb_on": "1",
+  "ig_on": "1",
+  "li_on": "1",
+  "fb_page": "1267773913096573",
+  "ig_account": "17841428615145019",
+  "fb": "Still copying orders or leads from one system into another by hand?\n\nWe connect the tools you already use so the data moves on its own, with a log of every transfer and an alert when something fails.\n\nTell us which two tools you copy between: xenovasolutions.com/contact",
+  "ig": "If someone in your team copies data from one system to another every day, this is for you.\n\nWe build integrations that move orders, leads and records between the tools you already use. Every transfer is logged, and if something fails, a person hears about it straight away.\n\nTell us which two tools you copy between. Link in bio.\n\n#automation #integration #smallbusiness #ukbusiness #operations #productivity",
+  "li": "Most growing businesses don't need a new system. They need the ones they have to share data reliably.\n\nWhat we build:\n→ Integrations that move orders, leads and records between existing tools\n→ A log of every transfer, so you can see what moved and when\n→ Alerts to a named person when something fails\n\nIf there's a daily copy-paste job in your business, tell us which tools are involved and we'll tell you plainly what's possible.\n\nhttps://xenovasolutions.com/contact\n\n{hashtag|\\#|SystemsIntegration} {hashtag|\\#|Automation} {hashtag|\\#|SMEs}",
+  "image": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1029-integration-promo-1.jpg",
+  "fb_photos": [
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1029-integration-promo-1.jpg"
+   }
+  ],
+  "ig_files": [
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1029-integration-promo-1.jpg"
+   }
+  ]
+ },
+ {
+  "id": "f-1029-flow-promo",
+  "brand": "frontdesk",
+  "kind": "single",
+  "fb_on": "1",
+  "ig_on": "1",
+  "li_on": "0",
+  "fb_page": "1354185007779555",
+  "ig_account": "17841416945478586",
+  "fb": "Building automations for small businesses? My n8n enquiry workflow is free: instant replies from the business's own details, a lead log, and urgent alerts to staff. Built for clinics, with one Settings node to adapt for restaurants, shops and other services.\n\nMessage me FLOW and I'll send it.",
+  "ig": "Want a workflow you can demo to a client this week?\n\nMy n8n enquiry workflow is free. It replies to website enquiries in seconds using only the business's own details (services, prices, hours, booking link), logs every lead in a sheet, and alerts staff when something looks urgent.\n\nI built it for clinics. Everything business-specific lives in one Settings node, so adapting it for a restaurant, a shop or a service business is mostly editing that node and testing.\n\nDM me FLOW and I'll send it over.\n\n#n8n #automation #freelancer #customerservice #smallbusiness #aiautomation",
+  "li": "",
+  "image": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1029-flow-promo-1.jpg",
+  "fb_photos": [
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1029-flow-promo-1.jpg"
+   }
+  ],
+  "ig_files": [
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1029-flow-promo-1.jpg"
+   }
+  ]
+ }
+]
