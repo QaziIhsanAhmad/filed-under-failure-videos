@@ -1,1 +1,54 @@
-[]
+[
+ {
+  "id": "f-1030-returns-offer",
+  "brand": "frontdesk",
+  "kind": "single",
+  "fb_on": "1",
+  "ig_on": "1",
+  "li_on": "0",
+  "fb_page": "1354185007779555",
+  "ig_account": "17841416945478586",
+  "fb": "Returns season starts the day after the gifts arrive.\n\nIf every return still means three emails, a spreadsheet row and a manual refund, that's the workflow to fix first. A returns form, an order check, an automatic label and refund status updates: your team only handles the exceptions.\n\nMessage us REVIEW and tell us how returns work today. We'll map what can be automated, for free.",
+  "ig": "Returns season starts the day after the gifts arrive.\n\nIf every return in your store still means three emails, a spreadsheet row and a manual refund, that is the workflow to fix first.\n\nA typical setup we build with Make.com and Shopify:\n1. The customer fills one returns form\n2. The workflow checks the order and item\n3. A label and instructions go out automatically\n4. The refund status updates as the parcel moves\n\nYour team only handles the exceptions.\n\nDM REVIEW and tell us how returns work in your store today. We'll map what can be automated, for free.\n\n#shopify #ecommerce #returns #makecom #automation #fashionbrand",
+  "li": "",
+  "image": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1030-returns-offer-1.jpg",
+  "fb_photos": [
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1030-returns-offer-1.jpg"
+   }
+  ],
+  "ig_files": [
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1030-returns-offer-1.jpg"
+   }
+  ]
+ },
+ {
+  "id": "x-1030-shopify-custom",
+  "brand": "xenova",
+  "kind": "single",
+  "fb_on": "1",
+  "ig_on": "1",
+  "li_on": "1",
+  "fb_page": "1267773913096573",
+  "ig_account": "17841428615145019",
+  "fb": "Fourteen apps installed and the team still exports to Excel every Monday?\n\nThat usually means the store is missing one integration, not one more app. We build custom Shopify apps and integrations, tested on a staging store before they touch real orders.\n\nTell us what your team still does by hand: xenovasolutions.com/contact",
+  "ig": "Fourteen apps installed and the team still exports to Excel every Monday?\n\nThat usually means the store is missing one integration, not one more app.\n\nWe build custom Shopify apps and integrations that connect your store to the systems you already use, tested on a staging store before they touch real orders.\n\nTell us what your team still does by hand. Link in bio.\n\n#shopify #ecommerce #shopifyapps #integration #webdevelopment #ukbusiness",
+  "li": "A common pattern in growing Shopify stores: a dozen apps, overlapping features, and still a weekly spreadsheet export.\n\nWhen off-the-shelf apps stop fitting, a small custom app or integration is often simpler and cheaper to run:\n→ Connect the store to your ERP, warehouse or CRM\n→ Replace overlapping apps with one tool built for your process\n→ Test on a staging store before anything touches real orders\n\nIf your team still moves store data by hand, tell us what it is and we'll tell you plainly whether custom work makes sense.\n\nhttps://xenovasolutions.com/contact\n\n{hashtag|\\#|Shopify} {hashtag|\\#|Ecommerce} {hashtag|\\#|SoftwareDevelopment}",
+  "image": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1030-shopify-custom-1.jpg",
+  "fb_photos": [
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1030-shopify-custom-1.jpg"
+   }
+  ],
+  "ig_files": [
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1030-shopify-custom-1.jpg"
+   }
+  ]
+ }
+]
