@@ -847,12 +847,19 @@
    "title": "£28m in the accounts – what the SFO alleges about Patisserie Valerie #Shorts",
    "file": "005/005-patisserie-valerie-short-f.mp4",
    "lane": "api",
-   "status": "planned",
+   "status": "scheduled",
    "description": "The Serious Fraud Office's allegation, set out in its charging announcement. The four accused deny it.\n\nFull episode: \"Why Did Patisserie Valerie Collapse? The Secret Overdrafts\" on Filed Under Failure.\nSources: Serious Fraud Office, case page 'Patisserie Holdings plc' (timeline to 9 Feb 2026); Serious Fraud Office, 'SFO charges four individuals behind Patisserie Valerie collapse' (13 Sep 2023); Financial Reporting Council, 'Sanctions against Grant Thornton UK LLP and David Newstead' (27 Sep 2021) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #PatisserieValerie #PatisserieValeriecollapse #accountingscandal",
    "altered": {
     "disclose": false,
     "reason": "Generic synthetic narrator (Kokoro bm_george) not imitating any real person; quotes are attributed by the narrator and shown as on-screen text; original code-generated charts, text graphics and music; no realistic synthetic imagery or altered real footage."
-   }
+   },
+   "apiApplied": [
+    "005-f-a0"
+   ],
+   "videoId": "duMtHdjUawk",
+   "url": "https://www.youtube.com/shorts/duMtHdjUawk",
+   "uploadedAt": "2026-10-29T12:45:27.316332+05:00",
+   "publishAt": "2026-11-05T16:00:00Z"
   },
   {
    "id": "005-g",
@@ -884,12 +891,14 @@
     "reason": "Generic synthetic narrator (Kokoro bm_george) not imitating any real person; quotes attributed by the narrator and shown as on-screen text; original code-generated charts, text graphics and music; no realistic synthetic imagery or altered real footage."
    },
    "apiApplied": [
-    "006-ep-a0"
+    "006-ep-a0",
+    "006-ep-thumb0"
    ],
    "videoId": "yn1kj1tD3dM",
    "url": "https://www.youtube.com/watch?v=yn1kj1tD3dM",
    "uploadedAt": "2026-10-28T12:45:30.624243+05:00",
-   "publishAt": "2026-11-04T16:00:00Z"
+   "publishAt": "2026-11-04T16:00:00Z",
+   "thumbSet": true
   },
   {
    "id": "006-a",
