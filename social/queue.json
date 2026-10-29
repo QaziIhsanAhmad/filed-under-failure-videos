@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T14:51:17.999750+05:00",
+ "generated": "2026-10-29T18:05:18.556074+05:00",
  "problems": [],
  "items": [
   {
@@ -707,13 +707,13 @@
    "date": "2026-10-29",
    "pillar": "promo",
    "slides": 1,
-   "status": "planned",
+   "status": "unverified",
    "platforms": {
     "fb": {
-     "state": "pending",
-     "id": "",
-     "tries": 0,
-     "at": ""
+     "state": "posted",
+     "id": "1267773913096573_122128018695458519",
+     "tries": 1,
+     "at": "2026-10-29T13:05:18.181959+00:00"
     },
     "ig": {
      "state": "pending",
