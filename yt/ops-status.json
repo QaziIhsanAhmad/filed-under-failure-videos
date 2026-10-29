@@ -154,5 +154,19 @@
  "upd-h9tEOFDll_0": "done",
  "pi-005-j5e58wCVuh8": "done",
  "get-j5e58wCVuh8": "done",
- "upd-j5e58wCVuh8": "done"
+ "upd-j5e58wCVuh8": "done",
+ "pi-005-q867xRBxV6Y": "queued",
+ "get-q867xRBxV6Y": "queued",
+ "upd-q867xRBxV6Y": "waiting",
+ "pi-005-Tb1ZMewulg8": "queued",
+ "get-Tb1ZMewulg8": "queued",
+ "upd-Tb1ZMewulg8": "waiting",
+ "pl-006": "queued",
+ "pi-006-yn1kj1tD3dM": "waiting",
+ "pi-all-yn1kj1tD3dM": "queued",
+ "get-yn1kj1tD3dM": "queued",
+ "upd-yn1kj1tD3dM": "waiting",
+ "pi-006-l9TF2-h3Cco": "waiting",
+ "get-l9TF2-h3Cco": "queued",
+ "upd-l9TF2-h3Cco": "waiting"
 }

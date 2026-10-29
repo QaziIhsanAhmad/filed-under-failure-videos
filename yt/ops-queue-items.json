@@ -1,1 +1,50 @@
-[]
+[
+ {
+  "id": "pi-005-q867xRBxV6Y",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "body": "{\"snippet\": {\"playlistId\": \"PLE_qz-rndBLM\", \"position\": 4, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"q867xRBxV6Y\"}}}"
+ },
+ {
+  "id": "get-q867xRBxV6Y",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=q867xRBxV6Y",
+  "body": ""
+ },
+ {
+  "id": "pi-005-Tb1ZMewulg8",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "body": "{\"snippet\": {\"playlistId\": \"PLE_qz-rndBLM\", \"position\": 5, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"Tb1ZMewulg8\"}}}"
+ },
+ {
+  "id": "get-Tb1ZMewulg8",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=Tb1ZMewulg8",
+  "body": ""
+ },
+ {
+  "id": "pl-006",
+  "method": "POST",
+  "path": "/v3/playlists?part=snippet,status",
+  "body": "{\"snippet\": {\"title\": \"First Brands Collapse Explained\", \"description\": \"What the record shows about the 2025 collapse of First Brands Group: the full episode first, then the short case notes. From the US Attorney's charges and bankruptcy court records.\", \"defaultLanguage\": \"en\"}, \"status\": {\"privacyStatus\": \"public\"}}"
+ },
+ {
+  "id": "pi-all-yn1kj1tD3dM",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "body": "{\"snippet\": {\"playlistId\": \"PLcJ0qXrqBDRU\", \"position\": 0, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"yn1kj1tD3dM\"}}}"
+ },
+ {
+  "id": "get-yn1kj1tD3dM",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=yn1kj1tD3dM",
+  "body": ""
+ },
+ {
+  "id": "get-l9TF2-h3Cco",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=l9TF2-h3Cco",
+  "body": ""
+ }
+]
