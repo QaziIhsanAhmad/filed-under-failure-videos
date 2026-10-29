@@ -1,0 +1,1088 @@
+{
+ "slug": "007-wirecard",
+ "title": "Wirecard: A €24bn Star and the €1.9bn Nobody Could Find",
+ "voice": "bm_george",
+ "speed": 0.95,
+ "summary": "Wirecard collapse explained from the audit, regulator and court records.\n\nIn June 2020 Germany's payments star admitted that €1.9 billion, about a quarter of its balance sheet, probably did not exist. Using Wirecard's own announcements, KPMG's special investigation, BaFin's orders, the Bundestag inquiry, the auditor watchdog's sanctions and reporting from the Munich trial, we explain how the 'third-party acquiring' business worked, why the regulator filed a complaint naming journalists, who has been held to account and where the trial stands. Markus Braun denies all charges and is presumed innocent; no verdict has been reached.",
+ "thumb": [
+  "€1.9BN",
+  "NEVER THERE?",
+  "UNVERIFIED",
+  "WIRECARD"
+ ],
+ "tags": [
+  "Wirecard",
+  "Wirecard scandal",
+  "Markus Braun",
+  "Jan Marsalek",
+  "EY audit",
+  "BaFin",
+  "business documentary",
+  "what went wrong"
+ ],
+ "sources": [
+  "Al Jazeera, 'What $2.1bn? Wirecard says missing funds most likely do not exist' (22 Jun 2020): https://www.aljazeera.com/economy/2020/6/22/what-2-1bn-wirecard-says-missing-funds-most-likely-do-not-exist",
+  "Wirecard AG ad hoc announcement, 18 Jun 2020 (EY could not obtain sufficient audit evidence; spurious balance confirmations): https://www.wirecard.com/wp-content/uploads/2021/01/AH_2020_06_18_Delay-publication-fin-statement-2019_spurious-balance.pdf",
+  "CNN, 'Wirecard files for insolvency' (25 Jun 2020): https://edition.cnn.com/2020/06/25/tech/wirecard-insolvency",
+  "Reuters via Malay Mail, 'Wirecard files for insolvency, becoming first DAX member to fail' (25 Jun 2020): https://www.malaymail.com/news/money/2020/06/25/wirecard-files-for-insolvency-becoming-first-dax-member-to-fail/1878810",
+  "KPMG, report on the independent special investigation of Wirecard AG (27 Apr 2020), Bundestag inquiry evidence, document 55 (redacted): https://dserver.bundestag.de/btd/19/CD30900/Dokument%2055%20geschwärzt%20MAT%20A%20KPMG-1.01%2C%20Berichte%2C%20Bericht%20über%20Sonderuntersuchung%20vom%2027.4.20.pdf",
+  "Wirecard AG ad hoc announcement, 'KPMG delivers report on special investigation' (28 Apr 2020): https://www.wirecard.com/wp-content/uploads/2021/01/AH_2020_04_28_KPMG-report.pdf",
+  "BaFin, General Administrative Act prohibiting net short positions in Wirecard AG shares (18 Feb 2019): https://bafin.de/SharedDocs/Veroeffentlichungen/EN/Meldung/2019/meldung_190218_Allg_Vfg_Wirecard_Verbot_Leerverkaufspositionen_en.html",
+  "Associated Press, 'German prosecutors drop probe of journalists over Wirecard' (3 Sep 2020): https://www.audacy.com/krld/articles/ap-news/german-prosecutors-drop-probe-of-journalists-over-wirecard",
+  "Rappler (Reuters), 'Timeline: Key dates in Germany's Wirecard fraud scandal' (2020): https://www.rappler.com/business/264934-timeline-key-dates-germany-wirecard-fraud-scandal",
+  "ORF, 'Wirecard: Drei Haftbefehle, Braun erneut festgenommen' (22 Jul 2020): https://orf.at/stories/3174579/",
+  "LTO, Wirecard trial opening at LG München I, case 4 KLs 402 Js 108194/22 (9 Nov 2022): https://www.lto.de/recht/nachrichten/n/prozess-auftakt-4kls402js10819422-wirecard-lg-muenchen-markus-braun/print.html",
+  "dpa-AFX via ARIVA, 'Wirecard-Prozess: Letzte Frist für die Verteidiger' (28 Oct 2026): https://www.ariva.de/news/wirecard-prozess-letzte-frist-fuer-die-verteidiger-12185043",
+  "wirtschaftsticker (dpa), 'Wirecard-Prozess: Urteil in Sicht' (23 Jul 2026): https://wirtschaftsticker.com/2026/07/wirecard-prozess-urteil-in-sicht/",
+  "LTO, 'Apas sanktioniert EY nach Wirecard-Skandal' (3 Apr 2023): https://www.lto.de/recht/kanzleien-unternehmen/k/wirecard-apas-sanktionen-wettbewerbsverbot-neumandate-geldbussen-ey",
+  "Baker McKenzie Global Litigation News, 'Germany: Wirecard board members liable for EUR 140 million' (3 Jan 2025), Munich Regional Court I, 5 HK O 17452/21, judgment of 5 Sep 2024: https://globallitigationnews.bakermckenzie.com/2025/01/03/germany-wirecard-board-members-liable-for-eur-140-million/",
+  "Deutscher Bundestag, hib 830/2021, final report of the 3rd committee of inquiry (Wirecard), Drucksache 19/30900 (23 Jun 2021): https://www.bundestag.de/presse/hib/849326-849326",
+  "The Globe and Mail (Reuters), 'Chief of Germany's financial regulator BaFin leaves in wake of Wirecard' (Jan 2021): https://www.theglobeandmail.com/business/international-business/european-business/article-chief-of-germanys-financial-regulator-bafin-leaves-in-wake-of-wirecard/",
+  "PA Media via Express & Star, 'Russian spy ring convicted of industrial scale espionage on UK soil' (7 Mar 2025): https://www.expressandstar.com/uk-news/2025/03/07/russian-spy-ring-convicted-of-industrial-scale-espionage-on-uk-soil"
+ ],
+ "altered": {
+  "disclose": false,
+  "reason": "Generic synthetic narrator (Kokoro bm_george) not imitating any real person; quotes attributed by the narrator and shown as on-screen text; original code-generated charts, text graphics and music; no realistic synthetic imagery or altered real footage."
+ },
+ "notes": {
+  "status": "fact-checked 29 Oct 2026 (independent sub-agent: ~70 claims, 0 wrong; ~20 wording/attribution fixes applied: title, Marsalek attribution and title, 2015 allegation, APAS public-interest scope and non-finality, loan-termination condition, 98% wording, unsourced <€3 price removed, €1.7bn vs €1.9bn explained, KPMG Dec-2019 and trustee wording, AP attribution of journalists, Bundestag quote attribution)",
+  "alt_titles": [
+   "Why Did Wirecard Collapse? The €1.9bn That Never Existed",
+   "Wirecard: The Auditor, the Regulator and the Missing €1.9bn"
+  ],
+  "thumbnails": {
+   "A": "'€1.9BN' huge in white over 'NEVER THERE' in red; paper case file stamped UNVERIFIED (house style).",
+   "B": "Code-drawn bank balance confirmation with a red 'NOT OUR CLIENT' stamp, '€1.9BN?' headline; question keeps it to the record."
+  },
+  "experiment": "Same title pattern as 006 (number contrast) so the week of 2–8 Nov tests one pattern; topic = global/European story with live trial peg.",
+  "demand_check": "29 Oct 2026: no measured YouTube search data this run (research.yml not run). Signals: large evergreen coverage (Netflix 'Skandal!', several big-creator explainers) and a live news peg: Munich trial in final phase, court plans final evidence deadline 11 Nov 2026 (dpa 28 Oct).",
+  "legal": "Braun and the former chief accountant deny the charges and are presumed innocent; no verdict. Bellenhaus' confirmation is as reported by dpa. Judge's 'speculative' remark is dpa's report. Marsalek: only what prosecutors said in the 2025 London trial; never called guilty. APAS sanctions were not final when announced (objections possible).",
+  "end_screen": "Patisserie Valerie (005); then playlist pl-007.",
+  "visual_upgrade": "Image scenes not supported yet (pipeline has no image type).",
+  "factcheck_log": [
+   "29 Oct independent check (sub-agent, all sources opened with WebFetch): no claim WRONG; UNVERIFIED items fixed: title wording, '<€3' price (removed), Marsalek 'prosecutors described' and 'COO' (reworded/removed). Wording fixes as in status. Not re-checked: 'two of the country's biggest banks' (substance true)."
+  ]
+ },
+ "scenes": [
+  {
+   "say": "In June 2020, a German tech company admitted that one point nine billion euros on its balance sheet probably did not exist.",
+   "visual": {
+    "type": "stat",
+    "value": "€1.9bn",
+    "label": "cash in trust accounts that could not be verified",
+    "red": true,
+    "src": "Wirecard ad hoc, 18 Jun 2020; Al Jazeera, 22 Jun 2020"
+   },
+   "src": "Wirecard ad hoc, 18 Jun 2020; Al Jazeera, 22 Jun 2020",
+   "chapter": "Cold open"
+  },
+  {
+   "say": "That was about a quarter of everything the company said it owned.",
+   "visual": {
+    "type": "bars",
+    "title": "Wirecard balance sheet, 2019 (unaudited)",
+    "items": [
+     [
+      "Everything else",
+      75,
+      "~75%"
+     ],
+     [
+      "Unverified trust-account cash",
+      25,
+      "~25%"
+     ]
+    ],
+    "hi": 1,
+    "src": "Wirecard ad hoc, 18 Jun 2020"
+   },
+   "src": "Wirecard ad hoc, 18 Jun 2020"
+  },
+  {
+   "say": "Less than two years earlier, Wirecard had been worth more than twenty-four billion euros, and had taken Commerzbank's place in Germany's top share index.",
+   "visual": {
+    "type": "timeline",
+    "date": "Sept 2018",
+    "text": "Wirecard joins the DAX, replacing Commerzbank",
+    "src": "CNN, 25 Jun 2020"
+   },
+   "src": "CNN, 25 Jun 2020"
+  },
+  {
+   "say": "Its former chief executive, Markus Braun, has now been on trial in Munich for almost four years. He denies every charge, and no verdict has been reached.",
+   "visual": {
+    "type": "stats",
+    "title": "The Munich trial, Oct 2026",
+    "items": [
+     [
+      "289",
+      "trial days so far"
+     ],
+     [
+      "6+ yrs",
+      "Braun in custody"
+     ],
+     [
+      "0",
+      "verdict dates set"
+     ]
+    ],
+    "hi": 2,
+    "src": "dpa-AFX, 28 Oct 2026"
+   },
+   "src": "dpa-AFX, 28 Oct 2026"
+  },
+  {
+   "say": "This is the story told through the paperwork: the audit, the regulator and the special investigation. And one document, published two months before the collapse, already said the key question could not be answered.",
+   "visual": {
+    "type": "document",
+    "header": "Special investigation · 27 Apr 2020",
+    "title": "KPMG report",
+    "lines": [
+     "Third-party acquiring revenue, 2016–2018",
+     "!Existence: could not be verified",
+     "Main reason given: partners did not fully cooperate"
+    ],
+    "stamp": "OBSTACLE",
+    "src": "KPMG special investigation report, 27 Apr 2020, pp. 12–13"
+   },
+   "src": "KPMG special investigation report, 27 Apr 2020, pp. 12–13"
+  },
+  {
+   "say": "Wirecard processed card payments for online shops. Its share price passed one hundred and ninety euros in September 2018.",
+   "visual": {
+    "type": "chapter",
+    "n": 1,
+    "text": "A DAX star",
+    "src": "CNN, 25 Jun 2020"
+   },
+   "src": "CNN, 25 Jun 2020",
+   "chapter": "A DAX star",
+   "pause": 0.3
+  },
+  {
+   "say": "At that peak, investors valued it at more than twenty-four billion euros.",
+   "visual": {
+    "type": "stat",
+    "value": "€24bn+",
+    "label": "market value at the September 2018 peak",
+    "src": "CNN, 25 Jun 2020"
+   },
+   "src": "CNN, 25 Jun 2020"
+  },
+  {
+   "say": "Reuters reported that it was worth more than Deutsche Bank when it joined the index.",
+   "visual": {
+    "type": "stat",
+    "value": "> Deutsche Bank",
+    "label": "Wirecard's value when it joined the DAX: more than €23bn",
+    "src": "Rappler (Reuters) timeline"
+   },
+   "src": "Rappler (Reuters) timeline"
+  },
+  {
+   "say": "To the outside world, it looked like Germany's answer to Silicon Valley. But a large part of its profit came from business that other companies did on its behalf.",
+   "visual": {
+    "type": "quote",
+    "text": "Wirecard presented fraudulent balance sheets over several years.",
+    "by": "CDU/CSU and SPD, inquiry report 2021 (translated)",
+    "src": "Bundestag hib 830/2021"
+   },
+   "src": "Bundestag hib 830/2021"
+  },
+  {
+   "say": "To understand what went missing, you need to understand three words: third-party acquiring.",
+   "visual": {
+    "type": "chapter",
+    "n": 2,
+    "text": "Business done by someone else",
+    "src": "KPMG special investigation report, 27 Apr 2020, p. 14"
+   },
+   "src": "KPMG special investigation report, 27 Apr 2020, p. 14",
+   "chapter": "Business done by someone else",
+   "pause": 0.3
+  },
+  {
+   "say": "According to KPMG, Wirecard referred customers to three partner companies, which processed their card payments.",
+   "visual": {
+    "type": "list",
+    "title": "Third-party acquiring, as KPMG described it",
+    "items": [
+     "Wirecard refers merchants to a partner",
+     "The partner processes the card payments",
+     "Wirecard books the fees as its own revenue",
+     "The partner's commission is booked as a cost"
+    ],
+    "src": "KPMG report, p. 14"
+   },
+   "src": "KPMG report, p. 14"
+  },
+  {
+   "say": "Wirecard booked the fees as its own revenue. In return, it promised to cover the partners' losses, and that promise was secured with cash held by a trustee.",
+   "visual": {
+    "type": "document",
+    "header": "KPMG report · p. 15",
+    "title": "How the escrow worked",
+    "lines": [
+     "Wirecard indemnifies the partner against losses",
+     "!Secured by cash in trustee escrow accounts",
+     "Escrow balances broadly tracked partner revenue"
+    ],
+    "src": "KPMG report, p. 15"
+   },
+   "src": "KPMG report, p. 15"
+  },
+  {
+   "say": "KPMG found that the companies running this business produced the predominant share of the group's operating profit.",
+   "visual": {
+    "type": "stat",
+    "value": "Most",
+    "label": "of group operating profit (EBIT) came from the partner-business companies",
+    "sub": "KPMG: depends on how costs are allocated",
+    "src": "KPMG report, p. 15"
+   },
+   "src": "KPMG report, p. 15"
+  },
+  {
+   "say": "So the profit depended on partners outside Wirecard, and the cash supposedly sat with a trustee outside Wirecard. Anyone checking had to rely on other people's paperwork.",
+   "visual": {
+    "type": "list",
+    "title": "Who held what",
+    "items": [
+     "Revenue: generated by outside partners",
+     "Cash: held by an outside trustee",
+     "Proof: confirmations from third parties"
+    ],
+    "src": "KPMG report, pp. 14–17"
+   },
+   "src": "KPMG report, pp. 14–17"
+  },
+  {
+   "say": "The first public warnings came in January 2019, when the Financial Times published allegations of accounting irregularities in Wirecard's Asian business.",
+   "visual": {
+    "type": "chapter",
+    "n": 3,
+    "text": "The regulator's response",
+    "src": "Rappler (Reuters) timeline"
+   },
+   "src": "Rappler (Reuters) timeline",
+   "chapter": "The regulator's response",
+   "pause": 0.3
+  },
+  {
+   "say": "Police in Singapore raided Wirecard's offices there in February.",
+   "visual": {
+    "type": "timeline",
+    "date": "Feb 2019",
+    "text": "Singapore police raid Wirecard's local offices",
+    "src": "Rappler (Reuters) timeline"
+   },
+   "src": "Rappler (Reuters) timeline"
+  },
+  {
+   "say": "Germany's financial regulator, BaFin, then did something unusual. On the eighteenth of February 2019, it banned new bets against Wirecard's shares.",
+   "visual": {
+    "type": "document",
+    "header": "BaFin · 18 Feb 2019",
+    "title": "General Administrative Act",
+    "lines": [
+     "Wirecard AG (DE0007472060)",
+     "!Ban on new net short positions, with immediate effect",
+     "Valid until 18 April 2019"
+    ],
+    "src": "BaFin, 18 Feb 2019"
+   },
+   "src": "BaFin, 18 Feb 2019"
+  },
+  {
+   "say": "And in April, BaFin filed a criminal complaint with Munich prosecutors over suspected market manipulation. AP later reported that the people it named included two Financial Times journalists.",
+   "visual": {
+    "type": "timeline",
+    "date": "Apr 2019",
+    "text": "BaFin complaint names two FT journalists among others",
+    "red": true,
+    "src": "AP, 3 Sep 2020; Rappler (Reuters) timeline"
+   },
+   "src": "AP, 3 Sep 2020; Rappler (Reuters) timeline"
+  },
+  {
+   "say": "That investigation was dropped in September 2020. Prosecutors said the reporting had been, quote, fundamentally accurate.",
+   "visual": {
+    "type": "quote",
+    "text": "Reporting 'fundamentally accurate'",
+    "by": "Munich prosecutors, as reported by AP, Sep 2020",
+    "src": "AP, 3 Sep 2020"
+   },
+   "src": "AP, 3 Sep 2020"
+  },
+  {
+   "say": "By then, Wirecard no longer existed as a going concern.",
+   "visual": {
+    "type": "stat",
+    "value": "14 months",
+    "label": "from BaFin's complaint to Wirecard's insolvency",
+    "red": true,
+    "src": "Rappler (Reuters) timeline; CNN, 25 Jun 2020"
+   },
+   "src": "Rappler (Reuters) timeline; CNN, 25 Jun 2020"
+  },
+  {
+   "say": "Under pressure, Wirecard hired KPMG for a special investigation. The report was dated the twenty-seventh of April 2020.",
+   "visual": {
+    "type": "chapter",
+    "n": 4,
+    "text": "The obstacle",
+    "src": "KPMG report, 27 Apr 2020"
+   },
+   "src": "KPMG report, 27 Apr 2020",
+   "chapter": "The obstacle",
+   "pause": 0.3
+  },
+  {
+   "say": "For the years 2016 to 2018, KPMG could neither confirm nor rule out that the partner business existed as reported. It used a German word: Untersuchungshemmnis. An obstacle to the investigation.",
+   "visual": {
+    "type": "quote",
+    "text": "Insoweit liegt ein Untersuchungshemmnis vor. (In this respect, there is an obstacle to the investigation.)",
+    "by": "KPMG special investigation report, p. 12",
+    "src": "KPMG report, p. 12"
+   },
+   "src": "KPMG report, p. 12"
+  },
+  {
+   "say": "The reason, KPMG wrote, was the partners' lack of willingness to cooperate fully and transparently.",
+   "visual": {
+    "type": "document",
+    "header": "KPMG report · p. 13",
+    "title": "Why it could not be verified",
+    "lines": [
+     "Partners did not cooperate fully and transparently",
+     "!Transaction volumes 2016–2018 could not be verified",
+     "Dec 2019 data: no indications of deviations so far"
+    ],
+    "src": "KPMG report, p. 13"
+   },
+   "src": "KPMG report, p. 13"
+  },
+  {
+   "say": "It also reported that about one billion euros of payments into trust accounts could not be verified.",
+   "visual": {
+    "type": "stat",
+    "value": "~€1bn",
+    "label": "trust-account deposits KPMG could not verify",
+    "red": true,
+    "src": "KPMG report, p. 16"
+   },
+   "src": "KPMG report, p. 16"
+  },
+  {
+   "say": "KPMG was told that the original trustee in Singapore had ended the relationship at the end of 2019 and stopped responding. A new trustee took over, with accounts at banks in the Philippines.",
+   "visual": {
+    "type": "timeline",
+    "date": "Q4 2019",
+    "text": "Singapore trustee exits; accounts move to Philippine banks",
+    "src": "KPMG report, pp. 15–24"
+   },
+   "src": "KPMG report, pp. 15–24"
+  },
+  {
+   "say": "Wirecard's own announcement of the report led with a different line: no incriminating evidence of balance-sheet manipulation had been identified.",
+   "visual": {
+    "type": "list",
+    "title": "Same report, two readings",
+    "items": [
+     "Wirecard, 28 Apr: no incriminating evidence identified",
+     "KPMG, p. 12: existence of partner revenue could not be verified"
+    ],
+    "src": "Wirecard ad hoc, 28 Apr 2020; KPMG report, p. 12"
+   },
+   "src": "Wirecard ad hoc, 28 Apr 2020; KPMG report, p. 12"
+  },
+  {
+   "say": "Wirecard's auditor was EY. Its 2019 accounts were due on the eighteenth of June 2020.",
+   "visual": {
+    "type": "chapter",
+    "n": 5,
+    "text": "Eight days in June",
+    "src": "Wirecard ad hoc, 18 Jun 2020"
+   },
+   "src": "Wirecard ad hoc, 18 Jun 2020",
+   "chapter": "Eight days in June",
+   "pause": 0.3
+  },
+  {
+   "say": "That morning, Wirecard announced that EY could not obtain sufficient audit evidence for one point nine billion euros held in trust accounts.",
+   "visual": {
+    "type": "document",
+    "header": "Ad hoc announcement · 18 Jun 2020",
+    "title": "Wirecard AG",
+    "lines": [
+     "EUR 1.9bn in trust-account cash",
+     "!Auditor: insufficient audit evidence",
+     "About a quarter of the balance sheet"
+    ],
+    "stamp": "DELAYED",
+    "src": "Wirecard ad hoc, 18 Jun 2020"
+   },
+   "src": "Wirecard ad hoc, 18 Jun 2020"
+  },
+  {
+   "say": "The company said there were indications that spurious balance confirmations had been given to the auditor. If audited accounts were not ready by the next day, lenders could terminate loans of about two billion euros.",
+   "visual": {
+    "type": "stat",
+    "value": "~€2bn",
+    "label": "of loans lenders could terminate",
+    "sub": "Wirecard ad hoc, 18 Jun 2020",
+    "src": "Wirecard ad hoc, 18 Jun 2020"
+   },
+   "src": "Wirecard ad hoc, 18 Jun 2020"
+  },
+  {
+   "say": "The next day, Markus Braun resigned. In Manila, two Philippine banks, BPI and BDO, said the documents showing Wirecard deposits were false, and that Wirecard was not their client.",
+   "visual": {
+    "type": "list",
+    "title": "What the Philippine banks said",
+    "items": [
+     "BPI: documents were false; not a client",
+     "BDO: documents were false; not a client",
+     "Central bank: money did not appear to have entered the country"
+    ],
+    "src": "Al Jazeera, 22 Jun 2020"
+   },
+   "src": "Al Jazeera, 22 Jun 2020"
+  },
+  {
+   "say": "On the twenty-second of June, Wirecard said there was a, quote, prevailing likelihood that the one point nine billion euros did not exist.",
+   "visual": {
+    "type": "quote",
+    "text": "There is a prevailing likelihood that the bank trust account balances in the amount of 1.9 billion EUR do not exist.",
+    "by": "Wirecard AG, 22 June 2020",
+    "src": "Al Jazeera, 22 Jun 2020"
+   },
+   "src": "Al Jazeera, 22 Jun 2020"
+  },
+  {
+   "say": "Braun was arrested that day, and released on five million euros' bail.",
+   "visual": {
+    "type": "timeline",
+    "date": "22 Jun 2020",
+    "text": "Braun arrested; released on €5m bail",
+    "src": "Rappler (Reuters) timeline"
+   },
+   "src": "Rappler (Reuters) timeline"
+  },
+  {
+   "say": "On the twenty-fifth, Wirecard filed for insolvency. Reuters reported it was the first member of the DAX to go out of business.",
+   "visual": {
+    "type": "timeline",
+    "date": "25 Jun 2020",
+    "text": "Insolvency filing in Munich",
+    "red": true,
+    "src": "Reuters via Malay Mail, 25 Jun 2020"
+   },
+   "src": "Reuters via Malay Mail, 25 Jun 2020"
+  },
+  {
+   "say": "Fifteen banks had lent it one point seven five billion euros. Bond investors had lent five hundred million more. One lender told Reuters: the money is gone.",
+   "visual": {
+    "type": "bars",
+    "title": "Who had lent to Wirecard",
+    "items": [
+     [
+      "15 banks",
+      1750,
+      "€1.75bn"
+     ],
+     [
+      "Bond investors",
+      500,
+      "€500m"
+     ]
+    ],
+    "hi": 0,
+    "src": "Reuters via Malay Mail, 25 Jun 2020"
+   },
+   "src": "Reuters via Malay Mail, 25 Jun 2020"
+  },
+  {
+   "say": "The shares had lost ninety-eight per cent since the auditor's refusal a week earlier.",
+   "visual": {
+    "type": "stat",
+    "value": "-98%",
+    "label": "share price fall in the week after EY's refusal",
+    "red": true,
+    "src": "CNN, 25 Jun 2020; Reuters via Malay Mail, 25 Jun 2020"
+   },
+   "src": "CNN, 25 Jun 2020; Reuters via Malay Mail, 25 Jun 2020"
+  },
+  {
+   "say": "In July 2020, Munich prosecutors had Braun arrested again, along with two other former executives.",
+   "visual": {
+    "type": "chapter",
+    "n": 6,
+    "text": "The longest trial",
+    "src": "ORF, 22 Jul 2020"
+   },
+   "src": "ORF, 22 Jul 2020",
+   "chapter": "The longest trial",
+   "pause": 0.3
+  },
+  {
+   "say": "The charges included commercial gang fraud and market manipulation. Prosecutors alleged that, as early as 2015, the suspects decided to inflate the balance sheet. They said a key witness and documents had helped their investigation.",
+   "visual": {
+    "type": "document",
+    "header": "Munich prosecutors · Jul 2020",
+    "title": "The allegation",
+    "lines": [
+     "Commercial gang fraud",
+     "Market manipulation",
+     "!Alleged plan from 2015 to inflate the balance sheet"
+    ],
+    "src": "ORF, 22 Jul 2020"
+   },
+   "src": "ORF, 22 Jul 2020"
+  },
+  {
+   "say": "The indictment ran to four hundred and seventy-four pages. The trial opened on the eighth of December 2022, with three defendants.",
+   "visual": {
+    "type": "stats",
+    "title": "Case 4 KLs 402 Js 108194/22",
+    "items": [
+     [
+      "474",
+      "pages of indictment"
+     ],
+     [
+      "3",
+      "defendants"
+     ],
+     [
+      "8 Dec 2022",
+      "trial opened"
+     ]
+    ],
+    "src": "LTO, 9 Nov 2022"
+   },
+   "src": "LTO, 9 Nov 2022"
+  },
+  {
+   "say": "Prosecutors put the damage at about three billion euros. Braun denies everything. His defence says the business was real, and that others, led by the former board member Jan Marsalek, stole the profits.",
+   "visual": {
+    "type": "stat",
+    "value": "€3bn",
+    "label": "damage alleged by prosecutors",
+    "sub": "Braun denies all charges and is presumed innocent",
+    "src": "dpa-AFX, 28 Oct 2026; wirtschaftsticker (dpa), 23 Jul 2026"
+   },
+   "src": "dpa-AFX, 28 Oct 2026; wirtschaftsticker (dpa), 23 Jul 2026"
+  },
+  {
+   "say": "According to the news agency dpa, the presiding judge has called that argument speculative.",
+   "visual": {
+    "type": "document",
+    "header": "dpa report · 28 Oct 2026",
+    "title": "The judge on the defence",
+    "lines": [
+     "Defence: the business was real; others took the profits",
+     "!Judge: argument speculative, not conclusive"
+    ],
+    "src": "dpa-AFX, 28 Oct 2026"
+   },
+   "src": "dpa-AFX, 28 Oct 2026"
+  },
+  {
+   "say": "The former Wirecard manager in Dubai, Oliver Bellenhaus, has confirmed the prosecution's account on essential points. The former chief accountant denies the charges.",
+   "visual": {
+    "type": "list",
+    "title": "The three defendants",
+    "items": [
+     "Markus Braun, ex-CEO: denies all charges",
+     "Oliver Bellenhaus, ex-Dubai manager: confirmed the prosecution's account",
+     "Former chief accountant: denies the charges"
+    ],
+    "src": "dpa-AFX, 28 Oct 2026; LTO, 9 Nov 2022"
+   },
+   "src": "dpa-AFX, 28 Oct 2026; LTO, 9 Nov 2022"
+  },
+  {
+   "say": "dpa now puts the booked bank balances that cannot be found at one point seven billion euros. The insolvency administrator, Michael Jaffé, has still found no sign that the money ever existed.",
+   "visual": {
+    "type": "stat",
+    "value": "€1.7bn",
+    "label": "booked bank balances that cannot be found",
+    "sub": "Administrator: no sign the money ever existed",
+    "red": true,
+    "src": "dpa-AFX, 28 Oct 2026"
+   },
+   "src": "dpa-AFX, 28 Oct 2026"
+  },
+  {
+   "say": "Marsalek himself vanished in 2020. In a London spy trial that ended in 2025, the convicted ring was described as directed by Marsalek, an alleged Russian agent wanted by Interpol. He has not faced trial.",
+   "visual": {
+    "type": "document",
+    "header": "London, March 2025",
+    "title": "Jan Marsalek",
+    "lines": [
+     "Wanted by Interpol after Wirecard's collapse",
+     "!Described as directing the convicted spy ring",
+     "Alleged Russian agent; has not faced trial"
+    ],
+    "src": "PA via Express & Star, 7 Mar 2025; LTO, 9 Nov 2022"
+   },
+   "src": "PA via Express & Star, 7 Mar 2025; LTO, 9 Nov 2022"
+  },
+  {
+   "say": "dpa reports that the court plans to set a final two-week deadline for the defence's evidence motions on the eleventh of November. Dates for closing speeches and a verdict have not been set.",
+   "visual": {
+    "type": "timeline",
+    "date": "11 Nov 2026",
+    "text": "Court plans to set final deadline for evidence motions",
+    "src": "dpa-AFX, 28 Oct 2026"
+   },
+   "src": "dpa-AFX, 28 Oct 2026"
+  },
+  {
+   "say": "So who has been held to account so far?",
+   "visual": {
+    "type": "chapter",
+    "n": 7,
+    "text": "Who answered for it",
+    "src": ""
+   },
+   "src": "",
+   "chapter": "Who answered for it",
+   "pause": 0.3
+  },
+  {
+   "say": "In April 2023, Germany's audit watchdog, APAS, found that EY had breached its professional duties in auditing Wirecard's accounts for 2016 to 2018. The decisions could still be challenged.",
+   "visual": {
+    "type": "document",
+    "header": "APAS · 3 Apr 2023",
+    "title": "Sanctions against EY",
+    "lines": [
+     "Breaches of professional duty, audits 2016–2018",
+     "!Fine: €500,000",
+     "2-year ban on new public-interest audits",
+     "Five auditors fined €23,000–€300,000"
+    ],
+    "src": "LTO, 3 Apr 2023"
+   },
+   "src": "LTO, 3 Apr 2023"
+  },
+  {
+   "say": "EY was fined five hundred thousand euros, and banned for two years from taking on new statutory audits of public-interest companies. Five individual auditors were fined between twenty-three thousand and three hundred thousand euros.",
+   "visual": {
+    "type": "bars",
+    "title": "Fines announced by APAS",
+    "items": [
+     [
+      "EY (firm)",
+      500,
+      "€500k"
+     ],
+     [
+      "Highest individual fine",
+      300,
+      "€300k"
+     ],
+     [
+      "Lowest individual fine",
+      23,
+      "€23k"
+     ]
+    ],
+    "hi": 0,
+    "src": "LTO, 3 Apr 2023"
+   },
+   "src": "LTO, 3 Apr 2023"
+  },
+  {
+   "say": "In September 2024, a Munich civil court ordered Braun and two other former board members to pay one hundred and forty million euros plus interest, for an unsecured loan and a bond purchase made without proper checks.",
+   "visual": {
+    "type": "stat",
+    "value": "€140m",
+    "label": "civil damages, Munich Regional Court I",
+    "sub": "Judgment of 5 Sep 2024, case 5 HK O 17452/21",
+    "src": "Baker McKenzie, 3 Jan 2025"
+   },
+   "src": "Baker McKenzie, 3 Jan 2025"
+  },
+  {
+   "say": "BaFin's president left in early 2021. The finance ministry said the scandal had shown that German financial supervision needed reorganising.",
+   "visual": {
+    "type": "quote",
+    "text": "The Wirecard scandal has revealed that Germany's financial supervision needs a reorganization.",
+    "by": "German Finance Ministry, 2021",
+    "src": "The Globe and Mail (Reuters), 2021"
+   },
+   "src": "The Globe and Mail (Reuters), 2021"
+  },
+  {
+   "say": "And a parliamentary inquiry questioned one hundred and five witnesses. Its report ran to more than two thousand pages. Three opposition parties called it a collective failure of supervision.",
+   "visual": {
+    "type": "stats",
+    "title": "Bundestag inquiry, 2020–2021",
+    "items": [
+     [
+      "105",
+      "witnesses"
+     ],
+     [
+      "32",
+      "sessions"
+     ],
+     [
+      "2,000+",
+      "pages"
+     ]
+    ],
+    "src": "Bundestag hib 830/2021"
+   },
+   "src": "Bundestag hib 830/2021"
+  },
+  {
+   "say": "Here is what we take from the paperwork. This part is our analysis.",
+   "visual": {
+    "type": "chapter",
+    "n": 8,
+    "text": "Our analysis",
+    "src": ""
+   },
+   "src": "",
+   "chapter": "Our analysis",
+   "pause": 0.3
+  },
+  {
+   "say": "Lesson one. A confirmation is only as good as the chain that produced it. EY was given balance confirmations that, by Wirecard's own account, were probably spurious.",
+   "visual": {
+    "type": "list",
+    "title": "Lesson 1",
+    "items": [
+     "Cash confirmed by a trustee is not cash seen at a bank",
+     "Ask who produced each confirmation"
+    ],
+    "src": "Wirecard ad hoc, 18 Jun 2020"
+   },
+   "src": "Wirecard ad hoc, 18 Jun 2020"
+  },
+  {
+   "say": "Lesson two. When most of the profit depends on partners who won't open their books, that is the finding. KPMG said so in writing two months before the collapse.",
+   "visual": {
+    "type": "document",
+    "header": "Our reading",
+    "title": "Red flag in plain sight",
+    "lines": [
+     "Most profit from outside partners",
+     "!Partners would not fully cooperate",
+     "Two months later: insolvency"
+    ],
+    "src": "KPMG report, pp. 12–15; CNN, 25 Jun 2020"
+   },
+   "src": "KPMG report, pp. 12–15; CNN, 25 Jun 2020"
+  },
+  {
+   "say": "Lesson three. In our view, a regulator that treats critics as the problem loses time it cannot get back. Here, the journalists' reporting was later called fundamentally accurate.",
+   "visual": {
+    "type": "stat",
+    "value": "17 months",
+    "label": "from the first FT allegations to the insolvency",
+    "sub": "Jan 2019 → Jun 2020",
+    "src": "Rappler (Reuters) timeline; AP, 3 Sep 2020"
+   },
+   "src": "Rappler (Reuters) timeline; AP, 3 Sep 2020"
+  },
+  {
+   "say": "If this sounds familiar, our Patisserie Valerie case file is another company whose accounts hid what was really in the bank. It's on screen now.",
+   "visual": {
+    "type": "title",
+    "kicker": "Case file 005",
+    "text": "Patisserie Valerie",
+    "sub": "Another set of accounts that didn't match the bank",
+    "src": "Filed Under Failure, episode 005"
+   },
+   "src": "Filed Under Failure, episode 005"
+  },
+  {
+   "say": "The Munich verdict could come within months. Subscribe if you want the follow-up when the court rules. Our next case file is Greensill Capital.",
+   "visual": {
+    "type": "title",
+    "kicker": "Next case file",
+    "text": "Greensill Capital",
+    "sub": "Supply-chain finance and the lobbying storm",
+    "stamp": "SUBSCRIBE",
+    "src": ""
+   },
+   "src": ""
+  }
+ ],
+ "shorts": [
+  {
+   "id": "a",
+   "title": "€1.9 billion on the balance sheet. The banks said it was never there. #Shorts",
+   "hook": "€1.9bn. Never there.",
+   "blurb": "Wirecard's auditor could not verify €1.9bn of trust-account cash, about a quarter of its balance sheet. Two Philippine banks said the documents were false. From Wirecard's own announcements.",
+   "scenes": [
+    {
+     "say": "A German company on the country's top share index had one point nine billion euros that probably never existed.",
+     "visual": {
+      "type": "stat",
+      "value": "€1.9bn",
+      "label": "trust-account cash that could not be verified",
+      "red": true,
+      "src": "Wirecard ad hoc, 18 Jun 2020"
+     },
+     "caption": "€1.9bn that probably never existed"
+    },
+    {
+     "say": "That was about a quarter of everything Wirecard said it owned.",
+     "visual": {
+      "type": "bars",
+      "title": "Wirecard balance sheet, 2019",
+      "items": [
+       [
+        "Everything else",
+        75,
+        "~75%"
+       ],
+       [
+        "Unverified cash",
+        25,
+        "~25%"
+       ]
+      ],
+      "hi": 1,
+      "src": "Wirecard ad hoc, 18 Jun 2020"
+     },
+     "caption": "A quarter of its balance sheet"
+    },
+    {
+     "say": "In June 2020, its auditor, EY, said it could not get enough evidence that the cash was real.",
+     "visual": {
+      "type": "timeline",
+      "date": "18 Jun 2020",
+      "text": "Auditor: insufficient audit evidence",
+      "src": "Wirecard ad hoc, 18 Jun 2020"
+     },
+     "caption": "Auditor couldn't verify it"
+    },
+    {
+     "say": "Two Philippine banks said the documents showing Wirecard's deposits were false. Wirecard wasn't even their client.",
+     "visual": {
+      "type": "list",
+      "title": "The banks' answer",
+      "items": [
+       "BPI: documents false",
+       "BDO: documents false",
+       "Neither had Wirecard as a client"
+      ],
+      "src": "Al Jazeera, 22 Jun 2020"
+     },
+     "caption": "Banks: documents were false"
+    },
+    {
+     "say": "A week later, Wirecard filed for insolvency. The full story is on our channel.",
+     "visual": {
+      "type": "timeline",
+      "date": "25 Jun 2020",
+      "text": "Insolvency filing",
+      "red": true,
+      "src": "CNN, 25 Jun 2020"
+     },
+     "caption": "Insolvent within a week"
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "title": "Wirecard's regulator went after two journalists. Prosecutors later said they were right #Shorts",
+   "hook": "They blamed the reporters.",
+   "blurb": "In 2019 BaFin banned new short bets on Wirecard and filed a complaint naming two Financial Times journalists. In 2020 prosecutors dropped it, calling the reporting fundamentally accurate.",
+   "scenes": [
+    {
+     "say": "When journalists warned about Wirecard, Germany's regulator filed a criminal complaint that named the journalists.",
+     "visual": {
+      "type": "timeline",
+      "date": "Apr 2019",
+      "text": "BaFin complaint names two FT journalists",
+      "red": true,
+      "src": "AP, 3 Sep 2020"
+     },
+     "caption": "The complaint named the reporters"
+    },
+    {
+     "say": "In early 2019, the Financial Times had published allegations of accounting problems in Wirecard's Asian business.",
+     "visual": {
+      "type": "timeline",
+      "date": "Jan 2019",
+      "text": "FT allegations about the Asian business",
+      "src": "Rappler (Reuters) timeline"
+     },
+     "caption": "The warning: January 2019"
+    },
+    {
+     "say": "The regulator, BaFin, also banned new bets against Wirecard's shares for two months.",
+     "visual": {
+      "type": "document",
+      "header": "BaFin · 18 Feb 2019",
+      "title": "Short-selling ban",
+      "lines": [
+       "!New net short positions banned",
+       "Until 18 April 2019"
+      ],
+      "src": "BaFin, 18 Feb 2019"
+     },
+     "caption": "Bets against it banned"
+    },
+    {
+     "say": "In June 2020, Wirecard collapsed. That September, prosecutors dropped the case and said the reporting had been fundamentally accurate.",
+     "visual": {
+      "type": "quote",
+      "text": "Reporting 'fundamentally accurate'",
+      "by": "Munich prosecutors, as reported by AP",
+      "src": "AP, 3 Sep 2020"
+     },
+     "caption": "'Fundamentally accurate'"
+    },
+    {
+     "say": "The full story is on our channel.",
+     "visual": {
+      "type": "title",
+      "kicker": "Case file 007",
+      "text": "Wirecard",
+      "src": ""
+     },
+     "caption": "Full story on the channel"
+    }
+   ]
+  },
+  {
+   "id": "c",
+   "title": "Two months before Wirecard collapsed, KPMG said it couldn't verify the profits #Shorts",
+   "hook": "The warning was in writing.",
+   "blurb": "KPMG's special investigation of April 2020 could not confirm that Wirecard's partner business existed as reported for 2016–2018, because the partners did not fully cooperate.",
+   "scenes": [
+    {
+     "say": "Two months before Wirecard collapsed, KPMG wrote that it could not verify that the business behind much of the profit existed.",
+     "visual": {
+      "type": "document",
+      "header": "KPMG · 27 Apr 2020",
+      "title": "Special investigation",
+      "lines": [
+       "Partner revenue 2016–2018",
+       "!Existence could not be verified"
+      ],
+      "stamp": "OBSTACLE",
+      "src": "KPMG report, p. 12"
+     },
+     "caption": "Profits it couldn't verify"
+    },
+    {
+     "say": "According to KPMG, most of the group's operating profit came from companies that relied on three outside partners.",
+     "visual": {
+      "type": "stat",
+      "value": "Most",
+      "label": "of group operating profit came from the partner business",
+      "src": "KPMG report, p. 15"
+     },
+     "caption": "Most profit tied to partner business"
+    },
+    {
+     "say": "KPMG said those partners would not cooperate fully and transparently. It called it an obstacle to the investigation.",
+     "visual": {
+      "type": "quote",
+      "text": "There is an obstacle to the investigation.",
+      "by": "KPMG report, p. 12 (translated)",
+      "src": "KPMG report, pp. 12–13"
+     },
+     "caption": "'An obstacle to the investigation'"
+    },
+    {
+     "say": "Wirecard's announcement said no incriminating evidence had been found. In June, it said one point nine billion euros probably didn't exist.",
+     "visual": {
+      "type": "timeline",
+      "date": "22 Jun 2020",
+      "text": "'Prevailing likelihood' €1.9bn does not exist",
+      "red": true,
+      "src": "Al Jazeera, 22 Jun 2020"
+     },
+     "caption": "Then: €1.9bn gone"
+    },
+    {
+     "say": "The full story is on our channel.",
+     "visual": {
+      "type": "title",
+      "kicker": "Case file 007",
+      "text": "Wirecard",
+      "src": ""
+     },
+     "caption": "Full story on the channel"
+    }
+   ]
+  },
+  {
+   "id": "d",
+   "title": "Wirecard's auditor EY: fined €500,000 and banned from new public-interest audits #Shorts",
+   "hook": "It's in the ruling.",
+   "blurb": "Germany's audit watchdog APAS found EY breached its professional duties in its Wirecard audits for 2016–2018, fined it €500,000 and barred new public-interest audits for two years.",
+   "scenes": [
+    {
+     "say": "Germany's audit watchdog found that Wirecard's auditor had breached its professional duties.",
+     "visual": {
+      "type": "document",
+      "header": "APAS · 3 Apr 2023",
+      "title": "Finding against EY",
+      "lines": [
+       "!Breaches of professional duty",
+       "Audits of 2016–2018 accounts"
+      ],
+      "src": "LTO, 3 Apr 2023"
+     },
+     "caption": "Auditor breached its duties"
+    },
+    {
+     "say": "The auditor was EY. It had signed off Wirecard's accounts for years before refusing in June 2020.",
+     "visual": {
+      "type": "timeline",
+      "date": "18 Jun 2020",
+      "text": "EY cannot verify €1.9bn",
+      "src": "Al Jazeera, 22 Jun 2020"
+     },
+     "caption": "Signed off for years"
+    },
+    {
+     "say": "In April 2023, the watchdog, APAS, fined EY five hundred thousand euros.",
+     "visual": {
+      "type": "stat",
+      "value": "€500k",
+      "label": "fine on EY",
+      "red": true,
+      "src": "LTO, 3 Apr 2023"
+     },
+     "caption": "€500,000 fine"
+    },
+    {
+     "say": "It also barred EY from taking on new audits of public-interest companies in Germany for two years. Five auditors were fined personally.",
+     "visual": {
+      "type": "list",
+      "title": "The other sanctions",
+      "items": [
+       "2-year ban on new public-interest audits",
+       "5 auditors fined €23k–€300k"
+      ],
+      "src": "LTO, 3 Apr 2023"
+     },
+     "caption": "Two-year ban"
+    },
+    {
+     "say": "The full story is on our channel.",
+     "visual": {
+      "type": "title",
+      "kicker": "Case file 007",
+      "text": "Wirecard",
+      "src": ""
+     },
+     "caption": "Full story on the channel"
+    }
+   ]
+  }
+ ]
+}
