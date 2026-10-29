@@ -1,6 +1,6 @@
 # PROJECT_STATUS — Filed Under Failure
 
-_Last updated: 2026-10-29 06:30 PKT (monitor)_
+_Last updated: 2026-10-29 23:40 PKT (production)_
 
 ## Goal
 Faceless business-collapse documentary channel. Daily Short + weekly long episode, free tools only, hands-off, reach YPP honestly.
@@ -27,6 +27,7 @@ Faceless business-collapse documentary channel. Daily Short + weekly long episod
 - 006 self-checked 26 Oct (6 fixes, see notes.factcheck_log); status still "scripted" → tonight's run (23:02 PKT) must run the independent fact-check before rendering.
 
 ## In progress
+- 29 Oct (production): 007 Wirecard researched, independently fact-checked (0 wrong, ~20 wording fixes), built (10.3 min, -14.5 LUFS, 52 MB, 4 Shorts 34–39 s), pushed to 007/; ledger rows 007-ep + 007-a (Sat 7 Nov), 007-b/c/d (12/13/15 Nov; 11 + 14 Nov left free for 008-a/009-a), lane api, planned. yt/ops.json for 007 (pl-007, Full Episodes, Short links) for the monitor once videoIds exist. Image scenes not supported yet. Next: 008 Greensill (Wed 11 Nov).
 - 26 Oct (production): 006 First Brands independently fact-checked (fixes applied, pushed), built (8.9 min, -14.5 LUFS, 45 MB, 4 Shorts 36–40 s), pushed; ledger rows 006-ep + 006-a (Wed 4 Nov), 006-b/c/d (8/9/10 Nov; Sat 7 Nov left free for 007-a), lane api, planned. yt/ops.json for 006 (pl-006, Full Episodes, Short links) still to add once videoIds exist (monitor). Re-check severance ruling (replies due 9 Nov) before 4 Nov. Image scenes not supported yet (pipeline has no image type).
 - 004 rollout: all scheduled on YouTube except 004-g (auto-queued next).
 - 005: waiting for hourly feed + 12-hourly Make run to schedule; verify videoIds in ledger, then add yt/ops.json entries (playlist pl-005, episode links).
@@ -43,7 +44,7 @@ Faceless business-collapse documentary channel. Daily Short + weekly long episod
 
 ## Next steps
 1. Verify 005 rows become "scheduled"; add 005 ops (playlist, Full Episodes, Short links).
-2. Episode 007 Wirecard (Sat 7 Nov): research + script + build. Verify 006 rows become scheduled.
+2. Verify 006 + 007 rows become scheduled; add their ops. Episode 008 Greensill (Wed 11 Nov): research + script + build.
 3. Weekly update to Qazi (uploads, views, subs, YPP progress).
 
 ## Social (Xenova + FrontDesk) — 23 Oct 2026
