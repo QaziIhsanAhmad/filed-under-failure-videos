@@ -2534,5 +2534,263 @@
     "defaultAudioLanguage": "en"
    }
   }
+ },
+ {
+  "id": "pi-005-q867xRBxV6Y",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-005"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-005",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "q867xRBxV6Y"
+    }
+   }
+  }
+ },
+ {
+  "id": "get-q867xRBxV6Y",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=q867xRBxV6Y"
+ },
+ {
+  "id": "upd-q867xRBxV6Y",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "after": [
+   "get-q867xRBxV6Y"
+  ],
+  "transform": {
+   "kind": "replace_line",
+   "prefix": "Full episode",
+   "text": "Full episode ▶ https://youtu.be/Q6xdj5CqZMI"
+  },
+  "body": {
+   "id": "q867xRBxV6Y",
+   "snippet": {
+    "title": "Patisserie Valerie's auditor missed the red flags – the FRC's verdict #Shorts",
+    "categoryId": "27",
+    "description": "@desc:get-q867xRBxV6Y",
+    "tags": [
+     "Patisserie Valerie",
+     "Patisserie Valerie collapse",
+     "accounting scandal",
+     "Grant Thornton",
+     "Serious Fraud Office",
+     "UK business documentary",
+     "audit failure",
+     "what went wrong"
+    ],
+    "defaultLanguage": "en",
+    "defaultAudioLanguage": "en"
+   }
+  }
+ },
+ {
+  "id": "pi-005-Tb1ZMewulg8",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-005"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-005",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Tb1ZMewulg8"
+    }
+   }
+  }
+ },
+ {
+  "id": "get-Tb1ZMewulg8",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=Tb1ZMewulg8"
+ },
+ {
+  "id": "upd-Tb1ZMewulg8",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "after": [
+   "get-Tb1ZMewulg8"
+  ],
+  "transform": {
+   "kind": "replace_line",
+   "prefix": "Full episode",
+   "text": "Full episode ▶ https://youtu.be/Q6xdj5CqZMI"
+  },
+  "body": {
+   "id": "Tb1ZMewulg8",
+   "snippet": {
+    "title": "Patisserie Valerie collapsed in 2019. The fraud trial is in 2028 #Shorts",
+    "categoryId": "27",
+    "description": "@desc:get-Tb1ZMewulg8",
+    "tags": [
+     "Patisserie Valerie",
+     "Patisserie Valerie collapse",
+     "accounting scandal",
+     "Grant Thornton",
+     "Serious Fraud Office",
+     "UK business documentary",
+     "audit failure",
+     "what went wrong"
+    ],
+    "defaultLanguage": "en",
+    "defaultAudioLanguage": "en"
+   }
+  }
+ },
+ {
+  "id": "pl-006",
+  "method": "POST",
+  "path": "/v3/playlists?part=snippet,status",
+  "body": {
+   "snippet": {
+    "title": "First Brands Collapse Explained",
+    "description": "What the record shows about the 2025 collapse of First Brands Group: the full episode first, then the short case notes. From the US Attorney's charges and bankruptcy court records.",
+    "defaultLanguage": "en"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  }
+ },
+ {
+  "id": "pi-006-yn1kj1tD3dM",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-006"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-006",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "yn1kj1tD3dM"
+    }
+   }
+  }
+ },
+ {
+  "id": "pi-all-yn1kj1tD3dM",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-all"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-all",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "yn1kj1tD3dM"
+    }
+   }
+  }
+ },
+ {
+  "id": "get-yn1kj1tD3dM",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=yn1kj1tD3dM"
+ },
+ {
+  "id": "upd-yn1kj1tD3dM",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "after": [
+   "get-yn1kj1tD3dM",
+   "pl-006",
+   "pl-all"
+  ],
+  "transform": {
+   "kind": "none",
+   "append": "▶ Shorts from this case: https://www.youtube.com/playlist?list=@res:pl-006\n▶ All full episodes: https://www.youtube.com/playlist?list=@res:pl-all\n🔔 Subscribe for the next case file: https://www.youtube.com/@FiledUnderFailure-d6j?sub_confirmation=1"
+  },
+  "body": {
+   "id": "yn1kj1tD3dM",
+   "snippet": {
+    "title": "First Brands: $5 Billion in Sales, $12 Million in Cash",
+    "categoryId": "27",
+    "description": "@desc:get-yn1kj1tD3dM",
+    "tags": [
+     "First Brands",
+     "First Brands bankruptcy",
+     "First Brands fraud",
+     "Patrick James",
+     "invoice factoring",
+     "off-balance-sheet debt",
+     "business documentary",
+     "what went wrong"
+    ],
+    "defaultLanguage": "en",
+    "defaultAudioLanguage": "en"
+   }
+  }
+ },
+ {
+  "id": "pi-006-l9TF2-h3Cco",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-006"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-006",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "l9TF2-h3Cco"
+    }
+   }
+  }
+ },
+ {
+  "id": "get-l9TF2-h3Cco",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=l9TF2-h3Cco"
+ },
+ {
+  "id": "upd-l9TF2-h3Cco",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "after": [
+   "get-l9TF2-h3Cco"
+  ],
+  "transform": {
+   "kind": "replace_line",
+   "prefix": "Full episode",
+   "text": "Full episode ▶ https://youtu.be/yn1kj1tD3dM"
+  },
+  "body": {
+   "id": "l9TF2-h3Cco",
+   "snippet": {
+    "title": "$5 billion in sales. $12 million in the bank. The First Brands collapse #Shorts",
+    "categoryId": "27",
+    "description": "@desc:get-l9TF2-h3Cco",
+    "tags": [
+     "First Brands",
+     "First Brands bankruptcy",
+     "First Brands fraud",
+     "Patrick James",
+     "invoice factoring",
+     "off-balance-sheet debt",
+     "business documentary",
+     "what went wrong"
+    ],
+    "defaultLanguage": "en",
+    "defaultAudioLanguage": "en"
+   }
+  }
  }
 ]

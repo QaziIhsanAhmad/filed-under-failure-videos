@@ -1,6 +1,6 @@
 # PROJECT_STATUS — Filed Under Failure
 
-_Last updated: 2026-10-27 06:40 PKT (monitor)_
+_Last updated: 2026-10-29 06:30 PKT (monitor)_
 
 ## Goal
 Faceless business-collapse documentary channel. Daily Short + weekly long episode, free tools only, hands-off, reach YPP honestly.
@@ -32,6 +32,7 @@ Faceless business-collapse documentary channel. Daily Short + weekly long episod
 - 005: waiting for hourly feed + 12-hourly Make run to schedule; verify videoIds in ledger, then add yt/ops.json entries (playlist pl-005, episode links).
 
 ## Blockers
+- 29 Oct (monitor): 004-d/e public; YouTube scheduled through 4 Nov (005-ep..e, 006-ep/a have videoIds), 005-f/g + 006-b..d planned. Added ops for 005-d/e and 006 (pl-006, Full Episodes, Short links). error.log empty, channel-all fresh. Lead routine failed 28 Oct (usage limit) and no reports 27/28 Oct; monitor retry REFUSED by permission check. 0 sends 27–28 Oct; no bounces/replies. Social 28 Oct posted. FrontDesk Reel queue still empty (fv-1031/1103/1105). xv-1104 not yet in Metricool (Xenova batch Sat 31 Oct).
 - 27 Oct (monitor): 004-c public (GpTMCeqeRAo); YouTube scheduled through 2 Nov (005-c j5e58wCVuh8 scheduled; added its ops: pi-005, Full Episode link). 005-d..g + 006 planned, queue at today's 12:45 Make run. error.log empty, channel-all fresh. No task failures; social 26 Oct posted FB/IG/LI; cap 26 Oct OK (8 sends, 7 first-touch); no bounces or human replies. FrontDesk Reel queue STILL empty: the Reel batch run of 26 Oct (monitor retry, 21 s) queued nothing again; fv-1031 (Sat 31 Oct) uncovered, reported to Qazi. xv-1104 (4 Nov) due from Sat 31 Oct Xenova video batch.
 - 26 Oct (monitor): 004-b public; YouTube scheduled through 1 Nov (005-ep/a/b have videoIds), 005-c..g planned (queue today 12:45). Added 005 ops (pl-005, Full Episodes, ep + Shorts a/b links); 005-c..g ops still to add once scheduled. No task failures; social 25 Oct posted FB/IG/LI; no sends 25 Oct (Sun). FrontDesk Reel queue still empty → monitor fired Reel batch for fv-1031/1103/1105/1107.
 - 25 Oct (monitor): 004-ep + 004-a public; all rows scheduled through 31 Oct (005-b..g still planned, slots 1–6 Nov). No task failures; social 24 Oct posted FB/IG/LI; cap 24 Oct OK (3 BoloCart). FrontDesk Reel batch ran 25 Oct 02:18 PKT (34 s) but queued nothing (fv-1103/1105/1107 due in window; fv-1031 Sat 31 Oct uncovered). Google security alert 24 Oct: blocked sign-in with correct password on xenovasolutionsofficial@gmail.com – Qazi to change password.
