@@ -34,5 +34,17 @@
   "method": "PUT",
   "path": "/v3/videos?part=snippet",
   "body": "{\"id\": \"l9TF2-h3Cco\", \"snippet\": {\"title\": \"$5 billion in sales. $12 million in the bank. The First Brands collapse #Shorts\", \"categoryId\": \"27\", \"description\": \"Full episode ▶ https://youtu.be/yn1kj1tD3dM\\n\\nFirst Brands, owner of Fram and Autolite, filed for bankruptcy with $12m in cash and over $9bn in liabilities. From the US Attorney's announcement.\\n\\nSources: US Attorney's Office SDNY, 'First Brands Executives Charged In Multibillion-Dollar Fraud' (29 Jan 2026); Associated Press (via WTOP), 'Former First Brands CEO Patrick James and his brother are indicted' (29 Jan 2026); Bloomberg via Claims Journal, 'Founder of Auto Parts Maker Charged With Fraud That Wiped Out Billions' (30 Jan 2026) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #FirstBrands #FirstBrandsbankruptcy #FirstBrandsfraud\", \"tags\": [\"First Brands\", \"First Brands bankruptcy\", \"First Brands fraud\", \"Patrick James\", \"invoice factoring\", \"off-balance-sheet debt\", \"business documentary\", \"what went wrong\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
+ },
+ {
+  "id": "pi-005-duMtHdjUawk",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "body": "{\"snippet\": {\"playlistId\": \"PLE_qz-rndBLM\", \"position\": 6, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"duMtHdjUawk\"}}}"
+ },
+ {
+  "id": "get-duMtHdjUawk",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=duMtHdjUawk",
+  "body": ""
  }
 ]
