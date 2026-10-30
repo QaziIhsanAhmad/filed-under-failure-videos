@@ -1,6 +1,6 @@
 # PROJECT_STATUS — Filed Under Failure
 
-_Last updated: 2026-10-29 23:40 PKT (production)_
+_Last updated: 2026-10-30 06:30 PKT (monitor)_
 
 ## Goal
 Faceless business-collapse documentary channel. Daily Short + weekly long episode, free tools only, hands-off, reach YPP honestly.
@@ -34,6 +34,7 @@ Faceless business-collapse documentary channel. Daily Short + weekly long episod
 
 ## Blockers
 - 29 Oct (chat audit): "Run now" (fire_trigger) is denied by the permission check, both from the monitor and from chat, so missed runs can't be retried automatically. Qazi has to press Run now. FrontDesk queue has 0 queued (all "replaced"). Reel batch prompt changed so its window runs from tomorrow to 14 days (the old 8–14 day window skipped fv-1031). Needs a manual Run now before Sat 31 Oct. Monitor prompt updated 29 Oct (Qazi approved): denied retries now go to "Needs you" with a Run now link, "replaced" Reels are ignored, and retries are skipped when the next run is under 12 h away. FrontDesk daily post check is suspended (Mac absent). Blog 27 Oct and Identixa 28 Oct failed on the usage limit and were left for their next runs.
+- 30 Oct (monitor): 004-f public (iACz_Qwu6Kw); YouTube scheduled through 5 Nov (005-f duMtHdjUawk, ops added), 005-g + 007 planned; Shorts/episodes cover 30 Oct–6 Nov. error.log empty, channel-all fresh. Lead routine failed 29 Oct (usage limit), no reports 27–29 Oct, though 4 clinic first-touch emails went out 29 Oct; retry denied. Cap 29 Oct OK (12 sends: 8 BoloCart, 4 clinic). Social 29 Oct posted. FrontDesk Reel queue still 0 queued (fv-1031 uncovered).
 - 29 Oct (monitor): 004-d/e public; YouTube scheduled through 4 Nov (005-ep..e, 006-ep/a have videoIds), 005-f/g + 006-b..d planned. Added ops for 005-d/e and 006 (pl-006, Full Episodes, Short links). error.log empty, channel-all fresh. Lead routine failed 28 Oct (usage limit) and no reports 27/28 Oct; monitor retry REFUSED by permission check. 0 sends 27–28 Oct; no bounces/replies. Social 28 Oct posted. FrontDesk Reel queue still empty (fv-1031/1103/1105). xv-1104 not yet in Metricool (Xenova batch Sat 31 Oct).
 - 27 Oct (monitor): 004-c public (GpTMCeqeRAo); YouTube scheduled through 2 Nov (005-c j5e58wCVuh8 scheduled; added its ops: pi-005, Full Episode link). 005-d..g + 006 planned, queue at today's 12:45 Make run. error.log empty, channel-all fresh. No task failures; social 26 Oct posted FB/IG/LI; cap 26 Oct OK (8 sends, 7 first-touch); no bounces or human replies. FrontDesk Reel queue STILL empty: the Reel batch run of 26 Oct (monitor retry, 21 s) queued nothing again; fv-1031 (Sat 31 Oct) uncovered, reported to Qazi. xv-1104 (4 Nov) due from Sat 31 Oct Xenova video batch.
 - 26 Oct (monitor): 004-b public; YouTube scheduled through 1 Nov (005-ep/a/b have videoIds), 005-c..g planned (queue today 12:45). Added 005 ops (pl-005, Full Episodes, ep + Shorts a/b links); 005-c..g ops still to add once scheduled. No task failures; social 25 Oct posted FB/IG/LI; no sends 25 Oct (Sun). FrontDesk Reel queue still empty → monitor fired Reel batch for fv-1031/1103/1105/1107.
