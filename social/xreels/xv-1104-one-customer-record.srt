@@ -1,0 +1,23 @@
+1
+00:00:00,250 --> 00:00:08,335
+Four systems. One customer. Your store, inventory, CRM and support desk each hold a piece of the same person.
+
+2
+00:00:09,185 --> 00:00:15,351
+A customer updates their email in your store, but support still has the old one. Which is right?
+
+3
+00:00:16,201 --> 00:00:26,377
+The fix: each piece of data has one owner. Orders in the store, stock in inventory, contact details in the CRM. The others read from the owner.
+
+4
+00:00:27,227 --> 00:00:35,163
+Then sync on events. When an order is placed or a ticket opened, the change reaches the other systems as it happens.
+
+5
+00:00:36,013 --> 00:00:42,562
+The result: support sees the order, sales sees the ticket, and nobody copies data between tabs.
+
+6
+00:00:43,412 --> 00:00:53,097
+Running an online store? Connect your systems before they drift apart. Book a free 30-minute scoping call at xenovasolutions.com.

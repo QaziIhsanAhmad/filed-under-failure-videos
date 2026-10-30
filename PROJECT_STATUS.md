@@ -1,6 +1,6 @@
 # PROJECT_STATUS — Filed Under Failure
 
-_Last updated: 2026-10-30 06:30 PKT (monitor)_
+_Last updated: 2026-10-30 22:50 PKT (Xenova video batch)_
 
 ## Goal
 Faceless business-collapse documentary channel. Daily Short + weekly long episode, free tools only, hands-off, reach YPP honestly.
@@ -53,6 +53,7 @@ Faceless business-collapse documentary channel. Daily Short + weekly long episod
 - Feed queued through 5 Nov (posts/2026-10-30.json, 14 posts, rendered, pushed). Next batch: 6–12 Nov rows.
 - Render: CHROMIUM=/opt/pw-browsers/chromium-*/chrome-linux64/chrome node studio/render.js <posts.json> "$PWD/social/img" (outDir must be ABSOLUTE).
 - Blockers: Metricool free limit used until 1 Nov (Xenova FB/IG via Metricool errored 23 Oct; Make lane unaffected). Metricool YouTube = FUF channel, never post Xenova/FrontDesk there. No Xenova or FrontDesk YouTube channel connected for Shorts/long/community. Reel batch task (trig_01DokTa9hY1NLERpXhouHCJf) updated to follow the calendar and ENABLED 23 Oct (first FrontDesk calendar Reel Tue 3 Nov).
+- 30 Oct (Xenova video batch): xv-1104 one-customer-record built (54 s, 4.1 MB, QA ok), pushed to social/xreels/. NOT scheduled — awaiting Metricool allowance: Oct limit hit (posts erroring "account limit") and Nov already has 26 non-draft posts queued (24 FB/IG+LI created 29 Sep for 13–30 Nov, + 1 Nov post, + xv-1102). Schedule xv-1104 for Wed 4 Nov 19:00 once Qazi frees slots (e.g. drop LinkedIn duplicates).
 - Xenova video template: studio/xreel.js (frames) + xreel.py (Kokoro TTS bm_george, generated pad music, zoom, .srt, cover). Specs in social/xreels/. First: xv-1102 Identixa KYC, scheduled in Metricool (post 404126943) Mon 2 Nov 19:00 PKT IG+FB Reel. Xenova videos go via Metricool (20/month free); feed stays on Make.
 - 23 Oct audit: Xenova video task created (trig_01SmKyKZYhcpLDMarCUsYnzi, Sat 03:41 PKT). Social batch, lead routine and job search prompts updated (calendar; named decision-makers only, shared send cap across streams; job profile Zavtech ended Oct 2026 + QA roles). Usage-limit recovery (trig_01YZVvDvN8NLBzBAD9jMV9kL) duplicates the monitor: disable pending Qazi OK. Unknown agency-partner email stream (not in cloud tasks) sends from services@. Leads: 0 human replies to date. No DMARC record on xenovasolutions.com. Reference Reel DeuKON4juZb not viewable (Instagram blocks fetch; no browser link) – waiting for file.
 - 23 Oct (2): Usage-limit recovery DISABLED (monitor is the only retry path). Monitor prompt now verifies outcomes (lead report per weekday, shared send cap, bounces, unanswered replies, Reels/Metricool, feed). BoloCart task: shared 25/day cap (max 8 its own). Email auth verified via Port25 23 Oct: SPF pass, DKIM pass (xenovasolutions.com + mailbaby.net), iprev pass; DMARC p=none exists. 16–21 Oct gap: lead routine sent nothing and wrote no reports while the agency stream sent 34 (26 on 16 Oct); agency stream signs "Qazi Ihsan Ahmad", not a cloud task (likely a desktop-app task) – Qazi to locate. Browsers not linked: reference Reel + job applications blocked.

@@ -1,0 +1,80 @@
+{
+ "id": "xv-1104-one-customer-record",
+ "cal": "xv-1104",
+ "date": "2026-11-04",
+ "scenes": [
+  {
+   "layout": "hook",
+   "kicker": "Systems integration, explained",
+   "title": "Four systems. *One customer.*",
+   "body": "Your store, inventory, CRM and support desk each hold a piece of the same person.",
+   "say": "Four systems. One customer. Your store, inventory, C R M and support desk each hold a piece of the same person.",
+   "sub": "Four systems. One customer. Your store, inventory, CRM and support desk each hold a piece of the same person."
+  },
+  {
+   "layout": "step",
+   "n": "01",
+   "kicker": "The problem",
+   "title": "Four copies of the truth",
+   "body": "A customer updates their email in your store. Support still has the old one. *Which one is right?*",
+   "say": "A customer updates their email in your store, but support still has the old one. Which is right?"
+  },
+  {
+   "layout": "step",
+   "n": "02",
+   "kicker": "Pick a source of truth",
+   "title": "Each field has one owner",
+   "body": "Orders live in the store, stock in inventory, contact details in the CRM. *The others read from the owner.*",
+   "say": "The fix: each piece of data has one owner. Orders in the store, stock in inventory, contact details in the C R M. The others read from the owner.",
+   "sub": "The fix: each piece of data has one owner. Orders in the store, stock in inventory, contact details in the CRM. The others read from the owner."
+  },
+  {
+   "layout": "step",
+   "n": "03",
+   "kicker": "Sync on events",
+   "title": "Changes travel automatically",
+   "body": "When an order is placed or a ticket is opened, the change reaches the other systems *as it happens.*",
+   "say": "Then sync on events. When an order is placed or a ticket opened, the change reaches the other systems as it happens."
+  },
+  {
+   "layout": "flow",
+   "kicker": "The result",
+   "title": "One customer, *one view.*",
+   "label": "Concept diagram, not a client system",
+   "nodes": [
+    {
+     "label": "Store",
+     "sub": "orders and payments"
+    },
+    {
+     "label": "Inventory",
+     "sub": "stock levels"
+    },
+    {
+     "label": "CRM",
+     "sub": "contact details and history"
+    },
+    {
+     "label": "Support",
+     "sub": "tickets with the full order history"
+    }
+   ],
+   "say": "The result: support sees the order, sales sees the ticket, and nobody copies data between tabs.",
+   "sub": "The result: support sees the order, sales sees the ticket, and nobody copies data between tabs."
+  },
+  {
+   "layout": "cta",
+   "kicker": "Running an online store?",
+   "title": "Connect your systems *before they drift apart.*",
+   "body": "Book a free 30-minute scoping call.",
+   "cta": "xenovasolutions.com/contact",
+   "say": "Running an online store? Connect your systems before they drift apart. Book a free thirty minute scoping call at xenova solutions dot com.",
+   "sub": "Running an online store? Connect your systems before they drift apart. Book a free 30-minute scoping call at xenovasolutions.com."
+  }
+ ],
+ "post": {
+  "yt_title": "Store, inventory, CRM, support: one customer record #Shorts",
+  "caption": "Four systems. One customer.\n\nStore, inventory, CRM and support each hold a piece of the same person, and the copies drift apart.\n01 Give each piece of data one owner\n02 Sync changes on events, as they happen\n03 Every team sees the same customer\n\nWant your systems connected? Book a free 30-minute scoping call. Link in bio.\n\n#ecommerce #crm #systemsintegration #automation #smallbusiness #softwaredevelopment",
+  "yt_description": "Four systems, one customer: why store, inventory, CRM and support data drift apart, and how integration fixes it. Give each piece of data one owner system, sync changes on events as they happen, and every team sees the same customer record.\n\nRunning an online store? Book a free 30-minute scoping call with Xenova Solutions: https://xenovasolutions.com/contact\n\n#Ecommerce #CRM #Shorts"
+ }
+}
