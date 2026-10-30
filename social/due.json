@@ -1,53 +1,149 @@
 [
  {
-  "id": "f-1030-returns-offer",
+  "id": "f-1031-size-exchange",
   "brand": "frontdesk",
-  "kind": "single",
+  "kind": "carousel",
   "fb_on": "1",
   "ig_on": "1",
   "li_on": "0",
   "fb_page": "1354185007779555",
   "ig_account": "17841416945478586",
-  "fb": "Returns season starts the day after the gifts arrive.\n\nIf every return still means three emails, a spreadsheet row and a manual refund, that's the workflow to fix first. A returns form, an order check, an automatic label and refund status updates: your team only handles the exceptions.\n\nMessage us REVIEW and tell us how returns work today. We'll map what can be automated, for free.",
-  "ig": "Returns season starts the day after the gifts arrive.\n\nIf every return in your store still means three emails, a spreadsheet row and a manual refund, that is the workflow to fix first.\n\nA typical setup we build with Make.com and Shopify:\n1. The customer fills one returns form\n2. The workflow checks the order and item\n3. A label and instructions go out automatically\n4. The refund status updates as the parcel moves\n\nYour team only handles the exceptions.\n\nDM REVIEW and tell us how returns work in your store today. We'll map what can be automated, for free.\n\n#shopify #ecommerce #returns #makecom #automation #fashionbrand",
+  "fb": "A wrong-size return is often a customer who still wants the shoe.\n\nThis flow checks stock one size up or down and offers a swap before a refund, holds the pair for 48 hours, and only refunds if the customer chooses it.\n\nWant it mapped for your store? Message us REVIEW.",
+  "ig": "A wrong-size return is often a customer who still wants the shoe.\n\nThis flow offers the right size before it offers a refund:\n01 Ask the return reason\n02 Check stock one size up or down\n03 Offer the swap on WhatsApp or email\n04 Hold the pair for 48 hours\n05 Refund only if they choose it\n\nSave this for when you plan next season's returns process. Want it mapped for your store? DM REVIEW.\n\n#footwear #shopify #ecommerce #n8n #automation #returns",
   "li": "",
-  "image": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1030-returns-offer-1.jpg",
+  "image": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1031-size-exchange-1.jpg",
   "fb_photos": [
    {
     "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1030-returns-offer-1.jpg"
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1031-size-exchange-1.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1031-size-exchange-2.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1031-size-exchange-3.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1031-size-exchange-4.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1031-size-exchange-5.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1031-size-exchange-6.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1031-size-exchange-7.jpg"
    }
   ],
   "ig_files": [
    {
     "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1030-returns-offer-1.jpg"
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1031-size-exchange-1.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1031-size-exchange-2.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1031-size-exchange-3.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1031-size-exchange-4.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1031-size-exchange-5.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1031-size-exchange-6.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1031-size-exchange-7.jpg"
    }
   ]
  },
  {
-  "id": "x-1030-shopify-custom",
+  "id": "x-1031-identixa-case",
   "brand": "xenova",
-  "kind": "single",
+  "kind": "carousel",
   "fb_on": "1",
   "ig_on": "1",
   "li_on": "1",
   "fb_page": "1267773913096573",
   "ig_account": "17841428615145019",
-  "fb": "Fourteen apps installed and the team still exports to Excel every Monday?\n\nThat usually means the store is missing one integration, not one more app. We build custom Shopify apps and integrations, tested on a staging store before they touch real orders.\n\nTell us what your team still does by hand: xenovasolutions.com/contact",
-  "ig": "Fourteen apps installed and the team still exports to Excel every Monday?\n\nThat usually means the store is missing one integration, not one more app.\n\nWe build custom Shopify apps and integrations that connect your store to the systems you already use, tested on a staging store before they touch real orders.\n\nTell us what your team still does by hand. Link in bio.\n\n#shopify #ecommerce #shopifyapps #integration #webdevelopment #ukbusiness",
-  "li": "A common pattern in growing Shopify stores: a dozen apps, overlapping features, and still a weekly spreadsheet export.\n\nWhen off-the-shelf apps stop fitting, a small custom app or integration is often simpler and cheaper to run:\n→ Connect the store to your ERP, warehouse or CRM\n→ Replace overlapping apps with one tool built for your process\n→ Test on a staging store before anything touches real orders\n\nIf your team still moves store data by hand, tell us what it is and we'll tell you plainly whether custom work makes sense.\n\nhttps://xenovasolutions.com/contact\n\n{hashtag|\\#|Shopify} {hashtag|\\#|Ecommerce} {hashtag|\\#|SoftwareDevelopment}",
-  "image": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1030-shopify-custom-1.jpg",
+  "fb": "What actually happens in a KYC check? Our Identixa platform reads the ID with OCR, matches a selfie to the ID photo, screens the name against watchlists, sends edge cases to a human review dashboard, and returns the result through one API.\n\nNeed identity checks in your product? xenovasolutions.com/contact",
+  "ig": "What actually happens in a KYC check? Here is how we built Identixa, our identity verification platform:\n\n01 OCR reads the ID document\n02 Face matching compares a selfie with the ID photo\n03 AML screening checks watchlists\n04 Edge cases go to a human review dashboard\n05 One REST API returns the result, with an audit trail\n\nIf your product needs identity checks, planning them in from the start saves rework later. Link in bio.\n\n#kyc #identityverification #fintech #ai #ocr #startups",
+  "li": "Identity verification looks like one step to a user. Underneath, it's several.\n\nHow we built Identixa, our identity verification platform:\n→ OCR extracts the document details\n→ Face matching compares a selfie with the ID photo\n→ AML screening checks watchlists\n→ Low scores and possible matches go to a human review dashboard\n→ A REST API returns the result with an audit trail\n\nThe design choice that matters most: automate the clear cases, keep people on the edge cases.\n\nPlanning KYC for a fintech or marketplace product? https://xenovasolutions.com/contact\n\n{hashtag|\\#|KYC} {hashtag|\\#|FinTech} {hashtag|\\#|IdentityVerification}",
+  "image": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1031-identixa-case-1.jpg",
   "fb_photos": [
    {
     "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1030-shopify-custom-1.jpg"
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1031-identixa-case-1.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1031-identixa-case-2.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1031-identixa-case-3.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1031-identixa-case-4.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1031-identixa-case-5.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1031-identixa-case-6.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1031-identixa-case-7.jpg"
    }
   ],
   "ig_files": [
    {
     "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1030-shopify-custom-1.jpg"
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1031-identixa-case-1.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1031-identixa-case-2.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1031-identixa-case-3.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1031-identixa-case-4.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1031-identixa-case-5.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1031-identixa-case-6.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1031-identixa-case-7.jpg"
    }
   ]
  }
