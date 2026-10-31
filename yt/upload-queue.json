@@ -1,6 +1,17 @@
 {
- "generated": "2026-10-31T20:52:58.925810+05:00",
+ "generated": "2026-11-01T01:17:35.656600+05:00",
  "items": [
+  {
+   "id": "006-b-a0",
+   "row": "006-b",
+   "kind": "video",
+   "file": "006/006-first-brands-short-b.mp4",
+   "ctype": "video/mp4",
+   "size": 4845967,
+   "meta": "{\"snippet\": {\"title\": \"One invoice, sold for $17,826 and then $463,735 – the First Brands allegation #Shorts\", \"description\": \"An example from court filings in the First Brands fraud case, as alleged by prosecutors. The defendants deny the charges.\\n\\nFull episode: \\\"First Brands: $5 Billion in Sales, $12 Million in Cash\\\" on Filed Under Failure.\\nSources: US Attorney's Office SDNY, 'First Brands Executives Charged In Multibillion-Dollar Fraud' (29 Jan 2026); Associated Press (via WTOP), 'Former First Brands CEO Patrick James and his brother are indicted' (29 Jan 2026); Bloomberg via Claims Journal, 'Founder of Auto Parts Maker Charged With Fraud That Wiped Out Billions' (30 Jan 2026) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #FirstBrands #FirstBrandsbankruptcy #FirstBrandsfraud\", \"tags\": [\"First Brands\", \"First Brands bankruptcy\", \"First Brands fraud\", \"Patrick James\", \"invoice factoring\", \"off-balance-sheet debt\", \"business documentary\", \"what went wrong\"], \"categoryId\": \"27\", \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}, \"status\": {\"selfDeclaredMadeForKids\": false, \"containsSyntheticMedia\": false, \"privacyStatus\": \"private\", \"publishAt\": \"2026-11-08T16:00:00Z\"}}",
+   "path": "/../upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
+   "publishAt": "2026-11-08T16:00:00Z"
+  },
   {
    "id": "007-ep-a0",
    "row": "007-ep",
