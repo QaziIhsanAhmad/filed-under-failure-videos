@@ -1,149 +1,53 @@
 [
  {
-  "id": "f-1031-size-exchange",
+  "id": "f-1101-poll-support",
   "brand": "frontdesk",
-  "kind": "carousel",
+  "kind": "single",
   "fb_on": "1",
   "ig_on": "1",
   "li_on": "0",
   "fb_page": "1354185007779555",
   "ig_account": "17841416945478586",
-  "fb": "A wrong-size return is often a customer who still wants the shoe.\n\nThis flow checks stock one size up or down and offers a swap before a refund, holds the pair for 48 hours, and only refunds if the customer chooses it.\n\nWant it mapped for your store? Message us REVIEW.",
-  "ig": "A wrong-size return is often a customer who still wants the shoe.\n\nThis flow offers the right size before it offers a refund:\n01 Ask the return reason\n02 Check stock one size up or down\n03 Offer the swap on WhatsApp or email\n04 Hold the pair for 48 hours\n05 Refund only if they choose it\n\nSave this for when you plan next season's returns process. Want it mapped for your store? DM REVIEW.\n\n#footwear #shopify #ecommerce #n8n #automation #returns",
+  "fb": "Every business has one question it answers 20 times a day. Which one is yours?\n\nA) Where is my order?\nB) Can I return or exchange this?\nC) Do you have this in my size?\nD) Can I change my booking?\n\nComment a letter. We'll show a workflow for the top answer.",
+  "ig": "Every business has one question it answers 20 times a day.\n\nWhich one is yours?\nA) Where is my order?\nB) Can I return or exchange this?\nC) Do you have this in my size?\nD) Can I change my booking?\n\nComment a letter. We'll build and show a workflow for the top answer.\n\n#customersupport #ecommerce #smallbusiness #automation #shopify",
   "li": "",
-  "image": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1031-size-exchange-1.jpg",
+  "image": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1101-poll-support-1.jpg",
   "fb_photos": [
    {
     "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1031-size-exchange-1.jpg"
-   },
-   {
-    "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1031-size-exchange-2.jpg"
-   },
-   {
-    "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1031-size-exchange-3.jpg"
-   },
-   {
-    "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1031-size-exchange-4.jpg"
-   },
-   {
-    "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1031-size-exchange-5.jpg"
-   },
-   {
-    "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1031-size-exchange-6.jpg"
-   },
-   {
-    "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1031-size-exchange-7.jpg"
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1101-poll-support-1.jpg"
    }
   ],
   "ig_files": [
    {
     "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1031-size-exchange-1.jpg"
-   },
-   {
-    "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1031-size-exchange-2.jpg"
-   },
-   {
-    "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1031-size-exchange-3.jpg"
-   },
-   {
-    "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1031-size-exchange-4.jpg"
-   },
-   {
-    "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1031-size-exchange-5.jpg"
-   },
-   {
-    "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1031-size-exchange-6.jpg"
-   },
-   {
-    "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1031-size-exchange-7.jpg"
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1101-poll-support-1.jpg"
    }
   ]
  },
  {
-  "id": "x-1031-identixa-case",
+  "id": "x-1101-poll-next-fix",
   "brand": "xenova",
-  "kind": "carousel",
+  "kind": "single",
   "fb_on": "1",
   "ig_on": "1",
   "li_on": "1",
   "fb_page": "1267773913096573",
   "ig_account": "17841428615145019",
-  "fb": "What actually happens in a KYC check? Our Identixa platform reads the ID with OCR, matches a selfie to the ID photo, screens the name against watchlists, sends edge cases to a human review dashboard, and returns the result through one API.\n\nNeed identity checks in your product? xenovasolutions.com/contact",
-  "ig": "What actually happens in a KYC check? Here is how we built Identixa, our identity verification platform:\n\n01 OCR reads the ID document\n02 Face matching compares a selfie with the ID photo\n03 AML screening checks watchlists\n04 Edge cases go to a human review dashboard\n05 One REST API returns the result, with an audit trail\n\nIf your product needs identity checks, planning them in from the start saves rework later. Link in bio.\n\n#kyc #identityverification #fintech #ai #ocr #startups",
-  "li": "Identity verification looks like one step to a user. Underneath, it's several.\n\nHow we built Identixa, our identity verification platform:\n→ OCR extracts the document details\n→ Face matching compares a selfie with the ID photo\n→ AML screening checks watchlists\n→ Low scores and possible matches go to a human review dashboard\n→ A REST API returns the result with an audit trail\n\nThe design choice that matters most: automate the clear cases, keep people on the edge cases.\n\nPlanning KYC for a fintech or marketplace product? https://xenovasolutions.com/contact\n\n{hashtag|\\#|KYC} {hashtag|\\#|FinTech} {hashtag|\\#|IdentityVerification}",
-  "image": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1031-identixa-case-1.jpg",
+  "fb": "Planning next quarter? Which would you fix first?\n\nA) A website that brings enquiries\nB) An app or customer portal\nC) Automating manual admin\nD) AI for support or internal documents\n\nComment a letter.",
+  "ig": "Planning next quarter? Which one would you fix first?\n\nA) A website that actually brings enquiries\nB) An app or customer portal\nC) Automating manual admin\nD) AI for support or internal documents\n\nComment a letter. We'll cover the top answer in detail.\n\n#smallbusiness #software #webdevelopment #automation #ai",
+  "li": "Quick one for founders and operations leads planning Q1.\n\nIf you could fix one thing next quarter, which would it be?\nA\\) A website that actually brings enquiries\nB\\) An app or customer portal\nC\\) Automating manual admin\nD\\) AI for support or internal documents\n\nComment a letter. We'll write up the top answer in detail.\n\n{hashtag|\\#|SMEs} {hashtag|\\#|Planning} {hashtag|\\#|DigitalTransformation}",
+  "image": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1101-poll-next-fix-1.jpg",
   "fb_photos": [
    {
     "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1031-identixa-case-1.jpg"
-   },
-   {
-    "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1031-identixa-case-2.jpg"
-   },
-   {
-    "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1031-identixa-case-3.jpg"
-   },
-   {
-    "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1031-identixa-case-4.jpg"
-   },
-   {
-    "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1031-identixa-case-5.jpg"
-   },
-   {
-    "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1031-identixa-case-6.jpg"
-   },
-   {
-    "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1031-identixa-case-7.jpg"
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1101-poll-next-fix-1.jpg"
    }
   ],
   "ig_files": [
    {
     "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1031-identixa-case-1.jpg"
-   },
-   {
-    "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1031-identixa-case-2.jpg"
-   },
-   {
-    "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1031-identixa-case-3.jpg"
-   },
-   {
-    "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1031-identixa-case-4.jpg"
-   },
-   {
-    "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1031-identixa-case-5.jpg"
-   },
-   {
-    "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1031-identixa-case-6.jpg"
-   },
-   {
-    "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1031-identixa-case-7.jpg"
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1101-poll-next-fix-1.jpg"
    }
   ]
  }
