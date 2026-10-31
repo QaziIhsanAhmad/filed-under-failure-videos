@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T18:36:11.569088+05:00",
+ "generated": "2026-10-31T23:29:26.902512+05:00",
  "problems": [],
  "items": [
   {
@@ -788,7 +788,7 @@
    "date": "2026-10-31",
    "pillar": "educational-carousel",
    "slides": 7,
-   "status": "planned",
+   "status": "missed",
    "platforms": {
     "fb": {
      "state": "pending",
@@ -811,7 +811,7 @@
    "date": "2026-10-31",
    "pillar": "case-study",
    "slides": 7,
-   "status": "planned",
+   "status": "missed",
    "platforms": {
     "fb": {
      "state": "pending",
