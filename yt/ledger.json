@@ -767,7 +767,7 @@
    "title": "The overdrafts Patisserie Valerie's board didn't know existed #Shorts",
    "file": "005/005-patisserie-valerie-short-b.mp4",
    "lane": "api",
-   "status": "scheduled",
+   "status": "published",
    "description": "Two overdrafts at HSBC and Barclays, set up without the board's knowledge, as reported in October 2018.\n\nFull episode: \"Why Did Patisserie Valerie Collapse? The Secret Overdrafts\" on Filed Under Failure.\nSources: Serious Fraud Office, case page 'Patisserie Holdings plc' (timeline to 9 Feb 2026); Serious Fraud Office, 'SFO charges four individuals behind Patisserie Valerie collapse' (13 Sep 2023); Financial Reporting Council, 'Sanctions against Grant Thornton UK LLP and David Newstead' (27 Sep 2021) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #PatisserieValerie #PatisserieValeriecollapse #accountingscandal",
    "altered": {
     "disclose": false,
@@ -779,7 +779,9 @@
    "videoId": "h9tEOFDll_0",
    "url": "https://www.youtube.com/shorts/h9tEOFDll_0",
    "uploadedAt": "2026-10-25T12:45:18.066293+05:00",
-   "publishAt": "2026-11-01T16:00:00Z"
+   "publishAt": "2026-11-01T16:00:00Z",
+   "verifiedAt": "2026-11-02T00:12:59.402674+05:00",
+   "verification": "channel page"
   },
   {
    "id": "005-c",
