@@ -1,53 +1,133 @@
 [
  {
-  "id": "f-1101-poll-support",
+  "id": "f-1102-failure-alerts",
   "brand": "frontdesk",
-  "kind": "single",
+  "kind": "carousel",
   "fb_on": "1",
   "ig_on": "1",
   "li_on": "0",
   "fb_page": "1354185007779555",
   "ig_account": "17841416945478586",
-  "fb": "Every business has one question it answers 20 times a day. Which one is yours?\n\nA) Where is my order?\nB) Can I return or exchange this?\nC) Do you have this in my size?\nD) Can I change my booking?\n\nComment a letter. We'll show a workflow for the top answer.",
-  "ig": "Every business has one question it answers 20 times a day.\n\nWhich one is yours?\nA) Where is my order?\nB) Can I return or exchange this?\nC) Do you have this in my size?\nD) Can I change my booking?\n\nComment a letter. We'll build and show a workflow for the top answer.\n\n#customersupport #ecommerce #smallbusiness #automation #shopify",
+  "fb": "The most common automation problem is not a broken workflow. It's a broken workflow nobody knew about.\n\nAdd an error path to every workflow, alert a named person with the record ID, and check daily that it ran.\n\nMessage us REVIEW for a free check of your automations.",
+  "ig": "The most common automation problem we see is not a broken workflow. It's a broken workflow nobody knew about.\n\nFour fixes:\n01 Accept that failures are silent by default\n02 Add an error path to every workflow (n8n Error Trigger, Make.com error handlers, Zapier failure emails)\n03 Alert a named person with the record ID\n04 Check daily that the workflow actually ran\n\nSend this to whoever owns your automations. DM REVIEW for a free check.\n\n#automation #n8n #makecom #zapier #ecommerce #operations",
   "li": "",
-  "image": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1101-poll-support-1.jpg",
+  "image": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1102-failure-alerts-1.jpg",
   "fb_photos": [
    {
     "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1101-poll-support-1.jpg"
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1102-failure-alerts-1.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1102-failure-alerts-2.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1102-failure-alerts-3.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1102-failure-alerts-4.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1102-failure-alerts-5.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1102-failure-alerts-6.jpg"
    }
   ],
   "ig_files": [
    {
     "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1101-poll-support-1.jpg"
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1102-failure-alerts-1.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1102-failure-alerts-2.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1102-failure-alerts-3.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1102-failure-alerts-4.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1102-failure-alerts-5.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1102-failure-alerts-6.jpg"
    }
   ]
  },
  {
-  "id": "x-1101-poll-next-fix",
+  "id": "x-1102-spec-first",
   "brand": "xenova",
-  "kind": "single",
+  "kind": "carousel",
   "fb_on": "1",
   "ig_on": "1",
   "li_on": "1",
   "fb_page": "1267773913096573",
   "ig_account": "17841428615145019",
-  "fb": "Planning next quarter? Which would you fix first?\n\nA) A website that brings enquiries\nB) An app or customer portal\nC) Automating manual admin\nD) AI for support or internal documents\n\nComment a letter.",
-  "ig": "Planning next quarter? Which one would you fix first?\n\nA) A website that actually brings enquiries\nB) An app or customer portal\nC) Automating manual admin\nD) AI for support or internal documents\n\nComment a letter. We'll cover the top answer in detail.\n\n#smallbusiness #software #webdevelopment #automation #ai",
-  "li": "Quick one for founders and operations leads planning Q1.\n\nIf you could fix one thing next quarter, which would it be?\nA\\) A website that actually brings enquiries\nB\\) An app or customer portal\nC\\) Automating manual admin\nD\\) AI for support or internal documents\n\nComment a letter. We'll write up the top answer in detail.\n\n{hashtag|\\#|SMEs} {hashtag|\\#|Planning} {hashtag|\\#|DigitalTransformation}",
-  "image": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1101-poll-next-fix-1.jpg",
+  "fb": "Got three quotes that are wildly different? They were probably quoting three different projects.\n\nWrite one page first: who uses it, what it connects to, what's out of scope, and your budget range and deadline.\n\nWe'll help you write it on a free 30-minute call: xenovasolutions.com/contact",
+  "ig": "Got three quotes that are wildly different? They were probably quoting three different projects.\n\nA one-page spec fixes that:\n01 Who uses it, and the jobs they need done\n02 What it connects to (integrations move estimates the most)\n03 What is out of scope\n04 Budget range and deadline\n\nSave this for your next project. Or book a free 30-minute call and we'll help you write it. Link in bio.\n\n#softwaredevelopment #startups #smallbusiness #projectmanagement #webdevelopment",
+  "li": "Founders often tell us they got three quotes for the same project: £8k, £25k and £60k.\n\nUsually those were three different projects, because the brief left room to guess.\n\nA one-page spec closes the gap:\n→ Who uses it, and the 3 to 5 jobs each user must get done\n→ What it connects to \\(integrations move estimates the most\\)\n→ What is explicitly out of scope\n→ A budget range and a deadline\n\nWe're happy to help write it on a free 30-minute call: https://xenovasolutions.com/contact\n\n{hashtag|\\#|SoftwareDevelopment} {hashtag|\\#|Startups} {hashtag|\\#|ProductManagement}",
+  "image": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1102-spec-first-1.jpg",
   "fb_photos": [
    {
     "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1101-poll-next-fix-1.jpg"
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1102-spec-first-1.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1102-spec-first-2.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1102-spec-first-3.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1102-spec-first-4.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1102-spec-first-5.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1102-spec-first-6.jpg"
    }
   ],
   "ig_files": [
    {
     "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1101-poll-next-fix-1.jpg"
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1102-spec-first-1.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1102-spec-first-2.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1102-spec-first-3.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1102-spec-first-4.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1102-spec-first-5.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1102-spec-first-6.jpg"
    }
   ]
  }
