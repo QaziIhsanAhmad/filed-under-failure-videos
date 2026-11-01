@@ -1,0 +1,690 @@
+{
+ "site": "https://xenovasolutions.com",
+ "date": "2026-11-01",
+ "bots": {
+  "OAI-SearchBot": "allowed",
+  "ChatGPT-User": "allowed",
+  "GPTBot": "allowed",
+  "PerplexityBot": "allowed",
+  "Perplexity-User": "allowed",
+  "Claude-SearchBot": "allowed",
+  "Claude-User": "allowed",
+  "ClaudeBot": "allowed",
+  "Google-Extended": "allowed",
+  "Googlebot": "allowed",
+  "Bingbot": "allowed",
+  "Applebot-Extended": "allowed",
+  "CCBot": "allowed"
+ },
+ "sitemaps": [
+  "https://xenovasolutions.com/wp-sitemap.xml"
+ ],
+ "score": 93,
+ "top_issues": [
+  [
+   "title over N chars",
+   9
+  ],
+  [
+   "thin content (<N words)",
+   1
+  ]
+ ],
+ "pages": [
+  {
+   "url": "https://xenovasolutions.com/ai-chatbot-cost/",
+   "status": 200,
+   "ms": 462,
+   "issues": [
+    "title over 65 chars"
+   ],
+   "title": "How Much Does an AI Chatbot Cost in 2026? A Plain-English Guide for UK & US Businesses \u00b7 Xenova Solutions",
+   "title_len": 105,
+   "desc_len": 147,
+   "h1": 1,
+   "words": 1048,
+   "internal_links": 18,
+   "external_links": 4,
+   "img_no_alt": 0,
+   "schema": [
+    "Organization",
+    "WebSite",
+    "BreadcrumbList",
+    "BlogPosting"
+   ],
+   "canonical": "https://xenovasolutions.com/ai-chatbot-cost/",
+   "question_headings": 4,
+   "has_table": false,
+   "has_date": true
+  },
+  {
+   "url": "https://xenovasolutions.com/clinic-website-online-booking-ai/",
+   "status": 200,
+   "ms": 310,
+   "issues": [
+    "title over 65 chars"
+   ],
+   "title": "Clinic Website with Online Booking & AI: What It Costs \u00b7 Xenova Solutions",
+   "title_len": 73,
+   "desc_len": 131,
+   "h1": 1,
+   "words": 1539,
+   "internal_links": 19,
+   "external_links": 12,
+   "img_no_alt": 0,
+   "schema": [
+    "Organization",
+    "WebSite",
+    "BreadcrumbList",
+    "BlogPosting"
+   ],
+   "canonical": "https://xenovasolutions.com/clinic-website-online-booking-ai/",
+   "question_headings": 8,
+   "has_table": true,
+   "has_date": true
+  },
+  {
+   "url": "https://xenovasolutions.com/answer-engine-optimisation/",
+   "status": 200,
+   "ms": 309,
+   "issues": [
+    "title over 65 chars"
+   ],
+   "title": "What Is Answer Engine Optimisation (AEO)? A Plain Guide \u00b7 Xenova Solutions",
+   "title_len": 74,
+   "desc_len": 149,
+   "h1": 1,
+   "words": 1317,
+   "internal_links": 20,
+   "external_links": 7,
+   "img_no_alt": 0,
+   "schema": [
+    "Organization",
+    "WebSite",
+    "BreadcrumbList",
+    "BlogPosting"
+   ],
+   "canonical": "https://xenovasolutions.com/answer-engine-optimisation/",
+   "question_headings": 10,
+   "has_table": true,
+   "has_date": true
+  },
+  {
+   "url": "https://xenovasolutions.com/rag-vs-fine-tuning/",
+   "status": 200,
+   "ms": 308,
+   "issues": [
+    "title over 65 chars"
+   ],
+   "title": "RAG vs Fine-Tuning: Which Does Your Business Need? \u00b7 Xenova Solutions",
+   "title_len": 69,
+   "desc_len": 135,
+   "h1": 1,
+   "words": 1435,
+   "internal_links": 20,
+   "external_links": 9,
+   "img_no_alt": 0,
+   "schema": [
+    "Organization",
+    "WebSite",
+    "BreadcrumbList",
+    "BlogPosting"
+   ],
+   "canonical": "https://xenovasolutions.com/rag-vs-fine-tuning/",
+   "question_headings": 6,
+   "has_table": true,
+   "has_date": true
+  },
+  {
+   "url": "https://xenovasolutions.com/ai-chatbot-shopify/",
+   "status": 200,
+   "ms": 309,
+   "issues": [
+    "title over 65 chars"
+   ],
+   "title": "AI Chatbot for Shopify: What It Can and Can\u2019t Handle \u00b7 Xenova Solutions",
+   "title_len": 71,
+   "desc_len": 148,
+   "h1": 1,
+   "words": 1709,
+   "internal_links": 20,
+   "external_links": 9,
+   "img_no_alt": 0,
+   "schema": [
+    "Organization",
+    "WebSite",
+    "BreadcrumbList",
+    "BlogPosting"
+   ],
+   "canonical": "https://xenovasolutions.com/ai-chatbot-shopify/",
+   "question_headings": 6,
+   "has_table": true,
+   "has_date": true
+  },
+  {
+   "url": "https://xenovasolutions.com/get-recommended-by-chatgpt/",
+   "status": 200,
+   "ms": 308,
+   "issues": [
+    "title over 65 chars"
+   ],
+   "title": "How to Get Recommended by ChatGPT and AI Overviews \u00b7 Xenova Solutions",
+   "title_len": 69,
+   "desc_len": 146,
+   "h1": 1,
+   "words": 1709,
+   "internal_links": 21,
+   "external_links": 8,
+   "img_no_alt": 0,
+   "schema": [
+    "Organization",
+    "WebSite",
+    "BreadcrumbList",
+    "BlogPosting"
+   ],
+   "canonical": "https://xenovasolutions.com/get-recommended-by-chatgpt/",
+   "question_headings": 5,
+   "has_table": true,
+   "has_date": true
+  },
+  {
+   "url": "https://xenovasolutions.com/ai-agent-use-cases/",
+   "status": 200,
+   "ms": 309,
+   "issues": [
+    "title over 65 chars"
+   ],
+   "title": "What Is an AI Agent? 7 Use Cases for Small Businesses \u00b7 Xenova Solutions",
+   "title_len": 72,
+   "desc_len": 145,
+   "h1": 1,
+   "words": 1788,
+   "internal_links": 21,
+   "external_links": 8,
+   "img_no_alt": 0,
+   "schema": [
+    "Organization",
+    "WebSite",
+    "BreadcrumbList",
+    "BlogPosting"
+   ],
+   "canonical": "https://xenovasolutions.com/ai-agent-use-cases/",
+   "question_headings": 7,
+   "has_table": true,
+   "has_date": true
+  },
+  {
+   "url": "https://xenovasolutions.com/automate-customer-support-ai/",
+   "status": 200,
+   "ms": 309,
+   "issues": [
+    "title over 65 chars"
+   ],
+   "title": "Automate Customer Support with AI, Keep the Human Touch \u00b7 Xenova Solutions",
+   "title_len": 74,
+   "desc_len": 146,
+   "h1": 1,
+   "words": 1654,
+   "internal_links": 21,
+   "external_links": 8,
+   "img_no_alt": 0,
+   "schema": [
+    "Organization",
+    "WebSite",
+    "BreadcrumbList",
+    "BlogPosting"
+   ],
+   "canonical": "https://xenovasolutions.com/automate-customer-support-ai/",
+   "question_headings": 9,
+   "has_table": true,
+   "has_date": true
+  },
+  {
+   "url": "https://xenovasolutions.com/voice-ai-agent-bookings/",
+   "status": 200,
+   "ms": 309,
+   "issues": [
+    "title over 65 chars"
+   ],
+   "title": "AI Voice Agent for Bookings: Lessons from BookKaru \u00b7 Xenova Solutions",
+   "title_len": 69,
+   "desc_len": 143,
+   "h1": 1,
+   "words": 1683,
+   "internal_links": 19,
+   "external_links": 8,
+   "img_no_alt": 0,
+   "schema": [
+    "Organization",
+    "WebSite",
+    "BreadcrumbList",
+    "BlogPosting"
+   ],
+   "canonical": "https://xenovasolutions.com/voice-ai-agent-bookings/",
+   "question_headings": 8,
+   "has_table": true,
+   "has_date": true
+  },
+  {
+   "url": "https://xenovasolutions.com/",
+   "status": 200,
+   "ms": 308,
+   "issues": [],
+   "title": "AI & Software Development Company for UK Businesses | Xenova",
+   "title_len": 60,
+   "desc_len": 143,
+   "h1": 1,
+   "words": 1324,
+   "internal_links": 16,
+   "external_links": 5,
+   "img_no_alt": 0,
+   "schema": [
+    "Organization",
+    "WebSite"
+   ],
+   "canonical": "https://xenovasolutions.com/",
+   "question_headings": 0,
+   "has_table": false,
+   "has_date": false
+  },
+  {
+   "url": "https://xenovasolutions.com/insights/",
+   "status": 200,
+   "ms": 156,
+   "issues": [],
+   "title": "Insights \u00b7 Xenova Solutions",
+   "title_len": 27,
+   "desc_len": 60,
+   "h1": 1,
+   "words": 391,
+   "internal_links": 25,
+   "external_links": 4,
+   "img_no_alt": 0,
+   "schema": [
+    "Organization",
+    "WebSite"
+   ],
+   "canonical": "https://xenovasolutions.com/insights/",
+   "question_headings": 1,
+   "has_table": false,
+   "has_date": true
+  },
+  {
+   "url": "https://xenovasolutions.com/about/",
+   "status": 200,
+   "ms": 157,
+   "issues": [],
+   "title": "About Xenova Solutions | AI & Software Engineering Team",
+   "title_len": 55,
+   "desc_len": 136,
+   "h1": 1,
+   "words": 347,
+   "internal_links": 16,
+   "external_links": 4,
+   "img_no_alt": 0,
+   "schema": [
+    "Organization",
+    "WebSite",
+    "BreadcrumbList"
+   ],
+   "canonical": "https://xenovasolutions.com/about/",
+   "question_headings": 0,
+   "has_table": false,
+   "has_date": false
+  },
+  {
+   "url": "https://xenovasolutions.com/services/",
+   "status": 200,
+   "ms": 309,
+   "issues": [],
+   "title": "AI & Software Development Services | Xenova Solutions",
+   "title_len": 53,
+   "desc_len": 134,
+   "h1": 1,
+   "words": 390,
+   "internal_links": 16,
+   "external_links": 4,
+   "img_no_alt": 0,
+   "schema": [
+    "Organization",
+    "WebSite",
+    "BreadcrumbList"
+   ],
+   "canonical": "https://xenovasolutions.com/services/",
+   "question_headings": 0,
+   "has_table": false,
+   "has_date": false
+  },
+  {
+   "url": "https://xenovasolutions.com/industries/",
+   "status": 200,
+   "ms": 459,
+   "issues": [],
+   "title": "Industries We Build AI & Software For | Xenova Solutions",
+   "title_len": 56,
+   "desc_len": 131,
+   "h1": 1,
+   "words": 348,
+   "internal_links": 16,
+   "external_links": 4,
+   "img_no_alt": 0,
+   "schema": [
+    "Organization",
+    "WebSite",
+    "BreadcrumbList"
+   ],
+   "canonical": "https://xenovasolutions.com/industries/",
+   "question_headings": 0,
+   "has_table": false,
+   "has_date": false
+  },
+  {
+   "url": "https://xenovasolutions.com/work/",
+   "status": 200,
+   "ms": 618,
+   "issues": [],
+   "title": "Case Studies: AI & Software Projects | Xenova Solutions",
+   "title_len": 55,
+   "desc_len": 144,
+   "h1": 1,
+   "words": 488,
+   "internal_links": 16,
+   "external_links": 4,
+   "img_no_alt": 0,
+   "schema": [
+    "Organization",
+    "WebSite",
+    "BreadcrumbList"
+   ],
+   "canonical": "https://xenovasolutions.com/work/",
+   "question_headings": 0,
+   "has_table": false,
+   "has_date": false
+  },
+  {
+   "url": "https://xenovasolutions.com/contact/",
+   "status": 200,
+   "ms": 309,
+   "issues": [
+    "thin content (<300 words)"
+   ],
+   "title": "Contact Xenova Solutions | Start Your AI or Software Project",
+   "title_len": 60,
+   "desc_len": 146,
+   "h1": 1,
+   "words": 196,
+   "internal_links": 16,
+   "external_links": 4,
+   "img_no_alt": 0,
+   "schema": [
+    "Organization",
+    "WebSite",
+    "BreadcrumbList"
+   ],
+   "canonical": "https://xenovasolutions.com/contact/",
+   "question_headings": 0,
+   "has_table": false,
+   "has_date": false
+  },
+  {
+   "url": "https://xenovasolutions.com/services/ai-machine-learning/",
+   "status": 200,
+   "ms": 438,
+   "issues": [],
+   "title": "Machine Learning Development Company | Xenova Solutions",
+   "title_len": 55,
+   "desc_len": 147,
+   "h1": 1,
+   "words": 336,
+   "internal_links": 16,
+   "external_links": 4,
+   "img_no_alt": 0,
+   "schema": [
+    "Organization",
+    "WebSite",
+    "BreadcrumbList",
+    "Service"
+   ],
+   "canonical": "https://xenovasolutions.com/services/ai-machine-learning/",
+   "question_headings": 0,
+   "has_table": false,
+   "has_date": false
+  },
+  {
+   "url": "https://xenovasolutions.com/services/generative-ai-agents/",
+   "status": 200,
+   "ms": 442,
+   "issues": [],
+   "title": "AI Agent & RAG Chatbot Development Company | Xenova",
+   "title_len": 51,
+   "desc_len": 145,
+   "h1": 1,
+   "words": 339,
+   "internal_links": 16,
+   "external_links": 4,
+   "img_no_alt": 0,
+   "schema": [
+    "Organization",
+    "WebSite",
+    "BreadcrumbList",
+    "Service"
+   ],
+   "canonical": "https://xenovasolutions.com/services/generative-ai-agents/",
+   "question_headings": 0,
+   "has_table": false,
+   "has_date": false
+  },
+  {
+   "url": "https://xenovasolutions.com/services/software-development/",
+   "status": 200,
+   "ms": 442,
+   "issues": [],
+   "title": "Custom Software Development Company | Xenova Solutions",
+   "title_len": 54,
+   "desc_len": 139,
+   "h1": 1,
+   "words": 323,
+   "internal_links": 16,
+   "external_links": 4,
+   "img_no_alt": 0,
+   "schema": [
+    "Organization",
+    "WebSite",
+    "BreadcrumbList",
+    "Service"
+   ],
+   "canonical": "https://xenovasolutions.com/services/software-development/",
+   "question_headings": 0,
+   "has_table": false,
+   "has_date": false
+  },
+  {
+   "url": "https://xenovasolutions.com/services/full-stack-development/",
+   "status": 200,
+   "ms": 442,
+   "issues": [],
+   "title": "Full-Stack Development Services (Django, Next.js) | Xenova",
+   "title_len": 58,
+   "desc_len": 141,
+   "h1": 1,
+   "words": 317,
+   "internal_links": 16,
+   "external_links": 4,
+   "img_no_alt": 0,
+   "schema": [
+    "Organization",
+    "WebSite",
+    "BreadcrumbList",
+    "Service"
+   ],
+   "canonical": "https://xenovasolutions.com/services/full-stack-development/",
+   "question_headings": 0,
+   "has_table": false,
+   "has_date": false
+  },
+  {
+   "url": "https://xenovasolutions.com/services/web-mobile-applications/",
+   "status": 200,
+   "ms": 438,
+   "issues": [],
+   "title": "Web & Mobile App Development Company | Xenova Solutions",
+   "title_len": 55,
+   "desc_len": 122,
+   "h1": 1,
+   "words": 323,
+   "internal_links": 16,
+   "external_links": 4,
+   "img_no_alt": 0,
+   "schema": [
+    "Organization",
+    "WebSite",
+    "BreadcrumbList",
+    "Service"
+   ],
+   "canonical": "https://xenovasolutions.com/services/web-mobile-applications/",
+   "question_headings": 0,
+   "has_table": false,
+   "has_date": false
+  },
+  {
+   "url": "https://xenovasolutions.com/services/data-science-analytics/",
+   "status": 200,
+   "ms": 308,
+   "issues": [],
+   "title": "Data Science & Analytics Services | Xenova Solutions",
+   "title_len": 52,
+   "desc_len": 126,
+   "h1": 1,
+   "words": 322,
+   "internal_links": 16,
+   "external_links": 4,
+   "img_no_alt": 0,
+   "schema": [
+    "Organization",
+    "WebSite",
+    "BreadcrumbList",
+    "Service"
+   ],
+   "canonical": "https://xenovasolutions.com/services/data-science-analytics/",
+   "question_headings": 0,
+   "has_table": false,
+   "has_date": false
+  },
+  {
+   "url": "https://xenovasolutions.com/services/cloud-devops/",
+   "status": 200,
+   "ms": 425,
+   "issues": [],
+   "title": "Cloud & DevOps Services (AWS, Azure, GCP) | Xenova",
+   "title_len": 50,
+   "desc_len": 129,
+   "h1": 1,
+   "words": 315,
+   "internal_links": 16,
+   "external_links": 4,
+   "img_no_alt": 0,
+   "schema": [
+    "Organization",
+    "WebSite",
+    "BreadcrumbList",
+    "Service"
+   ],
+   "canonical": "https://xenovasolutions.com/services/cloud-devops/",
+   "question_headings": 0,
+   "has_table": false,
+   "has_date": false
+  },
+  {
+   "url": "https://xenovasolutions.com/services/ai-consulting/",
+   "status": 200,
+   "ms": 424,
+   "issues": [],
+   "title": "AI Consulting Services for SMEs | Xenova Solutions",
+   "title_len": 50,
+   "desc_len": 136,
+   "h1": 1,
+   "words": 334,
+   "internal_links": 16,
+   "external_links": 4,
+   "img_no_alt": 0,
+   "schema": [
+    "Organization",
+    "WebSite",
+    "BreadcrumbList",
+    "Service"
+   ],
+   "canonical": "https://xenovasolutions.com/services/ai-consulting/",
+   "question_headings": 0,
+   "has_table": false,
+   "has_date": false
+  },
+  {
+   "url": "https://xenovasolutions.com/packages/",
+   "status": 200,
+   "ms": 309,
+   "issues": [],
+   "title": "AI Chatbot & RAG Development Packages (UK) | Xenova",
+   "title_len": 51,
+   "desc_len": 154,
+   "h1": 1,
+   "words": 458,
+   "internal_links": 17,
+   "external_links": 4,
+   "img_no_alt": 0,
+   "schema": [
+    "Organization",
+    "WebSite",
+    "BreadcrumbList"
+   ],
+   "canonical": "https://xenovasolutions.com/packages/",
+   "question_headings": 1,
+   "has_table": false,
+   "has_date": false
+  },
+  {
+   "url": "https://xenovasolutions.com/frontdesk-flows/",
+   "status": 200,
+   "ms": 446,
+   "issues": [],
+   "title": "FrontDesk Flows \u2013 n8n Automations for Clinics \u00b7 Xenova Solutions",
+   "title_len": 64,
+   "desc_len": 135,
+   "h1": 1,
+   "words": 369,
+   "internal_links": 17,
+   "external_links": 5,
+   "img_no_alt": 0,
+   "schema": [
+    "Organization",
+    "WebSite",
+    "BreadcrumbList"
+   ],
+   "canonical": "https://xenovasolutions.com/frontdesk-flows/",
+   "question_headings": 0,
+   "has_table": false,
+   "has_date": false
+  },
+  {
+   "url": "https://xenovasolutions.com/category/ai-automation/",
+   "status": 200,
+   "ms": 465,
+   "issues": [],
+   "title": "AI & Automation \u00b7 Xenova Solutions",
+   "title_len": 34,
+   "desc_len": 107,
+   "h1": 1,
+   "words": 397,
+   "internal_links": 26,
+   "external_links": 4,
+   "img_no_alt": 0,
+   "schema": [
+    "Organization",
+    "WebSite"
+   ],
+   "canonical": "https://xenovasolutions.com/category/ai-automation/",
+   "question_headings": 1,
+   "has_table": false,
+   "has_date": true
+  }
+ ]
+}
