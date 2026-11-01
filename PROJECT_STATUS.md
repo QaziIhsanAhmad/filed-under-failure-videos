@@ -1,6 +1,6 @@
 # PROJECT_STATUS — Filed Under Failure
 
-_Last updated: 2026-10-31 06:40 PKT (monitor)_
+_Last updated: 2026-11-01 06:30 PKT (monitor)_
 
 ## Goal
 Faceless business-collapse documentary channel. Daily Short + weekly long episode, free tools only, hands-off, reach YPP honestly.
@@ -33,6 +33,7 @@ Faceless business-collapse documentary channel. Daily Short + weekly long episod
 - 005: waiting for hourly feed + 12-hourly Make run to schedule; verify videoIds in ledger, then add yt/ops.json entries (playlist pl-005, episode links).
 
 ## Blockers
+- 1 Nov (monitor): 005-ep Q6xdj5CqZMI + 005-a BUIUkfEzlFI public 31 Oct. YouTube scheduled through 6 Nov; 007 (Sat 7 Nov) + 006-b..d still planned, need Make (paused until 5 Nov 13:05; no 9978275 runs since 30 Oct, channel-all stale for same reason). Social f/x-1030/1031 missed (Make). FrontDesk Reel batch 31 Oct ran 35 s and queued nothing again (0 queued; fv-1103/1105 uncovered). Metricool Nov allowance free (only 2 non-draft Nov posts) but monitor scheduling xv-1104 was refused by permission check. Cap 31 Oct OK (1 send). No bounces/replies.
 - 29 Oct (chat audit): "Run now" (fire_trigger) is denied by the permission check, both from the monitor and from chat, so missed runs can't be retried automatically. Qazi has to press Run now. FrontDesk queue has 0 queued (all "replaced"). Reel batch prompt changed so its window runs from tomorrow to 14 days (the old 8–14 day window skipped fv-1031). Needs a manual Run now before Sat 31 Oct. Monitor prompt updated 29 Oct (Qazi approved): denied retries now go to "Needs you" with a Run now link, "replaced" Reels are ignored, and retries are skipped when the next run is under 12 h away. FrontDesk daily post check is suspended (Mac absent). Blog 27 Oct and Identixa 28 Oct failed on the usage limit and were left for their next runs.
 - 31 Oct (monitor): MAKE FREE PLAN OUT OF OPERATIONS (1,020/1,000; org paused until reset 5 Nov 13:05 PKT). Social scenario 9939923 did not run 30 Oct (f/x-1030 missed) and will miss 31 Oct–4 Nov; FUF upload scenario paused too (last run 30 Oct 12:45). YouTube already scheduled through 6 Nov (005-g BgK_ab3BP-g, 006-ep/a) so episodes/Shorts are safe; 007 (Sat 7 Nov) uploads at the 6 Nov run if Make resumes. Usage ~36 ops/day > 1,000/month: reduce run frequency before next cycle. Added 005-g ops. Lead routine 30 Oct: send blocked by permission check after 5 FUs; Clapham Osteopath opted out. Cap 30 Oct OK (13). FrontDesk Reel queue still 0 (fv-1031 missed; batch runs Sun 02:17).
 - 30 Oct (monitor): 004-f public (iACz_Qwu6Kw); YouTube scheduled through 5 Nov (005-f duMtHdjUawk, ops added), 005-g + 007 planned; Shorts/episodes cover 30 Oct–6 Nov. error.log empty, channel-all fresh. Lead routine failed 29 Oct (usage limit), no reports 27–29 Oct, though 4 clinic first-touch emails went out 29 Oct; retry denied. Cap 29 Oct OK (12 sends: 8 BoloCart, 4 clinic). Social 29 Oct posted. FrontDesk Reel queue still 0 queued (fv-1031 uncovered).
