@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T14:27:32.536549+05:00",
+ "generated": "2026-11-03T22:47:58.088233+05:00",
  "problems": [],
  "items": [
   {
@@ -944,7 +944,7 @@
    "date": "2026-11-03",
    "pillar": "comparison",
    "slides": 6,
-   "status": "planned",
+   "status": "missed",
    "platforms": {
     "fb": {
      "state": "pending",
@@ -967,7 +967,7 @@
    "date": "2026-11-03",
    "pillar": "comparison",
    "slides": 6,
-   "status": "planned",
+   "status": "missed",
    "platforms": {
     "fb": {
      "state": "pending",
