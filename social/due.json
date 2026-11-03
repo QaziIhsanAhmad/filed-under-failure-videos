@@ -1,133 +1,53 @@
 [
  {
-  "id": "f-1103-make-vs-n8n-reminders",
+  "id": "f-1104-kyc-chase-demo",
   "brand": "frontdesk",
-  "kind": "carousel",
+  "kind": "single",
   "fb_on": "1",
   "ig_on": "1",
   "li_on": "0",
   "fb_page": "1354185007779555",
   "ig_account": "17841416945478586",
-  "fb": "Make.com or n8n for clinic appointment reminders? Both work. The difference is setup, the cost model and where patient data lives.\n\nSmall clinic with no IT person: Make.com. Several sites or strict data rules: n8n. Either way, send only what the reminder needs.\n\nTell us your booking system and volume and we'll recommend one.",
-  "ig": "Make.com or n8n for clinic appointment reminders?\n\nBoth can do it. The difference is setup, cost model and where patient data lives:\n01 Setup: Make.com is hosted; n8n can be cloud or self-hosted\n02 Cost: Make bills by usage credits; n8n Cloud counts executions; self-hosted has no per-run fee (check current plans)\n03 Data: send only name, time and clinic, never clinical notes\n04 Our rule of thumb: small clinic, Make.com; several sites or strict data rules, n8n\n\nTell us your booking system and volume and we'll recommend one. DM REVIEW.\n\n#clinic #healthcare #n8n #makecom #automation #appointments",
+  "fb": "Onboarding stalls when one document is missing and nobody chases it.\n\nThis concept demo (sample data) checks the document checklist, emails an upload link for the missing item only, escalates to the ops team after 48 hours, and stops reminders when everything is in. Only the chasing is automated; decisions stay with people.",
+  "ig": "Onboarding stalls when one document is missing and nobody chases it.\n\nThis concept demo (sample data) shows the flow in n8n:\n1. The application arrives by webhook\n2. The workflow checks the document checklist\n3. It emails an upload link for the missing item only\n4. After 48 hours: one more reminder, then a task for the ops team\n5. When everything is in, reminders stop and status moves to review\n\nNo decisions are automated here, only the chasing.\n\nRunning onboarding for a fintech or lending product? DM REVIEW.\n\n#fintech #kyc #onboarding #n8n #automation #webhooks",
   "li": "",
-  "image": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1103-make-vs-n8n-reminders-1.jpg",
+  "image": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1104-kyc-chase-demo-1.jpg",
   "fb_photos": [
    {
     "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1103-make-vs-n8n-reminders-1.jpg"
-   },
-   {
-    "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1103-make-vs-n8n-reminders-2.jpg"
-   },
-   {
-    "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1103-make-vs-n8n-reminders-3.jpg"
-   },
-   {
-    "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1103-make-vs-n8n-reminders-4.jpg"
-   },
-   {
-    "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1103-make-vs-n8n-reminders-5.jpg"
-   },
-   {
-    "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1103-make-vs-n8n-reminders-6.jpg"
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1104-kyc-chase-demo-1.jpg"
    }
   ],
   "ig_files": [
    {
     "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1103-make-vs-n8n-reminders-1.jpg"
-   },
-   {
-    "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1103-make-vs-n8n-reminders-2.jpg"
-   },
-   {
-    "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1103-make-vs-n8n-reminders-3.jpg"
-   },
-   {
-    "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1103-make-vs-n8n-reminders-4.jpg"
-   },
-   {
-    "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1103-make-vs-n8n-reminders-5.jpg"
-   },
-   {
-    "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1103-make-vs-n8n-reminders-6.jpg"
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1104-kyc-chase-demo-1.jpg"
    }
   ]
  },
  {
-  "id": "x-1103-saas-vs-custom",
+  "id": "x-1104-bts-testing",
   "brand": "xenova",
-  "kind": "carousel",
+  "kind": "single",
   "fb_on": "1",
   "ig_on": "1",
   "li_on": "1",
   "fb_page": "1267773913096573",
   "ig_account": "17841428615145019",
-  "fb": "Off-the-shelf software or custom? It depends on year three, not month one.\n\nBuy when your process is standard. Build when the process is how you compete. Often the answer is both: keep the tools that work and build the missing piece.\n\nTell us your situation: xenovasolutions.com/contact",
-  "ig": "Off-the-shelf software or custom? It depends on year three, not month one.\n\n01 Buy when your process is standard and a tool fits 80% of it\n02 Count the hidden costs: per-seat growth, add-ons, staff workarounds\n03 Build when the process is how you compete, or you need to own the data\n04 Often the answer is both: keep what works, build the missing piece\n\nTell us your situation and we'll give you a straight answer. Link in bio.\n\n#software #saas #customsoftware #smallbusiness #digitaltransformation",
-  "li": "Build or buy is rarely a one-time decision. It changes as the business grows.\n\nHow we think about it with clients:\n→ Buy when the process is standard and a tool covers most of it without workarounds\n→ Count the hidden costs: per-seat pricing at scale, paid add-ons, and staff time spent on exports and workarounds\n→ Build when the process is how you compete, or when you need to own the data and the roadmap\n→ Often the right answer is both: keep the SaaS that works, build the piece that connects it\n\nHappy to give a straight opinion on your case: https://xenovasolutions.com/contact\n\n{hashtag|\\#|BuildVsBuy} {hashtag|\\#|SaaS} {hashtag|\\#|CustomSoftware}",
-  "image": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1103-saas-vs-custom-1.jpg",
+  "fb": "What we check before anything goes live: code review, automated tests on key journeys, a staging environment with realistic test data, real phone and browser sizes, and error monitoring after release.\n\nNeed testing on an existing app? We offer QA on its own too: xenovasolutions.com/contact",
+  "ig": "Most bugs are cheaper to catch before release than after.\n\nWhat we check before anything goes live:\n01 Code review by a second engineer\n02 Automated tests, including browser tests on key journeys\n03 Staging with realistic test data\n04 Real phone and browser sizes\n05 Release with error monitoring\n\nNeed testing on an existing app? We do QA as a standalone service too. Link in bio.\n\n#softwaretesting #qa #webdevelopment #playwright #softwareengineering",
+  "li": "A short look at how we release software.\n\nBefore anything goes live:\n→ Every change is reviewed by a second engineer\n→ Automated tests run, including browser tests on the journeys that matter \\(sign-up, checkout, booking\\)\n→ It runs on staging with realistic test data, never real customer data\n→ Key pages are checked on real phone and browser sizes\n→ Release goes out with error monitoring, so issues reach us before users report them\n\nWe also run QA and test automation as a standalone service for existing products: https://xenovasolutions.com/contact\n\n{hashtag|\\#|SoftwareTesting} {hashtag|\\#|QA} {hashtag|\\#|Engineering}",
+  "image": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1104-bts-testing-1.jpg",
   "fb_photos": [
    {
     "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1103-saas-vs-custom-1.jpg"
-   },
-   {
-    "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1103-saas-vs-custom-2.jpg"
-   },
-   {
-    "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1103-saas-vs-custom-3.jpg"
-   },
-   {
-    "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1103-saas-vs-custom-4.jpg"
-   },
-   {
-    "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1103-saas-vs-custom-5.jpg"
-   },
-   {
-    "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1103-saas-vs-custom-6.jpg"
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1104-bts-testing-1.jpg"
    }
   ],
   "ig_files": [
    {
     "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1103-saas-vs-custom-1.jpg"
-   },
-   {
-    "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1103-saas-vs-custom-2.jpg"
-   },
-   {
-    "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1103-saas-vs-custom-3.jpg"
-   },
-   {
-    "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1103-saas-vs-custom-4.jpg"
-   },
-   {
-    "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1103-saas-vs-custom-5.jpg"
-   },
-   {
-    "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1103-saas-vs-custom-6.jpg"
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1104-bts-testing-1.jpg"
    }
   ]
  }
