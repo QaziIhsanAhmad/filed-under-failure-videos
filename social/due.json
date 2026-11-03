@@ -1,6 +1,6 @@
 [
  {
-  "id": "f-1102-failure-alerts",
+  "id": "f-1103-make-vs-n8n-reminders",
   "brand": "frontdesk",
   "kind": "carousel",
   "fb_on": "1",
@@ -8,65 +8,65 @@
   "li_on": "0",
   "fb_page": "1354185007779555",
   "ig_account": "17841416945478586",
-  "fb": "The most common automation problem is not a broken workflow. It's a broken workflow nobody knew about.\n\nAdd an error path to every workflow, alert a named person with the record ID, and check daily that it ran.\n\nMessage us REVIEW for a free check of your automations.",
-  "ig": "The most common automation problem we see is not a broken workflow. It's a broken workflow nobody knew about.\n\nFour fixes:\n01 Accept that failures are silent by default\n02 Add an error path to every workflow (n8n Error Trigger, Make.com error handlers, Zapier failure emails)\n03 Alert a named person with the record ID\n04 Check daily that the workflow actually ran\n\nSend this to whoever owns your automations. DM REVIEW for a free check.\n\n#automation #n8n #makecom #zapier #ecommerce #operations",
+  "fb": "Make.com or n8n for clinic appointment reminders? Both work. The difference is setup, the cost model and where patient data lives.\n\nSmall clinic with no IT person: Make.com. Several sites or strict data rules: n8n. Either way, send only what the reminder needs.\n\nTell us your booking system and volume and we'll recommend one.",
+  "ig": "Make.com or n8n for clinic appointment reminders?\n\nBoth can do it. The difference is setup, cost model and where patient data lives:\n01 Setup: Make.com is hosted; n8n can be cloud or self-hosted\n02 Cost: Make bills by usage credits; n8n Cloud counts executions; self-hosted has no per-run fee (check current plans)\n03 Data: send only name, time and clinic, never clinical notes\n04 Our rule of thumb: small clinic, Make.com; several sites or strict data rules, n8n\n\nTell us your booking system and volume and we'll recommend one. DM REVIEW.\n\n#clinic #healthcare #n8n #makecom #automation #appointments",
   "li": "",
-  "image": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1102-failure-alerts-1.jpg",
+  "image": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1103-make-vs-n8n-reminders-1.jpg",
   "fb_photos": [
    {
     "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1102-failure-alerts-1.jpg"
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1103-make-vs-n8n-reminders-1.jpg"
    },
    {
     "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1102-failure-alerts-2.jpg"
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1103-make-vs-n8n-reminders-2.jpg"
    },
    {
     "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1102-failure-alerts-3.jpg"
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1103-make-vs-n8n-reminders-3.jpg"
    },
    {
     "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1102-failure-alerts-4.jpg"
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1103-make-vs-n8n-reminders-4.jpg"
    },
    {
     "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1102-failure-alerts-5.jpg"
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1103-make-vs-n8n-reminders-5.jpg"
    },
    {
     "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1102-failure-alerts-6.jpg"
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1103-make-vs-n8n-reminders-6.jpg"
    }
   ],
   "ig_files": [
    {
     "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1102-failure-alerts-1.jpg"
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1103-make-vs-n8n-reminders-1.jpg"
    },
    {
     "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1102-failure-alerts-2.jpg"
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1103-make-vs-n8n-reminders-2.jpg"
    },
    {
     "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1102-failure-alerts-3.jpg"
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1103-make-vs-n8n-reminders-3.jpg"
    },
    {
     "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1102-failure-alerts-4.jpg"
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1103-make-vs-n8n-reminders-4.jpg"
    },
    {
     "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1102-failure-alerts-5.jpg"
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1103-make-vs-n8n-reminders-5.jpg"
    },
    {
     "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1102-failure-alerts-6.jpg"
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1103-make-vs-n8n-reminders-6.jpg"
    }
   ]
  },
  {
-  "id": "x-1102-spec-first",
+  "id": "x-1103-saas-vs-custom",
   "brand": "xenova",
   "kind": "carousel",
   "fb_on": "1",
@@ -74,60 +74,60 @@
   "li_on": "1",
   "fb_page": "1267773913096573",
   "ig_account": "17841428615145019",
-  "fb": "Got three quotes that are wildly different? They were probably quoting three different projects.\n\nWrite one page first: who uses it, what it connects to, what's out of scope, and your budget range and deadline.\n\nWe'll help you write it on a free 30-minute call: xenovasolutions.com/contact",
-  "ig": "Got three quotes that are wildly different? They were probably quoting three different projects.\n\nA one-page spec fixes that:\n01 Who uses it, and the jobs they need done\n02 What it connects to (integrations move estimates the most)\n03 What is out of scope\n04 Budget range and deadline\n\nSave this for your next project. Or book a free 30-minute call and we'll help you write it. Link in bio.\n\n#softwaredevelopment #startups #smallbusiness #projectmanagement #webdevelopment",
-  "li": "Founders often tell us they got three quotes for the same project: £8k, £25k and £60k.\n\nUsually those were three different projects, because the brief left room to guess.\n\nA one-page spec closes the gap:\n→ Who uses it, and the 3 to 5 jobs each user must get done\n→ What it connects to \\(integrations move estimates the most\\)\n→ What is explicitly out of scope\n→ A budget range and a deadline\n\nWe're happy to help write it on a free 30-minute call: https://xenovasolutions.com/contact\n\n{hashtag|\\#|SoftwareDevelopment} {hashtag|\\#|Startups} {hashtag|\\#|ProductManagement}",
-  "image": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1102-spec-first-1.jpg",
+  "fb": "Off-the-shelf software or custom? It depends on year three, not month one.\n\nBuy when your process is standard. Build when the process is how you compete. Often the answer is both: keep the tools that work and build the missing piece.\n\nTell us your situation: xenovasolutions.com/contact",
+  "ig": "Off-the-shelf software or custom? It depends on year three, not month one.\n\n01 Buy when your process is standard and a tool fits 80% of it\n02 Count the hidden costs: per-seat growth, add-ons, staff workarounds\n03 Build when the process is how you compete, or you need to own the data\n04 Often the answer is both: keep what works, build the missing piece\n\nTell us your situation and we'll give you a straight answer. Link in bio.\n\n#software #saas #customsoftware #smallbusiness #digitaltransformation",
+  "li": "Build or buy is rarely a one-time decision. It changes as the business grows.\n\nHow we think about it with clients:\n→ Buy when the process is standard and a tool covers most of it without workarounds\n→ Count the hidden costs: per-seat pricing at scale, paid add-ons, and staff time spent on exports and workarounds\n→ Build when the process is how you compete, or when you need to own the data and the roadmap\n→ Often the right answer is both: keep the SaaS that works, build the piece that connects it\n\nHappy to give a straight opinion on your case: https://xenovasolutions.com/contact\n\n{hashtag|\\#|BuildVsBuy} {hashtag|\\#|SaaS} {hashtag|\\#|CustomSoftware}",
+  "image": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1103-saas-vs-custom-1.jpg",
   "fb_photos": [
    {
     "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1102-spec-first-1.jpg"
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1103-saas-vs-custom-1.jpg"
    },
    {
     "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1102-spec-first-2.jpg"
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1103-saas-vs-custom-2.jpg"
    },
    {
     "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1102-spec-first-3.jpg"
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1103-saas-vs-custom-3.jpg"
    },
    {
     "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1102-spec-first-4.jpg"
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1103-saas-vs-custom-4.jpg"
    },
    {
     "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1102-spec-first-5.jpg"
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1103-saas-vs-custom-5.jpg"
    },
    {
     "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1102-spec-first-6.jpg"
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1103-saas-vs-custom-6.jpg"
    }
   ],
   "ig_files": [
    {
     "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1102-spec-first-1.jpg"
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1103-saas-vs-custom-1.jpg"
    },
    {
     "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1102-spec-first-2.jpg"
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1103-saas-vs-custom-2.jpg"
    },
    {
     "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1102-spec-first-3.jpg"
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1103-saas-vs-custom-3.jpg"
    },
    {
     "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1102-spec-first-4.jpg"
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1103-saas-vs-custom-4.jpg"
    },
    {
     "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1102-spec-first-5.jpg"
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1103-saas-vs-custom-5.jpg"
    },
    {
     "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1102-spec-first-6.jpg"
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1103-saas-vs-custom-6.jpg"
    }
   ]
  }
