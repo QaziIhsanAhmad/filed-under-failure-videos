@@ -1,53 +1,173 @@
 [
  {
-  "id": "f-1104-kyc-chase-demo",
+  "id": "f-1105-bf-checklist",
   "brand": "frontdesk",
-  "kind": "single",
+  "kind": "carousel",
   "fb_on": "1",
   "ig_on": "1",
   "li_on": "0",
   "fb_page": "1354185007779555",
   "ig_account": "17841416945478586",
-  "fb": "Onboarding stalls when one document is missing and nobody chases it.\n\nThis concept demo (sample data) checks the document checklist, emails an upload link for the missing item only, escalates to the ops team after 48 hours, and stops reminders when everything is in. Only the chasing is automated; decisions stay with people.",
-  "ig": "Onboarding stalls when one document is missing and nobody chases it.\n\nThis concept demo (sample data) shows the flow in n8n:\n1. The application arrives by webhook\n2. The workflow checks the document checklist\n3. It emails an upload link for the missing item only\n4. After 48 hours: one more reminder, then a task for the ops team\n5. When everything is in, reminders stop and status moves to review\n\nNo decisions are automated here, only the chasing.\n\nRunning onboarding for a fintech or lending product? DM REVIEW.\n\n#fintech #kyc #onboarding #n8n #automation #webhooks",
+  "fb": "Black Friday is 27 November. 7 automations to check before the rush: order emails, low-stock alerts, discount code limits, support auto-replies, failure alerts, courier delay messages and a returns flow for January.\n\nMessage us REVIEW for a free pre-Black Friday check.",
+  "ig": "Black Friday is 27 November. Here are 7 automations to check before the rush:\n\n01 Order confirmation and tracking emails (place a test order)\n02 Low-stock alerts on bestsellers\n03 Discount codes with usage caps and end dates\n04 Support auto-replies with a route to a person\n05 Failure alerts on every workflow\n06 Courier delay messages\n07 A returns flow ready for January\n\nSave this and send it to whoever runs your store ops. DM REVIEW for a free pre-Black Friday check.\n\n#blackfriday #ecommerce #shopify #automation #makecom #onlinestore",
   "li": "",
-  "image": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1104-kyc-chase-demo-1.jpg",
+  "image": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1105-bf-checklist-1.jpg",
   "fb_photos": [
    {
     "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1104-kyc-chase-demo-1.jpg"
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1105-bf-checklist-1.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1105-bf-checklist-2.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1105-bf-checklist-3.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1105-bf-checklist-4.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1105-bf-checklist-5.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1105-bf-checklist-6.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1105-bf-checklist-7.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1105-bf-checklist-8.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1105-bf-checklist-9.jpg"
    }
   ],
   "ig_files": [
    {
     "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1104-kyc-chase-demo-1.jpg"
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1105-bf-checklist-1.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1105-bf-checklist-2.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1105-bf-checklist-3.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1105-bf-checklist-4.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1105-bf-checklist-5.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1105-bf-checklist-6.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1105-bf-checklist-7.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1105-bf-checklist-8.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1105-bf-checklist-9.jpg"
    }
   ]
  },
  {
-  "id": "x-1104-bts-testing",
+  "id": "x-1105-website-signs",
   "brand": "xenova",
-  "kind": "single",
+  "kind": "carousel",
   "fb_on": "1",
   "ig_on": "1",
   "li_on": "1",
   "fb_page": "1267773913096573",
   "ig_account": "17841428615145019",
-  "fb": "What we check before anything goes live: code review, automated tests on key journeys, a staging environment with realistic test data, real phone and browser sizes, and error monitoring after release.\n\nNeed testing on an existing app? We offer QA on its own too: xenovasolutions.com/contact",
-  "ig": "Most bugs are cheaper to catch before release than after.\n\nWhat we check before anything goes live:\n01 Code review by a second engineer\n02 Automated tests, including browser tests on key journeys\n03 Staging with realistic test data\n04 Real phone and browser sizes\n05 Release with error monitoring\n\nNeed testing on an existing app? We do QA as a standalone service too. Link in bio.\n\n#softwaretesting #qa #webdevelopment #playwright #softwareengineering",
-  "li": "A short look at how we release software.\n\nBefore anything goes live:\n→ Every change is reviewed by a second engineer\n→ Automated tests run, including browser tests on the journeys that matter \\(sign-up, checkout, booking\\)\n→ It runs on staging with realistic test data, never real customer data\n→ Key pages are checked on real phone and browser sizes\n→ Release goes out with error monitoring, so issues reach us before users report them\n\nWe also run QA and test automation as a standalone service for existing products: https://xenovasolutions.com/contact\n\n{hashtag|\\#|SoftwareTesting} {hashtag|\\#|QA} {hashtag|\\#|Engineering}",
-  "image": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1104-bts-testing-1.jpg",
+  "fb": "Is your website losing enquiries? Check these: slow on a phone, no clear next step, forms that ask too much, enquiries with no follow-up, common questions unanswered, and you can't update it yourself.\n\nThree or more? Send us your URL and we'll tell you the top 3 fixes, free: xenovasolutions.com/contact",
+  "ig": "Is your website losing enquiries? If 3 or more of these are true, it probably is:\n\n01 Slow on a phone\n02 No clear next step on each page\n03 Forms that ask too much\n04 Enquiries land in one inbox with no follow-up\n05 Common questions (price, process, timing) unanswered\n06 You can't update it yourself\n\nSave this. Or send us your URL and we'll tell you the top 3 fixes, free. Link in bio.\n\n#webdesign #websitedevelopment #smallbusiness #leadgeneration #ux",
+  "li": "Six signs a business website is losing enquiries:\n\n→ It's slow on a phone on mobile data\n→ Pages don't make the next step obvious\n→ Forms ask for more than you need to reply\n→ Enquiries land in one inbox with no alert or follow-up\n→ Common questions on price, process and timing go unanswered\n→ Nobody in the team can update it without a developer\n\nIf three or more apply, send us the URL and we'll reply with the top three fixes, free.\n\nhttps://xenovasolutions.com/contact\n\n{hashtag|\\#|WebDevelopment} {hashtag|\\#|LeadGeneration} {hashtag|\\#|UX}",
+  "image": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1105-website-signs-1.jpg",
   "fb_photos": [
    {
     "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1104-bts-testing-1.jpg"
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1105-website-signs-1.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1105-website-signs-2.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1105-website-signs-3.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1105-website-signs-4.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1105-website-signs-5.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1105-website-signs-6.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1105-website-signs-7.jpg"
+   },
+   {
+    "type": "url",
+    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1105-website-signs-8.jpg"
    }
   ],
   "ig_files": [
    {
     "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1104-bts-testing-1.jpg"
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1105-website-signs-1.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1105-website-signs-2.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1105-website-signs-3.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1105-website-signs-4.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1105-website-signs-5.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1105-website-signs-6.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1105-website-signs-7.jpg"
+   },
+   {
+    "media_type": "IMAGE",
+    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/xenova/x-1105-website-signs-8.jpg"
    }
   ]
  }
