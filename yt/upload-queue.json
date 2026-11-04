@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T16:34:02.549086+05:00",
+ "generated": "2026-11-04T23:52:29.885292+05:00",
  "items": [
   {
    "id": "006-b-a0",
@@ -55,6 +55,17 @@
    "meta": "{\"snippet\": {\"title\": \"€1.9 billion on the balance sheet. The banks said it was never there. #Shorts\", \"description\": \"Wirecard's auditor could not verify €1.9bn of trust-account cash, about a quarter of its balance sheet. Two Philippine banks said the documents were false. From Wirecard's own announcements.\\n\\nFull episode: \\\"Wirecard: A €24bn Star and the €1.9bn Nobody Could Find\\\" on Filed Under Failure.\\nSources: Al Jazeera, 'What $2.1bn? Wirecard says missing funds most likely do not exist' (22 Jun 2020); Wirecard AG ad hoc announcement, 18 Jun 2020 (EY could not obtain sufficient audit evidence; spurious balance confirmations); CNN, 'Wirecard files for insolvency' (25 Jun 2020) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #Wirecard #Wirecardscandal #MarkusBraun\", \"tags\": [\"Wirecard\", \"Wirecard scandal\", \"Markus Braun\", \"Jan Marsalek\", \"EY audit\", \"BaFin\", \"business documentary\", \"what went wrong\"], \"categoryId\": \"27\", \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}, \"status\": {\"selfDeclaredMadeForKids\": false, \"containsSyntheticMedia\": false, \"privacyStatus\": \"private\", \"publishAt\": \"2026-11-07T16:00:00Z\"}}",
    "path": "/../upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
    "publishAt": "2026-11-07T16:00:00Z"
+  },
+  {
+   "id": "007-b-a0",
+   "row": "007-b",
+   "kind": "video",
+   "file": "007/007-wirecard-short-b.mp4",
+   "ctype": "video/mp4",
+   "size": 4653354,
+   "meta": "{\"snippet\": {\"title\": \"Wirecard's regulator went after two journalists. Prosecutors later said they were right #Shorts\", \"description\": \"In 2019 BaFin banned new short bets on Wirecard and filed a complaint naming two Financial Times journalists. In 2020 prosecutors dropped it, calling the reporting fundamentally accurate.\\n\\nFull episode: \\\"Wirecard: A €24bn Star and the €1.9bn Nobody Could Find\\\" on Filed Under Failure.\\nSources: Al Jazeera, 'What $2.1bn? Wirecard says missing funds most likely do not exist' (22 Jun 2020); Wirecard AG ad hoc announcement, 18 Jun 2020 (EY could not obtain sufficient audit evidence; spurious balance confirmations); CNN, 'Wirecard files for insolvency' (25 Jun 2020) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #Wirecard #Wirecardscandal #MarkusBraun\", \"tags\": [\"Wirecard\", \"Wirecard scandal\", \"Markus Braun\", \"Jan Marsalek\", \"EY audit\", \"BaFin\", \"business documentary\", \"what went wrong\"], \"categoryId\": \"27\", \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}, \"status\": {\"selfDeclaredMadeForKids\": false, \"containsSyntheticMedia\": false, \"privacyStatus\": \"private\", \"publishAt\": \"2026-11-12T16:00:00Z\"}}",
+   "path": "/../upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
+   "publishAt": "2026-11-12T16:00:00Z"
   }
  ]
 }
