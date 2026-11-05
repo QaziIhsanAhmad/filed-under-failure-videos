@@ -819,8 +819,8 @@
    "say": "Three. Access is not oversight. Passes, phone numbers and a former prime minister did not stop the Treasury, a court or an insurer from saying no. They just made the fall more public.",
    "visual": {
     "type": "stat",
-    "value": "Access ≠ oversight",
-    "label": "the Treasury, a court and an insurer all said no",
+    "value": "Access",
+    "label": "is not oversight: the Treasury, a court and an insurer all said no",
     "sub": "Our analysis",
     "src": "Treasury Committee, 20 Jul 2021; GTR, 3 Mar 2021; our analysis"
    },

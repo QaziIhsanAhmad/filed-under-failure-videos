@@ -1,0 +1,627 @@
+1
+00:00:00,150 --> 00:00:03,856
+In November 2020, four hundred and forty million
+
+2
+00:00:03,856 --> 00:00:07,021
+dollars arrived at a London finance firm.
+
+3
+00:00:07,021 --> 00:00:10,342
+It was meant to repay a Credit Suisse fund.
+
+4
+00:00:10,342 --> 00:00:12,040
+The fund never got it.
+
+5
+00:00:12,716 --> 00:00:17,670
+Four months later, the firm, Greensill Capital, was in administration,
+
+6
+00:00:17,670 --> 00:00:21,563
+and ten billion dollars of investors' money was frozen.
+
+7
+00:00:22,250 --> 00:00:24,794
+Its founder, Lex Greensill, had been a
+
+8
+00:00:24,794 --> 00:00:27,874
+government adviser with a Downing Street pass.
+
+9
+00:00:27,874 --> 00:00:31,825
+A former prime minister lobbied the Treasury on its behalf.
+
+10
+00:00:32,483 --> 00:00:35,766
+In June 2026, five years on, the official
+
+11
+00:00:35,766 --> 00:00:39,610
+record finally said what happened to that money.
+
+12
+00:00:39,610 --> 00:00:41,772
+We'll get to that document.
+
+13
+00:00:41,772 --> 00:00:43,133
+First, the pitch.
+
+14
+00:00:43,816 --> 00:00:44,863
+Chapter one.
+
+15
+00:00:44,863 --> 00:00:45,736
+The pitch.
+
+16
+00:00:46,183 --> 00:00:48,502
+Here is the idea Greensill sold.
+
+17
+00:00:48,502 --> 00:00:52,561
+A big company owes its suppliers money, but pays slowly.
+
+18
+00:00:52,561 --> 00:00:58,215
+A financier pays the suppliers early, and collects from the big company later.
+
+19
+00:00:58,816 --> 00:01:02,069
+Done with real invoices from solid customers,
+
+20
+00:01:02,069 --> 00:01:04,888
+it is ordinary, low-risk trade finance.
+
+21
+00:01:05,550 --> 00:01:11,864
+Lex Greensill described his own business to MPs in May 2021.
+
+22
+00:01:12,450 --> 00:01:14,783
+He told them: "Our business was all
+
+23
+00:01:14,783 --> 00:01:18,250
+about financing receivables and future receivables."
+
+24
+00:01:18,916 --> 00:01:22,313
+Future receivables are money a company hopes to be
+
+25
+00:01:22,313 --> 00:01:25,302
+owed, from sales that have not happened yet.
+
+26
+00:01:25,302 --> 00:01:27,272
+Hold on to that word, future.
+
+27
+00:01:27,272 --> 00:01:28,427
+It matters later.
+
+28
+00:01:29,083 --> 00:01:30,395
+And it grew fast.
+
+29
+00:01:30,395 --> 00:01:36,185
+SoftBank's Vision Fund invested one and a half billion dollars in 2019, and
+
+30
+00:01:36,185 --> 00:01:42,360
+Greensill reported revenue of four hundred and twenty million dollars that year.
+
+31
+00:01:43,050 --> 00:01:44,037
+Chapter two.
+
+32
+00:01:44,037 --> 00:01:45,930
+Friends in high places.
+
+33
+00:01:46,383 --> 00:01:51,123
+Lex Greensill's ties to government began in 2011, when he
+
+34
+00:01:51,123 --> 00:01:56,113
+was brought in as an unpaid adviser on supply-chain finance.
+
+35
+00:01:56,783 --> 00:02:01,387
+A government-commissioned review by the lawyer Nigel Boardman later
+
+36
+00:02:01,387 --> 00:02:04,822
+found he had Cabinet Office and Number Ten passes,
+
+37
+00:02:04,822 --> 00:02:08,464
+business cards, a government laptop and a BlackBerry.
+
+38
+00:02:09,216 --> 00:02:12,551
+The review wrote: "It is unclear why Mr Greensill
+
+39
+00:02:12,551 --> 00:02:15,953
+was permitted to remain an adviser to government."
+
+40
+00:02:16,616 --> 00:02:20,063
+In 2020, as Covid hit, David Cameron, by then
+
+41
+00:02:20,063 --> 00:02:25,119
+working for Greensill, contacted Treasury ministers and officials.
+
+42
+00:02:25,119 --> 00:02:27,877
+He wanted Greensill to get access to
+
+43
+00:02:27,877 --> 00:02:31,247
+an emergency Bank of England lending scheme.
+
+44
+00:02:32,016 --> 00:02:33,767
+The Treasury said no.
+
+45
+00:02:33,767 --> 00:02:38,602
+A senior Treasury official, Charles Roxburgh, told MPs the
+
+46
+00:02:38,602 --> 00:02:42,770
+application was rejected at the end of March 2020.
+
+47
+00:02:43,450 --> 00:02:47,866
+The Treasury Committee later found Mr Cameron's approach showed
+
+48
+00:02:47,866 --> 00:02:51,090
+"a significant lack of judgement on his part".
+
+49
+00:02:51,090 --> 00:02:56,627
+It said ministers and officials behaved with "complete and absolute integrity".
+
+50
+00:02:57,283 --> 00:03:01,611
+And Boardman found Mr Cameron had, on occasion, understated
+
+51
+00:03:01,611 --> 00:03:05,572
+the nature of his relationship with Greensill Capital.
+
+52
+00:03:06,250 --> 00:03:07,350
+Chapter three.
+
+53
+00:03:07,350 --> 00:03:09,002
+Ten billion in funds.
+
+54
+00:03:09,450 --> 00:03:12,439
+Greensill needed someone to buy its finance.
+
+55
+00:03:12,439 --> 00:03:14,954
+Its biggest outlet was Credit Suisse.
+
+56
+00:03:15,550 --> 00:03:19,224
+Greensill packaged the claims into securities and
+
+57
+00:03:19,224 --> 00:03:22,599
+transferred them to four Credit Suisse funds.
+
+58
+00:03:22,599 --> 00:03:27,699
+By March 2021, clients had put around ten billion dollars into them.
+
+59
+00:03:28,383 --> 00:03:33,695
+Switzerland's regulator, FINMA, found the bank relied heavily on Greensill to
+
+60
+00:03:33,695 --> 00:03:37,765
+select the claims and to arrange the insurance behind them.
+
+61
+00:03:38,450 --> 00:03:40,327
+Then the portfolio changed.
+
+62
+00:03:40,327 --> 00:03:44,082
+FINMA found Greensill later transferred future claims,
+
+63
+00:03:44,082 --> 00:03:47,837
+financing some companies of doubtful creditworthiness.
+
+64
+00:03:47,837 --> 00:03:51,244
+Credit Suisse, at first, did not grasp the shift.
+
+65
+00:03:51,916 --> 00:03:57,631
+Inside the bank, a risk manager advised against a bridging loan to Greensill.
+
+66
+00:03:57,631 --> 00:04:00,748
+FINMA says a senior manager overruled him.
+
+67
+00:04:01,350 --> 00:04:04,925
+FINMA's verdict, in February 2023, was that
+
+68
+00:04:04,925 --> 00:04:10,162
+Credit Suisse "seriously breached its supervisory obligations".
+
+69
+00:04:10,850 --> 00:04:11,824
+Chapter four.
+
+70
+00:04:11,824 --> 00:04:13,324
+The insurance clock.
+
+71
+00:04:13,783 --> 00:04:17,380
+Much of the structure rested on one thing: trade credit
+
+72
+00:04:17,380 --> 00:04:20,715
+insurance, which pays out if borrowers fail to pay.
+
+73
+00:04:21,383 --> 00:04:28,396
+Court documents in Australia showed four point six billion dollars of policies, covering
+
+74
+00:04:28,396 --> 00:04:33,655
+some forty clients, were due to expire on the first of March 2021.
+
+75
+00:04:34,350 --> 00:04:38,753
+The insurer, part of the Tokio Marine group, had written
+
+76
+00:04:38,753 --> 00:04:42,527
+in September 2020 that it did not wish to renew.
+
+77
+00:04:43,216 --> 00:04:48,097
+Greensill asked the Supreme Court of New South Wales to force a renewal.
+
+78
+00:04:48,097 --> 00:04:52,300
+It warned that more than fifty thousand jobs could be at risk.
+
+79
+00:04:52,300 --> 00:04:53,520
+The court refused.
+
+80
+00:04:54,116 --> 00:04:55,242
+Chapter five.
+
+81
+00:04:55,242 --> 00:04:56,975
+Seven days in March.
+
+82
+00:04:57,416 --> 00:04:59,507
+What followed took about a week.
+
+83
+00:05:00,116 --> 00:05:05,021
+On the third of March, Germany's regulator BaFin closed Greensill's
+
+84
+00:05:05,021 --> 00:05:10,219
+German bank to customers, citing an imminent risk of over-indebtedness.
+
+85
+00:05:10,883 --> 00:05:15,856
+BaFin said a forensic audit found the bank could not provide evidence
+
+86
+00:05:15,856 --> 00:05:20,901
+that receivables it had bought from the GFG Alliance actually existed.
+
+87
+00:05:21,583 --> 00:05:26,973
+GFG is the steel and metals group of the businessman Sanjeev Gupta.
+
+88
+00:05:26,973 --> 00:05:31,559
+Britain's Serious Fraud Office opened an investigation in
+
+89
+00:05:31,559 --> 00:05:36,467
+May 2021, covering its financing arrangements with Greensill.
+
+90
+00:05:36,467 --> 00:05:39,444
+Its case page still lists it as open.
+
+91
+00:05:40,116 --> 00:05:45,665
+On the eighth of March, Greensill Capital's UK companies entered administration.
+
+92
+00:05:45,665 --> 00:05:49,272
+The Greensill group's combined liabilities were more
+
+93
+00:05:49,272 --> 00:05:51,631
+than one point six billion pounds.
+
+94
+00:05:52,316 --> 00:05:55,542
+Earlier that month, Credit Suisse had closed its
+
+95
+00:05:55,542 --> 00:05:58,969
+four funds, with around ten billion dollars inside.
+
+96
+00:05:59,649 --> 00:06:00,516
+Chapter six.
+
+97
+00:06:00,516 --> 00:06:03,041
+The four hundred and forty million.
+
+98
+00:06:03,483 --> 00:06:06,051
+Now back to the money from the start.
+
+99
+00:06:06,051 --> 00:06:09,036
+One borrower in the Credit Suisse funds was
+
+100
+00:06:09,036 --> 00:06:13,269
+Katerra, an American construction company backed by SoftBank.
+
+101
+00:06:13,949 --> 00:06:18,611
+According to the Insolvency Service, in late 2020 Lex Greensill
+
+102
+00:06:18,611 --> 00:06:23,643
+caused his companies to enter transactions with Katerra that removed
+
+103
+00:06:23,643 --> 00:06:27,860
+legal protections from a Credit Suisse fund's investment.
+
+104
+00:06:28,616 --> 00:06:33,657
+In November 2020, four hundred and forty million dollars came in.
+
+105
+00:06:33,657 --> 00:06:39,240
+SoftBank had provided it for buying back Katerra notes held by the fund.
+
+106
+00:06:39,849 --> 00:06:43,916
+Instead, the Insolvency Service says, Mr Greensill caused or
+
+107
+00:06:43,916 --> 00:06:46,695
+allowed it to be used for other purposes.
+
+108
+00:06:46,695 --> 00:06:48,051
+The notes defaulted.
+
+109
+00:06:48,051 --> 00:06:51,643
+The fund lost four hundred and forty million dollars.
+
+110
+00:06:52,316 --> 00:06:56,481
+Credit Suisse sued SoftBank in London to recover it.
+
+111
+00:06:56,481 --> 00:07:01,126
+In October 2025 the High Court rejected the claim, finding
+
+112
+00:07:01,126 --> 00:07:06,252
+SoftBank believed in good faith the money would pay noteholders.
+
+113
+00:07:06,916 --> 00:07:11,106
+Then, on the second of June 2026, days before a six-week
+
+114
+00:07:11,106 --> 00:07:17,092
+trial, the government accepted a disqualification undertaking from Mr Greensill.
+
+115
+00:07:17,092 --> 00:07:21,207
+The government had sought a ban of up to fifteen years.
+
+116
+00:07:21,207 --> 00:07:22,479
+He accepted nine.
+
+117
+00:07:23,149 --> 00:07:27,085
+An undertaking means he does not dispute certain
+
+118
+00:07:27,085 --> 00:07:31,185
+facts, for the purposes of those proceedings only.
+
+119
+00:07:31,185 --> 00:07:33,810
+It is not a criminal conviction.
+
+120
+00:07:33,810 --> 00:07:36,187
+The ban runs until June 2035.
+
+121
+00:07:36,883 --> 00:07:38,129
+Chapter seven.
+
+122
+00:07:38,129 --> 00:07:38,931
+Who paid.
+
+123
+00:07:39,383 --> 00:07:44,776
+The fund investors, around twelve hundred wealthy clients, waited years.
+
+124
+00:07:44,776 --> 00:07:49,420
+By mid-2024 more than seven billion dollars had been returned,
+
+125
+00:07:49,420 --> 00:07:52,940
+with nearly two and a half billion still stuck.
+
+126
+00:07:53,616 --> 00:07:59,577
+UBS, which had taken over Credit Suisse, set aside about nine hundred million
+
+127
+00:07:59,577 --> 00:08:04,841
+dollars to buy investors out at ninety per cent of the funds' value.
+
+128
+00:08:04,841 --> 00:08:09,795
+Credit Suisse expected the wind-down to run until at least 2031.
+
+129
+00:08:10,483 --> 00:08:12,929
+British taxpayers were exposed too.
+
+130
+00:08:12,929 --> 00:08:18,451
+Greensill made seven government-backed Covid loans, totalling three hundred and
+
+131
+00:08:18,451 --> 00:08:22,296
+fifty million pounds, to companies in the GFG Alliance.
+
+132
+00:08:22,949 --> 00:08:26,952
+The scheme had a limit of fifty million pounds per borrower.
+
+133
+00:08:26,952 --> 00:08:30,355
+The National Audit Office said taxpayers could lose
+
+134
+00:08:30,355 --> 00:08:33,824
+almost three hundred and thirty-five million pounds.
+
+135
+00:08:33,824 --> 00:08:38,627
+Greensill, through its administrators, denies lending outside the rules.
+
+136
+00:08:39,283 --> 00:08:42,211
+Lex Greensill told MPs: "I bear complete
+
+137
+00:08:42,211 --> 00:08:46,164
+responsibility for the collapse of Greensill Capital."
+
+138
+00:08:46,850 --> 00:08:47,725
+Our analysis.
+
+139
+00:08:47,725 --> 00:08:50,755
+The official findings point to three lessons,
+
+140
+00:08:50,755 --> 00:08:53,246
+and they apply well beyond Greensill.
+
+141
+00:08:53,750 --> 00:08:54,057
+One.
+
+142
+00:08:54,057 --> 00:08:59,210
+Supply-chain finance is only as safe as what is actually inside it.
+
+143
+00:08:59,210 --> 00:09:02,517
+FINMA found future claims on weak borrowers
+
+144
+00:09:02,517 --> 00:09:06,131
+sitting where investors expected trade finance.
+
+145
+00:09:06,816 --> 00:09:07,100
+Two.
+
+146
+00:09:07,100 --> 00:09:09,443
+One letter can be the whole risk.
+
+147
+00:09:09,443 --> 00:09:12,923
+The insurer said in September it would not renew.
+
+148
+00:09:12,923 --> 00:09:16,544
+The firm lasted about a week after the cover ended.
+
+149
+00:09:17,150 --> 00:09:17,564
+Three.
+
+150
+00:09:17,564 --> 00:09:19,222
+Access is not oversight.
+
+151
+00:09:19,222 --> 00:09:23,506
+Passes, phone numbers and a former prime minister did not stop
+
+152
+00:09:23,506 --> 00:09:27,030
+the Treasury, a court or an insurer from saying no.
+
+153
+00:09:27,030 --> 00:09:29,518
+They just made the fall more public.
+
+154
+00:09:30,183 --> 00:09:35,060
+If this sounded familiar, watch our First Brands episode: another company
+
+155
+00:09:35,060 --> 00:09:39,737
+where lenders discovered too late what their finance really rested on.
+
+156
+00:09:40,416 --> 00:09:45,141
+Next on Filed Under Failure: FTX, from exchange to courtroom.
+
+157
+00:09:45,141 --> 00:09:48,395
+Subscribe so the next case file finds you.
