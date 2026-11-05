@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T13:14:25.561186+05:00",
+ "generated": "2026-11-05T13:15:28.465832+05:00",
  "problems": [],
  "items": [
   {
@@ -1048,7 +1048,7 @@
    "date": "2026-11-05",
    "pillar": "checklist",
    "slides": 9,
-   "status": "unverified",
+   "status": "posted",
    "platforms": {
     "fb": {
      "state": "posted",
@@ -1057,10 +1057,10 @@
      "at": "2026-11-05T08:14:25.079615+00:00"
     },
     "ig": {
-     "state": "pending",
-     "id": "",
-     "tries": 0,
-     "at": ""
+     "state": "posted",
+     "id": "18120376364068010",
+     "tries": 1,
+     "at": "2026-11-05T08:15:28.127815+00:00"
     }
    },
    "src": "social/posts/2026-10-30.json"
