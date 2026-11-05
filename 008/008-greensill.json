@@ -1,0 +1,1113 @@
+{
+ "slug": "008-greensill",
+ "title": "Greensill: $10bn in Funds and the $440m That Went Elsewhere",
+ "voice": "bm_george",
+ "speed": 0.95,
+ "summary": "Greensill Capital collapse explained from the regulator, parliamentary and Insolvency Service records.\n\nIn November 2020, $440m meant to repay a Credit Suisse fund arrived at Greensill Capital and, the Insolvency Service says, was used for other purposes. Four months later the firm was in administration and $10bn of fund money was frozen. Using FINMA's findings on Credit Suisse, the Treasury Committee and National Audit Office reports, BaFin's order, Lex Greensill's own evidence to MPs, Australian court documents and the 2026 disqualification undertaking, we explain how supply-chain finance turned into future claims on weak borrowers, why one insurance letter mattered so much, and who paid. A disqualification undertaking is not a criminal conviction; the SFO's GFG Alliance investigation is not a finding of guilt.",
+ "thumb": [
+  "$440M",
+  "WENT ELSEWHERE",
+  "9-YEAR BAN",
+  "GREENSILL"
+ ],
+ "tags": [
+  "Greensill",
+  "Greensill Capital",
+  "Lex Greensill",
+  "Credit Suisse",
+  "supply chain finance",
+  "David Cameron lobbying",
+  "business documentary",
+  "what went wrong"
+ ],
+ "sources": [
+  "Insolvency Service, 'Lex Greensill to be disqualified from acting as a company director in the UK for nine years' (4 Jun 2026): https://www.gov.uk/government/news/lex-greensill-to-be-disqualified-from-acting-as-a-company-director-in-the-uk-for-nine-years",
+  "Insolvency Service, 'Outcome of investigation into the directors of the collapsed Greensill group' (7 Mar 2024): https://www.gov.uk/government/news/outcome-of-investigation-into-the-directors-of-the-collapsed-greensill-group",
+  "FINMA, Greensill proceedings against Credit Suisse concluded (28 Feb 2023): https://www.finma.ch/en/news/2023/02/20230228-mm-greensill/",
+  "House of Commons Treasury Committee, 'Lessons from Greensill Capital' (HC 151), press release, 20 Jul 2021: https://www.wired-gov.net/wg/news.nsf/print/Treasury+Committee+reports+on+Lessons+from+Greensill+Capital+20072021112000 (report: https://api.parliament.uk/committees/publications/6800)",
+  "National Audit Office, 'Investigation into the British Business Bank's accreditation of Greensill Capital' (7 Jul 2021): https://www.nao.org.uk/press-releases/investigation-into-the-british-business-banks-accreditation-of-greensill-capital/",
+  "BaFin, moratorium on Greensill Bank AG (3 Mar 2021): https://www.bafin.de/ref/19621044",
+  "Treasury Committee, oral evidence from Lex Greensill, 11 May 2021 (HC 151): https://committees.parliament.uk/oralevidence/2149/html/",
+  "Global Trade Review, 'Greensill collapse rooted in insurance dispute, court documents show' (3 Mar 2021): https://www.gtreview.com/news/asia/greensill-collapse-rooted-in-insurance-dispute-court-documents-show/",
+  "CNN Business, Greensill insolvency report (3 Mar 2021): https://edition.cnn.com/2021/03/03/investing/greensill-insolvency-apollo/index.html",
+  "Banking Dive, 'UBS sets aside $900 million to compensate Credit Suisse Greensill clients' (Jun 2024): https://www.bankingdive.com/news/ubs-set-aside-900-million-compensate-credit-suisse-greensill-clients-archegos/719133/",
+  "Global Trade Review, 'Credit Suisse loses SoftBank case over US$440mn Greensill losses' (Oct 2025): https://www.gtreview.com/news/europe/credit-suisse-loses-softbank-case-over-us440mn-greensill-losses/",
+  "Claims Journal (Reuters), 'Credit Suisse loses $440M UK suit against SoftBank over Greensill losses' (15 Oct 2025): https://www.claimsjournal.com/news/national/2025/10/15/333515.htm",
+  "Serious Fraud Office case page, Gupta Family Group (GFG) Alliance: https://www.gov.uk/sfo-cases/gupta-family-group-gfg-alliance",
+  "Civil Service World, report on the Boardman review (23 Jul 2021): https://www.civilserviceworld.com/news/article/governmentcommissioned-greensill-probe-dubbed-a-whitewash",
+  "Cabinet Office, Nigel Boardman review of supply chain finance in government (22 Jul 2021): https://gov.uk/government/publications/findings-of-a-review-into-the-development-and-use-of-supply-chain-finance-in-government",
+  "Public Accounts Committee, oral evidence from HM Treasury (Sir Tom Scholar, Charles Roxburgh), 22 Apr 2021: https://committees.parliament.uk/oralevidence/2083/default/"
+ ],
+ "altered": {
+  "disclose": false,
+  "reason": "Generic synthetic narrator (Kokoro bm_george) not imitating any real person; quotes attributed by the narrator and shown as on-screen text; original code-generated charts, text graphics and music; no realistic synthetic imagery or altered real footage."
+ },
+ "notes": {
+  "status": "fact-checked 5 Nov 2026 (independent sub-agent: ~60 claims; 7 wrong + 4 unverified fixed: Roxburgh attribution, group-level £1.6bn, Credit Suisse 2031 attribution, 'what happened to' not 'where', undertaking accepted 2 Jun, truncated FINMA quotes marked, Treasury not regulator, Downing Street pass wording, SCF low-risk line labelled our explanation, CS funds source)",
+  "alt_titles": [
+   "Why Did Greensill Capital Collapse? The Insurance That Ran Out",
+   "Greensill: Cameron, Credit Suisse and a $440m Detour"
+  ],
+  "thumbnails": {
+   "A": "'$440M' huge in white over 'WENT ELSEWHERE' in red; paper case file stamped 9-YEAR BAN (house style).",
+   "B": "Code-drawn insurance policy card with 'NOT RENEWED' red stamp and '$4.6BN' headline; ties to the insurance chapter."
+  },
+  "experiment": "Same number-contrast title pattern as 006/007 so the title-pattern test keeps one variable.",
+  "demand_check": "5 Nov 2026: research.yml not run (budget). Signals: strong evergreen UK/global coverage and fresh news pegs: Insolvency Service 9-year ban (4 Jun 2026), SoftBank judgment (Oct 2025), Cameron back in politics coverage. Topic kept.",
+  "legal": "Undertaking = facts not disputed for disqualification purposes only, not a conviction. SFO GFG investigation open, no finding. Greensill administrators deny lending outside CBILS/CLBILS rules (NAO). Cameron: only Treasury Committee/Boardman findings as worded. SoftBank found to have acted in good faith (High Court).",
+  "links": "Related: 006 First Brands. Next: 009 FTX.",
+  "image_scenes": "not supported yet"
+ },
+ "scenes": [
+  {
+   "say": "In November 2020, four hundred and forty million dollars arrived at a London finance firm. It was meant to repay a Credit Suisse fund. The fund never got it.",
+   "visual": {
+    "type": "stat",
+    "value": "$440m",
+    "label": "received in November 2020, not used to repay the fund",
+    "red": true,
+    "src": "Insolvency Service, 4 Jun 2026"
+   },
+   "src": "Insolvency Service, 4 Jun 2026",
+   "chapter": "Cold open"
+  },
+  {
+   "say": "Four months later, the firm, Greensill Capital, was in administration, and ten billion dollars of investors' money was frozen.",
+   "visual": {
+    "type": "stats",
+    "title": "March 2021",
+    "items": [
+     [
+      "8 Mar",
+      "Greensill Capital enters administration"
+     ],
+     [
+      "~$10bn",
+      "in Credit Suisse funds closed"
+     ]
+    ],
+    "hi": 1,
+    "src": "Insolvency Service, 7 Mar 2024; FINMA, 28 Feb 2023"
+   },
+   "src": "Insolvency Service, 7 Mar 2024; FINMA, 28 Feb 2023"
+  },
+  {
+   "say": "Its founder, Lex Greensill, had been a government adviser with a Downing Street pass. A former prime minister lobbied the Treasury on its behalf.",
+   "visual": {
+    "type": "list",
+    "title": "Who was involved",
+    "items": [
+     "Lex Greensill: unpaid government adviser from 2011",
+     "David Cameron: lobbied the Treasury in 2020",
+     "Credit Suisse: ran the funds its clients invested in"
+    ],
+    "src": "Civil Service World, 23 Jul 2021; Treasury Committee, 20 Jul 2021; FINMA, 28 Feb 2023"
+   },
+   "src": "Civil Service World, 23 Jul 2021; Treasury Committee, 20 Jul 2021; FINMA, 28 Feb 2023"
+  },
+  {
+   "say": "In June 2026, five years on, the official record finally said what happened to that money. We'll get to that document. First, the pitch.",
+   "visual": {
+    "type": "document",
+    "header": "Insolvency Service · 4 Jun 2026",
+    "title": "Disqualification undertaking",
+    "lines": [
+     "Alexander (Lex) Greensill",
+     "!Nine-year ban as a company director",
+     "Conduct: Greensill Capital (UK), Greensill Ltd, Greensill Capital Pty"
+    ],
+    "stamp": "ACCEPTED",
+    "src": "Insolvency Service, 4 Jun 2026"
+   },
+   "src": "Insolvency Service, 4 Jun 2026"
+  },
+  {
+   "say": "Chapter one. The pitch.",
+   "visual": {
+    "type": "chapter",
+    "n": 1,
+    "text": "The pitch",
+    "src": "Lex Greensill evidence, 11 May 2021"
+   },
+   "src": "Lex Greensill evidence, 11 May 2021",
+   "chapter": "The pitch",
+   "pause": 0.3
+  },
+  {
+   "say": "Here is the idea Greensill sold. A big company owes its suppliers money, but pays slowly. A financier pays the suppliers early, and collects from the big company later.",
+   "visual": {
+    "type": "title",
+    "kicker": "Supply-chain finance",
+    "text": "Get paid now. The buyer pays later.",
+    "sub": "A financier steps in between supplier and customer",
+    "src": "Our explanation; Lex Greensill evidence, 11 May 2021"
+   },
+   "src": "Our explanation; Lex Greensill evidence, 11 May 2021"
+  },
+  {
+   "say": "Done with real invoices from solid customers, it is ordinary, low-risk trade finance.",
+   "visual": {
+    "type": "stat",
+    "value": "Low risk",
+    "label": "when backed by real invoices from creditworthy buyers",
+    "sub": "Our explanation",
+    "src": "Our explanation"
+   },
+   "src": "Our explanation"
+  },
+  {
+   "say": "Lex Greensill described his own business to MPs in May 2021.",
+   "visual": {
+    "type": "timeline",
+    "date": "11 May 2021",
+    "text": "Lex Greensill gives evidence to the Treasury Committee",
+    "src": "Lex Greensill evidence, 11 May 2021"
+   },
+   "src": "Lex Greensill evidence, 11 May 2021"
+  },
+  {
+   "say": "He told them: \"Our business was all about financing receivables and future receivables.\"",
+   "visual": {
+    "type": "quote",
+    "text": "Our business was all about financing receivables and future receivables.",
+    "by": "Lex Greensill, evidence to MPs, 11 May 2021",
+    "src": "Lex Greensill evidence, 11 May 2021"
+   },
+   "src": "Lex Greensill evidence, 11 May 2021"
+  },
+  {
+   "say": "Future receivables are money a company hopes to be owed, from sales that have not happened yet. Hold on to that word, future. It matters later.",
+   "visual": {
+    "type": "list",
+    "title": "Two kinds of 'receivable'",
+    "items": [
+     "Invoice: goods delivered, customer owes money",
+     "Future receivable: a sale that has not happened yet"
+    ],
+    "src": "Lex Greensill evidence, 11 May 2021"
+   },
+   "src": "Lex Greensill evidence, 11 May 2021"
+  },
+  {
+   "say": "And it grew fast. SoftBank's Vision Fund invested one and a half billion dollars in 2019, and Greensill reported revenue of four hundred and twenty million dollars that year.",
+   "visual": {
+    "type": "stats",
+    "title": "Greensill Capital, 2019",
+    "items": [
+     [
+      "$1.5bn",
+      "SoftBank Vision Fund investment"
+     ],
+     [
+      "$420m",
+      "revenue, up 79%"
+     ]
+    ],
+    "hi": 0,
+    "src": "CNN, 3 Mar 2021"
+   },
+   "src": "CNN, 3 Mar 2021"
+  },
+  {
+   "say": "Chapter two. Friends in high places.",
+   "visual": {
+    "type": "chapter",
+    "n": 2,
+    "text": "Friends in high places",
+    "src": "Civil Service World, 23 Jul 2021"
+   },
+   "src": "Civil Service World, 23 Jul 2021",
+   "chapter": "Friends in high places",
+   "pause": 0.3
+  },
+  {
+   "say": "Lex Greensill's ties to government began in 2011, when he was brought in as an unpaid adviser on supply-chain finance.",
+   "visual": {
+    "type": "timeline",
+    "date": "2011",
+    "text": "Brought into government as an unpaid adviser",
+    "src": "Civil Service World, 23 Jul 2021"
+   },
+   "src": "Civil Service World, 23 Jul 2021"
+  },
+  {
+   "say": "A government-commissioned review by the lawyer Nigel Boardman later found he had Cabinet Office and Number Ten passes, business cards, a government laptop and a BlackBerry.",
+   "visual": {
+    "type": "list",
+    "title": "What the Boardman review found he had",
+    "items": [
+     "Cabinet Office and No.10 passes",
+     "Government business cards",
+     "A Cabinet Office laptop and BlackBerry"
+    ],
+    "src": "Civil Service World, 23 Jul 2021; Cabinet Office, 22 Jul 2021"
+   },
+   "src": "Civil Service World, 23 Jul 2021; Cabinet Office, 22 Jul 2021"
+  },
+  {
+   "say": "The review wrote: \"It is unclear why Mr Greensill was permitted to remain an adviser to government.\"",
+   "visual": {
+    "type": "quote",
+    "text": "It is unclear why Mr Greensill was permitted to remain an adviser to government.",
+    "by": "Boardman review, 2021, as reported by Civil Service World",
+    "src": "Civil Service World, 23 Jul 2021"
+   },
+   "src": "Civil Service World, 23 Jul 2021"
+  },
+  {
+   "say": "In 2020, as Covid hit, David Cameron, by then working for Greensill, contacted Treasury ministers and officials. He wanted Greensill to get access to an emergency Bank of England lending scheme.",
+   "visual": {
+    "type": "document",
+    "header": "Spring 2020",
+    "title": "The lobbying",
+    "lines": [
+     "Calls and text messages to Treasury ministers and officials",
+     "!Aim: Greensill access to the Covid Corporate Financing Facility"
+    ],
+    "src": "Treasury Committee, 20 Jul 2021; PAC evidence, 22 Apr 2021"
+   },
+   "src": "Treasury Committee, 20 Jul 2021; PAC evidence, 22 Apr 2021"
+  },
+  {
+   "say": "The Treasury said no. A senior Treasury official, Charles Roxburgh, told MPs the application was rejected at the end of March 2020.",
+   "visual": {
+    "type": "stat",
+    "value": "Rejected",
+    "label": "Greensill's bid for the Covid Corporate Financing Facility",
+    "sub": "End of March 2020",
+    "red": true,
+    "src": "PAC evidence, 22 Apr 2021"
+   },
+   "src": "PAC evidence, 22 Apr 2021"
+  },
+  {
+   "say": "The Treasury Committee later found Mr Cameron's approach showed \"a significant lack of judgement on his part\". It said ministers and officials behaved with \"complete and absolute integrity\".",
+   "visual": {
+    "type": "quote",
+    "text": "...showed a significant lack of judgement on his part",
+    "by": "Treasury Committee report, 20 July 2021",
+    "src": "Treasury Committee, 20 Jul 2021"
+   },
+   "src": "Treasury Committee, 20 Jul 2021"
+  },
+  {
+   "say": "And Boardman found Mr Cameron had, on occasion, understated the nature of his relationship with Greensill Capital.",
+   "visual": {
+    "type": "list",
+    "title": "Two inquiries, two findings",
+    "items": [
+     "Treasury Committee: lobbying rules 'of insufficient strength'",
+     "Boardman: Cameron 'on occasion understated' his relationship with Greensill"
+    ],
+    "src": "Civil Service World, 23 Jul 2021; Treasury Committee, 20 Jul 2021"
+   },
+   "src": "Civil Service World, 23 Jul 2021; Treasury Committee, 20 Jul 2021"
+  },
+  {
+   "say": "Chapter three. Ten billion in funds.",
+   "visual": {
+    "type": "chapter",
+    "n": 3,
+    "text": "Ten billion in funds",
+    "src": "FINMA, 28 Feb 2023"
+   },
+   "src": "FINMA, 28 Feb 2023",
+   "chapter": "Ten billion in funds",
+   "pause": 0.3
+  },
+  {
+   "say": "Greensill needed someone to buy its finance. Its biggest outlet was Credit Suisse.",
+   "visual": {
+    "type": "title",
+    "kicker": "The money behind it",
+    "text": "Credit Suisse",
+    "sub": "Four supply-chain finance funds, the first launched in 2017",
+    "src": "FINMA, 28 Feb 2023"
+   },
+   "src": "FINMA, 28 Feb 2023"
+  },
+  {
+   "say": "Greensill packaged the claims into securities and transferred them to four Credit Suisse funds. By March 2021, clients had put around ten billion dollars into them.",
+   "visual": {
+    "type": "stats",
+    "title": "The Credit Suisse funds",
+    "items": [
+     [
+      "4",
+      "funds"
+     ],
+     [
+      "2017",
+      "first launched"
+     ],
+     [
+      "~$10bn",
+      "clients' money by March 2021"
+     ]
+    ],
+    "hi": 2,
+    "src": "FINMA, 28 Feb 2023"
+   },
+   "src": "FINMA, 28 Feb 2023"
+  },
+  {
+   "say": "Switzerland's regulator, FINMA, found the bank relied heavily on Greensill to select the claims and to arrange the insurance behind them.",
+   "visual": {
+    "type": "document",
+    "header": "FINMA · 28 Feb 2023",
+    "title": "Findings on Credit Suisse",
+    "lines": [
+     "Relied heavily on Greensill for selecting claims",
+     "!Relied heavily on Greensill for insurance cover"
+    ],
+    "src": "FINMA, 28 Feb 2023"
+   },
+   "src": "FINMA, 28 Feb 2023"
+  },
+  {
+   "say": "Then the portfolio changed. FINMA found Greensill later transferred future claims, financing some companies of doubtful creditworthiness. Credit Suisse, at first, did not grasp the shift.",
+   "visual": {
+    "type": "stat",
+    "value": "Future claims",
+    "label": "some financing companies of doubtful creditworthiness",
+    "sub": "FINMA: Credit Suisse initially did not grasp the change",
+    "red": true,
+    "src": "FINMA, 28 Feb 2023"
+   },
+   "src": "FINMA, 28 Feb 2023"
+  },
+  {
+   "say": "Inside the bank, a risk manager advised against a bridging loan to Greensill. FINMA says a senior manager overruled him.",
+   "visual": {
+    "type": "list",
+    "title": "Inside Credit Suisse, per FINMA",
+    "items": [
+     "Risk manager: advised against a bridging loan",
+     "Senior manager: overruled him",
+     "Bank gave FINMA partly false, overly positive statements"
+    ],
+    "src": "FINMA, 28 Feb 2023"
+   },
+   "src": "FINMA, 28 Feb 2023"
+  },
+  {
+   "say": "FINMA's verdict, in February 2023, was that Credit Suisse \"seriously breached its supervisory obligations\".",
+   "visual": {
+    "type": "quote",
+    "text": "Credit Suisse seriously breached its supervisory obligations in this context...",
+    "by": "FINMA, 28 February 2023",
+    "src": "FINMA, 28 Feb 2023"
+   },
+   "src": "FINMA, 28 Feb 2023"
+  },
+  {
+   "say": "Chapter four. The insurance clock.",
+   "visual": {
+    "type": "chapter",
+    "n": 4,
+    "text": "The insurance clock",
+    "src": "GTR, 3 Mar 2021"
+   },
+   "src": "GTR, 3 Mar 2021",
+   "chapter": "The insurance clock",
+   "pause": 0.3
+  },
+  {
+   "say": "Much of the structure rested on one thing: trade credit insurance, which pays out if borrowers fail to pay.",
+   "visual": {
+    "type": "title",
+    "kicker": "The load-bearing wall",
+    "text": "Credit insurance",
+    "sub": "Cover against non-payment by Greensill's clients",
+    "src": "GTR, 3 Mar 2021"
+   },
+   "src": "GTR, 3 Mar 2021"
+  },
+  {
+   "say": "Court documents in Australia showed four point six billion dollars of policies, covering some forty clients, were due to expire on the first of March 2021.",
+   "visual": {
+    "type": "stats",
+    "title": "The policies, per Australian court documents",
+    "items": [
+     [
+      "$4.6bn",
+      "of cover"
+     ],
+     [
+      "~40",
+      "clients covered"
+     ],
+     [
+      "1 Mar 2021",
+      "expiry date"
+     ]
+    ],
+    "hi": 2,
+    "src": "GTR, 3 Mar 2021"
+   },
+   "src": "GTR, 3 Mar 2021"
+  },
+  {
+   "say": "The insurer, part of the Tokio Marine group, had written in September 2020 that it did not wish to renew.",
+   "visual": {
+    "type": "timeline",
+    "date": "1 Sep 2020",
+    "text": "Insurer: 'does not wish to renew' the cover",
+    "src": "GTR, 3 Mar 2021"
+   },
+   "src": "GTR, 3 Mar 2021"
+  },
+  {
+   "say": "Greensill asked the Supreme Court of New South Wales to force a renewal. It warned that more than fifty thousand jobs could be at risk. The court refused.",
+   "visual": {
+    "type": "document",
+    "header": "Supreme Court of New South Wales · Mar 2021",
+    "title": "Application to force renewal",
+    "lines": [
+     "Greensill: some clients 'likely to become insolvent'",
+     "Greensill: 50,000+ jobs could be at risk",
+     "!Result: application refused"
+    ],
+    "stamp": "REFUSED",
+    "src": "GTR, 3 Mar 2021"
+   },
+   "src": "GTR, 3 Mar 2021"
+  },
+  {
+   "say": "Chapter five. Seven days in March.",
+   "visual": {
+    "type": "chapter",
+    "n": 5,
+    "text": "Seven days in March",
+    "src": "BaFin, 3 Mar 2021"
+   },
+   "src": "BaFin, 3 Mar 2021",
+   "chapter": "Seven days in March",
+   "pause": 0.3
+  },
+  {
+   "say": "What followed took about a week.",
+   "visual": {
+    "type": "stat",
+    "value": "~7 days",
+    "label": "from the insurance lapsing to administration",
+    "red": true,
+    "src": "GTR, 3 Mar 2021; Insolvency Service, 7 Mar 2024"
+   },
+   "src": "GTR, 3 Mar 2021; Insolvency Service, 7 Mar 2024"
+  },
+  {
+   "say": "On the third of March, Germany's regulator BaFin closed Greensill's German bank to customers, citing an imminent risk of over-indebtedness.",
+   "visual": {
+    "type": "timeline",
+    "date": "3 Mar 2021",
+    "text": "BaFin imposes a moratorium on Greensill Bank AG",
+    "src": "BaFin, 3 Mar 2021"
+   },
+   "src": "BaFin, 3 Mar 2021"
+  },
+  {
+   "say": "BaFin said a forensic audit found the bank could not provide evidence that receivables it had bought from the GFG Alliance actually existed.",
+   "visual": {
+    "type": "document",
+    "header": "BaFin · 3 Mar 2021",
+    "title": "Greensill Bank AG",
+    "lines": [
+     "Receivables bought from GFG Alliance",
+     "!Bank unable to evidence their existence",
+     "Moratorium: payments and disposals blocked"
+    ],
+    "stamp": "MORATORIUM",
+    "src": "BaFin, 3 Mar 2021"
+   },
+   "src": "BaFin, 3 Mar 2021"
+  },
+  {
+   "say": "GFG is the steel and metals group of the businessman Sanjeev Gupta. Britain's Serious Fraud Office opened an investigation in May 2021, covering its financing arrangements with Greensill. Its case page still lists it as open.",
+   "visual": {
+    "type": "list",
+    "title": "Serious Fraud Office, GFG Alliance",
+    "items": [
+     "Opened: 14 May 2021",
+     "Suspected fraud, fraudulent trading, money laundering",
+     "Status on the SFO case page: open, an investigation, not a finding"
+    ],
+    "src": "SFO case page"
+   },
+   "src": "SFO case page"
+  },
+  {
+   "say": "On the eighth of March, Greensill Capital's UK companies entered administration. The Greensill group's combined liabilities were more than one point six billion pounds.",
+   "visual": {
+    "type": "stats",
+    "title": "The collapse",
+    "items": [
+     [
+      "8 Mar 2021",
+      "UK administration"
+     ],
+     [
+      "£1.6bn+",
+      "combined liabilities"
+     ]
+    ],
+    "hi": 1,
+    "src": "Insolvency Service, 7 Mar 2024; Insolvency Service, 4 Jun 2026"
+   },
+   "src": "Insolvency Service, 7 Mar 2024; Insolvency Service, 4 Jun 2026"
+  },
+  {
+   "say": "Earlier that month, Credit Suisse had closed its four funds, with around ten billion dollars inside.",
+   "visual": {
+    "type": "stat",
+    "value": "~$10bn",
+    "label": "in the four Credit Suisse funds when they closed",
+    "red": true,
+    "src": "FINMA, 28 Feb 2023"
+   },
+   "src": "FINMA, 28 Feb 2023"
+  },
+  {
+   "say": "Chapter six. The four hundred and forty million.",
+   "visual": {
+    "type": "chapter",
+    "n": 6,
+    "text": "The $440 million",
+    "src": "Insolvency Service, 4 Jun 2026"
+   },
+   "src": "Insolvency Service, 4 Jun 2026",
+   "chapter": "The $440 million",
+   "pause": 0.3
+  },
+  {
+   "say": "Now back to the money from the start. One borrower in the Credit Suisse funds was Katerra, an American construction company backed by SoftBank.",
+   "visual": {
+    "type": "title",
+    "kicker": "One borrower",
+    "text": "Katerra",
+    "sub": "US construction company, backed by SoftBank",
+    "src": "Insolvency Service, 4 Jun 2026; Reuters via Claims Journal, 15 Oct 2025"
+   },
+   "src": "Insolvency Service, 4 Jun 2026; Reuters via Claims Journal, 15 Oct 2025"
+  },
+  {
+   "say": "According to the Insolvency Service, in late 2020 Lex Greensill caused his companies to enter transactions with Katerra that removed legal protections from a Credit Suisse fund's investment.",
+   "visual": {
+    "type": "document",
+    "header": "Insolvency Service · 4 Jun 2026",
+    "title": "The Katerra transactions",
+    "lines": [
+     "Receivable payment requirements ended",
+     "Security released",
+     "!Trade credit insurance obligations cancelled",
+     "Without the written consents required"
+    ],
+    "src": "Insolvency Service, 4 Jun 2026"
+   },
+   "src": "Insolvency Service, 4 Jun 2026"
+  },
+  {
+   "say": "In November 2020, four hundred and forty million dollars came in. SoftBank had provided it for buying back Katerra notes held by the fund.",
+   "visual": {
+    "type": "timeline",
+    "date": "Nov 2020",
+    "text": "$440m received by Greensill Capital (UK)",
+    "src": "Insolvency Service, 4 Jun 2026; GTR, Oct 2025"
+   },
+   "src": "Insolvency Service, 4 Jun 2026; GTR, Oct 2025"
+  },
+  {
+   "say": "Instead, the Insolvency Service says, Mr Greensill caused or allowed it to be used for other purposes. The notes defaulted. The fund lost four hundred and forty million dollars.",
+   "visual": {
+    "type": "bars",
+    "title": "Where the $440m was meant to go",
+    "items": [
+     [
+      "Meant for: repaying the fund's notes",
+      440,
+      "$440m"
+     ],
+     [
+      "Fund's loss when notes defaulted",
+      440,
+      "$440m"
+     ]
+    ],
+    "hi": 1,
+    "src": "Insolvency Service, 4 Jun 2026"
+   },
+   "src": "Insolvency Service, 4 Jun 2026"
+  },
+  {
+   "say": "Credit Suisse sued SoftBank in London to recover it. In October 2025 the High Court rejected the claim, finding SoftBank believed in good faith the money would pay noteholders.",
+   "visual": {
+    "type": "stat",
+    "value": "Dismissed",
+    "label": "Credit Suisse's $440m claim against SoftBank",
+    "sub": "High Court, London, October 2025",
+    "src": "Reuters via Claims Journal, 15 Oct 2025; GTR, Oct 2025"
+   },
+   "src": "Reuters via Claims Journal, 15 Oct 2025; GTR, Oct 2025"
+  },
+  {
+   "say": "Then, on the second of June 2026, days before a six-week trial, the government accepted a disqualification undertaking from Mr Greensill. The government had sought a ban of up to fifteen years. He accepted nine.",
+   "visual": {
+    "type": "bars",
+    "title": "The director ban",
+    "items": [
+     [
+      "Sought by the Insolvency Service",
+      15,
+      "up to 15 years"
+     ],
+     [
+      "Agreed in the undertaking",
+      9,
+      "9 years"
+     ]
+    ],
+    "hi": 1,
+    "src": "Insolvency Service, 7 Mar 2024; Insolvency Service, 4 Jun 2026"
+   },
+   "src": "Insolvency Service, 7 Mar 2024; Insolvency Service, 4 Jun 2026"
+  },
+  {
+   "say": "An undertaking means he does not dispute certain facts, for the purposes of those proceedings only. It is not a criminal conviction. The ban runs until June 2035.",
+   "visual": {
+    "type": "list",
+    "title": "What the undertaking is, and is not",
+    "items": [
+     "Facts not disputed, for the disqualification only",
+     "Not a criminal conviction",
+     "Ban in force until June 2035"
+    ],
+    "src": "Insolvency Service, 4 Jun 2026"
+   },
+   "src": "Insolvency Service, 4 Jun 2026"
+  },
+  {
+   "say": "Chapter seven. Who paid.",
+   "visual": {
+    "type": "chapter",
+    "n": 7,
+    "text": "Who paid",
+    "src": "Banking Dive, Jun 2024"
+   },
+   "src": "Banking Dive, Jun 2024",
+   "chapter": "Who paid",
+   "pause": 0.3
+  },
+  {
+   "say": "The fund investors, around twelve hundred wealthy clients, waited years. By mid-2024 more than seven billion dollars had been returned, with nearly two and a half billion still stuck.",
+   "visual": {
+    "type": "bars",
+    "title": "Credit Suisse Greensill funds, mid-2024",
+    "items": [
+     [
+      "Returned to investors",
+      7.0,
+      "$7bn+"
+     ],
+     [
+      "Still stuck in the funds",
+      2.5,
+      "~$2.5bn"
+     ]
+    ],
+    "hi": 1,
+    "src": "Banking Dive, Jun 2024"
+   },
+   "src": "Banking Dive, Jun 2024"
+  },
+  {
+   "say": "UBS, which had taken over Credit Suisse, set aside about nine hundred million dollars to buy investors out at ninety per cent of the funds' value. Credit Suisse expected the wind-down to run until at least 2031.",
+   "visual": {
+    "type": "stats",
+    "title": "UBS offer, June 2024",
+    "items": [
+     [
+      "~$900m",
+      "set aside"
+     ],
+     [
+      "90%",
+      "of net asset value"
+     ],
+     [
+      "2031+",
+      "expected wind-down end (Credit Suisse)"
+     ]
+    ],
+    "hi": 0,
+    "src": "Banking Dive, Jun 2024"
+   },
+   "src": "Banking Dive, Jun 2024"
+  },
+  {
+   "say": "British taxpayers were exposed too. Greensill made seven government-backed Covid loans, totalling three hundred and fifty million pounds, to companies in the GFG Alliance.",
+   "visual": {
+    "type": "stat",
+    "value": "£350m",
+    "label": "seven government-backed loans to GFG Alliance borrowers",
+    "red": true,
+    "src": "NAO, 7 Jul 2021"
+   },
+   "src": "NAO, 7 Jul 2021"
+  },
+  {
+   "say": "The scheme had a limit of fifty million pounds per borrower. The National Audit Office said taxpayers could lose almost three hundred and thirty-five million pounds. Greensill, through its administrators, denies lending outside the rules.",
+   "visual": {
+    "type": "document",
+    "header": "National Audit Office · 7 Jul 2021",
+    "title": "Greensill and the Covid loan schemes",
+    "lines": [
+     "Approved up to £400m, max £50m per borrower",
+     "!Taxpayers could lose almost £335m",
+     "Greensill (administrators): denies breaching the rules"
+    ],
+    "src": "NAO, 7 Jul 2021"
+   },
+   "src": "NAO, 7 Jul 2021"
+  },
+  {
+   "say": "Lex Greensill told MPs: \"I bear complete responsibility for the collapse of Greensill Capital.\"",
+   "visual": {
+    "type": "quote",
+    "text": "Please understand that I bear complete responsibility for the collapse of Greensill Capital.",
+    "by": "Lex Greensill, evidence to MPs, 11 May 2021",
+    "src": "Lex Greensill evidence, 11 May 2021"
+   },
+   "src": "Lex Greensill evidence, 11 May 2021"
+  },
+  {
+   "say": "Our analysis. The official findings point to three lessons, and they apply well beyond Greensill.",
+   "visual": {
+    "type": "chapter",
+    "n": 8,
+    "text": "Our analysis",
+    "src": "Our analysis"
+   },
+   "src": "Our analysis",
+   "chapter": "Our analysis",
+   "pause": 0.3
+  },
+  {
+   "say": "One. Supply-chain finance is only as safe as what is actually inside it. FINMA found future claims on weak borrowers sitting where investors expected trade finance.",
+   "visual": {
+    "type": "list",
+    "title": "Lesson 1: look inside the label",
+    "items": [
+     "Real invoices from strong buyers: low risk",
+     "Future claims on weak borrowers: a different product",
+     "FINMA: the bank did not grasp the shift at first"
+    ],
+    "src": "FINMA, 28 Feb 2023; our analysis"
+   },
+   "src": "FINMA, 28 Feb 2023; our analysis"
+  },
+  {
+   "say": "Two. One letter can be the whole risk. The insurer said in September it would not renew. The firm lasted about a week after the cover ended.",
+   "visual": {
+    "type": "timeline",
+    "date": "Sep 2020 → Mar 2021",
+    "text": "From the non-renewal letter to administration: about six months",
+    "src": "GTR, 3 Mar 2021; Insolvency Service, 7 Mar 2024; our analysis"
+   },
+   "src": "GTR, 3 Mar 2021; Insolvency Service, 7 Mar 2024; our analysis"
+  },
+  {
+   "say": "Three. Access is not oversight. Passes, phone numbers and a former prime minister did not stop the Treasury, a court or an insurer from saying no. They just made the fall more public.",
+   "visual": {
+    "type": "stat",
+    "value": "Access ≠ oversight",
+    "label": "the Treasury, a court and an insurer all said no",
+    "sub": "Our analysis",
+    "src": "Treasury Committee, 20 Jul 2021; GTR, 3 Mar 2021; our analysis"
+   },
+   "src": "Treasury Committee, 20 Jul 2021; GTR, 3 Mar 2021; our analysis"
+  },
+  {
+   "say": "If this sounded familiar, watch our First Brands episode: another company where lenders discovered too late what their finance really rested on.",
+   "visual": {
+    "type": "title",
+    "kicker": "Related case file",
+    "text": "First Brands",
+    "sub": "$5 billion in sales, $12 million in cash",
+    "src": "Filed Under Failure, episode 006 (fact-checked 26 Oct 2026)"
+   },
+   "src": "Filed Under Failure, episode 006 (fact-checked 26 Oct 2026)"
+  },
+  {
+   "say": "Next on Filed Under Failure: FTX, from exchange to courtroom. Subscribe so the next case file finds you.",
+   "visual": {
+    "type": "title",
+    "kicker": "Next case file",
+    "text": "FTX",
+    "sub": "From exchange to courtroom · Subscribe for the next file",
+    "src": "Filed Under Failure"
+   },
+   "src": "Filed Under Failure"
+  }
+ ],
+ "shorts": [
+  {
+   "id": "a",
+   "title": "$440 million came in. The fund it was meant to repay lost $440 million. #Shorts",
+   "hook": "$440m. Went elsewhere.",
+   "blurb": "In November 2020 Greensill Capital received $440m meant to buy back notes held by a Credit Suisse fund. The Insolvency Service says Lex Greensill caused or allowed it to be used for other purposes. From the Insolvency Service's June 2026 release.",
+   "scenes": [
+    {
+     "say": "In November 2020, four hundred and forty million dollars landed at Greensill Capital, money meant to repay a Credit Suisse fund.",
+     "visual": {
+      "type": "stat",
+      "value": "$440m",
+      "label": "received in November 2020",
+      "red": true,
+      "src": "Insolvency Service, 4 Jun 2026"
+     },
+     "caption": "$440m arrived. Nov 2020",
+     "pause": 0.25
+    },
+    {
+     "say": "SoftBank had provided it so Greensill could buy back notes the fund held in Katerra, an American construction company.",
+     "visual": {
+      "type": "list",
+      "title": "What it was for",
+      "items": [
+       "Source: SoftBank",
+       "Purpose: buy back Katerra notes",
+       "Holder: a Credit Suisse fund"
+      ],
+      "src": "GTR, Oct 2025"
+     },
+     "caption": "Meant to repay the fund",
+     "pause": 0.25
+    },
+    {
+     "say": "According to Britain's Insolvency Service, Lex Greensill caused or allowed the money to be used for other purposes.",
+     "visual": {
+      "type": "document",
+      "header": "Insolvency Service · 4 Jun 2026",
+      "title": "The $440m",
+      "lines": [
+       "!Used for purposes other than redeeming the notes"
+      ],
+      "src": "Insolvency Service, 4 Jun 2026"
+     },
+     "caption": "Used for other purposes",
+     "pause": 0.25
+    },
+    {
+     "say": "The notes defaulted, and the fund lost the whole four hundred and forty million.",
+     "visual": {
+      "type": "stat",
+      "value": "-$440m",
+      "label": "loss to the Credit Suisse fund",
+      "red": true,
+      "src": "Insolvency Service, 4 Jun 2026"
+     },
+     "caption": "The fund lost $440m",
+     "pause": 0.25
+    },
+    {
+     "say": "In June 2026 he accepted a nine-year ban as a company director. It is not a criminal conviction. The full story is on our channel.",
+     "visual": {
+      "type": "timeline",
+      "date": "Jun 2026",
+      "text": "Nine-year director ban, until June 2035",
+      "src": "Insolvency Service, 4 Jun 2026"
+     },
+     "caption": "9-year ban. Full story on our channel",
+     "pause": 0.25
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "title": "The insurer said no in September. Greensill lasted a week after the cover ended. #Shorts",
+   "hook": "The warning was on the record",
+   "blurb": "$4.6bn of trade credit insurance behind Greensill's clients expired on 1 March 2021; the insurer had said in September 2020 it would not renew. From Australian court documents reported by Global Trade Review.",
+   "scenes": [
+    {
+     "say": "In September 2020, Greensill Capital's insurer wrote that it did not wish to renew four point six billion dollars of cover.",
+     "visual": {
+      "type": "timeline",
+      "date": "Sep 2020",
+      "text": "Insurer: does not wish to renew",
+      "src": "GTR, 3 Mar 2021"
+     },
+     "caption": "Insurer: no renewal",
+     "pause": 0.25
+    },
+    {
+     "say": "Those policies protected investors if about forty of Greensill's clients failed to pay. They expired on the first of March 2021.",
+     "visual": {
+      "type": "stats",
+      "title": "The cover",
+      "items": [
+       [
+        "$4.6bn",
+        "insured"
+       ],
+       [
+        "~40",
+        "clients"
+       ],
+       [
+        "1 Mar",
+        "expiry"
+       ]
+      ],
+      "hi": 2,
+      "src": "GTR, 3 Mar 2021"
+     },
+     "caption": "$4.6bn cover. Expired 1 March",
+     "pause": 0.25
+    },
+    {
+     "say": "Greensill asked an Australian court to force a renewal, warning fifty thousand jobs could be at risk. The court refused.",
+     "visual": {
+      "type": "document",
+      "header": "NSW Supreme Court · Mar 2021",
+      "title": "Application to force renewal",
+      "lines": [
+       "!Refused"
+      ],
+      "stamp": "REFUSED",
+      "src": "GTR, 3 Mar 2021"
+     },
+     "caption": "The court refused",
+     "pause": 0.25
+    },
+    {
+     "say": "A week later, on the eighth of March, Greensill Capital was in administration. The full story is on our channel.",
+     "visual": {
+      "type": "stat",
+      "value": "8 Mar 2021",
+      "label": "Greensill Capital enters administration",
+      "red": true,
+      "src": "Insolvency Service, 7 Mar 2024"
+     },
+     "caption": "Administration. 8 March",
+     "pause": 0.25
+    }
+   ]
+  },
+  {
+   "id": "c",
+   "title": "Credit Suisse's risk manager said no to Greensill. FINMA says he was overruled. #Shorts",
+   "hook": "It's in the regulator's report",
+   "blurb": "Switzerland's regulator FINMA found Credit Suisse seriously breached its supervisory obligations over its Greensill funds. A risk manager advised against a bridging loan and was overruled. From FINMA's February 2023 findings.",
+   "scenes": [
+    {
+     "say": "Inside Credit Suisse, a risk manager advised against a bridging loan to Greensill Capital. A senior manager overruled him.",
+     "visual": {
+      "type": "list",
+      "title": "Per FINMA",
+      "items": [
+       "Risk manager: advised against",
+       "Senior manager: overruled him"
+      ],
+      "src": "FINMA, 28 Feb 2023"
+     },
+     "caption": "Risk manager overruled",
+     "pause": 0.25
+    },
+    {
+     "say": "That is from Switzerland's regulator, FINMA, which examined the bank's four Greensill funds, holding around ten billion dollars of clients' money.",
+     "visual": {
+      "type": "stat",
+      "value": "~$10bn",
+      "label": "in four Credit Suisse supply-chain funds",
+      "src": "FINMA, 28 Feb 2023"
+     },
+     "caption": "$10bn of clients' money",
+     "pause": 0.25
+    },
+    {
+     "say": "FINMA also found the bank gave it partly false and overly positive statements.",
+     "visual": {
+      "type": "document",
+      "header": "FINMA · 28 Feb 2023",
+      "title": "Findings",
+      "lines": [
+       "!Partly false and overly positive statements to FINMA"
+      ],
+      "src": "FINMA, 28 Feb 2023"
+     },
+     "caption": "Partly false statements",
+     "pause": 0.25
+    },
+    {
+     "say": "Its verdict: Credit Suisse seriously breached its supervisory obligations. The full story is on our channel.",
+     "visual": {
+      "type": "quote",
+      "text": "Credit Suisse seriously breached its supervisory obligations...",
+      "by": "FINMA, 28 February 2023",
+      "src": "FINMA, 28 Feb 2023"
+     },
+     "caption": "Seriously breached. Full story on our channel",
+     "pause": 0.25
+    }
+   ]
+  },
+  {
+   "id": "d",
+   "title": "The Treasury said no to Cameron's Greensill lobbying. The £350m came from somewhere else. #Shorts",
+   "hook": "Treasury said no. Then £350m",
+   "blurb": "The Treasury rejected Greensill's bid for an emergency Bank of England scheme, but Greensill still made seven government-backed loans totalling £350m to GFG Alliance companies. From the Treasury Committee and the National Audit Office.",
+   "scenes": [
+    {
+     "say": "Everyone remembers David Cameron lobbying the Treasury for Greensill Capital. The Treasury said no.",
+     "visual": {
+      "type": "stat",
+      "value": "Rejected",
+      "label": "Greensill's bid for the Covid Corporate Financing Facility",
+      "red": true,
+      "src": "PAC evidence, 22 Apr 2021"
+     },
+     "caption": "The Treasury said no",
+     "pause": 0.25
+    },
+    {
+     "say": "MPs found ministers and officials behaved with complete and absolute integrity. But taxpayers were still exposed, through a different door.",
+     "visual": {
+      "type": "quote",
+      "text": "...behaved with complete and absolute integrity",
+      "by": "Treasury Committee, 20 July 2021",
+      "src": "Treasury Committee, 20 Jul 2021"
+     },
+     "caption": "A different door",
+     "pause": 0.25
+    },
+    {
+     "say": "Greensill made seven government-backed Covid loans, worth three hundred and fifty million pounds, to companies in one group, the GFG Alliance.",
+     "visual": {
+      "type": "stat",
+      "value": "£350m",
+      "label": "seven government-backed loans to GFG Alliance borrowers",
+      "red": true,
+      "src": "NAO, 7 Jul 2021"
+     },
+     "caption": "£350m to one group",
+     "pause": 0.25
+    },
+    {
+     "say": "The National Audit Office said taxpayers could lose almost three hundred and thirty-five million pounds. Greensill's administrators deny breaking the rules. The full story is on our channel.",
+     "visual": {
+      "type": "document",
+      "header": "NAO · 7 Jul 2021",
+      "title": "Taxpayer exposure",
+      "lines": [
+       "!Could lose almost £335m",
+       "Administrators deny breaching scheme rules"
+      ],
+      "src": "NAO, 7 Jul 2021"
+     },
+     "caption": "Up to £335m at risk",
+     "pause": 0.25
+    }
+   ]
+  }
+ ]
+}
