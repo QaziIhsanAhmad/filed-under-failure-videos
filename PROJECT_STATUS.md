@@ -1,6 +1,6 @@
 # PROJECT_STATUS — Filed Under Failure
 
-_Last updated: 2026-11-02 06:30 PKT (monitor)_
+_Last updated: 2026-11-05 06:30 PKT (monitor)_
 
 ## Goal
 Faceless business-collapse documentary channel. Daily Short + weekly long episode, free tools only, hands-off, reach YPP honestly.
@@ -33,6 +33,7 @@ Faceless business-collapse documentary channel. Daily Short + weekly long episod
 - 005: waiting for hourly feed + 12-hourly Make run to schedule; verify videoIds in ledger, then add yt/ops.json entries (playlist pl-005, episode links).
 
 ## Blockers
+- 5 Nov (monitor): 005-d/e, 006-ep yn1kj1tD3dM + 006-a public. Scheduled through 6 Nov; 007 (Sat 7 Nov) + 006-b..d planned, need 9978275 after Make reset today 13:05 PKT. Wed 11 Nov has no episode/Short yet (008 due from production run tonight 23:02; 2 Nov run failed on usage limit). Usage-limit failures: production 2 Nov, growth review 2 Nov, AEO 2 Nov, blog 3 Nov, job search 3 Nov, BoloCart + lead routine 4 Nov (no lead reports 3–4 Nov; retry denied). Social 1–4 Nov missed (Make paused). xv-1104 never scheduled; xv-1109/1111 not in Metricool. FrontDesk Reel queue 0 queued. Cap 4 Nov: 0 sends; no bounces/replies.
 - 2 Nov (monitor): 005-b h9tEOFDll_0 public 1 Nov; YouTube scheduled through 6 Nov, no gaps 3–9 Nov in ledger (007 + 006-b..d still planned, need Make after 5 Nov reset). error.log empty; channel-all stale (Make paused). Social f/x-1101 missed (Make). FrontDesk Reel queue 0 queued (fv-1103/1105 uncovered). xv-1102 Metricool PENDING for 19:00 today; xv-1104 not scheduled. No task failures; cap 1 Nov 0 sends; no bounces/replies.
 - 1 Nov (monitor): 005-ep Q6xdj5CqZMI + 005-a BUIUkfEzlFI public 31 Oct. YouTube scheduled through 6 Nov; 007 (Sat 7 Nov) + 006-b..d still planned, need Make (paused until 5 Nov 13:05; no 9978275 runs since 30 Oct, channel-all stale for same reason). Social f/x-1030/1031 missed (Make). FrontDesk Reel batch 31 Oct ran 35 s and queued nothing again (0 queued; fv-1103/1105 uncovered). Metricool Nov allowance free (only 2 non-draft Nov posts) but monitor scheduling xv-1104 was refused by permission check. Cap 31 Oct OK (1 send). No bounces/replies.
 - 29 Oct (chat audit): "Run now" (fire_trigger) is denied by the permission check, both from the monitor and from chat, so missed runs can't be retried automatically. Qazi has to press Run now. FrontDesk queue has 0 queued (all "replaced"). Reel batch prompt changed so its window runs from tomorrow to 14 days (the old 8–14 day window skipped fv-1031). Needs a manual Run now before Sat 31 Oct. Monitor prompt updated 29 Oct (Qazi approved): denied retries now go to "Needs you" with a Run now link, "replaced" Reels are ignored, and retries are skipped when the next run is under 12 h away. FrontDesk daily post check is suspended (Mac absent). Blog 27 Oct and Identixa 28 Oct failed on the usage limit and were left for their next runs.
