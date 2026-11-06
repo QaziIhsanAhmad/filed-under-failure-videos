@@ -4,5 +4,71 @@
   "method": "PUT",
   "path": "/v3/videos?part=snippet",
   "body": "{\"id\": \"BgK_ab3BP-g\", \"snippet\": {\"title\": \"From Soho in 1926 to 193 cafés – and back to 29 #Shorts\", \"categoryId\": \"27\", \"description\": \"Full episode ▶ https://youtu.be/Q6xdj5CqZMI\\n\\nHow Patisserie Valerie's name outlived the listed company that owned it.\\n\\nSources: Serious Fraud Office, case page 'Patisserie Holdings plc' (timeline to 9 Feb 2026); Serious Fraud Office, 'SFO charges four individuals behind Patisserie Valerie collapse' (13 Sep 2023); Financial Reporting Council, 'Sanctions against Grant Thornton UK LLP and David Newstead' (27 Sep 2021) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #PatisserieValerie #PatisserieValeriecollapse #accountingscandal\", \"tags\": [\"Patisserie Valerie\", \"Patisserie Valerie collapse\", \"accounting scandal\", \"Grant Thornton\", \"Serious Fraud Office\", \"UK business documentary\", \"audit failure\", \"what went wrong\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
+ },
+ {
+  "id": "pl-007",
+  "method": "POST",
+  "path": "/v3/playlists?part=snippet,status",
+  "body": "{\"snippet\": {\"title\": \"Wirecard Collapse Explained\", \"description\": \"What the record shows about the 2020 collapse of Wirecard: the full episode first, then the short case notes. From the audit, regulator and court records.\", \"defaultLanguage\": \"en\"}, \"status\": {\"privacyStatus\": \"public\"}}"
+ },
+ {
+  "id": "pi-006-jbk0nBwGnMc",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "body": "{\"snippet\": {\"playlistId\": \"PLIq5r4SzVhDI\", \"position\": 2, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"jbk0nBwGnMc\"}}}"
+ },
+ {
+  "id": "get-jbk0nBwGnMc",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=jbk0nBwGnMc",
+  "body": ""
+ },
+ {
+  "id": "pi-006-CiMK8teUGTw",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "body": "{\"snippet\": {\"playlistId\": \"PLIq5r4SzVhDI\", \"position\": 3, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"CiMK8teUGTw\"}}}"
+ },
+ {
+  "id": "get-CiMK8teUGTw",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=CiMK8teUGTw",
+  "body": ""
+ },
+ {
+  "id": "pi-006-_YzMLyKqElc",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "body": "{\"snippet\": {\"playlistId\": \"PLIq5r4SzVhDI\", \"position\": 4, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"_YzMLyKqElc\"}}}"
+ },
+ {
+  "id": "get-_YzMLyKqElc",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=_YzMLyKqElc",
+  "body": ""
+ },
+ {
+  "id": "pi-all-7HdQFaQpqzY",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "body": "{\"snippet\": {\"playlistId\": \"PLcJ0qXrqBDRU\", \"position\": 0, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"7HdQFaQpqzY\"}}}"
+ },
+ {
+  "id": "get-7HdQFaQpqzY",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=7HdQFaQpqzY",
+  "body": ""
+ },
+ {
+  "id": "get-gkQgQN8fuN4",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=gkQgQN8fuN4",
+  "body": ""
+ },
+ {
+  "id": "get-ZLTgH-QyCto",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=ZLTgH-QyCto",
+  "body": ""
  }
 ]
