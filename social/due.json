@@ -1,31 +1,5 @@
 [
  {
-  "id": "f-1104-kyc-chase-demo",
-  "brand": "frontdesk",
-  "kind": "single",
-  "fb_on": "0",
-  "ig_on": "1",
-  "li_on": "0",
-  "fb_page": "1354185007779555",
-  "ig_account": "17841416945478586",
-  "fb": "Onboarding stalls when one document is missing and nobody chases it.\n\nThis concept demo (sample data) checks the document checklist, emails an upload link for the missing item only, escalates to the ops team after 48 hours, and stops reminders when everything is in. Only the chasing is automated; decisions stay with people.",
-  "ig": "Onboarding stalls when one document is missing and nobody chases it.\n\nThis concept demo (sample data) shows the flow in n8n:\n1. The application arrives by webhook\n2. The workflow checks the document checklist\n3. It emails an upload link for the missing item only\n4. After 48 hours: one more reminder, then a task for the ops team\n5. When everything is in, reminders stop and status moves to review\n\nNo decisions are automated here, only the chasing.\n\nRunning onboarding for a fintech or lending product? DM REVIEW.\n\n#fintech #kyc #onboarding #n8n #automation #webhooks",
-  "li": "",
-  "image": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1104-kyc-chase-demo-1.jpg",
-  "fb_photos": [
-   {
-    "type": "url",
-    "url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1104-kyc-chase-demo-1.jpg"
-   }
-  ],
-  "ig_files": [
-   {
-    "media_type": "IMAGE",
-    "image_url": "https://raw.githubusercontent.com/QaziIhsanAhmad/filed-under-failure-videos/main/social/img/frontdesk/f-1104-kyc-chase-demo-1.jpg"
-   }
-  ]
- },
- {
   "id": "x-1104-bts-testing",
   "brand": "xenova",
   "kind": "single",
