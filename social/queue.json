@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T05:09:59.998681+05:00",
+ "generated": "2026-11-06T06:21:03.043429+05:00",
  "problems": [],
  "items": [
   {
@@ -939,110 +939,6 @@
    "src": "social/posts/2026-10-30.json"
   },
   {
-   "id": "f-1103-make-vs-n8n-reminders",
-   "brand": "frontdesk",
-   "date": "2026-11-03",
-   "pillar": "comparison",
-   "slides": 6,
-   "status": "missed",
-   "platforms": {
-    "fb": {
-     "state": "pending",
-     "id": "",
-     "tries": 0,
-     "at": ""
-    },
-    "ig": {
-     "state": "pending",
-     "id": "",
-     "tries": 0,
-     "at": ""
-    }
-   },
-   "src": "social/posts/2026-10-30.json"
-  },
-  {
-   "id": "x-1103-saas-vs-custom",
-   "brand": "xenova",
-   "date": "2026-11-03",
-   "pillar": "comparison",
-   "slides": 6,
-   "status": "missed",
-   "platforms": {
-    "fb": {
-     "state": "pending",
-     "id": "",
-     "tries": 0,
-     "at": ""
-    },
-    "ig": {
-     "state": "pending",
-     "id": "",
-     "tries": 0,
-     "at": ""
-    },
-    "li": {
-     "state": "pending",
-     "id": "",
-     "tries": 0,
-     "at": ""
-    }
-   },
-   "src": "social/posts/2026-10-30.json"
-  },
-  {
-   "id": "f-1104-kyc-chase-demo",
-   "brand": "frontdesk",
-   "date": "2026-11-04",
-   "pillar": "real-demo",
-   "slides": 1,
-   "status": "missed",
-   "platforms": {
-    "fb": {
-     "state": "pending",
-     "id": "",
-     "tries": 0,
-     "at": ""
-    },
-    "ig": {
-     "state": "pending",
-     "id": "",
-     "tries": 0,
-     "at": ""
-    }
-   },
-   "src": "social/posts/2026-10-30.json"
-  },
-  {
-   "id": "x-1104-bts-testing",
-   "brand": "xenova",
-   "date": "2026-11-04",
-   "pillar": "behind-the-scenes",
-   "slides": 1,
-   "status": "missed",
-   "platforms": {
-    "fb": {
-     "state": "pending",
-     "id": "",
-     "tries": 0,
-     "at": ""
-    },
-    "ig": {
-     "state": "pending",
-     "id": "",
-     "tries": 0,
-     "at": ""
-    },
-    "li": {
-     "state": "pending",
-     "id": "",
-     "tries": 0,
-     "at": ""
-    }
-   },
-   "src": "social/posts/2026-10-30.json"
-  },
-  {
    "id": "f-1105-bf-checklist",
    "brand": "frontdesk",
    "date": "2026-11-05",
@@ -1090,6 +986,110 @@
      "id": "urn:li:share:7524021833164021761",
      "tries": 1,
      "at": "2026-11-05T08:16:46.316267+00:00"
+    }
+   },
+   "src": "social/posts/2026-10-30.json"
+  },
+  {
+   "id": "f-1104-kyc-chase-demo",
+   "brand": "frontdesk",
+   "date": "2026-11-06",
+   "pillar": "real-demo",
+   "slides": 1,
+   "status": "planned",
+   "platforms": {
+    "fb": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    },
+    "ig": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    }
+   },
+   "src": "social/posts/2026-10-30.json"
+  },
+  {
+   "id": "x-1104-bts-testing",
+   "brand": "xenova",
+   "date": "2026-11-06",
+   "pillar": "behind-the-scenes",
+   "slides": 1,
+   "status": "planned",
+   "platforms": {
+    "fb": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    },
+    "ig": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    },
+    "li": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    }
+   },
+   "src": "social/posts/2026-10-30.json"
+  },
+  {
+   "id": "f-1103-make-vs-n8n-reminders",
+   "brand": "frontdesk",
+   "date": "2026-11-07",
+   "pillar": "comparison",
+   "slides": 6,
+   "status": "planned",
+   "platforms": {
+    "fb": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    },
+    "ig": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    }
+   },
+   "src": "social/posts/2026-10-30.json"
+  },
+  {
+   "id": "x-1103-saas-vs-custom",
+   "brand": "xenova",
+   "date": "2026-11-07",
+   "pillar": "comparison",
+   "slides": 6,
+   "status": "planned",
+   "platforms": {
+    "fb": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    },
+    "ig": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
+    },
+    "li": {
+     "state": "pending",
+     "id": "",
+     "tries": 0,
+     "at": ""
     }
    },
    "src": "social/posts/2026-10-30.json"

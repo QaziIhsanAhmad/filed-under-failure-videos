@@ -1,6 +1,6 @@
 # PROJECT_STATUS — Filed Under Failure
 
-_Last updated: 2026-11-05 23:55 PKT (production)_
+_Last updated: 2026-11-06 06:40 PKT (monitor)_
 
 ## Goal
 Faceless business-collapse documentary channel. Daily Short + weekly long episode, free tools only, hands-off, reach YPP honestly.
@@ -34,6 +34,7 @@ Faceless business-collapse documentary channel. Daily Short + weekly long episod
 - 005: waiting for hourly feed + 12-hourly Make run to schedule; verify videoIds in ledger, then add yt/ops.json entries (playlist pl-005, episode links).
 
 ## Blockers
+- 6 Nov (monitor): Make reset OK (928 ops left). 005-f duMtHdjUawk public 5 Nov. YouTube scheduled through 12 Nov except 007-c/d + 008 (planned, queue automatically); no gaps 6–12 Nov. Added yt/ops.json for 006-b..d and 007 (pl-007, Full Episodes, Short links). Social: f/x-1104 re-dated to 6 Nov, f/x-1103 to 7 Nov (were missed); nothing queued from 8 Nov — social batch failed 5 Nov (usage limit), retry denied → Qazi Run now. Old Metricool 29 Sep posts 384153742/384332677 (13 Nov) still non-draft. Lead routine 5 Nov: first-touch refused by permission check. FrontDesk queue 0 (fv-1107/1110 uncovered). Cap 5 Nov 2/25; no bounces/replies.
 - 5 Nov (monitor): 005-d/e, 006-ep yn1kj1tD3dM + 006-a public. Scheduled through 6 Nov; 007 (Sat 7 Nov) + 006-b..d planned, need 9978275 after Make reset today 13:05 PKT. Wed 11 Nov has no episode/Short yet (008 due from production run tonight 23:02; 2 Nov run failed on usage limit). Usage-limit failures: production 2 Nov, growth review 2 Nov, AEO 2 Nov, blog 3 Nov, job search 3 Nov, BoloCart + lead routine 4 Nov (no lead reports 3–4 Nov; retry denied). Social 1–4 Nov missed (Make paused). xv-1104 never scheduled; xv-1109/1111 not in Metricool. FrontDesk Reel queue 0 queued. Cap 4 Nov: 0 sends; no bounces/replies.
 - 2 Nov (monitor): 005-b h9tEOFDll_0 public 1 Nov; YouTube scheduled through 6 Nov, no gaps 3–9 Nov in ledger (007 + 006-b..d still planned, need Make after 5 Nov reset). error.log empty; channel-all stale (Make paused). Social f/x-1101 missed (Make). FrontDesk Reel queue 0 queued (fv-1103/1105 uncovered). xv-1102 Metricool PENDING for 19:00 today; xv-1104 not scheduled. No task failures; cap 1 Nov 0 sends; no bounces/replies.
 - 1 Nov (monitor): 005-ep Q6xdj5CqZMI + 005-a BUIUkfEzlFI public 31 Oct. YouTube scheduled through 6 Nov; 007 (Sat 7 Nov) + 006-b..d still planned, need Make (paused until 5 Nov 13:05; no 9978275 runs since 30 Oct, channel-all stale for same reason). Social f/x-1030/1031 missed (Make). FrontDesk Reel batch 31 Oct ran 35 s and queued nothing again (0 queued; fv-1103/1105 uncovered). Metricool Nov allowance free (only 2 non-draft Nov posts) but monitor scheduling xv-1104 was refused by permission check. Cap 31 Oct OK (1 send). No bounces/replies.

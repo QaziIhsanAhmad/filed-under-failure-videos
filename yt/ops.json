@@ -2904,5 +2904,375 @@
     "defaultAudioLanguage": "en"
    }
   }
+ },
+ {
+  "id": "pl-007",
+  "method": "POST",
+  "path": "/v3/playlists?part=snippet,status",
+  "body": {
+   "snippet": {
+    "title": "Wirecard Collapse Explained",
+    "description": "What the record shows about the 2020 collapse of Wirecard: the full episode first, then the short case notes. From the audit, regulator and court records.",
+    "defaultLanguage": "en"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  }
+ },
+ {
+  "id": "pi-006-jbk0nBwGnMc",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-006"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-006",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "jbk0nBwGnMc"
+    }
+   }
+  }
+ },
+ {
+  "id": "get-jbk0nBwGnMc",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=jbk0nBwGnMc"
+ },
+ {
+  "id": "upd-jbk0nBwGnMc",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "after": [
+   "get-jbk0nBwGnMc"
+  ],
+  "transform": {
+   "kind": "replace_line",
+   "prefix": "Full episode",
+   "text": "Full episode ▶ https://youtu.be/yn1kj1tD3dM"
+  },
+  "body": {
+   "id": "jbk0nBwGnMc",
+   "snippet": {
+    "title": "One invoice, sold for $17,826 and then $463,735 – the First Brands allegation #Shorts",
+    "categoryId": "27",
+    "description": "@desc:get-jbk0nBwGnMc",
+    "tags": [
+     "First Brands",
+     "First Brands bankruptcy",
+     "First Brands fraud",
+     "Patrick James",
+     "invoice factoring",
+     "off-balance-sheet debt",
+     "business documentary",
+     "what went wrong"
+    ],
+    "defaultLanguage": "en",
+    "defaultAudioLanguage": "en"
+   }
+  }
+ },
+ {
+  "id": "pi-006-CiMK8teUGTw",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-006"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-006",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "CiMK8teUGTw"
+    }
+   }
+  }
+ },
+ {
+  "id": "get-CiMK8teUGTw",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=CiMK8teUGTw"
+ },
+ {
+  "id": "upd-CiMK8teUGTw",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "after": [
+   "get-CiMK8teUGTw"
+  ],
+  "transform": {
+   "kind": "replace_line",
+   "prefix": "Full episode",
+   "text": "Full episode ▶ https://youtu.be/yn1kj1tD3dM"
+  },
+  "body": {
+   "id": "CiMK8teUGTw",
+   "snippet": {
+    "title": "$1.9 billion collected. How much was in the account? \"$0\" #Shorts",
+    "categoryId": "27",
+    "description": "@desc:get-CiMK8teUGTw",
+    "tags": [
+     "First Brands",
+     "First Brands bankruptcy",
+     "First Brands fraud",
+     "Patrick James",
+     "invoice factoring",
+     "off-balance-sheet debt",
+     "business documentary",
+     "what went wrong"
+    ],
+    "defaultLanguage": "en",
+    "defaultAudioLanguage": "en"
+   }
+  }
+ },
+ {
+  "id": "pi-006-_YzMLyKqElc",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-006"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-006",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "_YzMLyKqElc"
+    }
+   }
+  }
+ },
+ {
+  "id": "get-_YzMLyKqElc",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=_YzMLyKqElc"
+ },
+ {
+  "id": "upd-_YzMLyKqElc",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "after": [
+   "get-_YzMLyKqElc"
+  ],
+  "transform": {
+   "kind": "replace_line",
+   "prefix": "Full episode",
+   "text": "Full episode ▶ https://youtu.be/yn1kj1tD3dM"
+  },
+  "body": {
+   "id": "_YzMLyKqElc",
+   "snippet": {
+    "title": "Two brothers, one fraud case – and each blames the other #Shorts",
+    "categoryId": "27",
+    "description": "@desc:get-_YzMLyKqElc",
+    "tags": [
+     "First Brands",
+     "First Brands bankruptcy",
+     "First Brands fraud",
+     "Patrick James",
+     "invoice factoring",
+     "off-balance-sheet debt",
+     "business documentary",
+     "what went wrong"
+    ],
+    "defaultLanguage": "en",
+    "defaultAudioLanguage": "en"
+   }
+  }
+ },
+ {
+  "id": "pi-007-7HdQFaQpqzY",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-007"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-007",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "7HdQFaQpqzY"
+    }
+   }
+  }
+ },
+ {
+  "id": "pi-all-7HdQFaQpqzY",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-all"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-all",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "7HdQFaQpqzY"
+    }
+   }
+  }
+ },
+ {
+  "id": "get-7HdQFaQpqzY",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=7HdQFaQpqzY"
+ },
+ {
+  "id": "upd-7HdQFaQpqzY",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "after": [
+   "get-7HdQFaQpqzY",
+   "pl-007",
+   "pl-all"
+  ],
+  "transform": {
+   "kind": "none",
+   "append": "▶ Shorts from this case: https://www.youtube.com/playlist?list=@res:pl-007\n▶ All full episodes: https://www.youtube.com/playlist?list=@res:pl-all\n🔔 Subscribe for the next case file: https://www.youtube.com/@FiledUnderFailure-d6j?sub_confirmation=1"
+  },
+  "body": {
+   "id": "7HdQFaQpqzY",
+   "snippet": {
+    "title": "Wirecard: A €24bn Star and the €1.9bn Nobody Could Find",
+    "categoryId": "27",
+    "description": "@desc:get-7HdQFaQpqzY",
+    "tags": [
+     "Wirecard",
+     "Wirecard scandal",
+     "Markus Braun",
+     "Jan Marsalek",
+     "EY audit",
+     "BaFin",
+     "business documentary",
+     "what went wrong"
+    ],
+    "defaultLanguage": "en",
+    "defaultAudioLanguage": "en"
+   }
+  }
+ },
+ {
+  "id": "pi-007-gkQgQN8fuN4",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-007"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-007",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "gkQgQN8fuN4"
+    }
+   }
+  }
+ },
+ {
+  "id": "get-gkQgQN8fuN4",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=gkQgQN8fuN4"
+ },
+ {
+  "id": "upd-gkQgQN8fuN4",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "after": [
+   "get-gkQgQN8fuN4"
+  ],
+  "transform": {
+   "kind": "replace_line",
+   "prefix": "Full episode",
+   "text": "Full episode ▶ https://youtu.be/7HdQFaQpqzY"
+  },
+  "body": {
+   "id": "gkQgQN8fuN4",
+   "snippet": {
+    "title": "€1.9 billion on the balance sheet. The banks said it was never there. #Shorts",
+    "categoryId": "27",
+    "description": "@desc:get-gkQgQN8fuN4",
+    "tags": [
+     "Wirecard",
+     "Wirecard scandal",
+     "Markus Braun",
+     "Jan Marsalek",
+     "EY audit",
+     "BaFin",
+     "business documentary",
+     "what went wrong"
+    ],
+    "defaultLanguage": "en",
+    "defaultAudioLanguage": "en"
+   }
+  }
+ },
+ {
+  "id": "pi-007-ZLTgH-QyCto",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-007"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-007",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ZLTgH-QyCto"
+    }
+   }
+  }
+ },
+ {
+  "id": "get-ZLTgH-QyCto",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=ZLTgH-QyCto"
+ },
+ {
+  "id": "upd-ZLTgH-QyCto",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "after": [
+   "get-ZLTgH-QyCto"
+  ],
+  "transform": {
+   "kind": "replace_line",
+   "prefix": "Full episode",
+   "text": "Full episode ▶ https://youtu.be/7HdQFaQpqzY"
+  },
+  "body": {
+   "id": "ZLTgH-QyCto",
+   "snippet": {
+    "title": "Wirecard's regulator went after two journalists. Prosecutors later said they were right #Shorts",
+    "categoryId": "27",
+    "description": "@desc:get-ZLTgH-QyCto",
+    "tags": [
+     "Wirecard",
+     "Wirecard scandal",
+     "Markus Braun",
+     "Jan Marsalek",
+     "EY audit",
+     "BaFin",
+     "business documentary",
+     "what went wrong"
+    ],
+    "defaultLanguage": "en",
+    "defaultAudioLanguage": "en"
+   }
+  }
  }
 ]
