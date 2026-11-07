@@ -1,48 +1,15 @@
 {
- "generated": "2026-11-07T08:12:32.608939+05:00",
+ "generated": "2026-11-07T15:40:44.208226+05:00",
  "items": [
   {
-   "id": "007-ep-thumb0",
-   "row": "007-ep",
-   "kind": "thumb",
-   "file": "007/007-wirecard-thumbnail.png",
-   "ctype": "image/png",
-   "size": 74338,
-   "meta": "{}",
-   "path": "/../upload/youtube/v3/thumbnails/set?uploadType=resumable&videoId=7HdQFaQpqzY"
-  },
-  {
-   "id": "007-c-a0",
-   "row": "007-c",
-   "kind": "video",
-   "file": "007/007-wirecard-short-c.mp4",
-   "ctype": "video/mp4",
-   "size": 5186448,
-   "meta": "{\"snippet\": {\"title\": \"Two months before Wirecard collapsed, KPMG said it couldn't verify the profits #Shorts\", \"description\": \"KPMG's special investigation of April 2020 could not confirm that Wirecard's partner business existed as reported for 2016–2018, because the partners did not fully cooperate.\\n\\nFull episode: \\\"Wirecard: A €24bn Star and the €1.9bn Nobody Could Find\\\" on Filed Under Failure.\\nSources: Al Jazeera, 'What $2.1bn? Wirecard says missing funds most likely do not exist' (22 Jun 2020); Wirecard AG ad hoc announcement, 18 Jun 2020 (EY could not obtain sufficient audit evidence; spurious balance confirmations); CNN, 'Wirecard files for insolvency' (25 Jun 2020) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #Wirecard #Wirecardscandal #MarkusBraun\", \"tags\": [\"Wirecard\", \"Wirecard scandal\", \"Markus Braun\", \"Jan Marsalek\", \"EY audit\", \"BaFin\", \"business documentary\", \"what went wrong\"], \"categoryId\": \"27\", \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}, \"status\": {\"selfDeclaredMadeForKids\": false, \"containsSyntheticMedia\": false, \"privacyStatus\": \"private\", \"publishAt\": \"2026-11-13T16:00:00Z\"}}",
-   "path": "/../upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
-   "publishAt": "2026-11-13T16:00:00Z"
-  },
-  {
-   "id": "008-a-a0",
-   "row": "008-a",
-   "kind": "video",
-   "file": "008/008-greensill-short-a.mp4",
-   "ctype": "video/mp4",
-   "size": 5416179,
-   "meta": "{\"snippet\": {\"title\": \"$440 million came in. The fund it was meant to repay lost $440 million. #Shorts\", \"description\": \"In November 2020 Greensill Capital received $440m meant to buy back notes held by a Credit Suisse fund. The Insolvency Service says Lex Greensill caused or allowed it to be used for other purposes. From the Insolvency Service's June 2026 release.\\n\\nFull episode: \\\"Greensill: $10bn in Funds and the $440m That Went Elsewhere\\\" on Filed Under Failure.\\nSources: Insolvency Service, 'Lex Greensill to be disqualified from acting as a company director in the UK for nine years' (4 Jun 2026); Insolvency Service, 'Outcome of investigation into the directors of the collapsed Greensill group' (7 Mar 2024); FINMA, Greensill proceedings against Credit Suisse concluded (28 Feb 2023) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #Greensill #GreensillCapital #LexGreensill\", \"tags\": [\"Greensill\", \"Greensill Capital\", \"Lex Greensill\", \"Credit Suisse\", \"supply chain finance\", \"David Cameron lobbying\", \"business documentary\", \"what went wrong\"], \"categoryId\": \"27\", \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}, \"status\": {\"selfDeclaredMadeForKids\": false, \"containsSyntheticMedia\": false, \"privacyStatus\": \"private\", \"publishAt\": \"2026-11-11T16:00:00Z\"}}",
-   "path": "/../upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
-   "publishAt": "2026-11-11T16:00:00Z"
-  },
-  {
-   "id": "008-ep-a0",
+   "id": "008-ep-thumb0",
    "row": "008-ep",
-   "kind": "video",
-   "file": "008/008-greensill.mp4",
-   "ctype": "video/mp4",
-   "size": 55272822,
-   "meta": "{\"snippet\": {\"title\": \"Greensill: $10bn in Funds and the $440m That Went Elsewhere\", \"description\": \"Greensill Capital collapse explained from the regulator, parliamentary and Insolvency Service records.\\n\\nIn November 2020, $440m meant to repay a Credit Suisse fund arrived at Greensill Capital and, the Insolvency Service says, was used for other purposes. Four months later the firm was in administration and $10bn of fund money was frozen. Using FINMA's findings on Credit Suisse, the Treasury Committee and National Audit Office reports, BaFin's order, Lex Greensill's own evidence to MPs, Australian court documents and the 2026 disqualification undertaking, we explain how supply-chain finance turned into future claims on weak borrowers, why one insurance letter mattered so much, and who paid. A disqualification undertaking is not a criminal conviction; the SFO's GFG Alliance investigation is not a finding of guilt.\\n\\nChapters\\n0:00 Cold open\\n0:43 The pitch\\n1:42 Friends in high places\\n3:06 Ten billion in funds\\n4:10 The insurance clock\\n4:53 Seven days in March\\n5:59 The $440 million\\n7:36 Who paid\\n8:46 Our analysis\\n\\nSources\\n[1] Insolvency Service, 'Lex Greensill to be disqualified from acting as a company director in the UK for nine years' (4 Jun 2026): https://www.gov.uk/government/news/lex-greensill-to-be-disqualified-from-acting-as-a-company-director-in-the-uk-for-nine-years\\n[2] Insolvency Service, 'Outcome of investigation into the directors of the collapsed Greensill group' (7 Mar 2024): https://www.gov.uk/government/news/outcome-of-investigation-into-the-directors-of-the-collapsed-greensill-group\\n[3] FINMA, Greensill proceedings against Credit Suisse concluded (28 Feb 2023): https://www.finma.ch/en/news/2023/02/20230228-mm-greensill/\\n[4] House of Commons Treasury Committee, 'Lessons from Greensill Capital' (HC 151), press release, 20 Jul 2021: https://www.wired-gov.net/wg/news.nsf/print/Treasury+Committee+reports+on+Lessons+from+Greensill+Capital+20072021112000 (report: https://api.parliament.uk/committees/publications/6800)\\n[5] National Audit Office, 'Investigation into the British Business Bank's accreditation of Greensill Capital' (7 Jul 2021): https://www.nao.org.uk/press-releases/investigation-into-the-british-business-banks-accreditation-of-greensill-capital/\\n[6] BaFin, moratorium on Greensill Bank AG (3 Mar 2021): https://www.bafin.de/ref/19621044\\n[7] Treasury Committee, oral evidence from Lex Greensill, 11 May 2021 (HC 151): https://committees.parliament.uk/oralevidence/2149/html/\\n[8] Global Trade Review, 'Greensill collapse rooted in insurance dispute, court documents show' (3 Mar 2021): https://www.gtreview.com/news/asia/greensill-collapse-rooted-in-insurance-dispute-court-documents-show/\\n[9] CNN Business, Greensill insolvency report (3 Mar 2021): https://edition.cnn.com/2021/03/03/investing/greensill-insolvency-apollo/index.html\\n[10] Banking Dive, 'UBS sets aside $900 million to compensate Credit Suisse Greensill clients' (Jun 2024): https://www.bankingdive.com/news/ubs-set-aside-900-million-compensate-credit-suisse-greensill-clients-archegos/719133/\\n[11] Global Trade Review, 'Credit Suisse loses SoftBank case over US$440mn Greensill losses' (Oct 2025): https://www.gtreview.com/news/europe/credit-suisse-loses-softbank-case-over-us440mn-greensill-losses/\\n[12] Claims Journal (Reuters), 'Credit Suisse loses $440M UK suit against SoftBank over Greensill losses' (15 Oct 2025): https://www.claimsjournal.com/news/national/2025/10/15/333515.htm\\n[13] Serious Fraud Office case page, Gupta Family Group (GFG) Alliance: https://www.gov.uk/sfo-cases/gupta-family-group-gfg-alliance\\n[14] Civil Service World, report on the Boardman review (23 Jul 2021): https://www.civilserviceworld.com/news/article/governmentcommissioned-greensill-probe-dubbed-a-whitewash\\n[15] Cabinet Office, Nigel Boardman review of supply chain finance in government (22 Jul 2021): https://gov.uk/government/publications/findings-of-a-review-into-the-development-and-use-of-supply-chain-finance-in-government\\n[16] Public Accounts Committee, oral evidence from HM Treasury (Sir Tom Scholar, Charles Roxburgh), 22 Apr 2021: https://committees.parliament.uk/oralevidence/2083/default/\\n\\nFiled Under Failure tells business collapses and comebacks from the public record. Findings and quotes are those of the bodies cited. Narration uses a synthetic voice; graphics are our own. Music: original.\\n\\n#Greensill #GreensillCapital #LexGreensill\", \"tags\": [\"Greensill\", \"Greensill Capital\", \"Lex Greensill\", \"Credit Suisse\", \"supply chain finance\", \"David Cameron lobbying\", \"business documentary\", \"what went wrong\"], \"categoryId\": \"27\", \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}, \"status\": {\"selfDeclaredMadeForKids\": false, \"containsSyntheticMedia\": false, \"privacyStatus\": \"private\", \"publishAt\": \"2026-11-11T16:00:00Z\"}}",
-   "path": "/../upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
-   "publishAt": "2026-11-11T16:00:00Z"
+   "kind": "thumb",
+   "file": "008/008-greensill-thumbnail.png",
+   "ctype": "image/png",
+   "size": 72172,
+   "meta": "{}",
+   "path": "/../upload/youtube/v3/thumbnails/set?uploadType=resumable&videoId=ByhDDIlrOPQ"
   }
  ]
 }
