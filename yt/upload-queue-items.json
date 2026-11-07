@@ -1,5 +1,13 @@
 [
  {
+  "id": "007-d-a0",
+  "path": "/../upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
+  "ctype": "video/mp4",
+  "size": 4180928,
+  "meta": "{\"snippet\": {\"title\": \"Wirecard's auditor EY: fined €500,000 and banned from new public-interest audits #Shorts\", \"description\": \"Germany's audit watchdog APAS found EY breached its professional duties in its Wirecard audits for 2016–2018, fined it €500,000 and barred new public-interest audits for two years.\\n\\nFull episode: \\\"Wirecard: A €24bn Star and the €1.9bn Nobody Could Find\\\" on Filed Under Failure.\\nSources: Al Jazeera, 'What $2.1bn? Wirecard says missing funds most likely do not exist' (22 Jun 2020); Wirecard AG ad hoc announcement, 18 Jun 2020 (EY could not obtain sufficient audit evidence; spurious balance confirmations); CNN, 'Wirecard files for insolvency' (25 Jun 2020) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #Wirecard #Wirecardscandal #MarkusBraun\", \"tags\": [\"Wirecard\", \"Wirecard scandal\", \"Markus Braun\", \"Jan Marsalek\", \"EY audit\", \"BaFin\", \"business documentary\", \"what went wrong\"], \"categoryId\": \"27\", \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}, \"status\": {\"selfDeclaredMadeForKids\": false, \"containsSyntheticMedia\": false, \"privacyStatus\": \"private\", \"publishAt\": \"2026-11-15T16:00:00Z\"}}",
+  "file": "007/007-wirecard-short-d.mp4"
+ },
+ {
   "id": "008-ep-thumb0",
   "path": "/../upload/youtube/v3/thumbnails/set?uploadType=resumable&videoId=ByhDDIlrOPQ",
   "ctype": "image/png",
