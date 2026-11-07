@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T18:08:28.078798+05:00",
+ "generated": "2026-11-07T18:08:43.117452+05:00",
  "problems": [],
  "items": [
   {
@@ -1071,7 +1071,7 @@
    "date": "2026-11-07",
    "pillar": "comparison",
    "slides": 6,
-   "status": "unverified",
+   "status": "posted",
    "platforms": {
     "fb": {
      "state": "posted",
@@ -1086,10 +1086,10 @@
      "at": "2026-11-07T13:08:27.576051+00:00"
     },
     "li": {
-     "state": "pending",
-     "id": "",
-     "tries": 0,
-     "at": ""
+     "state": "posted",
+     "id": "urn:li:share:7524820033504727040",
+     "tries": 1,
+     "at": "2026-11-07T13:08:28.596469+00:00"
     }
    },
    "src": "social/posts/2026-10-30.json"
