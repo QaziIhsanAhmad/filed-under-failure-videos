@@ -8,6 +8,14 @@
   "file": "007/007-wirecard-short-d.mp4"
  },
  {
+  "id": "008-b-a0",
+  "path": "/../upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
+  "ctype": "video/mp4",
+  "size": 4512255,
+  "meta": "{\"snippet\": {\"title\": \"The insurer said no in September. Greensill lasted a week after the cover ended. #Shorts\", \"description\": \"$4.6bn of trade credit insurance behind Greensill's clients expired on 1 March 2021; the insurer had said in September 2020 it would not renew. From Australian court documents reported by Global Trade Review.\\n\\nFull episode: \\\"Greensill: $10bn in Funds and the $440m That Went Elsewhere\\\" on Filed Under Failure.\\nSources: Insolvency Service, 'Lex Greensill to be disqualified from acting as a company director in the UK for nine years' (4 Jun 2026); Insolvency Service, 'Outcome of investigation into the directors of the collapsed Greensill group' (7 Mar 2024); FINMA, Greensill proceedings against Credit Suisse concluded (28 Feb 2023) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #Greensill #GreensillCapital #LexGreensill\", \"tags\": [\"Greensill\", \"Greensill Capital\", \"Lex Greensill\", \"Credit Suisse\", \"supply chain finance\", \"David Cameron lobbying\", \"business documentary\", \"what went wrong\"], \"categoryId\": \"27\", \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}, \"status\": {\"selfDeclaredMadeForKids\": false, \"containsSyntheticMedia\": false, \"privacyStatus\": \"private\", \"publishAt\": \"2026-11-16T16:00:00Z\"}}",
+  "file": "008/008-greensill-short-b.mp4"
+ },
+ {
   "id": "008-ep-thumb0",
   "path": "/../upload/youtube/v3/thumbnails/set?uploadType=resumable&videoId=ByhDDIlrOPQ",
   "ctype": "image/png",
