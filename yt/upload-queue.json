@@ -1,37 +1,4 @@
 {
- "generated": "2026-11-09T07:58:25.620971+05:00",
- "items": [
-  {
-   "id": "007-d-a0",
-   "row": "007-d",
-   "kind": "video",
-   "file": "007/007-wirecard-short-d.mp4",
-   "ctype": "video/mp4",
-   "size": 4180928,
-   "meta": "{\"snippet\": {\"title\": \"Wirecard's auditor EY: fined €500,000 and banned from new public-interest audits #Shorts\", \"description\": \"Germany's audit watchdog APAS found EY breached its professional duties in its Wirecard audits for 2016–2018, fined it €500,000 and barred new public-interest audits for two years.\\n\\nFull episode: \\\"Wirecard: A €24bn Star and the €1.9bn Nobody Could Find\\\" on Filed Under Failure.\\nSources: Al Jazeera, 'What $2.1bn? Wirecard says missing funds most likely do not exist' (22 Jun 2020); Wirecard AG ad hoc announcement, 18 Jun 2020 (EY could not obtain sufficient audit evidence; spurious balance confirmations); CNN, 'Wirecard files for insolvency' (25 Jun 2020) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #Wirecard #Wirecardscandal #MarkusBraun\", \"tags\": [\"Wirecard\", \"Wirecard scandal\", \"Markus Braun\", \"Jan Marsalek\", \"EY audit\", \"BaFin\", \"business documentary\", \"what went wrong\"], \"categoryId\": \"27\", \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}, \"status\": {\"selfDeclaredMadeForKids\": false, \"containsSyntheticMedia\": false, \"privacyStatus\": \"private\", \"publishAt\": \"2026-11-15T16:00:00Z\"}}",
-   "path": "/../upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
-   "publishAt": "2026-11-15T16:00:00Z"
-  },
-  {
-   "id": "008-b-a0",
-   "row": "008-b",
-   "kind": "video",
-   "file": "008/008-greensill-short-b.mp4",
-   "ctype": "video/mp4",
-   "size": 4512255,
-   "meta": "{\"snippet\": {\"title\": \"The insurer said no in September. Greensill lasted a week after the cover ended. #Shorts\", \"description\": \"$4.6bn of trade credit insurance behind Greensill's clients expired on 1 March 2021; the insurer had said in September 2020 it would not renew. From Australian court documents reported by Global Trade Review.\\n\\nFull episode: \\\"Greensill: $10bn in Funds and the $440m That Went Elsewhere\\\" on Filed Under Failure.\\nSources: Insolvency Service, 'Lex Greensill to be disqualified from acting as a company director in the UK for nine years' (4 Jun 2026); Insolvency Service, 'Outcome of investigation into the directors of the collapsed Greensill group' (7 Mar 2024); FINMA, Greensill proceedings against Credit Suisse concluded (28 Feb 2023) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #Greensill #GreensillCapital #LexGreensill\", \"tags\": [\"Greensill\", \"Greensill Capital\", \"Lex Greensill\", \"Credit Suisse\", \"supply chain finance\", \"David Cameron lobbying\", \"business documentary\", \"what went wrong\"], \"categoryId\": \"27\", \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}, \"status\": {\"selfDeclaredMadeForKids\": false, \"containsSyntheticMedia\": false, \"privacyStatus\": \"private\", \"publishAt\": \"2026-11-16T16:00:00Z\"}}",
-   "path": "/../upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
-   "publishAt": "2026-11-16T16:00:00Z"
-  },
-  {
-   "id": "008-ep-thumb0",
-   "row": "008-ep",
-   "kind": "thumb",
-   "file": "008/008-greensill-thumbnail.png",
-   "ctype": "image/png",
-   "size": 72172,
-   "meta": "{}",
-   "path": "/../upload/youtube/v3/thumbnails/set?uploadType=resumable&videoId=ByhDDIlrOPQ"
-  }
- ]
+ "generated": "2026-11-09T17:05:59.254659+05:00",
+ "items": []
 }

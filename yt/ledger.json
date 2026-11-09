@@ -1123,12 +1123,19 @@
    "title": "Wirecard's auditor EY: fined €500,000 and banned from new public-interest audits #Shorts",
    "file": "007/007-wirecard-short-d.mp4",
    "lane": "api",
-   "status": "planned",
+   "status": "scheduled",
    "description": "Germany's audit watchdog APAS found EY breached its professional duties in its Wirecard audits for 2016–2018, fined it €500,000 and barred new public-interest audits for two years.\n\nFull episode: \"Wirecard: A €24bn Star and the €1.9bn Nobody Could Find\" on Filed Under Failure.\nSources: Al Jazeera, 'What $2.1bn? Wirecard says missing funds most likely do not exist' (22 Jun 2020); Wirecard AG ad hoc announcement, 18 Jun 2020 (EY could not obtain sufficient audit evidence; spurious balance confirmations); CNN, 'Wirecard files for insolvency' (25 Jun 2020) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #Wirecard #Wirecardscandal #MarkusBraun",
    "altered": {
     "disclose": false,
     "reason": "Generic synthetic narrator (Kokoro bm_george) not imitating any real person; quotes attributed by the narrator and shown as on-screen text; original code-generated charts, text graphics and music; no realistic synthetic imagery or altered real footage."
-   }
+   },
+   "apiApplied": [
+    "007-d-a0"
+   ],
+   "videoId": "Kc2Rx21xxT4",
+   "url": "https://www.youtube.com/shorts/Kc2Rx21xxT4",
+   "uploadedAt": "2026-11-09T13:14:08.848427+05:00",
+   "publishAt": "2026-11-15T16:00:00Z"
   },
   {
    "id": "008-a",
@@ -1160,12 +1167,19 @@
    "title": "The insurer said no in September. Greensill lasted a week after the cover ended. #Shorts",
    "file": "008/008-greensill-short-b.mp4",
    "lane": "api",
-   "status": "planned",
+   "status": "scheduled",
    "description": "$4.6bn of trade credit insurance behind Greensill's clients expired on 1 March 2021; the insurer had said in September 2020 it would not renew. From Australian court documents reported by Global Trade Review.\n\nFull episode: \"Greensill: $10bn in Funds and the $440m That Went Elsewhere\" on Filed Under Failure.\nSources: Insolvency Service, 'Lex Greensill to be disqualified from acting as a company director in the UK for nine years' (4 Jun 2026); Insolvency Service, 'Outcome of investigation into the directors of the collapsed Greensill group' (7 Mar 2024); FINMA, Greensill proceedings against Credit Suisse concluded (28 Feb 2023) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #Greensill #GreensillCapital #LexGreensill",
    "altered": {
     "disclose": false,
     "reason": "Generic synthetic narrator (Kokoro bm_george) not imitating any real person; quotes attributed by the narrator and shown as on-screen text; original code-generated charts, text graphics and music; no realistic synthetic imagery or altered real footage."
-   }
+   },
+   "apiApplied": [
+    "008-b-a0"
+   ],
+   "videoId": "HyXhQ3j-hUQ",
+   "url": "https://www.youtube.com/shorts/HyXhQ3j-hUQ",
+   "uploadedAt": "2026-11-09T13:14:10.197519+05:00",
+   "publishAt": "2026-11-16T16:00:00Z"
   },
   {
    "id": "008-c",
@@ -1212,12 +1226,14 @@
     "reason": "Generic synthetic narrator (Kokoro bm_george) not imitating any real person; quotes attributed by the narrator and shown as on-screen text; original code-generated charts, text graphics and music; no realistic synthetic imagery or altered real footage."
    },
    "apiApplied": [
-    "008-ep-a0"
+    "008-ep-a0",
+    "008-ep-thumb0"
    ],
    "videoId": "ByhDDIlrOPQ",
    "url": "https://www.youtube.com/watch?v=ByhDDIlrOPQ",
    "uploadedAt": "2026-11-07T13:14:13.083585+05:00",
-   "publishAt": "2026-11-11T16:00:00Z"
+   "publishAt": "2026-11-11T16:00:00Z",
+   "thumbSet": true
   }
  ],
  "history": [
