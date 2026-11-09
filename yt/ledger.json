@@ -985,7 +985,7 @@
    "title": "$1.9 billion collected. How much was in the account? \"$0\" #Shorts",
    "file": "006/006-first-brands-short-c.mp4",
    "lane": "api",
-   "status": "scheduled",
+   "status": "published",
    "description": "What creditor Raistone told the First Brands bankruptcy court in October 2025.\n\nFull episode: \"First Brands: $5 Billion in Sales, $12 Million in Cash\" on Filed Under Failure.\nSources: US Attorney's Office SDNY, 'First Brands Executives Charged In Multibillion-Dollar Fraud' (29 Jan 2026); Associated Press (via WTOP), 'Former First Brands CEO Patrick James and his brother are indicted' (29 Jan 2026); Bloomberg via Claims Journal, 'Founder of Auto Parts Maker Charged With Fraud That Wiped Out Billions' (30 Jan 2026) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #FirstBrands #FirstBrandsbankruptcy #FirstBrandsfraud",
    "altered": {
     "disclose": false,
@@ -994,10 +994,12 @@
    "apiApplied": [
     "006-c-a0"
    ],
-   "videoId": "CiMK8teUGTw",
-   "url": "https://www.youtube.com/shorts/CiMK8teUGTw",
+   "videoId": "S90raDw5ru8",
+   "url": "https://www.youtube.com/shorts/S90raDw5ru8",
    "uploadedAt": "2026-11-05T13:14:06.046234+05:00",
-   "publishAt": "2026-11-09T16:00:00Z"
+   "publishAt": "2026-11-09T16:00:00Z",
+   "verifiedAt": "2026-11-10T03:42:06.414111+05:00",
+   "verification": "channel page"
   },
   {
    "id": "006-d",
