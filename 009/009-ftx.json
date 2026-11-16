@@ -1,0 +1,1304 @@
+{
+ "slug": "009-ftx",
+ "title": "FTX: Customers Got 105% Back. Why He Still Got 25 Years",
+ "voice": "bm_george",
+ "speed": 0.95,
+ "summary": "FTX collapse explained from the court, SEC and bankruptcy records.\n\nFTX customers have now been repaid 105% of their claims, yet Sam Bankman-Fried is serving 25 years. Using the Second Circuit's June 2026 opinion, the US Attorney's releases, the SEC's complaint, John J. Ray III's sworn bankruptcy declaration, the Delaware bankruptcy court's rulings, the FTX Recovery Trust's distribution notices and the Supreme Court docket, we explain the code privileges, the nine-day run, the trial, the repayments, why claims were fixed at November 2022 prices, and why the courts said repayment does not undo fraud. SEC claims are allegations; the criminal findings are the jury's and the courts'. The Supreme Court has not decided whether to hear his petition.",
+ "thumb": [
+  "105% BACK",
+  "25 YEARS",
+  "AFFIRMED",
+  "FTX"
+ ],
+ "tags": [
+  "FTX",
+  "Sam Bankman-Fried",
+  "FTX collapse",
+  "Alameda Research",
+  "crypto fraud",
+  "FTX repayment",
+  "business documentary",
+  "what went wrong"
+ ],
+ "sources": [
+  "Second Circuit Court of Appeals, United States v. Bankman-Fried, No. 24-961-cr, opinion (12 Jun 2026): https://www.courthousenews.com/wp-content/uploads/2026/06/bankman-fried-second-circuit-appeal-opinion.pdf",
+  "US Supreme Court, docket No. 26-349, Bankman-Fried v. United States: https://www.supremecourt.gov/docket/docketfiles/html/public/26-349.html",
+  "US Attorney's Office SDNY, 'Samuel Bankman-Fried Sentenced To 25 Years In Prison' (28 Mar 2024): https://www.justice.gov/usao-sdny/pr/samuel-bankman-fried-sentenced-25-years-prison",
+  "US Attorney's Office SDNY, statement of US Attorney Damian Williams on the conviction (2 Nov 2023): https://www.justice.gov/usao-sdny/pr/statement-us-attorney-damian-williams-conviction-samuel-bankman-fried",
+  "SEC, 'SEC Charges Samuel Bankman-Fried with Defrauding Investors in Crypto Asset Trading Platform FTX', press release 2022-219 (13 Dec 2022): https://www.sec.gov/newsroom/press-releases/2022-219",
+  "Declaration of John J. Ray III in support of Chapter 11 petitions and first day pleadings, In re FTX Trading Ltd., No. 22-11068 (Bankr. D. Del.), Dkt 24 (17 Nov 2022): https://cases.stretto.com/public/x193/11753/PLEADINGS/1175302012380000000038.pdf",
+  "FTX, 'FTX Receives U.S. Bankruptcy Court Confirmation of Its Plan of Reorganization' (7 Oct 2024): https://prnewswire.com/news-releases/ftx-receives-us-bankruptcy-court-confirmation-of-its-plan-of-reorganization-302269152.html",
+  "US Bankruptcy Court, District of Delaware (Judge John T. Dorsey), opinion and order on digital asset estimation (26 Jun 2024): https://deb.uscourts.gov/sites/deb/files/opinions//FTX%20Opinion%20and%20Order%20Digital%20Asset%20Estimation.pdf",
+  "FTX Recovery Trust, Fourth Distribution notice (18 Mar 2026): https://lifestyle.kbew98country.com/story/122645/ftx-recovery-trust-to-distribute-approximately-22-billion-to-creditors-in-fourth-distribution-on-march-31-2026/",
+  "FTX Recovery Trust, Fifth Distribution notice (17 Jul 2026, PR Newswire republication): https://aijourn.com/?p=556967",
+  "The Block, 'FTX to distribute roughly $900 million to creditors in fifth wave of payouts' (17 Jul 2026): https://www.theblock.co/post/408803/ftx-to-distribute-roughly-900-million-to-creditors-in-fifth-wave-of-payouts",
+  "Unchained, 'FTX to send roughly $900 million to creditors in fifth distribution' (20 Jul 2026): https://unchainedcrypto.com/ftx-to-send-roughly-900-million-to-creditors-in-fifth-distribution-pushing-most-classes-past-full-recovery/",
+  "Protos, 'FTX customers to be repaid at $16,871 bitcoin prices' (1 Feb 2024): https://protos.com/ftx-customers-to-be-repaid-at-16871-bitcoin-prices",
+  "Reuters (via ThePrint), 'Judge at Sam Bankman-Fried sentencing rejects argument that FTX customers lost no money' (28 Mar 2024): https://theprint.in/tech/judge-at-sam-bankman-fried-sentencing-rejects-argument-that-ftx-customers-lost-no-money/2019019",
+  "Axios, 'Bankrupt FTX's new chief describes unprecedented failure of corporate controls' (17 Nov 2022): https://www.axios.com/2022/11/17/ftx-bankruptcy-sbf-john-ray-declaration"
+ ],
+ "altered": {
+  "disclose": false,
+  "reason": "Generic synthetic narrator (Kokoro bm_george) not imitating any real person; quotes attributed by the narrator and shown as on-screen text; original code-generated charts, text graphics and music; no realistic synthetic imagery or altered real footage."
+ },
+ "notes": {
+  "status": "fact-checked 16 Nov 2026",
+  "alt_titles": [
+   "Why Did FTX Collapse? The $65bn Line of Credit in the Code",
+   "FTX: Paid Back in Full, Still Guilty. What the Court Said"
+  ],
+  "thumbnails": {
+   "A": "'105% BACK' white over '25 YEARS' red; paper case file 'FTX' stamped AFFIRMED (house style).",
+   "B": "Code-drawn ledger with two columns 'Nov 2022 $' vs 'coins' and a red '$16,871' stamp; headline 'PAID IN 2022 $'."
+  },
+  "experiment": "x5 opening: first 5 s = central question over the 105% figure; no title or chapter card before ~0:45; scenes 1-7 are 2-4 s each; reveal (the court's sentence) promised at 0:12; one-sentence answer at ~0:18.",
+  "demand_check": "16 Nov 2026: research.yml not run (budget). Playbook learning 16 Nov names FTX as an evergreen searchable topic; news pegs: Second Circuit affirmed 12 Jun 2026, Supreme Court petition 26-349 (government response due 16 Dec 2026), 5th distribution Jul 2026. Topic kept.",
+  "legal": "SEC matters described as allegations. Criminal findings only as jury/court found. Kaplan quotes attributed to Reuters reporting. No claim about the Supreme Court's likely decision or a pardon. Ray declaration statements attributed to him.",
+  "links": "Related: 002 SVB ($40bn in a day). Next: 010 Northern Rock vs SVB (Sat 21 Nov).",
+  "image_scenes": "not supported yet",
+  "factcheck_log": "16 Nov 2026 independent sub-agent: ~115 claims verified; fixed: 'immaterial as a matter of law' attributed to trial judge (upheld by 2d Cir.), Wang testimony vs court summary of negative balances, non-quote quote marks removed, trailing ellipses on truncated Ray/Gensler quotes, auto-delete apps attributed to Bankman-Fried (encouraged employees), Class 7 convenience label, 'after the July 2026 distribution'."
+ },
+ "scenes": [
+  {
+   "say": "FTX customers have been paid back one hundred and five per cent.",
+   "visual": {
+    "type": "stat",
+    "value": "105%",
+    "label": "paid back to FTX customers after the July 2026 distribution",
+    "sub": "Customer classes 5A and 5B, cumulative",
+    "red": true,
+    "src": "FTX Recovery Trust, 17 Jul 2026"
+   },
+   "src": "FTX Recovery Trust, 17 Jul 2026",
+   "chapter": "Cold open",
+   "pause": 0.2
+  },
+  {
+   "say": "Its founder is serving twenty-five years.",
+   "visual": {
+    "type": "document",
+    "header": "US Attorney, SDNY · 28 Mar 2024",
+    "title": "Samuel Bankman-Fried",
+    "lines": [
+     "!Sentenced to 25 years in prison",
+     "Forfeiture of over $11 billion"
+    ],
+    "stamp": "SENTENCED",
+    "src": "US Attorney SDNY, 28 Mar 2024"
+   },
+   "src": "US Attorney SDNY, 28 Mar 2024",
+   "pause": 0.2
+  },
+  {
+   "say": "So why didn't the repayment matter?",
+   "visual": {
+    "type": "stats",
+    "title": "The question",
+    "items": [
+     [
+      "105%",
+      "repaid to customers"
+     ],
+     [
+      "25 yrs",
+      "in prison"
+     ]
+    ],
+    "hi": 1,
+    "src": "FTX Recovery Trust, 17 Jul 2026; US Attorney SDNY, 28 Mar 2024"
+   },
+   "src": "FTX Recovery Trust, 17 Jul 2026; US Attorney SDNY, 28 Mar 2024",
+   "pause": 0.2
+  },
+  {
+   "say": "An appeals court answered in June.",
+   "visual": {
+    "type": "timeline",
+    "date": "12 Jun 2026",
+    "text": "Second Circuit upholds conviction and sentence",
+    "src": "2d Cir. opinion, 12 Jun 2026"
+   },
+   "src": "2d Cir. opinion, 12 Jun 2026",
+   "pause": 0.2
+  },
+  {
+   "say": "We'll read you its key sentence.",
+   "visual": {
+    "type": "document",
+    "header": "US Court of Appeals, Second Circuit",
+    "title": "United States v. Bankman-Fried",
+    "lines": [
+     "No. 24-961-cr",
+     "!Judgment affirmed"
+    ],
+    "stamp": "AFFIRMED",
+    "src": "2d Cir. opinion, 12 Jun 2026"
+   },
+   "src": "2d Cir. opinion, 12 Jun 2026",
+   "pause": 0.2
+  },
+  {
+   "say": "The short answer: the fraud was complete when the money moved.",
+   "visual": {
+    "type": "list",
+    "title": "The short answer",
+    "items": [
+     "Fraud is complete when the money is taken",
+     "Paying it back later does not undo it"
+    ],
+    "src": "2d Cir. opinion, 12 Jun 2026"
+   },
+   "src": "2d Cir. opinion, 12 Jun 2026",
+   "pause": 0.25
+  },
+  {
+   "say": "Believing customers would be repaid was no defence.",
+   "visual": {
+    "type": "stat",
+    "value": "No defence",
+    "label": "believing victims would ultimately benefit, the appeals court said",
+    "src": "2d Cir. opinion, 12 Jun 2026"
+   },
+   "src": "2d Cir. opinion, 12 Jun 2026",
+   "pause": 0.25
+  },
+  {
+   "say": "And that hundred and five per cent was counted at a bitcoin price of sixteen thousand, eight hundred and seventy-one dollars.",
+   "visual": {
+    "type": "stat",
+    "value": "$16,871",
+    "label": "bitcoin price used to value FTX claims",
+    "red": true,
+    "src": "Protos, 1 Feb 2024"
+   },
+   "src": "Protos, 1 Feb 2024"
+  },
+  {
+   "say": "The price on the day FTX filed for bankruptcy.",
+   "visual": {
+    "type": "timeline",
+    "date": "11 Nov 2022",
+    "text": "Claims fixed in dollars on the petition date",
+    "src": "Bankr. D. Del., Dorsey J., 26 Jun 2024; Protos, 1 Feb 2024"
+   },
+   "src": "Bankr. D. Del., Dorsey J., 26 Jun 2024; Protos, 1 Feb 2024",
+   "pause": 0.3
+  },
+  {
+   "say": "This is FTX from the court record: the code, the run, the trial, the repayments, and a petition now waiting at the US Supreme Court.",
+   "visual": {
+    "type": "stats",
+    "title": "The case file",
+    "items": [
+     [
+      "7 of 7",
+      "counts: guilty"
+     ],
+     [
+      "$11bn",
+      "forfeiture"
+     ],
+     [
+      "26-349",
+      "Supreme Court docket"
+     ]
+    ],
+    "hi": 2,
+    "src": "US Attorney SDNY, 28 Mar 2024; US Supreme Court docket 26-349"
+   },
+   "src": "US Attorney SDNY, 28 Mar 2024; US Supreme Court docket 26-349"
+  },
+  {
+   "say": "Where something is only alleged, we'll say so.",
+   "visual": {
+    "type": "list",
+    "title": "How we tell it",
+    "items": [
+     "Court findings and verdicts: verified",
+     "Complaints and charges: alleged",
+     "Our analysis: labelled as ours"
+    ],
+    "src": "Filed Under Failure"
+   },
+   "src": "Filed Under Failure"
+  },
+  {
+   "say": "Chapter one. Two companies, one owner.",
+   "visual": {
+    "type": "chapter",
+    "n": 1,
+    "text": "Two companies, one owner",
+    "src": "2d Cir. opinion, 12 Jun 2026"
+   },
+   "src": "2d Cir. opinion, 12 Jun 2026",
+   "chapter": "Two companies, one owner",
+   "pause": 0.3
+  },
+  {
+   "say": "FTX was a crypto exchange. Sam Bankman-Fried ran it as chief executive from its founding in twenty nineteen.",
+   "visual": {
+    "type": "timeline",
+    "date": "2019",
+    "text": "FTX founded, Bankman-Fried CEO from the start",
+    "src": "2d Cir. opinion, 12 Jun 2026"
+   },
+   "src": "2d Cir. opinion, 12 Jun 2026"
+  },
+  {
+   "say": "He also controlled a trading firm, Alameda Research, founded in twenty seventeen and co-owned with FTX's co-founder, Gary Wang.",
+   "visual": {
+    "type": "list",
+    "title": "Alameda Research",
+    "items": [
+     "Crypto trading firm, founded 2017",
+     "Co-owned by Bankman-Fried and Gary Wang",
+     "Wang: FTX co-founder and chief technology officer"
+    ],
+    "src": "2d Cir. opinion, 12 Jun 2026"
+   },
+   "src": "2d Cir. opinion, 12 Jun 2026"
+  },
+  {
+   "say": "The appeals court describes Alameda as FTX's largest customer and primary market maker.",
+   "visual": {
+    "type": "quote",
+    "text": "Alameda was FTX's largest customer and primary market maker.",
+    "by": "US Court of Appeals, Second Circuit, 2026",
+    "src": "2d Cir. opinion, 12 Jun 2026"
+   },
+   "src": "2d Cir. opinion, 12 Jun 2026"
+  },
+  {
+   "say": "So the people who ran the exchange also owned its biggest trader. That is where this story starts.",
+   "visual": {
+    "type": "title",
+    "kicker": "The conflict",
+    "text": "One owner. Both sides of the trade.",
+    "sub": "Our description of the structure",
+    "src": "2d Cir. opinion, 12 Jun 2026; our analysis"
+   },
+   "src": "2d Cir. opinion, 12 Jun 2026; our analysis"
+  },
+  {
+   "say": "At trial, Gary Wang described special privileges built into FTX's code for Alameda.",
+   "visual": {
+    "type": "document",
+    "header": "Gary Wang's testimony and the court's summary, 2d Cir.",
+    "title": "Special privileges",
+    "lines": [
+     "Alameda allowed negative balances on FTX's books",
+     "!A $65 billion line of credit it could draw from FTX"
+    ],
+    "src": "2d Cir. opinion, 12 Jun 2026"
+   },
+   "src": "2d Cir. opinion, 12 Jun 2026"
+  },
+  {
+   "say": "According to that testimony, as the court summarises it, those privileges gave Alameda a sixty-five billion dollar line of credit from the exchange.",
+   "visual": {
+    "type": "stat",
+    "value": "$65bn",
+    "label": "line of credit Alameda could draw from FTX",
+    "sub": "Gary Wang's testimony, as summarised by the appeals court",
+    "red": true,
+    "src": "2d Cir. opinion, 12 Jun 2026"
+   },
+   "src": "2d Cir. opinion, 12 Jun 2026"
+  },
+  {
+   "say": "The SEC alleged Alameda was also exempted from certain key FTX risk mitigation measures.",
+   "visual": {
+    "type": "list",
+    "title": "SEC allegations, Dec 2022",
+    "items": [
+     "A virtually unlimited line of credit funded by customers",
+     "Exempt from key risk mitigation measures"
+    ],
+    "src": "SEC release 2022-219, 13 Dec 2022"
+   },
+   "src": "SEC release 2022-219, 13 Dec 2022"
+  },
+  {
+   "say": "After the verdict, prosecutors said he directed co-conspirators to alter FTX's code so Alameda could withdraw effectively unlimited amounts of crypto.",
+   "visual": {
+    "type": "quote",
+    "text": "…to alter FTX's computer code to allow Alameda to withdraw effectively unlimited amounts of cryptocurrency from the exchange.",
+    "by": "US Attorney's Office, SDNY, 28 Mar 2024",
+    "src": "US Attorney SDNY, 28 Mar 2024"
+   },
+   "src": "US Attorney SDNY, 28 Mar 2024"
+  },
+  {
+   "say": "Chapter two. The promise.",
+   "visual": {
+    "type": "chapter",
+    "n": 2,
+    "text": "The promise",
+    "src": "SEC release 2022-219, 13 Dec 2022"
+   },
+   "src": "SEC release 2022-219, 13 Dec 2022",
+   "chapter": "The promise",
+   "pause": 0.3
+  },
+  {
+   "say": "Since at least May twenty nineteen, the SEC said, FTX raised more than one point eight billion dollars from equity investors.",
+   "visual": {
+    "type": "stat",
+    "value": "$1.8bn+",
+    "label": "raised from equity investors since at least May 2019",
+    "sub": "SEC, 13 Dec 2022",
+    "src": "SEC release 2022-219, 13 Dec 2022"
+   },
+   "src": "SEC release 2022-219, 13 Dec 2022"
+  },
+  {
+   "say": "The SEC's complaint says Bankman-Fried promoted FTX as a safe, responsible crypto asset trading platform, with sophisticated, automated risk measures to protect customer assets.",
+   "visual": {
+    "type": "list",
+    "title": "What investors were told (SEC complaint)",
+    "items": [
+     "\"A safe, responsible crypto asset trading platform\"",
+     "\"Sophisticated, automated risk measures\"",
+     "To \"protect customer assets\""
+    ],
+    "src": "SEC release 2022-219, 13 Dec 2022"
+   },
+   "src": "SEC release 2022-219, 13 Dec 2022"
+  },
+  {
+   "say": "Behind that, the complaint alleged, was an undisclosed diversion of customers' funds to Alameda.",
+   "visual": {
+    "type": "document",
+    "header": "SEC press release 2022-219 · 13 Dec 2022",
+    "title": "Complaint",
+    "lines": [
+     "!Undisclosed diversion of FTX customers' funds to Alameda Research",
+     "Alameda exempted from key risk measures"
+    ],
+    "stamp": "ALLEGED",
+    "src": "SEC release 2022-219, 13 Dec 2022"
+   },
+   "src": "SEC release 2022-219, 13 Dec 2022"
+  },
+  {
+   "say": "The SEC's chair, Gary Gensler, said: we allege that Sam Bankman-Fried built a house of cards on a foundation of deception.",
+   "visual": {
+    "type": "quote",
+    "text": "We allege that Sam Bankman-Fried built a house of cards on a foundation of deception …",
+    "by": "Gary Gensler, SEC Chair, 13 Dec 2022",
+    "src": "SEC release 2022-219, 13 Dec 2022"
+   },
+   "src": "SEC release 2022-219, 13 Dec 2022"
+  },
+  {
+   "say": "Those were civil allegations. The criminal findings came later, from a jury.",
+   "visual": {
+    "type": "stats",
+    "title": "Two kinds of case",
+    "items": [
+     [
+      "SEC",
+      "civil complaint: allegations"
+     ],
+     [
+      "Jury",
+      "criminal verdict: findings"
+     ]
+    ],
+    "hi": 1,
+    "src": "SEC release 2022-219, 13 Dec 2022; US Attorney SDNY, 2 Nov 2023"
+   },
+   "src": "SEC release 2022-219, 13 Dec 2022; US Attorney SDNY, 2 Nov 2023"
+  },
+  {
+   "say": "Chapter three. Nine days in November.",
+   "visual": {
+    "type": "chapter",
+    "n": 3,
+    "text": "Nine days in November",
+    "src": "2d Cir. opinion, 12 Jun 2026"
+   },
+   "src": "2d Cir. opinion, 12 Jun 2026",
+   "chapter": "Nine days in November",
+   "pause": 0.3
+  },
+  {
+   "say": "On the second of November twenty twenty-two, a crypto news site published a version of Alameda's balance sheet.",
+   "visual": {
+    "type": "timeline",
+    "date": "2 Nov 2022",
+    "text": "A version of Alameda's balance sheet is published",
+    "src": "2d Cir. opinion, 12 Jun 2026"
+   },
+   "src": "2d Cir. opinion, 12 Jun 2026"
+  },
+  {
+   "say": "The appeals court says that triggered widespread customer withdrawals from FTX.",
+   "visual": {
+    "type": "list",
+    "title": "What followed",
+    "items": [
+     "2 Nov: Alameda balance sheet published",
+     "Widespread customer withdrawals",
+     "11 Nov: Bankman-Fried replaced as CEO",
+     "11 Nov: FTX files for bankruptcy"
+    ],
+    "src": "2d Cir. opinion, 12 Jun 2026"
+   },
+   "src": "2d Cir. opinion, 12 Jun 2026"
+  },
+  {
+   "say": "On the eleventh of November, Bankman-Fried was replaced and FTX filed for bankruptcy. It could no longer meet customers' withdrawal requests.",
+   "visual": {
+    "type": "document",
+    "header": "2d Cir. opinion · background",
+    "title": "11 November 2022",
+    "lines": [
+     "Bankman-Fried replaced as CEO",
+     "!FTX files for bankruptcy: unable to meet withdrawal requests"
+    ],
+    "src": "2d Cir. opinion, 12 Jun 2026"
+   },
+   "src": "2d Cir. opinion, 12 Jun 2026"
+  },
+  {
+   "say": "At his trial, Bankman-Fried testified that he was surprised to learn of Alameda's eight billion dollar negative balance on FTX in October twenty twenty-two.",
+   "visual": {
+    "type": "stat",
+    "value": "$8bn",
+    "label": "Alameda's negative balance on FTX, October 2022",
+    "sub": "From Bankman-Fried's own testimony, per the appeals court",
+    "red": true,
+    "src": "2d Cir. opinion, 12 Jun 2026"
+   },
+   "src": "2d Cir. opinion, 12 Jun 2026"
+  },
+  {
+   "say": "The new chief executive was John J. Ray the third, who had worked on the clean-up of Enron.",
+   "visual": {
+    "type": "list",
+    "title": "The new chief executive",
+    "items": [
+     "John J. Ray III",
+     "Took over on 11 Nov 2022",
+     "Worked on the Enron clean-up (Axios)"
+    ],
+    "src": "Axios, 17 Nov 2022; 2d Cir. opinion, 12 Jun 2026"
+   },
+   "src": "Axios, 17 Nov 2022; 2d Cir. opinion, 12 Jun 2026"
+  },
+  {
+   "say": "Six days later he filed a sworn declaration. He wrote: never in my career have I seen such a complete failure of corporate controls.",
+   "visual": {
+    "type": "quote",
+    "text": "Never in my career have I seen such a complete failure of corporate controls …",
+    "by": "John J. Ray III, declaration, 17 Nov 2022",
+    "src": "Ray declaration, Dkt 24, 17 Nov 2022"
+   },
+   "src": "Ray declaration, Dkt 24, 17 Nov 2022"
+  },
+  {
+   "say": "He described the absence of an accurate list of bank accounts and signatories, and said the group did not keep centralised control of its cash.",
+   "visual": {
+    "type": "document",
+    "header": "Ray declaration · Dkt 24 · 17 Nov 2022",
+    "title": "First-day findings",
+    "lines": [
+     "No accurate list of bank accounts and signatories",
+     "!No centralised control of cash",
+     "Corporate funds used to buy homes for employees and advisors"
+    ],
+    "src": "Ray declaration, Dkt 24, 17 Nov 2022"
+   },
+   "src": "Ray declaration, Dkt 24, 17 Nov 2022"
+  },
+  {
+   "say": "Corporate money, he said, had bought homes and other personal items for employees and advisors. Some payments were approved by responding with personalised emojis.",
+   "visual": {
+    "type": "stat",
+    "value": "Emojis",
+    "label": "how some disbursements were approved, per the Ray declaration",
+    "src": "Ray declaration, Dkt 24, 17 Nov 2022"
+   },
+   "src": "Ray declaration, Dkt 24, 17 Nov 2022"
+  },
+  {
+   "say": "And Bankman-Fried, he said, used messaging apps set to auto-delete after a short period of time, and encouraged employees to do the same.",
+   "visual": {
+    "type": "quote",
+    "text": "applications that were set to auto-delete after a short period of time, and encouraged employees to do the same",
+    "by": "John J. Ray III, declaration, 17 Nov 2022",
+    "src": "Ray declaration, Dkt 24, 17 Nov 2022"
+   },
+   "src": "Ray declaration, Dkt 24, 17 Nov 2022"
+  },
+  {
+   "say": "Chapter four. The verdict.",
+   "visual": {
+    "type": "chapter",
+    "n": 4,
+    "text": "The verdict",
+    "src": "2d Cir. opinion, 12 Jun 2026"
+   },
+   "src": "2d Cir. opinion, 12 Jun 2026",
+   "chapter": "The verdict",
+   "pause": 0.3
+  },
+  {
+   "say": "The trial in Manhattan ran four weeks. Three of his inner circle testified under cooperation agreements: Caroline Ellison, Gary Wang, and FTX's former head of engineering, Nishad Singh.",
+   "visual": {
+    "type": "list",
+    "title": "Cooperating witnesses",
+    "items": [
+     "Caroline Ellison, former CEO of Alameda",
+     "Gary Wang, FTX co-founder",
+     "Nishad Singh, former FTX head of engineering"
+    ],
+    "src": "2d Cir. opinion, 12 Jun 2026"
+   },
+   "src": "2d Cir. opinion, 12 Jun 2026"
+  },
+  {
+   "say": "On the second of November twenty twenty-three, the jury convicted him on all seven counts of fraud and conspiracy.",
+   "visual": {
+    "type": "stats",
+    "title": "2 November 2023",
+    "items": [
+     [
+      "7 of 7",
+      "counts: guilty"
+     ],
+     [
+      "4 weeks",
+      "trial"
+     ]
+    ],
+    "hi": 0,
+    "src": "2d Cir. opinion, 12 Jun 2026; US Attorney SDNY, 28 Mar 2024"
+   },
+   "src": "2d Cir. opinion, 12 Jun 2026; US Attorney SDNY, 28 Mar 2024"
+  },
+  {
+   "say": "The US Attorney, Damian Williams, said the industry might be new, but, in his words, this kind of corruption is as old as time.",
+   "visual": {
+    "type": "quote",
+    "text": "…this kind of corruption is as old as time.",
+    "by": "Damian Williams, US Attorney, 2 Nov 2023",
+    "src": "US Attorney SDNY, 2 Nov 2023"
+   },
+   "src": "US Attorney SDNY, 2 Nov 2023"
+  },
+  {
+   "say": "On the twenty-eighth of March twenty twenty-four, Judge Lewis Kaplan sentenced him to twenty-five years, with forfeiture of more than eleven billion dollars.",
+   "visual": {
+    "type": "timeline",
+    "date": "28 Mar 2024",
+    "text": "25 years in prison, over $11bn forfeiture",
+    "src": "US Attorney SDNY, 28 Mar 2024"
+   },
+   "src": "US Attorney SDNY, 28 Mar 2024"
+  },
+  {
+   "say": "Prosecutors put the losses at more than eight billion dollars of customers' money, one point seven billion from FTX investors, and one point three billion from Alameda's lenders.",
+   "visual": {
+    "type": "bars",
+    "title": "Losses, per prosecutors",
+    "items": [
+     [
+      "FTX customers",
+      8.0,
+      "$8bn+"
+     ],
+     [
+      "FTX investors",
+      1.7,
+      "$1.7bn+"
+     ],
+     [
+      "Alameda lenders",
+      1.3,
+      "$1.3bn+"
+     ]
+    ],
+    "hi": 0,
+    "src": "US Attorney SDNY, 28 Mar 2024"
+   },
+   "src": "US Attorney SDNY, 28 Mar 2024"
+  },
+  {
+   "say": "The defence argued customers had lost no money. Reuters reported that the judge called that misleading, logically flawed and speculative.",
+   "visual": {
+    "type": "quote",
+    "text": "…misleading, it is logically flawed, it is speculative.",
+    "by": "Judge Lewis A. Kaplan, as reported by Reuters",
+    "src": "Reuters via ThePrint, 28 Mar 2024"
+   },
+   "src": "Reuters via ThePrint, 28 Mar 2024"
+  },
+  {
+   "say": "He compared it to a thief who takes his loot to Las Vegas and wins. Repaying the loss from the winnings, he said, earns no discount.",
+   "visual": {
+    "type": "title",
+    "kicker": "Judge Kaplan's comparison (Reuters)",
+    "text": "Stolen money, bet in Las Vegas",
+    "sub": "Winning the bet earns no sentencing discount",
+    "src": "Reuters via ThePrint, 28 Mar 2024"
+   },
+   "src": "Reuters via ThePrint, 28 Mar 2024"
+  },
+  {
+   "say": "Chapter five. The money comes back.",
+   "visual": {
+    "type": "chapter",
+    "n": 5,
+    "text": "The money comes back",
+    "src": "FTX release, 7 Oct 2024"
+   },
+   "src": "FTX release, 7 Oct 2024",
+   "chapter": "The money comes back",
+   "pause": 0.3
+  },
+  {
+   "say": "In October twenty twenty-four, the Delaware bankruptcy court confirmed FTX's repayment plan, with between fourteen point seven and sixteen point five billion dollars to distribute.",
+   "visual": {
+    "type": "timeline",
+    "date": "7 Oct 2024",
+    "text": "Plan confirmed: $14.7bn to $16.5bn to distribute",
+    "src": "FTX release, 7 Oct 2024"
+   },
+   "src": "FTX release, 7 Oct 2024"
+  },
+  {
+   "say": "FTX said ninety-eight per cent of its creditors, by number, would receive about one hundred and nineteen per cent of their allowed claims.",
+   "visual": {
+    "type": "stats",
+    "title": "FTX's plan, Oct 2024",
+    "items": [
+     [
+      "98%",
+      "of creditors by number"
+     ],
+     [
+      "~119%",
+      "of their allowed claims"
+     ]
+    ],
+    "hi": 1,
+    "src": "FTX release, 7 Oct 2024"
+   },
+   "src": "FTX release, 7 Oct 2024"
+  },
+  {
+   "say": "Then came the payments. After the fourth round, in March twenty twenty-six, international customers were at ninety-six per cent. The fifth round, in July, took both customer classes to one hundred and five.",
+   "visual": {
+    "type": "bars",
+    "title": "Customer recovery, cumulative",
+    "items": [
+     [
+      "Dotcom customers, Mar 2026",
+      96,
+      "96%"
+     ],
+     [
+      "Dotcom customers, Jul 2026",
+      105,
+      "105%"
+     ],
+     [
+      "Convenience claims (Class 7)",
+      120,
+      "120%"
+     ]
+    ],
+    "hi": 1,
+    "src": "FTX Recovery Trust, 18 Mar 2026; FTX Recovery Trust, 17 Jul 2026"
+   },
+   "src": "FTX Recovery Trust, 18 Mar 2026; FTX Recovery Trust, 17 Jul 2026"
+  },
+  {
+   "say": "The Block reports nearly ten billion dollars has gone to creditors and other claimants since repayments began in twenty twenty-five.",
+   "visual": {
+    "type": "stat",
+    "value": "~$10bn",
+    "label": "paid to creditors and claimants since 2025",
+    "sub": "The Block, 17 Jul 2026",
+    "src": "The Block, 17 Jul 2026"
+   },
+   "src": "The Block, 17 Jul 2026"
+  },
+  {
+   "say": "So were customers made whole? That depends on what you count.",
+   "visual": {
+    "type": "title",
+    "kicker": "The catch",
+    "text": "Paid in dollars. Priced in 2022.",
+    "sub": "What a claim was worth was fixed on the petition date",
+    "src": "Bankr. D. Del., Dorsey J., 26 Jun 2024"
+   },
+   "src": "Bankr. D. Del., Dorsey J., 26 Jun 2024"
+  },
+  {
+   "say": "In a twenty twenty-four ruling, Judge John Dorsey wrote that claims must be valued as of the petition date, as if the bankruptcy had never occurred.",
+   "visual": {
+    "type": "quote",
+    "text": "the value of the claims must be determined as of the petition date as if the bankruptcy had never occurred",
+    "by": "Judge John T. Dorsey, 26 Jun 2024",
+    "src": "Bankr. D. Del., Dorsey J., 26 Jun 2024"
+   },
+   "src": "Bankr. D. Del., Dorsey J., 26 Jun 2024"
+  },
+  {
+   "say": "For FTX, that was the eleventh of November twenty twenty-two. Coins held that day were turned into a dollar figure at that day's price.",
+   "visual": {
+    "type": "list",
+    "title": "How a claim was counted",
+    "items": [
+     "Coins held on 11 Nov 2022",
+     "× that day's price (bitcoin: $16,871)",
+     "= a fixed dollar claim",
+     "Repaid against that dollar figure"
+    ],
+    "src": "Bankr. D. Del., Dorsey J., 26 Jun 2024; Protos, 1 Feb 2024"
+   },
+   "src": "Bankr. D. Del., Dorsey J., 26 Jun 2024; Protos, 1 Feb 2024"
+  },
+  {
+   "say": "As the crypto outlet Unchained put it, a creditor repaid at one hundred and five per cent has still missed most of the market's climb since.",
+   "visual": {
+    "type": "stats",
+    "title": "Two different numbers",
+    "items": [
+     [
+      "Fixed",
+      "dollar claim, Nov 2022 prices"
+     ],
+     [
+      "105%",
+      "of that figure repaid"
+     ]
+    ],
+    "hi": 1,
+    "src": "Unchained, 20 Jul 2026; FTX Recovery Trust, 17 Jul 2026"
+   },
+   "src": "Unchained, 20 Jul 2026; FTX Recovery Trust, 17 Jul 2026"
+  },
+  {
+   "say": "Chapter six. The appeal.",
+   "visual": {
+    "type": "chapter",
+    "n": 6,
+    "text": "The appeal",
+    "src": "2d Cir. opinion, 12 Jun 2026"
+   },
+   "src": "2d Cir. opinion, 12 Jun 2026",
+   "chapter": "The appeal",
+   "pause": 0.3
+  },
+  {
+   "say": "Bankman-Fried appealed. On the twelfth of June twenty twenty-six, a three-judge panel of the Second Circuit affirmed the conviction, the sentence and the forfeiture.",
+   "visual": {
+    "type": "list",
+    "title": "Second Circuit, No. 24-961",
+    "items": [
+     "Judges Parker, Lee and Kahn",
+     "Opinion by Judge Barrington D. Parker",
+     "Argued 4 Nov 2025, decided 12 Jun 2026",
+     "Conviction, sentence and $11bn forfeiture affirmed"
+    ],
+    "src": "2d Cir. opinion, 12 Jun 2026"
+   },
+   "src": "2d Cir. opinion, 12 Jun 2026"
+  },
+  {
+   "say": "One of his central complaints was evidence the jury never heard: that customers would be repaid, and that his investments later rose in value.",
+   "visual": {
+    "type": "title",
+    "kicker": "The argument on appeal",
+    "text": "They were going to be repaid (his argument)",
+    "sub": "Evidence the trial judge excluded",
+    "src": "2d Cir. opinion, 12 Jun 2026"
+   },
+   "src": "2d Cir. opinion, 12 Jun 2026"
+  },
+  {
+   "say": "Here is the sentence we promised. FTX customers were defrauded as soon as Bankman-Fried transferred their money to Alameda.",
+   "visual": {
+    "type": "quote",
+    "text": "FTX customers were defrauded as soon as Bankman-Fried transferred their money to Alameda",
+    "by": "US Court of Appeals, Second Circuit, 12 Jun 2026",
+    "src": "2d Cir. opinion, 12 Jun 2026"
+   },
+   "src": "2d Cir. opinion, 12 Jun 2026"
+  },
+  {
+   "say": "The trial judge had ruled it immaterial as a matter of law whether he intended to repay. The appeals court agreed, and said the law covers even temporary misappropriation.",
+   "visual": {
+    "type": "document",
+    "header": "2d Cir. · No. 24-961-cr",
+    "title": "Why repayment did not matter",
+    "lines": [
+     "!Trial judge: intent to repay 'immaterial as a matter of law' (upheld)",
+     "The statute encompasses temporary misappropriation"
+    ],
+    "src": "2d Cir. opinion, 12 Jun 2026"
+   },
+   "src": "2d Cir. opinion, 12 Jun 2026"
+  },
+  {
+   "say": "Whether the assets he bought appreciated in value, the judges wrote, is irrelevant as to whether he committed fraud.",
+   "visual": {
+    "type": "stat",
+    "value": "Irrelevant",
+    "label": "whether the assets he bought rose in value, the court held",
+    "src": "2d Cir. opinion, 12 Jun 2026"
+   },
+   "src": "2d Cir. opinion, 12 Jun 2026"
+  },
+  {
+   "say": "And they described him using FTX as his own personal piggy bank, spending customer funds on real estate, political contributions and investments.",
+   "visual": {
+    "type": "quote",
+    "text": "using FTX as his own personal piggy bank",
+    "by": "US Court of Appeals, Second Circuit, 12 Jun 2026",
+    "src": "2d Cir. opinion, 12 Jun 2026"
+   },
+   "src": "2d Cir. opinion, 12 Jun 2026"
+  },
+  {
+   "say": "It is not over. On the tenth of September, he asked the US Supreme Court to hear his case.",
+   "visual": {
+    "type": "timeline",
+    "date": "10 Sep 2026",
+    "text": "Petition to the US Supreme Court, No. 26-349",
+    "src": "US Supreme Court docket 26-349"
+   },
+   "src": "US Supreme Court docket 26-349"
+  },
+  {
+   "say": "Five amicus briefs followed in October, one from a group of bankruptcy law professors. The government's response is due on the sixteenth of December. The justices have not yet decided whether to take the case.",
+   "visual": {
+    "type": "list",
+    "title": "Supreme Court docket 26-349",
+    "items": [
+     "10 Sep: petition filed",
+     "15 Oct: five amicus briefs, incl. bankruptcy law professors",
+     "Government response due 16 Dec 2026",
+     "Not yet decided whether to hear it"
+    ],
+    "src": "US Supreme Court docket 26-349"
+   },
+   "src": "US Supreme Court docket 26-349"
+  },
+  {
+   "say": "Here is what we take from the paperwork. This part is our analysis.",
+   "visual": {
+    "type": "chapter",
+    "n": 7,
+    "text": "Our analysis"
+   },
+   "src": "",
+   "chapter": "Our analysis",
+   "pause": 0.3
+  },
+  {
+   "say": "FTX has been judged on two different ledgers.",
+   "visual": {
+    "type": "title",
+    "kicker": "Our analysis",
+    "text": "Two ledgers",
+    "sub": "One criminal, one bankruptcy",
+    "src": "Our analysis"
+   },
+   "src": "Our analysis"
+  },
+  {
+   "say": "The criminal ledger asks whether money was taken by deception. The courts said yes, at the moment it moved.",
+   "visual": {
+    "type": "stats",
+    "title": "Our analysis",
+    "items": [
+     [
+      "Criminal",
+      "judged when the money moved"
+     ],
+     [
+      "Bankruptcy",
+      "dollars owed on 11 Nov 2022"
+     ]
+    ],
+    "hi": 0,
+    "src": "2d Cir. opinion, 12 Jun 2026; Bankr. D. Del., Dorsey J., 26 Jun 2024; our analysis"
+   },
+   "src": "2d Cir. opinion, 12 Jun 2026; Bankr. D. Del., Dorsey J., 26 Jun 2024; our analysis"
+  },
+  {
+   "say": "The bankruptcy ledger asks what each customer was owed, in dollars, on the day it stopped. That is the figure being repaid at one hundred and five per cent.",
+   "visual": {
+    "type": "bars",
+    "title": "Our analysis: what '105%' measures",
+    "items": [
+     [
+      "Dollar claim, Nov 2022",
+      100,
+      "100%"
+     ],
+     [
+      "Repaid by Jul 2026",
+      105,
+      "105%"
+     ]
+    ],
+    "hi": 1,
+    "src": "FTX Recovery Trust, 17 Jul 2026; our analysis"
+   },
+   "src": "FTX Recovery Trust, 17 Jul 2026; our analysis"
+  },
+  {
+   "say": "Both numbers are true. Neither is the same as the coins customers believed were sitting in their accounts.",
+   "visual": {
+    "type": "title",
+    "kicker": "Our analysis",
+    "text": "Both numbers are true.",
+    "sub": "Neither is the coins customers believed they held",
+    "src": "Our analysis"
+   },
+   "src": "Our analysis"
+  },
+  {
+   "say": "The useful lesson: before you leave money on any platform, ask who else can draw on it, whether customer assets are kept separate, and who checks.",
+   "visual": {
+    "type": "list",
+    "title": "Before you deposit anywhere",
+    "items": [
+     "Who else can draw on customer money?",
+     "Are customer assets kept separate?",
+     "Who independently checks?"
+    ],
+    "src": "Our analysis"
+   },
+   "src": "Our analysis"
+  },
+  {
+   "say": "FTX's run took nine days. Silicon Valley Bank's customers withdrew more than forty billion dollars in a single day.",
+   "visual": {
+    "type": "title",
+    "kicker": "Related case file",
+    "text": "Silicon Valley Bank",
+    "sub": "$40 billion withdrawn in one day",
+    "stamp": "EP 002",
+    "src": "Filed Under Failure, episode 002 (fact-checked)"
+   },
+   "src": "Filed Under Failure, episode 002 (fact-checked)"
+  },
+  {
+   "say": "Next on Filed Under Failure: Northern Rock and Silicon Valley Bank, two bank runs sixteen years apart. Subscribe so the next case file finds you.",
+   "visual": {
+    "type": "title",
+    "kicker": "Next case file",
+    "text": "Northern Rock vs SVB",
+    "sub": "Two bank runs, sixteen years apart · Subscribe for the next file",
+    "src": "Filed Under Failure"
+   },
+   "src": "Filed Under Failure"
+  }
+ ],
+ "shorts": [
+  {
+   "id": "a",
+   "title": "FTX customers got 105% of their claims back. Its founder still got 25 years. #Shorts",
+   "hook": "105% back. 25 years.",
+   "blurb": "FTX customers have been repaid 105% of their claims (FTX Recovery Trust, after the July 2026 distribution), yet Sam Bankman-Fried is serving 25 years. The Second Circuit said customers were defrauded as soon as their money went to Alameda, and upheld the trial judge's ruling that intent to repay was immaterial as a matter of law.",
+   "scenes": [
+    {
+     "say": "FTX customers have now been repaid one hundred and five per cent of their claims. Its founder is still serving twenty-five years.",
+     "caption": "105% repaid. 25 years.",
+     "visual": {
+      "type": "stat",
+      "value": "105%",
+      "label": "repaid to FTX customers after the July 2026 distribution",
+      "red": true,
+      "src": "FTX Recovery Trust, 17 Jul 2026"
+     },
+     "pause": 0.25
+    },
+    {
+     "say": "His defence argued customers had lost no money. Reuters reported the sentencing judge called that misleading, logically flawed and speculative.",
+     "caption": "\"Misleading\" — the judge",
+     "visual": {
+      "type": "quote",
+      "text": "…misleading, it is logically flawed, it is speculative.",
+      "by": "Judge Lewis A. Kaplan, as reported by Reuters",
+      "src": "Reuters via ThePrint, 28 Mar 2024"
+     },
+     "pause": 0.25
+    },
+    {
+     "say": "In June twenty twenty-six, an appeals court explained why repayment didn't change anything.",
+     "caption": "The appeals court, June 2026",
+     "visual": {
+      "type": "timeline",
+      "date": "12 Jun 2026",
+      "text": "Second Circuit upholds conviction and sentence",
+      "src": "2d Cir. opinion, 12 Jun 2026"
+     },
+     "pause": 0.25
+    },
+    {
+     "say": "It said FTX customers were defrauded as soon as Bankman-Fried transferred their money to Alameda. And it upheld the trial judge's ruling that intent to repay was immaterial as a matter of law.",
+     "caption": "Defrauded when the money moved",
+     "visual": {
+      "type": "document",
+      "header": "2d Cir. · No. 24-961-cr",
+      "title": "Why repayment did not matter",
+      "lines": [
+       "!Defrauded as soon as the money was transferred to Alameda",
+       "Intent to repay: 'immaterial as a matter of law' (trial ruling, upheld)"
+      ],
+      "stamp": "AFFIRMED",
+      "src": "2d Cir. opinion, 12 Jun 2026"
+     },
+     "pause": 0.25
+    },
+    {
+     "say": "The full story is on our channel.",
+     "caption": "Full story on the channel",
+     "visual": {
+      "type": "stats",
+      "title": "FTX",
+      "items": [
+       [
+        "105%",
+        "repaid"
+       ],
+       [
+        "25 yrs",
+        "in prison"
+       ]
+      ],
+      "hi": 1,
+      "src": "FTX Recovery Trust, 17 Jul 2026; US Attorney SDNY, 28 Mar 2024"
+     },
+     "pause": 0.25
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "title": "FTX's code gave one customer a $65 billion line of credit. Its founders owned that customer. #Shorts",
+   "hook": "$65bn. In the code.",
+   "blurb": "According to Gary Wang's trial testimony, as summarised by the Second Circuit, special privileges in FTX's code gave Alameda Research a $65 billion line of credit. The court says the arrangement let Alameda keep negative balances. Alameda was co-owned by FTX's founders.",
+   "scenes": [
+    {
+     "say": "FTX's code gave one customer a sixty-five billion dollar line of credit, according to trial testimony summarised by the appeals court.",
+     "caption": "$65bn line of credit",
+     "visual": {
+      "type": "stat",
+      "value": "$65bn",
+      "label": "line of credit Alameda could draw from FTX",
+      "red": true,
+      "src": "2d Cir. opinion, 12 Jun 2026"
+     },
+     "pause": 0.25
+    },
+    {
+     "say": "That customer was Alameda Research, a trading firm co-owned by Sam Bankman-Fried and FTX's co-founder, Gary Wang.",
+     "caption": "Owned by FTX's founders",
+     "visual": {
+      "type": "list",
+      "title": "Alameda Research",
+      "items": [
+       "FTX's largest customer",
+       "Co-owned by Bankman-Fried and Gary Wang"
+      ],
+      "src": "2d Cir. opinion, 12 Jun 2026"
+     },
+     "pause": 0.25
+    },
+    {
+     "say": "Alameda was allowed to keep negative balances on FTX's books. The SEC alleged it was also exempt from key risk measures.",
+     "caption": "Allowed below zero",
+     "visual": {
+      "type": "document",
+      "header": "2d Cir. opinion; SEC, 13 Dec 2022",
+      "title": "Special privileges",
+      "lines": [
+       "!Negative balances allowed on FTX's books",
+       "Exempt from key risk measures (SEC allegation)"
+      ],
+      "src": "2d Cir. opinion, 12 Jun 2026; SEC release 2022-219"
+     },
+     "pause": 0.25
+    },
+    {
+     "say": "By October twenty twenty-two, Alameda's negative balance on FTX was eight billion dollars, a figure Bankman-Fried testified he was surprised to learn of.",
+     "caption": "$8bn below zero",
+     "visual": {
+      "type": "stat",
+      "value": "$8bn",
+      "label": "Alameda's negative balance on FTX, October 2022",
+      "red": true,
+      "src": "2d Cir. opinion, 12 Jun 2026"
+     },
+     "pause": 0.25
+    },
+    {
+     "say": "Within weeks, FTX could not meet withdrawals and filed for bankruptcy. The full story is on our channel.",
+     "caption": "Bankrupt, 11 Nov 2022",
+     "visual": {
+      "type": "timeline",
+      "date": "11 Nov 2022",
+      "text": "FTX files for bankruptcy",
+      "src": "2d Cir. opinion, 12 Jun 2026"
+     },
+     "pause": 0.25
+    }
+   ]
+  },
+  {
+   "id": "c",
+   "title": "FTX payments were approved with emojis. It's in a sworn bankruptcy declaration. #Shorts",
+   "hook": "Approved with emojis.",
+   "blurb": "John J. Ray III, who took over FTX on 11 November 2022, said in his sworn first-day declaration that disbursements were approved by responding with personalised emojis, that there was no accurate list of bank accounts, and that corporate funds bought homes for employees and advisors.",
+   "scenes": [
+    {
+     "say": "Some FTX payments were approved by responding with personalised emojis. That's from a sworn court declaration.",
+     "caption": "Approved with emojis",
+     "visual": {
+      "type": "stat",
+      "value": "Emojis",
+      "label": "how some FTX disbursements were approved",
+      "red": true,
+      "src": "Ray declaration, Dkt 24, 17 Nov 2022"
+     },
+     "pause": 0.25
+    },
+    {
+     "say": "It was filed by John J. Ray the third, who took over FTX on the day it filed for bankruptcy.",
+     "caption": "The new CEO's declaration",
+     "visual": {
+      "type": "list",
+      "title": "John J. Ray III",
+      "items": [
+       "FTX chief executive from 11 Nov 2022",
+       "Worked on the Enron clean-up (Axios)"
+      ],
+      "src": "Ray declaration, Dkt 24, 17 Nov 2022; Axios, 17 Nov 2022"
+     },
+     "pause": 0.25
+    },
+    {
+     "say": "He wrote: never in my career have I seen such a complete failure of corporate controls.",
+     "caption": "\"Never in my career\"",
+     "visual": {
+      "type": "quote",
+      "text": "Never in my career have I seen such a complete failure of corporate controls …",
+      "by": "John J. Ray III, declaration, 17 Nov 2022",
+      "src": "Ray declaration, Dkt 24, 17 Nov 2022"
+     },
+     "pause": 0.25
+    },
+    {
+     "say": "He described no accurate list of bank accounts, no centralised control of cash, and company money spent on homes for employees and advisors.",
+     "caption": "No list of bank accounts",
+     "visual": {
+      "type": "document",
+      "header": "Ray declaration · Dkt 24",
+      "title": "First-day findings",
+      "lines": [
+       "No accurate list of bank accounts and signatories",
+       "!No centralised control of cash",
+       "Corporate funds used to buy homes"
+      ],
+      "src": "Ray declaration, Dkt 24, 17 Nov 2022"
+     },
+     "pause": 0.25
+    },
+    {
+     "say": "Bankman-Fried, he said, used chat apps set to auto-delete, and encouraged employees to do the same. The full story is on our channel.",
+     "caption": "Chats set to auto-delete",
+     "visual": {
+      "type": "timeline",
+      "date": "17 Nov 2022",
+      "text": "Ray declaration filed, six days after bankruptcy",
+      "src": "Ray declaration, Dkt 24, 17 Nov 2022"
+     },
+     "pause": 0.25
+    }
+   ]
+  },
+  {
+   "id": "d",
+   "title": "FTX repaid customers 105%. But their bitcoin was priced at $16,871. #Shorts",
+   "hook": "Paid back in 2022 dollars.",
+   "blurb": "FTX customers have been repaid 105% of their claims, but claims were valued in dollars on the 11 November 2022 petition date, when bitcoin was worth $16,871. Judge John Dorsey wrote that claims must be valued as of the petition date as if the bankruptcy had never occurred.",
+   "scenes": [
+    {
+     "say": "FTX customers got back one hundred and five per cent, but of a dollar figure fixed in November twenty twenty-two.",
+     "caption": "105% of a 2022 figure",
+     "visual": {
+      "type": "stat",
+      "value": "105%",
+      "label": "of a dollar claim fixed in November 2022",
+      "red": true,
+      "src": "FTX Recovery Trust, 17 Jul 2026"
+     },
+     "pause": 0.25
+    },
+    {
+     "say": "The bankruptcy judge wrote that claims must be valued as of the petition date, as if the bankruptcy had never occurred.",
+     "caption": "Valued on the petition date",
+     "visual": {
+      "type": "quote",
+      "text": "the value of the claims must be determined as of the petition date as if the bankruptcy had never occurred",
+      "by": "Judge John T. Dorsey, 26 Jun 2024",
+      "src": "Bankr. D. Del., 26 Jun 2024"
+     },
+     "pause": 0.25
+    },
+    {
+     "say": "FTX filed on the eleventh of November twenty twenty-two. That day, one bitcoin was worth sixteen thousand, eight hundred and seventy-one dollars.",
+     "caption": "Bitcoin: $16,871",
+     "visual": {
+      "type": "stat",
+      "value": "$16,871",
+      "label": "bitcoin price on 11 Nov 2022, used for FTX claims",
+      "src": "Protos, 1 Feb 2024"
+     },
+     "pause": 0.25
+    },
+    {
+     "say": "As the crypto outlet Unchained put it, a creditor repaid at one hundred and five per cent has still missed most of the market's climb since.",
+     "caption": "Missed the climb",
+     "visual": {
+      "type": "stats",
+      "title": "Two different numbers",
+      "items": [
+       [
+        "Fixed",
+        "dollar claim, Nov 2022"
+       ],
+       [
+        "105%",
+        "of that repaid"
+       ]
+      ],
+      "hi": 1,
+      "src": "Unchained, 20 Jul 2026"
+     },
+     "pause": 0.25
+    },
+    {
+     "say": "The full story is on our channel.",
+     "caption": "Full story on the channel",
+     "visual": {
+      "type": "timeline",
+      "date": "Jul 2026",
+      "text": "Fifth distribution: 105% cumulative",
+      "src": "FTX Recovery Trust, 17 Jul 2026"
+     },
+     "pause": 0.25
+    }
+   ]
+  }
+ ]
+}
