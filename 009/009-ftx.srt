@@ -1,0 +1,599 @@
+1
+00:00:00,150 --> 00:00:04,630
+FTX customers have been paid back one hundred and five per cent.
+
+2
+00:00:04,983 --> 00:00:08,140
+Its founder is serving twenty-five years.
+
+3
+00:00:08,483 --> 00:00:10,936
+So why didn't the repayment matter?
+
+4
+00:00:11,283 --> 00:00:13,971
+An appeals court answered in June.
+
+5
+00:00:14,316 --> 00:00:16,492
+We'll read you its key sentence.
+
+6
+00:00:16,849 --> 00:00:20,945
+The short answer: the fraud was complete when the money moved.
+
+7
+00:00:21,349 --> 00:00:25,147
+Believing customers would be repaid was no defence.
+
+8
+00:00:25,549 --> 00:00:29,153
+And that hundred and five per cent was counted at a
+
+9
+00:00:29,153 --> 00:00:34,311
+bitcoin price of sixteen thousand, eight hundred and seventy-one dollars.
+
+10
+00:00:34,983 --> 00:00:38,780
+The price on the day FTX filed for bankruptcy.
+
+11
+00:00:39,216 --> 00:00:43,767
+This is FTX from the court record: the code, the run, the trial,
+
+12
+00:00:43,767 --> 00:00:48,532
+the repayments, and a petition now waiting at the US Supreme Court.
+
+13
+00:00:49,216 --> 00:00:52,309
+Where something is only alleged, we'll say so.
+
+14
+00:00:52,916 --> 00:00:53,850
+Chapter one.
+
+15
+00:00:53,850 --> 00:00:55,796
+Two companies, one owner.
+
+16
+00:00:56,250 --> 00:00:58,318
+FTX was a crypto exchange.
+
+17
+00:00:58,318 --> 00:01:01,739
+Sam Bankman-Fried ran it as chief executive
+
+18
+00:01:01,739 --> 00:01:04,682
+from its founding in twenty nineteen.
+
+19
+00:01:05,350 --> 00:01:10,218
+He also controlled a trading firm, Alameda Research, founded in
+
+20
+00:01:10,218 --> 00:01:15,086
+twenty seventeen and co-owned with FTX's co-founder, Gary Wang.
+
+21
+00:01:15,750 --> 00:01:19,213
+The appeals court describes Alameda as FTX's
+
+22
+00:01:19,213 --> 00:01:22,519
+largest customer and primary market maker.
+
+23
+00:01:23,183 --> 00:01:27,543
+So the people who ran the exchange also owned its biggest trader.
+
+24
+00:01:27,543 --> 00:01:29,690
+That is where this story starts.
+
+25
+00:01:30,283 --> 00:01:34,169
+At trial, Gary Wang described special privileges
+
+26
+00:01:34,169 --> 00:01:36,922
+built into FTX's code for Alameda.
+
+27
+00:01:37,616 --> 00:01:43,024
+According to that testimony, as the court summarises it, those privileges gave
+
+28
+00:01:43,024 --> 00:01:47,808
+Alameda a sixty-five billion dollar line of credit from the exchange.
+
+29
+00:01:48,483 --> 00:01:51,932
+The SEC alleged Alameda was also exempted
+
+30
+00:01:51,932 --> 00:01:55,801
+from certain key FTX risk mitigation measures.
+
+31
+00:01:56,483 --> 00:02:02,351
+After the verdict, prosecutors said he directed co-conspirators to alter FTX's
+
+32
+00:02:02,351 --> 00:02:07,693
+code so Alameda could withdraw effectively unlimited amounts of crypto.
+
+33
+00:02:08,383 --> 00:02:09,407
+Chapter two.
+
+34
+00:02:09,407 --> 00:02:10,431
+The promise.
+
+35
+00:02:10,883 --> 00:02:15,255
+Since at least May twenty nineteen, the SEC said, FTX raised
+
+36
+00:02:15,255 --> 00:02:19,919
+more than one point eight billion dollars from equity investors.
+
+37
+00:02:20,583 --> 00:02:24,852
+The SEC's complaint says Bankman-Fried promoted FTX as
+
+38
+00:02:24,852 --> 00:02:29,201
+a safe, responsible crypto asset trading platform, with
+
+39
+00:02:29,201 --> 00:02:34,419
+sophisticated, automated risk measures to protect customer assets.
+
+40
+00:02:35,183 --> 00:02:38,207
+Behind that, the complaint alleged, was an
+
+41
+00:02:38,207 --> 00:02:42,023
+undisclosed diversion of customers' funds to Alameda.
+
+42
+00:02:42,683 --> 00:02:47,738
+The SEC's chair, Gary Gensler, said: we allege that Sam Bankman-Fried
+
+43
+00:02:47,738 --> 00:02:51,548
+built a house of cards on a foundation of deception.
+
+44
+00:02:52,216 --> 00:02:54,311
+Those were civil allegations.
+
+45
+00:02:54,311 --> 00:02:57,635
+The criminal findings came later, from a jury.
+
+46
+00:02:58,250 --> 00:02:59,403
+Chapter three.
+
+47
+00:02:59,403 --> 00:03:01,215
+Nine days in November.
+
+48
+00:03:01,650 --> 00:03:05,215
+On the second of November twenty twenty-two, a crypto
+
+49
+00:03:05,215 --> 00:03:09,049
+news site published a version of Alameda's balance sheet.
+
+50
+00:03:09,716 --> 00:03:15,327
+The appeals court says that triggered widespread customer withdrawals from FTX.
+
+51
+00:03:15,916 --> 00:03:19,169
+On the eleventh of November, Bankman-Fried was
+
+52
+00:03:19,169 --> 00:03:21,855
+replaced and FTX filed for bankruptcy.
+
+53
+00:03:21,855 --> 00:03:25,744
+It could no longer meet customers' withdrawal requests.
+
+54
+00:03:26,416 --> 00:03:31,543
+At his trial, Bankman-Fried testified that he was surprised to learn of
+
+55
+00:03:31,543 --> 00:03:37,608
+Alameda's eight billion dollar negative balance on FTX in October twenty twenty-two.
+
+56
+00:03:38,283 --> 00:03:40,780
+The new chief executive was John J.
+
+57
+00:03:40,780 --> 00:03:44,704
+Ray the third, who had worked on the clean-up of Enron.
+
+58
+00:03:45,316 --> 00:03:48,584
+Six days later he filed a sworn declaration.
+
+59
+00:03:48,584 --> 00:03:51,183
+He wrote: never in my career have I
+
+60
+00:03:51,183 --> 00:03:54,970
+seen such a complete failure of corporate controls.
+
+61
+00:03:55,650 --> 00:04:00,897
+He described the absence of an accurate list of bank accounts and signatories,
+
+62
+00:04:00,897 --> 00:04:05,204
+and said the group did not keep centralised control of its cash.
+
+63
+00:04:05,883 --> 00:04:09,166
+Corporate money, he said, had bought homes and
+
+64
+00:04:09,166 --> 00:04:12,592
+other personal items for employees and advisors.
+
+65
+00:04:12,592 --> 00:04:17,374
+Some payments were approved by responding with personalised emojis.
+
+66
+00:04:18,049 --> 00:04:23,212
+And Bankman-Fried, he said, used messaging apps set to auto-delete after a
+
+67
+00:04:23,212 --> 00:04:27,537
+short period of time, and encouraged employees to do the same.
+
+68
+00:04:28,216 --> 00:04:29,281
+Chapter four.
+
+69
+00:04:29,281 --> 00:04:30,264
+The verdict.
+
+70
+00:04:30,716 --> 00:04:33,443
+The trial in Manhattan ran four weeks.
+
+71
+00:04:33,443 --> 00:04:39,400
+Three of his inner circle testified under cooperation agreements: Caroline Ellison,
+
+72
+00:04:39,400 --> 00:04:43,850
+Gary Wang, and FTX's former head of engineering, Nishad Singh.
+
+73
+00:04:44,516 --> 00:04:48,992
+On the second of November twenty twenty-three, the jury convicted
+
+74
+00:04:48,992 --> 00:04:52,298
+him on all seven counts of fraud and conspiracy.
+
+75
+00:04:52,983 --> 00:04:57,780
+The US Attorney, Damian Williams, said the industry might be new, but,
+
+76
+00:04:57,780 --> 00:05:01,618
+in his words, this kind of corruption is as old as time.
+
+77
+00:05:02,283 --> 00:05:07,765
+On the twenty-eighth of March twenty twenty-four, Judge Lewis Kaplan sentenced him
+
+78
+00:05:07,765 --> 00:05:12,712
+to twenty-five years, with forfeiture of more than eleven billion dollars.
+
+79
+00:05:13,383 --> 00:05:17,696
+Prosecutors put the losses at more than eight billion dollars
+
+80
+00:05:17,696 --> 00:05:22,222
+of customers' money, one point seven billion from FTX investors,
+
+81
+00:05:22,222 --> 00:05:25,828
+and one point three billion from Alameda's lenders.
+
+82
+00:05:26,583 --> 00:05:29,989
+The defence argued customers had lost no money.
+
+83
+00:05:29,989 --> 00:05:32,743
+Reuters reported that the judge called
+
+84
+00:05:32,743 --> 00:05:36,366
+that misleading, logically flawed and speculative.
+
+85
+00:05:37,049 --> 00:05:41,534
+He compared it to a thief who takes his loot to Las Vegas and wins.
+
+86
+00:05:41,534 --> 00:05:45,817
+Repaying the loss from the winnings, he said, earns no discount.
+
+87
+00:05:46,416 --> 00:05:47,403
+Chapter five.
+
+88
+00:05:47,403 --> 00:05:48,997
+The money comes back.
+
+89
+00:05:49,449 --> 00:05:54,402
+In October twenty twenty-four, the Delaware bankruptcy court confirmed
+
+90
+00:05:54,402 --> 00:05:58,577
+FTX's repayment plan, with between fourteen point seven and
+
+91
+00:05:58,577 --> 00:06:02,044
+sixteen point five billion dollars to distribute.
+
+92
+00:06:02,783 --> 00:06:07,714
+FTX said ninety-eight per cent of its creditors, by number, would receive
+
+93
+00:06:07,714 --> 00:06:12,038
+about one hundred and nineteen per cent of their allowed claims.
+
+94
+00:06:12,716 --> 00:06:14,325
+Then came the payments.
+
+95
+00:06:14,325 --> 00:06:17,893
+After the fourth round, in March twenty twenty-six,
+
+96
+00:06:17,893 --> 00:06:21,531
+international customers were at ninety-six per cent.
+
+97
+00:06:21,531 --> 00:06:26,918
+The fifth round, in July, took both customer classes to one hundred and five.
+
+98
+00:06:27,583 --> 00:06:31,312
+The Block reports nearly ten billion dollars has gone to
+
+99
+00:06:31,312 --> 00:06:36,306
+creditors and other claimants since repayments began in twenty twenty-five.
+
+100
+00:06:36,983 --> 00:06:38,818
+So were customers made whole?
+
+101
+00:06:38,818 --> 00:06:40,780
+That depends on what you count.
+
+102
+00:06:41,383 --> 00:06:46,550
+In a twenty twenty-four ruling, Judge John Dorsey wrote that claims must be
+
+103
+00:06:46,550 --> 00:06:51,511
+valued as of the petition date, as if the bankruptcy had never occurred.
+
+104
+00:06:52,183 --> 00:06:56,417
+For FTX, that was the eleventh of November twenty twenty-two.
+
+105
+00:06:56,417 --> 00:07:01,484
+Coins held that day were turned into a dollar figure at that day's price.
+
+106
+00:07:02,083 --> 00:07:06,778
+As the crypto outlet Unchained put it, a creditor repaid at one hundred
+
+107
+00:07:06,778 --> 00:07:11,275
+and five per cent has still missed most of the market's climb since.
+
+108
+00:07:11,949 --> 00:07:13,029
+Chapter six.
+
+109
+00:07:13,029 --> 00:07:14,019
+The appeal.
+
+110
+00:07:14,483 --> 00:07:16,048
+Bankman-Fried appealed.
+
+111
+00:07:16,048 --> 00:07:20,402
+On the twelfth of June twenty twenty-six, a three-judge panel of
+
+112
+00:07:20,402 --> 00:07:25,572
+the Second Circuit affirmed the conviction, the sentence and the forfeiture.
+
+113
+00:07:26,249 --> 00:07:30,956
+One of his central complaints was evidence the jury never heard: that
+
+114
+00:07:30,956 --> 00:07:35,867
+customers would be repaid, and that his investments later rose in value.
+
+115
+00:07:36,549 --> 00:07:38,990
+Here is the sentence we promised.
+
+116
+00:07:38,990 --> 00:07:41,875
+FTX customers were defrauded as soon as
+
+117
+00:07:41,875 --> 00:07:45,500
+Bankman-Fried transferred their money to Alameda.
+
+118
+00:07:46,183 --> 00:07:49,303
+The trial judge had ruled it immaterial as a
+
+119
+00:07:49,303 --> 00:07:52,351
+matter of law whether he intended to repay.
+
+120
+00:07:52,351 --> 00:07:54,762
+The appeals court agreed, and said
+
+121
+00:07:54,762 --> 00:07:58,094
+the law covers even temporary misappropriation.
+
+122
+00:07:58,849 --> 00:08:02,955
+Whether the assets he bought appreciated in value, the judges
+
+123
+00:08:02,955 --> 00:08:06,590
+wrote, is irrelevant as to whether he committed fraud.
+
+124
+00:08:07,249 --> 00:08:11,576
+And they described him using FTX as his own personal piggy
+
+125
+00:08:11,576 --> 00:08:17,991
+bank, spending customer funds on real estate, political contributions and investments.
+
+126
+00:08:18,649 --> 00:08:19,663
+It is not over.
+
+127
+00:08:19,663 --> 00:08:24,665
+On the tenth of September, he asked the US Supreme Court to hear his case.
+
+128
+00:08:25,249 --> 00:08:28,290
+Five amicus briefs followed in October, one
+
+129
+00:08:28,290 --> 00:08:31,259
+from a group of bankruptcy law professors.
+
+130
+00:08:31,259 --> 00:08:35,642
+The government's response is due on the sixteenth of December.
+
+131
+00:08:35,642 --> 00:08:39,813
+The justices have not yet decided whether to take the case.
+
+132
+00:08:40,483 --> 00:08:43,327
+Here is what we take from the paperwork.
+
+133
+00:08:43,327 --> 00:08:45,176
+This part is our analysis.
+
+134
+00:08:45,616 --> 00:08:49,328
+FTX has been judged on two different ledgers.
+
+135
+00:08:49,916 --> 00:08:54,221
+The criminal ledger asks whether money was taken by deception.
+
+136
+00:08:54,221 --> 00:08:57,276
+The courts said yes, at the moment it moved.
+
+137
+00:08:57,883 --> 00:09:01,100
+The bankruptcy ledger asks what each customer was
+
+138
+00:09:01,100 --> 00:09:03,726
+owed, in dollars, on the day it stopped.
+
+139
+00:09:03,726 --> 00:09:07,993
+That is the figure being repaid at one hundred and five per cent.
+
+140
+00:09:08,649 --> 00:09:10,125
+Both numbers are true.
+
+141
+00:09:10,125 --> 00:09:12,270
+Neither is the same as the coins
+
+142
+00:09:12,270 --> 00:09:15,622
+customers believed were sitting in their accounts.
+
+143
+00:09:16,283 --> 00:09:20,682
+The useful lesson: before you leave money on any platform, ask who else
+
+144
+00:09:20,682 --> 00:09:25,266
+can draw on it, whether customer assets are kept separate, and who checks.
+
+145
+00:09:25,916 --> 00:09:27,825
+FTX's run took nine days.
+
+146
+00:09:27,825 --> 00:09:31,642
+Silicon Valley Bank's customers withdrew more than
+
+147
+00:09:31,642 --> 00:09:34,544
+forty billion dollars in a single day.
+
+148
+00:09:35,216 --> 00:09:39,008
+Next on Filed Under Failure: Northern Rock and Silicon
+
+149
+00:09:39,008 --> 00:09:42,309
+Valley Bank, two bank runs sixteen years apart.
+
+150
+00:09:42,309 --> 00:09:45,258
+Subscribe so the next case file finds you.

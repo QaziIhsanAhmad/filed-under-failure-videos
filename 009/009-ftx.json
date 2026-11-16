@@ -1089,7 +1089,7 @@
    "blurb": "According to Gary Wang's trial testimony, as summarised by the Second Circuit, special privileges in FTX's code gave Alameda Research a $65 billion line of credit. The court says the arrangement let Alameda keep negative balances. Alameda was co-owned by FTX's founders.",
    "scenes": [
     {
-     "say": "FTX's code gave one customer a sixty-five billion dollar line of credit, according to trial testimony summarised by the appeals court.",
+     "say": "FTX's code gave one customer a sixty-five billion dollar line of credit, according to trial testimony.",
      "caption": "$65bn line of credit",
      "visual": {
       "type": "stat",
@@ -1101,7 +1101,7 @@
      "pause": 0.25
     },
     {
-     "say": "That customer was Alameda Research, a trading firm co-owned by Sam Bankman-Fried and FTX's co-founder, Gary Wang.",
+     "say": "That customer was Alameda Research, co-owned by Sam Bankman-Fried and FTX's co-founder, Gary Wang.",
      "caption": "Owned by FTX's founders",
      "visual": {
       "type": "list",
@@ -1130,7 +1130,7 @@
      "pause": 0.25
     },
     {
-     "say": "By October twenty twenty-two, Alameda's negative balance on FTX was eight billion dollars, a figure Bankman-Fried testified he was surprised to learn of.",
+     "say": "By October twenty twenty-two, Alameda's negative balance on FTX was eight billion dollars. Bankman-Fried testified he was surprised by it.",
      "caption": "$8bn below zero",
      "visual": {
       "type": "stat",
