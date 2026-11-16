@@ -1,4 +1,60 @@
 {
- "generated": "2026-11-16T08:05:44.665346+05:00",
- "items": []
+ "generated": "2026-11-16T10:26:28.606700+05:00",
+ "items": [
+  {
+   "id": "009-a-a0",
+   "row": "009-a",
+   "kind": "video",
+   "file": "009/009-ftx-short-a.mp4",
+   "ctype": "video/mp4",
+   "size": 5439611,
+   "meta": "{\"snippet\": {\"title\": \"FTX customers got 105% of their claims back. Its founder still got 25 years. #Shorts\", \"description\": \"FTX customers have been repaid 105% of their claims (FTX Recovery Trust, after the July 2026 distribution), yet Sam Bankman-Fried is serving 25 years. The Second Circuit said customers were defrauded as soon as their money went to Alameda, and upheld the trial judge's ruling that intent to repay was immaterial as a matter of law.\\n\\nFull episode: \\\"FTX: Customers Got 105% Back. Why He Still Got 25 Years\\\" on Filed Under Failure.\\nSources: Second Circuit Court of Appeals, United States v. Bankman-Fried, No. 24-961-cr, opinion (12 Jun 2026); US Supreme Court, docket No. 26-349, Bankman-Fried v. United States; US Attorney's Office SDNY, 'Samuel Bankman-Fried Sentenced To 25 Years In Prison' (28 Mar 2024) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #FTX #SamBankman-Fried #FTXcollapse\", \"tags\": [\"FTX\", \"Sam Bankman-Fried\", \"FTX collapse\", \"Alameda Research\", \"crypto fraud\", \"FTX repayment\", \"business documentary\", \"what went wrong\"], \"categoryId\": \"27\", \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}, \"status\": {\"selfDeclaredMadeForKids\": false, \"containsSyntheticMedia\": false, \"privacyStatus\": \"private\", \"publishAt\": \"2026-11-18T16:00:00Z\"}}",
+   "path": "/../upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
+   "publishAt": "2026-11-18T16:00:00Z"
+  },
+  {
+   "id": "009-b-a0",
+   "row": "009-b",
+   "kind": "video",
+   "file": "009/009-ftx-short-b.mp4",
+   "ctype": "video/mp4",
+   "size": 5231026,
+   "meta": "{\"snippet\": {\"title\": \"FTX's code gave one customer a $65 billion line of credit. Its founders owned that customer. #Shorts\", \"description\": \"According to Gary Wang's trial testimony, as summarised by the Second Circuit, special privileges in FTX's code gave Alameda Research a $65 billion line of credit. The court says the arrangement let Alameda keep negative balances. Alameda was co-owned by FTX's founders.\\n\\nFull episode: \\\"FTX: Customers Got 105% Back. Why He Still Got 25 Years\\\" on Filed Under Failure.\\nSources: Second Circuit Court of Appeals, United States v. Bankman-Fried, No. 24-961-cr, opinion (12 Jun 2026); US Supreme Court, docket No. 26-349, Bankman-Fried v. United States; US Attorney's Office SDNY, 'Samuel Bankman-Fried Sentenced To 25 Years In Prison' (28 Mar 2024) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #FTX #SamBankman-Fried #FTXcollapse\", \"tags\": [\"FTX\", \"Sam Bankman-Fried\", \"FTX collapse\", \"Alameda Research\", \"crypto fraud\", \"FTX repayment\", \"business documentary\", \"what went wrong\"], \"categoryId\": \"27\", \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}, \"status\": {\"selfDeclaredMadeForKids\": false, \"containsSyntheticMedia\": false, \"privacyStatus\": \"private\", \"publishAt\": \"2026-11-20T16:00:00Z\"}}",
+   "path": "/../upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
+   "publishAt": "2026-11-20T16:00:00Z"
+  },
+  {
+   "id": "009-c-a0",
+   "row": "009-c",
+   "kind": "video",
+   "file": "009/009-ftx-short-c.mp4",
+   "ctype": "video/mp4",
+   "size": 5509389,
+   "meta": "{\"snippet\": {\"title\": \"FTX payments were approved with emojis. It's in a sworn bankruptcy declaration. #Shorts\", \"description\": \"John J. Ray III, who took over FTX on 11 November 2022, said in his sworn first-day declaration that disbursements were approved by responding with personalised emojis, that there was no accurate list of bank accounts, and that corporate funds bought homes for employees and advisors.\\n\\nFull episode: \\\"FTX: Customers Got 105% Back. Why He Still Got 25 Years\\\" on Filed Under Failure.\\nSources: Second Circuit Court of Appeals, United States v. Bankman-Fried, No. 24-961-cr, opinion (12 Jun 2026); US Supreme Court, docket No. 26-349, Bankman-Fried v. United States; US Attorney's Office SDNY, 'Samuel Bankman-Fried Sentenced To 25 Years In Prison' (28 Mar 2024) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #FTX #SamBankman-Fried #FTXcollapse\", \"tags\": [\"FTX\", \"Sam Bankman-Fried\", \"FTX collapse\", \"Alameda Research\", \"crypto fraud\", \"FTX repayment\", \"business documentary\", \"what went wrong\"], \"categoryId\": \"27\", \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}, \"status\": {\"selfDeclaredMadeForKids\": false, \"containsSyntheticMedia\": false, \"privacyStatus\": \"private\", \"publishAt\": \"2026-11-22T16:00:00Z\"}}",
+   "path": "/../upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
+   "publishAt": "2026-11-22T16:00:00Z"
+  },
+  {
+   "id": "009-d-a0",
+   "row": "009-d",
+   "kind": "video",
+   "file": "009/009-ftx-short-d.mp4",
+   "ctype": "video/mp4",
+   "size": 5071547,
+   "meta": "{\"snippet\": {\"title\": \"FTX repaid customers 105%. But their bitcoin was priced at $16,871. #Shorts\", \"description\": \"FTX customers have been repaid 105% of their claims, but claims were valued in dollars on the 11 November 2022 petition date, when bitcoin was worth $16,871. Judge John Dorsey wrote that claims must be valued as of the petition date as if the bankruptcy had never occurred.\\n\\nFull episode: \\\"FTX: Customers Got 105% Back. Why He Still Got 25 Years\\\" on Filed Under Failure.\\nSources: Second Circuit Court of Appeals, United States v. Bankman-Fried, No. 24-961-cr, opinion (12 Jun 2026); US Supreme Court, docket No. 26-349, Bankman-Fried v. United States; US Attorney's Office SDNY, 'Samuel Bankman-Fried Sentenced To 25 Years In Prison' (28 Mar 2024) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #FTX #SamBankman-Fried #FTXcollapse\", \"tags\": [\"FTX\", \"Sam Bankman-Fried\", \"FTX collapse\", \"Alameda Research\", \"crypto fraud\", \"FTX repayment\", \"business documentary\", \"what went wrong\"], \"categoryId\": \"27\", \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}, \"status\": {\"selfDeclaredMadeForKids\": false, \"containsSyntheticMedia\": false, \"privacyStatus\": \"private\", \"publishAt\": \"2026-11-23T16:00:00Z\"}}",
+   "path": "/../upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
+   "publishAt": "2026-11-23T16:00:00Z"
+  },
+  {
+   "id": "009-ep-a0",
+   "row": "009-ep",
+   "kind": "video",
+   "file": "009/009-ftx.mp4",
+   "ctype": "video/mp4",
+   "size": 57670491,
+   "meta": "{\"snippet\": {\"title\": \"FTX: Customers Got 105% Back. Why He Still Got 25 Years\", \"description\": \"FTX collapse explained from the court, SEC and bankruptcy records.\\n\\nFTX customers have now been repaid 105% of their claims, yet Sam Bankman-Fried is serving 25 years. Using the Second Circuit's June 2026 opinion, the US Attorney's releases, the SEC's complaint, John J. Ray III's sworn bankruptcy declaration, the Delaware bankruptcy court's rulings, the FTX Recovery Trust's distribution notices and the Supreme Court docket, we explain the code privileges, the nine-day run, the trial, the repayments, why claims were fixed at November 2022 prices, and why the courts said repayment does not undo fraud. SEC claims are allegations; the criminal findings are the jury's and the courts'. The Supreme Court has not decided whether to hear his petition.\\n\\nChapters\\n0:00 Cold open\\n0:52 Two companies, one owner\\n2:08 The promise\\n2:58 Nine days in November\\n4:28 The verdict\\n5:46 The money comes back\\n7:11 The appeal\\n8:40 Our analysis\\n\\nSources\\n[1] Second Circuit Court of Appeals, United States v. Bankman-Fried, No. 24-961-cr, opinion (12 Jun 2026): https://www.courthousenews.com/wp-content/uploads/2026/06/bankman-fried-second-circuit-appeal-opinion.pdf\\n[2] US Supreme Court, docket No. 26-349, Bankman-Fried v. United States: https://www.supremecourt.gov/docket/docketfiles/html/public/26-349.html\\n[3] US Attorney's Office SDNY, 'Samuel Bankman-Fried Sentenced To 25 Years In Prison' (28 Mar 2024): https://www.justice.gov/usao-sdny/pr/samuel-bankman-fried-sentenced-25-years-prison\\n[4] US Attorney's Office SDNY, statement of US Attorney Damian Williams on the conviction (2 Nov 2023): https://www.justice.gov/usao-sdny/pr/statement-us-attorney-damian-williams-conviction-samuel-bankman-fried\\n[5] SEC, 'SEC Charges Samuel Bankman-Fried with Defrauding Investors in Crypto Asset Trading Platform FTX', press release 2022-219 (13 Dec 2022): https://www.sec.gov/newsroom/press-releases/2022-219\\n[6] Declaration of John J. Ray III in support of Chapter 11 petitions and first day pleadings, In re FTX Trading Ltd., No. 22-11068 (Bankr. D. Del.), Dkt 24 (17 Nov 2022): https://cases.stretto.com/public/x193/11753/PLEADINGS/1175302012380000000038.pdf\\n[7] FTX, 'FTX Receives U.S. Bankruptcy Court Confirmation of Its Plan of Reorganization' (7 Oct 2024): https://prnewswire.com/news-releases/ftx-receives-us-bankruptcy-court-confirmation-of-its-plan-of-reorganization-302269152.html\\n[8] US Bankruptcy Court, District of Delaware (Judge John T. Dorsey), opinion and order on digital asset estimation (26 Jun 2024): https://deb.uscourts.gov/sites/deb/files/opinions//FTX%20Opinion%20and%20Order%20Digital%20Asset%20Estimation.pdf\\n[9] FTX Recovery Trust, Fourth Distribution notice (18 Mar 2026): https://lifestyle.kbew98country.com/story/122645/ftx-recovery-trust-to-distribute-approximately-22-billion-to-creditors-in-fourth-distribution-on-march-31-2026/\\n[10] FTX Recovery Trust, Fifth Distribution notice (17 Jul 2026, PR Newswire republication): https://aijourn.com/?p=556967\\n[11] The Block, 'FTX to distribute roughly $900 million to creditors in fifth wave of payouts' (17 Jul 2026): https://www.theblock.co/post/408803/ftx-to-distribute-roughly-900-million-to-creditors-in-fifth-wave-of-payouts\\n[12] Unchained, 'FTX to send roughly $900 million to creditors in fifth distribution' (20 Jul 2026): https://unchainedcrypto.com/ftx-to-send-roughly-900-million-to-creditors-in-fifth-distribution-pushing-most-classes-past-full-recovery/\\n[13] Protos, 'FTX customers to be repaid at $16,871 bitcoin prices' (1 Feb 2024): https://protos.com/ftx-customers-to-be-repaid-at-16871-bitcoin-prices\\n[14] Reuters (via ThePrint), 'Judge at Sam Bankman-Fried sentencing rejects argument that FTX customers lost no money' (28 Mar 2024): https://theprint.in/tech/judge-at-sam-bankman-fried-sentencing-rejects-argument-that-ftx-customers-lost-no-money/2019019\\n[15] Axios, 'Bankrupt FTX's new chief describes unprecedented failure of corporate controls' (17 Nov 2022): https://www.axios.com/2022/11/17/ftx-bankruptcy-sbf-john-ray-declaration\\n\\nFiled Under Failure tells business collapses and comebacks from the public record. Findings and quotes are those of the bodies cited. Narration uses a synthetic voice; graphics are our own. Music: original.\\n\\n#FTX #SamBankman-Fried #FTXcollapse\", \"tags\": [\"FTX\", \"Sam Bankman-Fried\", \"FTX collapse\", \"Alameda Research\", \"crypto fraud\", \"FTX repayment\", \"business documentary\", \"what went wrong\"], \"categoryId\": \"27\", \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}, \"status\": {\"selfDeclaredMadeForKids\": false, \"containsSyntheticMedia\": false, \"privacyStatus\": \"private\", \"publishAt\": \"2026-11-18T16:00:00Z\"}}",
+   "path": "/../upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
+   "publishAt": "2026-11-18T16:00:00Z"
+  }
+ ]
 }
