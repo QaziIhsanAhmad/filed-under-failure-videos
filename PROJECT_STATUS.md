@@ -27,6 +27,7 @@ Faceless business-collapse documentary channel. Daily Short + weekly long episod
 - 006 self-checked 26 Oct (6 fixes, see notes.factcheck_log); status still "scripted" → tonight's run (23:02 PKT) must run the independent fact-check before rendering.
 
 ## In progress
+- 16 Nov (production): push access OK again. 009 FTX (angle: repaid 105%, still 25 years; 2d Cir. 12 Jun 2026, SCOTUS 26-349) researched, independently fact-checked (~115 verified, 7 fixes), built (9.8 min, -14.5 LUFS, 55 MB, x5 opening, 4 Shorts 39–43 s), pushed to 009/; ledger 009-ep + 009-a (Wed 18 Nov), 009-b/c/d (20/22/23 Nov; Sat 21 Nov left for 010-a), lane api, planned. yt/ops.json for 009 once videoIds exist (monitor). e010 NR vs SVB (Sat 21 Nov) not started — left for the Thu 19 Nov run (budget). Image scenes not supported yet.
 - 16 Nov (growth review): Sat 14 Nov missed (009 FTX never built; production runs 9/12 Nov failed ACCESS_DENIED, as did most tasks since ~11 Nov). Re-dated e009 FTX Wed 18 Nov, e010 Sat 21, e011 Wed 25, e012 Sat 28, e013–e016 2/5/9/12 Dec; fired production once (accepted). Reach collapsed channel-wide from 27 Oct (0–15 views/day vs 26–146 before); Shorts since then 0–4 views. Non-pipeline uploads British Steel/Flybe (28 Oct) on channel; 10 Nov +1,511/-1,511 subs from TR (net 0). Report: control room growth/weekly-2026-11-16; playbook v9 (learnings, x5 opening experiment, ypp).
 - 5 Nov (production): 008 Greensill researched (Insolvency Service 9-yr ban Jun 2026, FINMA, Treasury Cttee, NAO, BaFin, SoftBank judgment), independently fact-checked (7 wrong + 4 unverified fixed), built (9.8 min, -14.5 LUFS, 53 MB, 4 Shorts 31–42 s), pushed to 008/; ledger rows 008-ep + 008-a (Wed 11 Nov), 008-b/c/d (16/17/19 Nov; 14 + 18 Nov left free for 009-a/010-a), lane api, planned. yt/ops.json for 008 (pl-008, Full Episodes, Short links) for the monitor once videoIds exist. Image scenes not supported yet. Next: 009 FTX (Sat 14 Nov).
 - 29 Oct (production): 007 Wirecard researched, independently fact-checked (0 wrong, ~20 wording fixes), built (10.3 min, -14.5 LUFS, 52 MB, 4 Shorts 34–39 s), pushed to 007/; ledger rows 007-ep + 007-a (Sat 7 Nov), 007-b/c/d (12/13/15 Nov; 11 + 14 Nov left free for 008-a/009-a), lane api, planned. yt/ops.json for 007 (pl-007, Full Episodes, Short links) for the monitor once videoIds exist. Image scenes not supported yet. Next: 008 Greensill (Wed 11 Nov).
@@ -50,7 +51,7 @@ Faceless business-collapse documentary channel. Daily Short + weekly long episod
 
 ## Next steps
 1. Verify 005 rows become "scheduled"; add 005 ops (playlist, Full Episodes, Short links).
-2. Verify 007 + 008 rows become scheduled; add their ops. Episode 009 FTX (Sat 14 Nov): research + script + build.
+2. Verify 009 rows become scheduled (Make must upload before Wed 18 Nov 21:00); add 009 ops. Episode 010 NR vs SVB (Sat 21 Nov): script + build on Thu 19 Nov run.
 3. Weekly update to Qazi (uploads, views, subs, YPP progress).
 
 ## Social (Xenova + FrontDesk) — 23 Oct 2026
