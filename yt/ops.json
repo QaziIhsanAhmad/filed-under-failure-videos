@@ -3274,5 +3274,745 @@
     "defaultAudioLanguage": "en"
    }
   }
+ },
+ {
+  "id": "pi-007-emSqAKFYru0",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-007"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-007",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "emSqAKFYru0"
+    }
+   }
+  }
+ },
+ {
+  "id": "get-emSqAKFYru0",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=emSqAKFYru0"
+ },
+ {
+  "id": "upd-emSqAKFYru0",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "after": [
+   "get-emSqAKFYru0"
+  ],
+  "transform": {
+   "kind": "replace_line",
+   "prefix": "Full episode",
+   "text": "Full episode ▶ https://youtu.be/7HdQFaQpqzY"
+  },
+  "body": {
+   "id": "emSqAKFYru0",
+   "snippet": {
+    "title": "Two months before Wirecard collapsed, KPMG said it couldn't verify the profits #Shorts",
+    "categoryId": "27",
+    "description": "@desc:get-emSqAKFYru0",
+    "tags": [
+     "Wirecard",
+     "Wirecard scandal",
+     "Markus Braun",
+     "Jan Marsalek",
+     "EY audit",
+     "BaFin",
+     "business documentary",
+     "what went wrong"
+    ],
+    "defaultLanguage": "en",
+    "defaultAudioLanguage": "en"
+   }
+  }
+ },
+ {
+  "id": "pi-007-Kc2Rx21xxT4",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-007"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-007",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Kc2Rx21xxT4"
+    }
+   }
+  }
+ },
+ {
+  "id": "get-Kc2Rx21xxT4",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=Kc2Rx21xxT4"
+ },
+ {
+  "id": "upd-Kc2Rx21xxT4",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "after": [
+   "get-Kc2Rx21xxT4"
+  ],
+  "transform": {
+   "kind": "replace_line",
+   "prefix": "Full episode",
+   "text": "Full episode ▶ https://youtu.be/7HdQFaQpqzY"
+  },
+  "body": {
+   "id": "Kc2Rx21xxT4",
+   "snippet": {
+    "title": "Wirecard's auditor EY: fined €500,000 and banned from new public-interest audits #Shorts",
+    "categoryId": "27",
+    "description": "@desc:get-Kc2Rx21xxT4",
+    "tags": [
+     "Wirecard",
+     "Wirecard scandal",
+     "Markus Braun",
+     "Jan Marsalek",
+     "EY audit",
+     "BaFin",
+     "business documentary",
+     "what went wrong"
+    ],
+    "defaultLanguage": "en",
+    "defaultAudioLanguage": "en"
+   }
+  }
+ },
+ {
+  "id": "pl-008",
+  "method": "POST",
+  "path": "/v3/playlists?part=snippet,status",
+  "body": {
+   "snippet": {
+    "title": "Greensill Collapse Explained",
+    "description": "What the record shows about the 2021 collapse of Greensill Capital: the full episode first, then the short case notes. From the regulator, parliamentary and court records.",
+    "defaultLanguage": "en"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  }
+ },
+ {
+  "id": "pi-008-ByhDDIlrOPQ",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-008"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-008",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ByhDDIlrOPQ"
+    }
+   }
+  }
+ },
+ {
+  "id": "pi-all-ByhDDIlrOPQ",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-all"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-all",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ByhDDIlrOPQ"
+    }
+   }
+  }
+ },
+ {
+  "id": "get-ByhDDIlrOPQ",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=ByhDDIlrOPQ"
+ },
+ {
+  "id": "upd-ByhDDIlrOPQ",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "after": [
+   "get-ByhDDIlrOPQ",
+   "pl-008",
+   "pl-all"
+  ],
+  "transform": {
+   "kind": "none",
+   "append": "▶ Shorts from this case: https://www.youtube.com/playlist?list=@res:pl-008\n▶ All full episodes: https://www.youtube.com/playlist?list=@res:pl-all\n🔔 Subscribe for the next case file: https://www.youtube.com/@FiledUnderFailure-d6j?sub_confirmation=1"
+  },
+  "body": {
+   "id": "ByhDDIlrOPQ",
+   "snippet": {
+    "title": "Greensill: $10bn in Funds and the $440m That Went Elsewhere",
+    "categoryId": "27",
+    "description": "@desc:get-ByhDDIlrOPQ",
+    "tags": [
+     "Greensill",
+     "Greensill Capital",
+     "Lex Greensill",
+     "Credit Suisse",
+     "supply chain finance",
+     "David Cameron lobbying",
+     "business documentary",
+     "what went wrong"
+    ],
+    "defaultLanguage": "en",
+    "defaultAudioLanguage": "en"
+   }
+  }
+ },
+ {
+  "id": "pi-008-dSbEkbcTIYs",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-008"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-008",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "dSbEkbcTIYs"
+    }
+   }
+  }
+ },
+ {
+  "id": "get-dSbEkbcTIYs",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=dSbEkbcTIYs"
+ },
+ {
+  "id": "upd-dSbEkbcTIYs",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "after": [
+   "get-dSbEkbcTIYs"
+  ],
+  "transform": {
+   "kind": "replace_line",
+   "prefix": "Full episode",
+   "text": "Full episode ▶ https://youtu.be/ByhDDIlrOPQ"
+  },
+  "body": {
+   "id": "dSbEkbcTIYs",
+   "snippet": {
+    "title": "$440 million came in. The fund it was meant to repay lost $440 million. #Shorts",
+    "categoryId": "27",
+    "description": "@desc:get-dSbEkbcTIYs",
+    "tags": [
+     "Greensill",
+     "Greensill Capital",
+     "Lex Greensill",
+     "Credit Suisse",
+     "supply chain finance",
+     "David Cameron lobbying",
+     "business documentary",
+     "what went wrong"
+    ],
+    "defaultLanguage": "en",
+    "defaultAudioLanguage": "en"
+   }
+  }
+ },
+ {
+  "id": "pi-008-HyXhQ3j-hUQ",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-008"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-008",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "HyXhQ3j-hUQ"
+    }
+   }
+  }
+ },
+ {
+  "id": "get-HyXhQ3j-hUQ",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=HyXhQ3j-hUQ"
+ },
+ {
+  "id": "upd-HyXhQ3j-hUQ",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "after": [
+   "get-HyXhQ3j-hUQ"
+  ],
+  "transform": {
+   "kind": "replace_line",
+   "prefix": "Full episode",
+   "text": "Full episode ▶ https://youtu.be/ByhDDIlrOPQ"
+  },
+  "body": {
+   "id": "HyXhQ3j-hUQ",
+   "snippet": {
+    "title": "The insurer said no in September. Greensill lasted a week after the cover ended. #Shorts",
+    "categoryId": "27",
+    "description": "@desc:get-HyXhQ3j-hUQ",
+    "tags": [
+     "Greensill",
+     "Greensill Capital",
+     "Lex Greensill",
+     "Credit Suisse",
+     "supply chain finance",
+     "David Cameron lobbying",
+     "business documentary",
+     "what went wrong"
+    ],
+    "defaultLanguage": "en",
+    "defaultAudioLanguage": "en"
+   }
+  }
+ },
+ {
+  "id": "pi-008-FzMUMc3yeOw",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-008"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-008",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "FzMUMc3yeOw"
+    }
+   }
+  }
+ },
+ {
+  "id": "get-FzMUMc3yeOw",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=FzMUMc3yeOw"
+ },
+ {
+  "id": "upd-FzMUMc3yeOw",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "after": [
+   "get-FzMUMc3yeOw"
+  ],
+  "transform": {
+   "kind": "replace_line",
+   "prefix": "Full episode",
+   "text": "Full episode ▶ https://youtu.be/ByhDDIlrOPQ"
+  },
+  "body": {
+   "id": "FzMUMc3yeOw",
+   "snippet": {
+    "title": "Credit Suisse's risk manager said no to Greensill. FINMA says he was overruled. #Shorts",
+    "categoryId": "27",
+    "description": "@desc:get-FzMUMc3yeOw",
+    "tags": [
+     "Greensill",
+     "Greensill Capital",
+     "Lex Greensill",
+     "Credit Suisse",
+     "supply chain finance",
+     "David Cameron lobbying",
+     "business documentary",
+     "what went wrong"
+    ],
+    "defaultLanguage": "en",
+    "defaultAudioLanguage": "en"
+   }
+  }
+ },
+ {
+  "id": "pi-008-6f3vPXvPEGM",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-008"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-008",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "6f3vPXvPEGM"
+    }
+   }
+  }
+ },
+ {
+  "id": "get-6f3vPXvPEGM",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=6f3vPXvPEGM"
+ },
+ {
+  "id": "upd-6f3vPXvPEGM",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "after": [
+   "get-6f3vPXvPEGM"
+  ],
+  "transform": {
+   "kind": "replace_line",
+   "prefix": "Full episode",
+   "text": "Full episode ▶ https://youtu.be/ByhDDIlrOPQ"
+  },
+  "body": {
+   "id": "6f3vPXvPEGM",
+   "snippet": {
+    "title": "The Treasury said no to Cameron's Greensill lobbying. The £350m came from somewhere else. #Shorts",
+    "categoryId": "27",
+    "description": "@desc:get-6f3vPXvPEGM",
+    "tags": [
+     "Greensill",
+     "Greensill Capital",
+     "Lex Greensill",
+     "Credit Suisse",
+     "supply chain finance",
+     "David Cameron lobbying",
+     "business documentary",
+     "what went wrong"
+    ],
+    "defaultLanguage": "en",
+    "defaultAudioLanguage": "en"
+   }
+  }
+ },
+ {
+  "id": "pl-009",
+  "method": "POST",
+  "path": "/v3/playlists?part=snippet,status",
+  "body": {
+   "snippet": {
+    "title": "FTX Collapse Explained",
+    "description": "What the record shows about the 2022 collapse of FTX: the full episode first, then the short case notes. From the court, bankruptcy and prosecution records.",
+    "defaultLanguage": "en"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  }
+ },
+ {
+  "id": "pi-009-Hx17Rhhwn98",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-009"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-009",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Hx17Rhhwn98"
+    }
+   }
+  }
+ },
+ {
+  "id": "pi-all-Hx17Rhhwn98",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-all"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-all",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Hx17Rhhwn98"
+    }
+   }
+  }
+ },
+ {
+  "id": "get-Hx17Rhhwn98",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=Hx17Rhhwn98"
+ },
+ {
+  "id": "upd-Hx17Rhhwn98",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "after": [
+   "get-Hx17Rhhwn98",
+   "pl-009",
+   "pl-all"
+  ],
+  "transform": {
+   "kind": "none",
+   "append": "▶ Shorts from this case: https://www.youtube.com/playlist?list=@res:pl-009\n▶ All full episodes: https://www.youtube.com/playlist?list=@res:pl-all\n🔔 Subscribe for the next case file: https://www.youtube.com/@FiledUnderFailure-d6j?sub_confirmation=1"
+  },
+  "body": {
+   "id": "Hx17Rhhwn98",
+   "snippet": {
+    "title": "FTX: Customers Got 105% Back. Why He Still Got 25 Years",
+    "categoryId": "27",
+    "description": "@desc:get-Hx17Rhhwn98",
+    "tags": [
+     "FTX",
+     "Sam Bankman-Fried",
+     "FTX collapse",
+     "Alameda Research",
+     "crypto fraud",
+     "FTX repayment",
+     "business documentary",
+     "what went wrong"
+    ],
+    "defaultLanguage": "en",
+    "defaultAudioLanguage": "en"
+   }
+  }
+ },
+ {
+  "id": "pi-009-FzDdH6cl2yk",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-009"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-009",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "FzDdH6cl2yk"
+    }
+   }
+  }
+ },
+ {
+  "id": "get-FzDdH6cl2yk",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=FzDdH6cl2yk"
+ },
+ {
+  "id": "upd-FzDdH6cl2yk",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "after": [
+   "get-FzDdH6cl2yk"
+  ],
+  "transform": {
+   "kind": "replace_line",
+   "prefix": "Full episode",
+   "text": "Full episode ▶ https://youtu.be/Hx17Rhhwn98"
+  },
+  "body": {
+   "id": "FzDdH6cl2yk",
+   "snippet": {
+    "title": "FTX customers got 105% of their claims back. Its founder still got 25 years. #Shorts",
+    "categoryId": "27",
+    "description": "@desc:get-FzDdH6cl2yk",
+    "tags": [
+     "FTX",
+     "Sam Bankman-Fried",
+     "FTX collapse",
+     "Alameda Research",
+     "crypto fraud",
+     "FTX repayment",
+     "business documentary",
+     "what went wrong"
+    ],
+    "defaultLanguage": "en",
+    "defaultAudioLanguage": "en"
+   }
+  }
+ },
+ {
+  "id": "pi-009-IP7PU3AO7Mc",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-009"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-009",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "IP7PU3AO7Mc"
+    }
+   }
+  }
+ },
+ {
+  "id": "get-IP7PU3AO7Mc",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=IP7PU3AO7Mc"
+ },
+ {
+  "id": "upd-IP7PU3AO7Mc",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "after": [
+   "get-IP7PU3AO7Mc"
+  ],
+  "transform": {
+   "kind": "replace_line",
+   "prefix": "Full episode",
+   "text": "Full episode ▶ https://youtu.be/Hx17Rhhwn98"
+  },
+  "body": {
+   "id": "IP7PU3AO7Mc",
+   "snippet": {
+    "title": "FTX's code gave one customer a $65 billion line of credit. Its founders owned that customer. #Shorts",
+    "categoryId": "27",
+    "description": "@desc:get-IP7PU3AO7Mc",
+    "tags": [
+     "FTX",
+     "Sam Bankman-Fried",
+     "FTX collapse",
+     "Alameda Research",
+     "crypto fraud",
+     "FTX repayment",
+     "business documentary",
+     "what went wrong"
+    ],
+    "defaultLanguage": "en",
+    "defaultAudioLanguage": "en"
+   }
+  }
+ },
+ {
+  "id": "pi-009-tCV4xUmmWJM",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-009"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-009",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "tCV4xUmmWJM"
+    }
+   }
+  }
+ },
+ {
+  "id": "get-tCV4xUmmWJM",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=tCV4xUmmWJM"
+ },
+ {
+  "id": "upd-tCV4xUmmWJM",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "after": [
+   "get-tCV4xUmmWJM"
+  ],
+  "transform": {
+   "kind": "replace_line",
+   "prefix": "Full episode",
+   "text": "Full episode ▶ https://youtu.be/Hx17Rhhwn98"
+  },
+  "body": {
+   "id": "tCV4xUmmWJM",
+   "snippet": {
+    "title": "FTX payments were approved with emojis. It's in a sworn bankruptcy declaration. #Shorts",
+    "categoryId": "27",
+    "description": "@desc:get-tCV4xUmmWJM",
+    "tags": [
+     "FTX",
+     "Sam Bankman-Fried",
+     "FTX collapse",
+     "Alameda Research",
+     "crypto fraud",
+     "FTX repayment",
+     "business documentary",
+     "what went wrong"
+    ],
+    "defaultLanguage": "en",
+    "defaultAudioLanguage": "en"
+   }
+  }
+ },
+ {
+  "id": "pi-009-KvErkTJDODo",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-009"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-009",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "KvErkTJDODo"
+    }
+   }
+  }
+ },
+ {
+  "id": "get-KvErkTJDODo",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=KvErkTJDODo"
+ },
+ {
+  "id": "upd-KvErkTJDODo",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "after": [
+   "get-KvErkTJDODo"
+  ],
+  "transform": {
+   "kind": "replace_line",
+   "prefix": "Full episode",
+   "text": "Full episode ▶ https://youtu.be/Hx17Rhhwn98"
+  },
+  "body": {
+   "id": "KvErkTJDODo",
+   "snippet": {
+    "title": "FTX repaid customers 105%. But their bitcoin was priced at $16,871. #Shorts",
+    "categoryId": "27",
+    "description": "@desc:get-KvErkTJDODo",
+    "tags": [
+     "FTX",
+     "Sam Bankman-Fried",
+     "FTX collapse",
+     "Alameda Research",
+     "crypto fraud",
+     "FTX repayment",
+     "business documentary",
+     "what went wrong"
+    ],
+    "defaultLanguage": "en",
+    "defaultAudioLanguage": "en"
+   }
+  }
  }
 ]
