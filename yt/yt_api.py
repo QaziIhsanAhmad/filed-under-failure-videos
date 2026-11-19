@@ -12,6 +12,10 @@ How it works (no paid tools, no secrets in this public repo):
 Episodes also get their thumbnail via the same route (kind "thumb") once the video id is known.
 """
 import datetime as dt, glob, json, os
+try:
+    from public_text import clean_description, clean_title, UnsafeDescription
+except ImportError:
+    from yt.public_text import clean_description, clean_title, UnsafeDescription
 
 PKT = dt.timezone(dt.timedelta(hours=5))
 QUEUE_DAYS = 8          # upload up to a week ahead; YouTube publishes at publishAt
@@ -55,7 +59,8 @@ def _file(row):
 
 def _thumb(row):
     ep = row["id"].split("-")[0]
-    hits = sorted(glob.glob(f"{ep}/{ep}-*thumbnail*.png"))
+    base = f"abl/{ep}" if row.get("channel") == "abl" else ep
+    hits = sorted(glob.glob(f"{base}/{ep}-*thumbnail*.png"))
     return hits[0] if hits else ""
 
 
@@ -95,7 +100,7 @@ def build_queue(led, now, untitled):
         if row.get("videoId") and row.get("type") == "video" and not row.get("thumbSet") \
                 and row.get("thumbAttempts", 0) < MAX_ATTEMPTS and _thumb(row):
             t = _thumb(row)
-            items.append({"id": f"{row['id']}-thumb{row.get('thumbAttempts', 0)}", "row": row["id"], "kind": "thumb",
+            items.append({"id": f"{row['id']}-thumb{row.get('thumbAttempts', 0)}", "row": row["id"], "kind": "thumb", "channel": row.get("channel", "fuf"),
                           "file": t, "ctype": "image/png", "size": os.path.getsize(t), "meta": "{}",
                           "path": THUMB_PATH.format(vid=row["videoId"])})
             continue
@@ -116,10 +121,18 @@ def build_queue(led, now, untitled):
             status.update(privacyStatus="private", publishAt=slot.astimezone(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"))
         else:
             status["privacyStatus"] = "public"
-        meta = {"snippet": {"title": _clean(row["title"], 100), "description": _clean(row.get("description", ""), 4900),
-                            "tags": _tags(row), "categoryId": "27", "defaultLanguage": "en", "defaultAudioLanguage": "en"},
+        abl = row.get("channel") == "abl"
+        try:   # viewer-safe text only: strip internal/QA lines, refuse if anything leaky remains
+            title = clean_title(_clean(row["title"], 100))
+            desc = clean_description(_clean(row.get("description", ""), 4900))
+        except UnsafeDescription as e:
+            row["apiError"] = f"unsafe text: {e}"
+            continue
+        meta = {"snippet": {"title": title, "description": desc,
+                            "tags": (row.get("tags") or [])[:15] if abl else _tags(row), "categoryId": "28" if abl else "27",
+                            "defaultLanguage": "en", "defaultAudioLanguage": "en"},
                 "status": status}
-        items.append({"id": f"{row['id']}-a{row.get('apiAttempts', 0)}", "row": row["id"], "kind": "video",
+        items.append({"id": f"{row['id']}-a{row.get('apiAttempts', 0)}", "row": row["id"], "kind": "video", "channel": row.get("channel", "fuf"),
                       "file": f, "ctype": "video/mp4", "size": os.path.getsize(f),
                       "meta": json.dumps(meta, ensure_ascii=False), "path": VIDEO_PATH,
                       "publishAt": status.get("publishAt", "")})
@@ -139,8 +152,13 @@ def build_queue(led, now, untitled):
     items = [i for i in items if i["id"] not in done]       # already attempted under this id
     json.dump({"generated": now.isoformat(), "items": items}, open("yt/upload-queue.json", "w"), indent=1, ensure_ascii=False)
     # Same items as a bare array: Make's JSON parser turns each element into its own bundle.
-    json.dump([{k: i[k] for k in ("id", "path", "ctype", "size", "meta", "file")} for i in items],
+    # Same items as bare arrays, one per channel: Make opens each session with that channel's own connection
+    # (FUF: "Qazi's YouTube connection"; AI Business Lab: "ABL YouTube"), so an upload can never cross channels.
+    keys = ("id", "path", "ctype", "size", "meta", "file")
+    json.dump([{k: i[k] for k in keys} for i in items if i.get("channel", "fuf") != "abl"],
               open("yt/upload-queue-items.json", "w"), indent=1, ensure_ascii=False)
+    json.dump([{k: i[k] for k in keys} for i in items if i.get("channel") == "abl"],
+              open("yt/abl-upload-queue-items.json", "w"), indent=1, ensure_ascii=False)
     return items
 
 
@@ -161,7 +179,7 @@ def build_cleanup(led, now):
         pass
     for f in glob.glob("yt/results/*.json"):
         known.add(json.load(open(f)).get("videoId"))
-    api_titles = {_clean(r["title"], 100).strip() for r in led["items"] if r.get("lane") == "api"}
+    api_titles = {_clean(r["title"], 100).strip() for r in led["items"] if r.get("lane") == "api" and r.get("channel") != "abl"}
     for v in ch.get("videos", []):
         t = (v.get("title") or "").strip()
         if v["id"] in known:
