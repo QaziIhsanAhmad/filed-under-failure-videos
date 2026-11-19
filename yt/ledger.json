@@ -1372,20 +1372,22 @@
     "reason": "Generic synthetic narrator (Kokoro bm_george) not imitating any real person; quotes attributed by the narrator and shown as on-screen text; original code-generated charts, text graphics and music; no realistic synthetic imagery or altered real footage."
    },
    "apiApplied": [
-    "009-ep-a0"
+    "009-ep-a0",
+    "009-ep-thumb0"
    ],
    "videoId": "Hx17Rhhwn98",
    "url": "https://www.youtube.com/watch?v=Hx17Rhhwn98",
    "uploadedAt": "2026-11-17T13:14:20.132891+05:00",
    "publishAt": "2026-11-18T16:00:00Z",
    "verifiedAt": "2026-11-19T03:18:59.926496+05:00",
-   "verification": "channel page"
+   "verification": "channel page",
+   "thumbSet": true
   },
   {
    "id": "a000-test",
    "channel": "abl",
    "lane": "api",
-   "status": "planned",
+   "status": "scheduled",
    "type": "video",
    "privacy": "private",
    "date": "2026-11-19",
@@ -1399,7 +1401,14 @@
    "altered": {
     "disclose": false,
     "reason": "plain text card"
-   }
+   },
+   "apiApplied": [
+    "a000-test-a0"
+   ],
+   "videoId": "mX5Tn9e3dE0",
+   "url": "https://www.youtube.com/watch?v=mX5Tn9e3dE0",
+   "uploadedAt": "2026-11-19T11:47:21.813615+05:00",
+   "publishAt": ""
   }
  ],
  "history": [

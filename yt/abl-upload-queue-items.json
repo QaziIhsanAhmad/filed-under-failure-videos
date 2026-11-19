@@ -1,10 +1,1 @@
-[
- {
-  "id": "a000-test-a0",
-  "path": "/../upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
-  "ctype": "video/mp4",
-  "size": 24458,
-  "meta": "{\"snippet\": {\"title\": \"AI Business Lab private upload check\", \"description\": \"Private check that uploads reach the AI Business Lab channel. This video stays private.\", \"tags\": [\"ai business lab\"], \"categoryId\": \"28\", \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}, \"status\": {\"selfDeclaredMadeForKids\": false, \"containsSyntheticMedia\": false, \"privacyStatus\": \"private\"}}",
-  "file": "abl/a000/a000-upload-test.mp4"
- }
-]
+[]

@@ -1,28 +1,4 @@
 {
- "generated": "2026-11-19T11:46:30.687725+05:00",
- "items": [
-  {
-   "id": "009-ep-thumb0",
-   "row": "009-ep",
-   "kind": "thumb",
-   "channel": "fuf",
-   "file": "009/009-ftx-thumbnail.png",
-   "ctype": "image/png",
-   "size": 83246,
-   "meta": "{}",
-   "path": "/../upload/youtube/v3/thumbnails/set?uploadType=resumable&videoId=Hx17Rhhwn98"
-  },
-  {
-   "id": "a000-test-a0",
-   "row": "a000-test",
-   "kind": "video",
-   "channel": "abl",
-   "file": "abl/a000/a000-upload-test.mp4",
-   "ctype": "video/mp4",
-   "size": 24458,
-   "meta": "{\"snippet\": {\"title\": \"AI Business Lab private upload check\", \"description\": \"Private check that uploads reach the AI Business Lab channel. This video stays private.\", \"tags\": [\"ai business lab\"], \"categoryId\": \"28\", \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}, \"status\": {\"selfDeclaredMadeForKids\": false, \"containsSyntheticMedia\": false, \"privacyStatus\": \"private\"}}",
-   "path": "/../upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
-   "publishAt": ""
-  }
- ]
+ "generated": "2026-11-19T18:52:49.489231+05:00",
+ "items": []
 }
