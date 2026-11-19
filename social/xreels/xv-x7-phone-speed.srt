@@ -1,0 +1,24 @@
+1
+00:00:00,350 --> 00:00:08,606
+Same page, same content. On a phone, one version shows its main image after 23 seconds. The other, after 1.
+
+2
+00:00:09,056 --> 00:00:19,573
+We built this demo bakery page to test it. Version one uses a 4 MB photo straight from a camera, and a heavy script that loads before anything else.
+
+3
+00:00:20,023 --> 00:00:30,647
+Lighthouse, Google's free testing tool, simulates a phone on a slow mobile connection. Largest contentful paint: 23.4 s. Score: 60.
+
+4
+00:00:31,097 --> 00:00:42,319
+Three fixes. Compress and resize the photo to WebP, at the sizes phones need. Load the script after the page. And give the image a width and height, so nothing jumps.
+
+5
+00:00:42,769 --> 00:00:47,846
+Same test. Largest contentful paint: 1.0 s. Score: 99.
+
+6
+00:00:48,296 --> 00:00:54,376
+Want your own site tested like this? Book a free 30-minute call with Xenova. Link in bio.
+
