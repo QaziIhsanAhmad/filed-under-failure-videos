@@ -1,92 +1,44 @@
 [
  {
-  "id": "upd-emSqAKFYru0",
+  "id": "upd-FzDdH6cl2yk",
   "method": "PUT",
   "path": "/v3/videos?part=snippet",
-  "body": "{\"id\": \"emSqAKFYru0\", \"snippet\": {\"title\": \"Two months before Wirecard collapsed, KPMG said it couldn't verify the profits #Shorts\", \"categoryId\": \"27\", \"description\": \"Full episode ▶ https://youtu.be/7HdQFaQpqzY\\n\\nKPMG's special investigation of April 2020 could not confirm that Wirecard's partner business existed as reported for 2016–2018, because the partners did not fully cooperate.\\n\\nSources: Al Jazeera, 'What $2.1bn? Wirecard says missing funds most likely do not exist' (22 Jun 2020); Wirecard AG ad hoc announcement, 18 Jun 2020 (EY could not obtain sufficient audit evidence; spurious balance confirmations); CNN, 'Wirecard files for insolvency' (25 Jun 2020) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #Wirecard #Wirecardscandal #MarkusBraun\", \"tags\": [\"Wirecard\", \"Wirecard scandal\", \"Markus Braun\", \"Jan Marsalek\", \"EY audit\", \"BaFin\", \"business documentary\", \"what went wrong\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
+  "body": "{\"id\": \"FzDdH6cl2yk\", \"snippet\": {\"title\": \"FTX customers got 105% of their claims back. Its founder still got 25 years. #Shorts\", \"categoryId\": \"27\", \"description\": \"Full episode ▶ https://youtu.be/Hx17Rhhwn98\\n\\nFTX customers have been repaid 105% of their claims (FTX Recovery Trust, after the July 2026 distribution), yet Sam Bankman-Fried is serving 25 years. The Second Circuit said customers were defrauded as soon as their money went to Alameda, and upheld the trial judge's ruling that intent to repay was immaterial as a matter of law.\\n\\nSources: Second Circuit Court of Appeals, United States v. Bankman-Fried, No. 24-961-cr, opinion (12 Jun 2026); US Supreme Court, docket No. 26-349, Bankman-Fried v. United States; US Attorney's Office SDNY, 'Samuel Bankman-Fried Sentenced To 25 Years In Prison' (28 Mar 2024) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #FTX #SamBankman-Fried #FTXcollapse\", \"tags\": [\"FTX\", \"Sam Bankman-Fried\", \"FTX collapse\", \"Alameda Research\", \"crypto fraud\", \"FTX repayment\", \"business documentary\", \"what went wrong\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
  },
  {
-  "id": "upd-Kc2Rx21xxT4",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "body": "{\"id\": \"Kc2Rx21xxT4\", \"snippet\": {\"title\": \"Wirecard's auditor EY: fined €500,000 and banned from new public-interest audits #Shorts\", \"categoryId\": \"27\", \"description\": \"Full episode ▶ https://youtu.be/7HdQFaQpqzY\\n\\nGermany's audit watchdog APAS found EY breached its professional duties in its Wirecard audits for 2016–2018, fined it €500,000 and barred new public-interest audits for two years.\\n\\nSources: Al Jazeera, 'What $2.1bn? Wirecard says missing funds most likely do not exist' (22 Jun 2020); Wirecard AG ad hoc announcement, 18 Jun 2020 (EY could not obtain sufficient audit evidence; spurious balance confirmations); CNN, 'Wirecard files for insolvency' (25 Jun 2020) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #Wirecard #Wirecardscandal #MarkusBraun\", \"tags\": [\"Wirecard\", \"Wirecard scandal\", \"Markus Braun\", \"Jan Marsalek\", \"EY audit\", \"BaFin\", \"business documentary\", \"what went wrong\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
- },
- {
-  "id": "pi-008-ByhDDIlrOPQ",
+  "id": "pi-009-IP7PU3AO7Mc",
   "method": "POST",
   "path": "/v3/playlistItems?part=snippet",
-  "body": "{\"snippet\": {\"playlistId\": \"PLDD0bntntn-w\", \"position\": 0, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"ByhDDIlrOPQ\"}}}"
+  "body": "{\"snippet\": {\"playlistId\": \"PLIoTl556mKLI\", \"position\": 2, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"IP7PU3AO7Mc\"}}}"
  },
  {
-  "id": "upd-ByhDDIlrOPQ",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "body": "{\"id\": \"ByhDDIlrOPQ\", \"snippet\": {\"title\": \"Greensill: $10bn in Funds and the $440m That Went Elsewhere\", \"categoryId\": \"27\", \"description\": \"Greensill Capital collapse explained from the regulator, parliamentary and Insolvency Service records.\\n\\nIn November 2020, $440m meant to repay a Credit Suisse fund arrived at Greensill Capital and, the Insolvency Service says, was used for other purposes. Four months later the firm was in administration and $10bn of fund money was frozen. Using FINMA's findings on Credit Suisse, the Treasury Committee and National Audit Office reports, BaFin's order, Lex Greensill's own evidence to MPs, Australian court documents and the 2026 disqualification undertaking, we explain how supply-chain finance turned into future claims on weak borrowers, why one insurance letter mattered so much, and who paid. A disqualification undertaking is not a criminal conviction; the SFO's GFG Alliance investigation is not a finding of guilt.\\n\\nChapters\\n0:00 Cold open\\n0:43 The pitch\\n1:42 Friends in high places\\n3:06 Ten billion in funds\\n4:10 The insurance clock\\n4:53 Seven days in March\\n5:59 The $440 million\\n7:36 Who paid\\n8:46 Our analysis\\n\\nSources\\n[1] Insolvency Service, 'Lex Greensill to be disqualified from acting as a company director in the UK for nine years' (4 Jun 2026): https://www.gov.uk/government/news/lex-greensill-to-be-disqualified-from-acting-as-a-company-director-in-the-uk-for-nine-years\\n[2] Insolvency Service, 'Outcome of investigation into the directors of the collapsed Greensill group' (7 Mar 2024): https://www.gov.uk/government/news/outcome-of-investigation-into-the-directors-of-the-collapsed-greensill-group\\n[3] FINMA, Greensill proceedings against Credit Suisse concluded (28 Feb 2023): https://www.finma.ch/en/news/2023/02/20230228-mm-greensill/\\n[4] House of Commons Treasury Committee, 'Lessons from Greensill Capital' (HC 151), press release, 20 Jul 2021: https://www.wired-gov.net/wg/news.nsf/print/Treasury+Committee+reports+on+Lessons+from+Greensill+Capital+20072021112000 (report: https://api.parliament.uk/committees/publications/6800)\\n[5] National Audit Office, 'Investigation into the British Business Bank's accreditation of Greensill Capital' (7 Jul 2021): https://www.nao.org.uk/press-releases/investigation-into-the-british-business-banks-accreditation-of-greensill-capital/\\n[6] BaFin, moratorium on Greensill Bank AG (3 Mar 2021): https://www.bafin.de/ref/19621044\\n[7] Treasury Committee, oral evidence from Lex Greensill, 11 May 2021 (HC 151): https://committees.parliament.uk/oralevidence/2149/html/\\n[8] Global Trade Review, 'Greensill collapse rooted in insurance dispute, court documents show' (3 Mar 2021): https://www.gtreview.com/news/asia/greensill-collapse-rooted-in-insurance-dispute-court-documents-show/\\n[9] CNN Business, Greensill insolvency report (3 Mar 2021): https://edition.cnn.com/2021/03/03/investing/greensill-insolvency-apollo/index.html\\n[10] Banking Dive, 'UBS sets aside $900 million to compensate Credit Suisse Greensill clients' (Jun 2024): https://www.bankingdive.com/news/ubs-set-aside-900-million-compensate-credit-suisse-greensill-clients-archegos/719133/\\n[11] Global Trade Review, 'Credit Suisse loses SoftBank case over US$440mn Greensill losses' (Oct 2025): https://www.gtreview.com/news/europe/credit-suisse-loses-softbank-case-over-us440mn-greensill-losses/\\n[12] Claims Journal (Reuters), 'Credit Suisse loses $440M UK suit against SoftBank over Greensill losses' (15 Oct 2025): https://www.claimsjournal.com/news/national/2025/10/15/333515.htm\\n[13] Serious Fraud Office case page, Gupta Family Group (GFG) Alliance: https://www.gov.uk/sfo-cases/gupta-family-group-gfg-alliance\\n[14] Civil Service World, report on the Boardman review (23 Jul 2021): https://www.civilserviceworld.com/news/article/governmentcommissioned-greensill-probe-dubbed-a-whitewash\\n[15] Cabinet Office, Nigel Boardman review of supply chain finance in government (22 Jul 2021): https://gov.uk/government/publications/findings-of-a-review-into-the-development-and-use-of-supply-chain-finance-in-government\\n[16] Public Accounts Committee, oral evidence from HM Treasury (Sir Tom Scholar, Charles Roxburgh), 22 Apr 2021: https://committees.parliament.uk/oralevidence/2083/default/\\n\\nFiled Under Failure tells business collapses and comebacks from the public record. Findings and quotes are those of the bodies cited. Narration uses a synthetic voice; graphics are our own. Music: original.\\n\\n#Greensill #GreensillCapital #LexGreensill\\n\\n▶ Shorts from this case: https://www.youtube.com/playlist?list=PLDD0bntntn-w\\n▶ All full episodes: https://www.youtube.com/playlist?list=PLcJ0qXrqBDRU\\n🔔 Subscribe for the next case file: https://www.youtube.com/@FiledUnderFailure-d6j?sub_confirmation=1\", \"tags\": [\"Greensill\", \"Greensill Capital\", \"Lex Greensill\", \"Credit Suisse\", \"supply chain finance\", \"David Cameron lobbying\", \"business documentary\", \"what went wrong\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
+  "id": "get-IP7PU3AO7Mc",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=IP7PU3AO7Mc",
+  "body": ""
  },
  {
-  "id": "pi-008-dSbEkbcTIYs",
+  "id": "pi-009-tCV4xUmmWJM",
   "method": "POST",
   "path": "/v3/playlistItems?part=snippet",
-  "body": "{\"snippet\": {\"playlistId\": \"PLDD0bntntn-w\", \"position\": 1, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"dSbEkbcTIYs\"}}}"
+  "body": "{\"snippet\": {\"playlistId\": \"PLIoTl556mKLI\", \"position\": 3, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"tCV4xUmmWJM\"}}}"
  },
  {
-  "id": "upd-dSbEkbcTIYs",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "body": "{\"id\": \"dSbEkbcTIYs\", \"snippet\": {\"title\": \"$440 million came in. The fund it was meant to repay lost $440 million. #Shorts\", \"categoryId\": \"27\", \"description\": \"Full episode ▶ https://youtu.be/ByhDDIlrOPQ\\n\\nIn November 2020 Greensill Capital received $440m meant to buy back notes held by a Credit Suisse fund. The Insolvency Service says Lex Greensill caused or allowed it to be used for other purposes. From the Insolvency Service's June 2026 release.\\n\\nSources: Insolvency Service, 'Lex Greensill to be disqualified from acting as a company director in the UK for nine years' (4 Jun 2026); Insolvency Service, 'Outcome of investigation into the directors of the collapsed Greensill group' (7 Mar 2024); FINMA, Greensill proceedings against Credit Suisse concluded (28 Feb 2023) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #Greensill #GreensillCapital #LexGreensill\", \"tags\": [\"Greensill\", \"Greensill Capital\", \"Lex Greensill\", \"Credit Suisse\", \"supply chain finance\", \"David Cameron lobbying\", \"business documentary\", \"what went wrong\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
+  "id": "get-tCV4xUmmWJM",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=tCV4xUmmWJM",
+  "body": ""
  },
  {
-  "id": "pi-008-HyXhQ3j-hUQ",
+  "id": "pi-009-KvErkTJDODo",
   "method": "POST",
   "path": "/v3/playlistItems?part=snippet",
-  "body": "{\"snippet\": {\"playlistId\": \"PLDD0bntntn-w\", \"position\": 2, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"HyXhQ3j-hUQ\"}}}"
+  "body": "{\"snippet\": {\"playlistId\": \"PLIoTl556mKLI\", \"position\": 4, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"KvErkTJDODo\"}}}"
  },
  {
-  "id": "upd-HyXhQ3j-hUQ",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "body": "{\"id\": \"HyXhQ3j-hUQ\", \"snippet\": {\"title\": \"The insurer said no in September. Greensill lasted a week after the cover ended. #Shorts\", \"categoryId\": \"27\", \"description\": \"Full episode ▶ https://youtu.be/ByhDDIlrOPQ\\n\\n$4.6bn of trade credit insurance behind Greensill's clients expired on 1 March 2021; the insurer had said in September 2020 it would not renew. From Australian court documents reported by Global Trade Review.\\n\\nSources: Insolvency Service, 'Lex Greensill to be disqualified from acting as a company director in the UK for nine years' (4 Jun 2026); Insolvency Service, 'Outcome of investigation into the directors of the collapsed Greensill group' (7 Mar 2024); FINMA, Greensill proceedings against Credit Suisse concluded (28 Feb 2023) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #Greensill #GreensillCapital #LexGreensill\", \"tags\": [\"Greensill\", \"Greensill Capital\", \"Lex Greensill\", \"Credit Suisse\", \"supply chain finance\", \"David Cameron lobbying\", \"business documentary\", \"what went wrong\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
- },
- {
-  "id": "pi-008-FzMUMc3yeOw",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "body": "{\"snippet\": {\"playlistId\": \"PLDD0bntntn-w\", \"position\": 3, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"FzMUMc3yeOw\"}}}"
- },
- {
-  "id": "upd-FzMUMc3yeOw",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "body": "{\"id\": \"FzMUMc3yeOw\", \"snippet\": {\"title\": \"Credit Suisse's risk manager said no to Greensill. FINMA says he was overruled. #Shorts\", \"categoryId\": \"27\", \"description\": \"Full episode ▶ https://youtu.be/ByhDDIlrOPQ\\n\\nSwitzerland's regulator FINMA found Credit Suisse seriously breached its supervisory obligations over its Greensill funds. A risk manager advised against a bridging loan and was overruled. From FINMA's February 2023 findings.\\n\\nSources: Insolvency Service, 'Lex Greensill to be disqualified from acting as a company director in the UK for nine years' (4 Jun 2026); Insolvency Service, 'Outcome of investigation into the directors of the collapsed Greensill group' (7 Mar 2024); FINMA, Greensill proceedings against Credit Suisse concluded (28 Feb 2023) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #Greensill #GreensillCapital #LexGreensill\", \"tags\": [\"Greensill\", \"Greensill Capital\", \"Lex Greensill\", \"Credit Suisse\", \"supply chain finance\", \"David Cameron lobbying\", \"business documentary\", \"what went wrong\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
- },
- {
-  "id": "pi-008-6f3vPXvPEGM",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "body": "{\"snippet\": {\"playlistId\": \"PLDD0bntntn-w\", \"position\": 4, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"6f3vPXvPEGM\"}}}"
- },
- {
-  "id": "upd-6f3vPXvPEGM",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "body": "{\"id\": \"6f3vPXvPEGM\", \"snippet\": {\"title\": \"The Treasury said no to Cameron's Greensill lobbying. The £350m came from somewhere else. #Shorts\", \"categoryId\": \"27\", \"description\": \"Full episode ▶ https://youtu.be/ByhDDIlrOPQ\\n\\nThe Treasury rejected Greensill's bid for an emergency Bank of England scheme, but Greensill still made seven government-backed loans totalling £350m to GFG Alliance companies. From the Treasury Committee and the National Audit Office.\\n\\nSources: Insolvency Service, 'Lex Greensill to be disqualified from acting as a company director in the UK for nine years' (4 Jun 2026); Insolvency Service, 'Outcome of investigation into the directors of the collapsed Greensill group' (7 Mar 2024); FINMA, Greensill proceedings against Credit Suisse concluded (28 Feb 2023) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #Greensill #GreensillCapital #LexGreensill\", \"tags\": [\"Greensill\", \"Greensill Capital\", \"Lex Greensill\", \"Credit Suisse\", \"supply chain finance\", \"David Cameron lobbying\", \"business documentary\", \"what went wrong\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
- },
- {
-  "id": "pi-009-Hx17Rhhwn98",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "body": "{\"snippet\": {\"playlistId\": \"PLIoTl556mKLI\", \"position\": 0, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"Hx17Rhhwn98\"}}}"
- },
- {
-  "id": "upd-Hx17Rhhwn98",
-  "method": "PUT",
-  "path": "/v3/videos?part=snippet",
-  "body": "{\"id\": \"Hx17Rhhwn98\", \"snippet\": {\"title\": \"FTX: Customers Got 105% Back. Why He Still Got 25 Years\", \"categoryId\": \"27\", \"description\": \"FTX collapse explained from the court, SEC and bankruptcy records.\\n\\nFTX customers have now been repaid 105% of their claims, yet Sam Bankman-Fried is serving 25 years. Using the Second Circuit's June 2026 opinion, the US Attorney's releases, the SEC's complaint, John J. Ray III's sworn bankruptcy declaration, the Delaware bankruptcy court's rulings, the FTX Recovery Trust's distribution notices and the Supreme Court docket, we explain the code privileges, the nine-day run, the trial, the repayments, why claims were fixed at November 2022 prices, and why the courts said repayment does not undo fraud. SEC claims are allegations; the criminal findings are the jury's and the courts'. The Supreme Court has not decided whether to hear his petition.\\n\\nChapters\\n0:00 Cold open\\n0:52 Two companies, one owner\\n2:08 The promise\\n2:58 Nine days in November\\n4:28 The verdict\\n5:46 The money comes back\\n7:11 The appeal\\n8:40 Our analysis\\n\\nSources\\n[1] Second Circuit Court of Appeals, United States v. Bankman-Fried, No. 24-961-cr, opinion (12 Jun 2026): https://www.courthousenews.com/wp-content/uploads/2026/06/bankman-fried-second-circuit-appeal-opinion.pdf\\n[2] US Supreme Court, docket No. 26-349, Bankman-Fried v. United States: https://www.supremecourt.gov/docket/docketfiles/html/public/26-349.html\\n[3] US Attorney's Office SDNY, 'Samuel Bankman-Fried Sentenced To 25 Years In Prison' (28 Mar 2024): https://www.justice.gov/usao-sdny/pr/samuel-bankman-fried-sentenced-25-years-prison\\n[4] US Attorney's Office SDNY, statement of US Attorney Damian Williams on the conviction (2 Nov 2023): https://www.justice.gov/usao-sdny/pr/statement-us-attorney-damian-williams-conviction-samuel-bankman-fried\\n[5] SEC, 'SEC Charges Samuel Bankman-Fried with Defrauding Investors in Crypto Asset Trading Platform FTX', press release 2022-219 (13 Dec 2022): https://www.sec.gov/newsroom/press-releases/2022-219\\n[6] Declaration of John J. Ray III in support of Chapter 11 petitions and first day pleadings, In re FTX Trading Ltd., No. 22-11068 (Bankr. D. Del.), Dkt 24 (17 Nov 2022): https://cases.stretto.com/public/x193/11753/PLEADINGS/1175302012380000000038.pdf\\n[7] FTX, 'FTX Receives U.S. Bankruptcy Court Confirmation of Its Plan of Reorganization' (7 Oct 2024): https://prnewswire.com/news-releases/ftx-receives-us-bankruptcy-court-confirmation-of-its-plan-of-reorganization-302269152.html\\n[8] US Bankruptcy Court, District of Delaware (Judge John T. Dorsey), opinion and order on digital asset estimation (26 Jun 2024): https://deb.uscourts.gov/sites/deb/files/opinions//FTX%20Opinion%20and%20Order%20Digital%20Asset%20Estimation.pdf\\n[9] FTX Recovery Trust, Fourth Distribution notice (18 Mar 2026): https://lifestyle.kbew98country.com/story/122645/ftx-recovery-trust-to-distribute-approximately-22-billion-to-creditors-in-fourth-distribution-on-march-31-2026/\\n[10] FTX Recovery Trust, Fifth Distribution notice (17 Jul 2026, PR Newswire republication): https://aijourn.com/?p=556967\\n[11] The Block, 'FTX to distribute roughly $900 million to creditors in fifth wave of payouts' (17 Jul 2026): https://www.theblock.co/post/408803/ftx-to-distribute-roughly-900-million-to-creditors-in-fifth-wave-of-payouts\\n[12] Unchained, 'FTX to send roughly $900 million to creditors in fifth distribution' (20 Jul 2026): https://unchainedcrypto.com/ftx-to-send-roughly-900-million-to-creditors-in-fifth-distribution-pushing-most-classes-past-full-recovery/\\n[13] Protos, 'FTX customers to be repaid at $16,871 bitcoin prices' (1 Feb 2024): https://protos.com/ftx-customers-to-be-repaid-at-16871-bitcoin-prices\\n[14] Reuters (via ThePrint), 'Judge at Sam Bankman-Fried sentencing rejects argument that FTX customers lost no money' (28 Mar 2024): https://theprint.in/tech/judge-at-sam-bankman-fried-sentencing-rejects-argument-that-ftx-customers-lost-no-money/2019019\\n[15] Axios, 'Bankrupt FTX's new chief describes unprecedented failure of corporate controls' (17 Nov 2022): https://www.axios.com/2022/11/17/ftx-bankruptcy-sbf-john-ray-declaration\\n\\nFiled Under Failure tells business collapses and comebacks from the public record. Findings and quotes are those of the bodies cited. Narration uses a synthetic voice; graphics are our own. Music: original.\\n\\n#FTX #SamBankman-Fried #FTXcollapse\\n\\n▶ Shorts from this case: https://www.youtube.com/playlist?list=PLIoTl556mKLI\\n▶ All full episodes: https://www.youtube.com/playlist?list=PLcJ0qXrqBDRU\\n🔔 Subscribe for the next case file: https://www.youtube.com/@FiledUnderFailure-d6j?sub_confirmation=1\", \"tags\": [\"FTX\", \"Sam Bankman-Fried\", \"FTX collapse\", \"Alameda Research\", \"crypto fraud\", \"FTX repayment\", \"business documentary\", \"what went wrong\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
- },
- {
-  "id": "pi-009-FzDdH6cl2yk",
-  "method": "POST",
-  "path": "/v3/playlistItems?part=snippet",
-  "body": "{\"snippet\": {\"playlistId\": \"PLIoTl556mKLI\", \"position\": 1, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"FzDdH6cl2yk\"}}}"
+  "id": "get-KvErkTJDODo",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=KvErkTJDODo",
+  "body": ""
  }
 ]
