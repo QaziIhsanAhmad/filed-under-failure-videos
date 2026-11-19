@@ -1,6 +1,6 @@
 # PROJECT_STATUS — Filed Under Failure
 
-_Last updated: 2026-11-19 06:40 PKT (monitor)_
+_Last updated: 2026-11-19 23:50 PKT (production)_
 
 ## Goal
 Faceless business-collapse documentary channel. Daily Short + weekly long episode, free tools only, hands-off, reach YPP honestly.
@@ -27,6 +27,7 @@ Faceless business-collapse documentary channel. Daily Short + weekly long episod
 - 006 self-checked 26 Oct (6 fixes, see notes.factcheck_log); status still "scripted" → tonight's run (23:02 PKT) must run the independent fact-check before rendering.
 
 ## In progress
+- 19 Nov (production): weekly cadence applied — planned e011–e016 moved to consecutive Saturdays (28 Nov–2 Jan, n order kept). e010 swapped NR-vs-SVB (backlog) → Sunny Balwani (people-led search; SCOTUS cert denied 5 Oct 2026). Researched, independently fact-checked (11 fixes), built (11.3 min, -14.6 LUFS, 63 MB, name-hero thumbnail, 3 Shorts 29–33 s), pushed to 010/; ledger 010-ep + 010-a Sat 21 Nov, 010-b Tue 24, 010-c Thu 26 (api, planned). yt/ops.json for 010 once videoIds exist (monitor). Image scenes not supported yet. Next: e011 Thomas Cook (Sat 28 Nov).
 - 16 Nov (production): push access OK again. 009 FTX (angle: repaid 105%, still 25 years; 2d Cir. 12 Jun 2026, SCOTUS 26-349) researched, independently fact-checked (~115 verified, 7 fixes), built (9.8 min, -14.5 LUFS, 55 MB, x5 opening, 4 Shorts 39–43 s), pushed to 009/; ledger 009-ep + 009-a (Wed 18 Nov), 009-b/c/d (20/22/23 Nov; Sat 21 Nov left for 010-a), lane api, planned. yt/ops.json for 009 once videoIds exist (monitor). e010 NR vs SVB (Sat 21 Nov) not started — left for the Thu 19 Nov run (budget). Image scenes not supported yet.
 - 16 Nov (growth review): Sat 14 Nov missed (009 FTX never built; production runs 9/12 Nov failed ACCESS_DENIED, as did most tasks since ~11 Nov). Re-dated e009 FTX Wed 18 Nov, e010 Sat 21, e011 Wed 25, e012 Sat 28, e013–e016 2/5/9/12 Dec; fired production once (accepted). Reach collapsed channel-wide from 27 Oct (0–15 views/day vs 26–146 before); Shorts since then 0–4 views. Non-pipeline uploads British Steel/Flybe (28 Oct) on channel; 10 Nov +1,511/-1,511 subs from TR (net 0). Report: control room growth/weekly-2026-11-16; playbook v9 (learnings, x5 opening experiment, ypp).
 - 5 Nov (production): 008 Greensill researched (Insolvency Service 9-yr ban Jun 2026, FINMA, Treasury Cttee, NAO, BaFin, SoftBank judgment), independently fact-checked (7 wrong + 4 unverified fixed), built (9.8 min, -14.5 LUFS, 53 MB, 4 Shorts 31–42 s), pushed to 008/; ledger rows 008-ep + 008-a (Wed 11 Nov), 008-b/c/d (16/17/19 Nov; 14 + 18 Nov left free for 009-a/010-a), lane api, planned. yt/ops.json for 008 (pl-008, Full Episodes, Short links) for the monitor once videoIds exist. Image scenes not supported yet. Next: 009 FTX (Sat 14 Nov).
@@ -52,7 +53,7 @@ Faceless business-collapse documentary channel. Daily Short + weekly long episod
 
 ## Next steps
 1. Verify 005 rows become "scheduled"; add 005 ops (playlist, Full Episodes, Short links).
-2. Verify 009 rows become scheduled (Make must upload before Wed 18 Nov 21:00); add 009 ops. Episode 010 NR vs SVB (Sat 21 Nov): script + build on Thu 19 Nov run.
+2. Verify 009 rows become scheduled (Make must upload before Wed 18 Nov 21:00); add 009 ops. 010 Sunny Balwani built; verify 010 rows scheduled before Sat 21 Nov 21:00; next e011 Thomas Cook (Sat 28 Nov).
 3. Weekly update to Qazi (uploads, views, subs, YPP progress).
 
 ## Social (Xenova + FrontDesk) — 23 Oct 2026
