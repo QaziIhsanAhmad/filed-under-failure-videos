@@ -1,0 +1,1507 @@
+{
+ "slug": "010-sunny-balwani",
+ "title": "Sunny Balwani: The Other Theranos Conviction",
+ "voice": "bm_george",
+ "speed": 0.95,
+ "summary": "Sunny Balwani and the Theranos collapse explained from the court record: why the other Theranos conviction stuck.\n\nElizabeth Holmes was acquitted of defrauding patients; her former number two, Ramesh 'Sunny' Balwani, was convicted on all twelve counts. An appeals court even agreed a witness at his trial gave 'actually false' testimony, and he still lost; on 5 October 2026 the Supreme Court declined to hear his case. Using the Ninth Circuit's December 2025 amended opinion, the Supreme Court docket, the US Attorney's sentencing release, the federal lab regulator's March 2016 sanctions letter and trial reporting, we follow the lab he oversaw, the patients, the pitch to investors, the two trials and the appeal. SEC claims are allegations; criminal findings are the jury's and the courts'. 'Our analysis' is labelled as our own reading.\n\nThe founder's side of the case: https://youtu.be/vdXslodih6A\nSubscribe for the next case file: https://www.youtube.com/@FiledUnderFailure-d6j?sub_confirmation=1",
+ "thumb": [
+  "BALWANI",
+  "12 OF 12",
+  "GUILTY",
+  "THERANOS"
+ ],
+ "tags": [
+  "Sunny Balwani",
+  "Theranos",
+  "Elizabeth Holmes",
+  "Ramesh Balwani",
+  "Theranos trial",
+  "Theranos explained",
+  "business documentary",
+  "fraud case"
+ ],
+ "sources": [
+  "US Court of Appeals for the Ninth Circuit, United States v. Holmes / United States v. Balwani, Nos. 22-10338 & 23-1166, order denying rehearing and amended opinion (22 Dec 2025): https://cdn.ca9.uscourts.gov/datastore/opinions/2025/12/22/23-1166.pdf",
+  "US Supreme Court, docket No. 25-1330, Balwani v. United States (petition denied 5 Oct 2026): https://www.supremecourt.gov/docket/docketfiles/html/public/25-1330.html",
+  "Balwani petition for a writ of certiorari, No. 25-1330 (21 May 2026): https://www.supremecourt.gov/DocketPDF/25/25-1330/409549/20260521155125395_2026-05-21%20Petition.pdf",
+  "US Attorney's Office, Northern District of California, 'Theranos President Sentenced To More Than 12 Years For Fraud That Jeopardized Patient Health And Bilked Investors' (7 Dec 2022): https://www.justice.gov/usao-ndca/pr/theranos-president-sentenced-more-12-years-fraud-jeopardized-patient-health-and-bilked",
+  "Centers for Medicare & Medicaid Services, letter to Theranos Inc. (Sunil Dhawan, Elizabeth Holmes, Ramesh Balwani), 'Proposed sanctions - Conditions not met, immediate jeopardy' (18 Mar 2016): https://www.classaction.org/media/theranos-sanctions-letter.pdf",
+  "SEC, 'Theranos, CEO Holmes, and Former President Balwani Charged With Massive Fraud', press release 2018-41 (14 Mar 2018): https://www.sec.gov/news/press-release/2018-41",
+  "CNN (Sara Ashley O'Brien), 'The criminal fraud case of Elizabeth Holmes' former second-in-command heads to jury' (Jun 2022): https://ktvz.com/lifestyle/technology/cnn-social-media-technology/2022/06/24/the-criminal-fraud-case-of-elizabeth-holmes-former-second-in-command-heads-to-jury/",
+  "Associated Press (Michael Liedtke), 'Final arguments unfold in second act of Theranos trial drama' (21 Jun 2022): https://www.startribune.com/trial-of-former-theranos-exec-sunny-balwani-nears-end/600183855",
+  "ABC News via Yahoo (Ivan Pereira), 'How the two Theranos trials led to different outcomes for Elizabeth Holmes, Sunny Balwani' (8 Jul 2022): https://uk.news.yahoo.com/two-theranos-trials-led-different-204600059.html",
+  "Fortune (Amiah Taylor), texts between Holmes and Balwani (14 Apr 2022): https://fortune.com/2022/04/14/elizabeth-holmes-sunny-balwani-text-messages-trial/",
+  "NBC Bay Area (Scott Budman), 'Dramatic messages revealed during Elizabeth Holmes trial' (22 Sep 2021): https://www.nbcbayarea.com/news/local/elizabeth-holmes-trial/dramatic-messages-revealed-during-elizabeth-holmes-trial/2663841/",
+  "Associated Press via WYPR, 'Elizabeth Holmes loses her latest bid to avoid prison' (17 May 2023): https://www.wypr.org/2023-05-17/elizabeth-holmes-loses-her-latest-bid-to-avoid-prison"
+ ],
+ "altered": {
+  "disclose": false,
+  "reason": "Generic synthetic narrator (Kokoro bm_george) not imitating any real person; quotes attributed by the narrator and shown as on-screen text; original code-generated charts, text graphics and music; no realistic synthetic imagery or altered real footage."
+ },
+ "notes": {
+  "status": "fact-checked 19 Nov 2026",
+  "factcheck_log": "19 Nov 2026 independent sub-agent: ~75 scenes + 3 Shorts verified against sources; fixed: QC testimony attributed to former employees (not lab directors); voiding finding = trial judge, probative of Holmes's knowledge; DOJ wording patient impact existed for every test; employment (not board) dates Sep 2009-Jul 2016; at least two other witnesses; no objection at trial (plain error); HCG wording (one woman); $230m and Mattis testimony given at Holmes's trial; no current-custody claim; Schenk speculation quote src CNN; title changed from 'Guilty on All 12 Counts. Holmes Wasn't' (Holmes was convicted on 4).",
+  "alt_titles": [
+   "Sunny Balwani: Convicted on Patients. Holmes Wasn't",
+   "Sunny Balwani: False Testimony, Still Guilty. Why?"
+  ],
+  "thumbnails": {
+   "A": "Name hero: 'BALWANI' in huge white Poppins Bold (~30% of height) across the top; below-left a cream CMS letter excerpt with the highlighted line 'Ramesh Balwani, Owner'; red GUILTY stamp. Dark navy, no cream full-page card (varies from 003-009).",
+   "B": "Split: left 'HOLMES' grey with 'NOT GUILTY' (patients), right 'BALWANI' white with red '12/12'; one highlighted docket line '5 Oct 2026: Petition denied'."
+  },
+  "topic_check": "19 Nov 2026: swapped in for 'Northern Rock vs SVB' (no person, no news peg, reused research). Person-led search demand ('sunny balwani' in Studio search terms 17 Nov); news peg: Supreme Court denied cert 5 Oct 2026 (No. 25-1330); primary docs copycats skip: CMS 18 Mar 2016 letter naming 'Ramesh Balwani, Owner', 9th Cir. amended opinion 22 Dec 2025 ('actually false' Tolbert testimony), cert petition.",
+  "legal": "SEC claims = allegations. Criminal findings as jury/court found. No speculation on jurors' reasons (stated on screen). Media quotes attributed to outlet. 'Our analysis' labelled as our reading. No claim on release date (BOP dates change).",
+  "links": "Related: 003 Theranos (https://youtu.be/vdXslodih6A). Next: 011 Thomas Cook (Sat 28 Nov).",
+  "image_scenes": "not supported yet",
+  "experiment": "x5 opening kept: first 5 s = false-testimony paradox over the 9th Cir. document; no title/chapter card before ~0:35; scenes 1-7 short; reveal promised at ~0:10; learn-sentence at ~0:20; chapter re-hooks as questions."
+ },
+ "scenes": [
+  {
+   "say": "An appeals court agreed that a witness at Sunny Balwani's fraud trial gave false testimony.",
+   "visual": {
+    "type": "document",
+    "header": "US Court of Appeals, Ninth Circuit",
+    "title": "United States v. Balwani",
+    "lines": [
+     "No. 22-10338",
+     "!Tolbert's statement was \"actually false\""
+    ],
+    "stamp": "AMENDED",
+    "src": "9th Cir. amended opinion, 22 Dec 2025"
+   },
+   "src": "9th Cir. amended opinion, 22 Dec 2025",
+   "pause": 0.2,
+   "chapter": "Cold open"
+  },
+  {
+   "say": "So why does his conviction still stand?",
+   "visual": {
+    "type": "stats",
+    "title": "The question",
+    "items": [
+     [
+      "False",
+      "testimony, the court agreed"
+     ],
+     [
+      "155",
+      "month sentence"
+     ]
+    ],
+    "hi": 1,
+    "src": "9th Cir. amended opinion, 22 Dec 2025; US Attorney NDCA, 7 Dec 2022"
+   },
+   "src": "9th Cir. amended opinion, 22 Dec 2025; US Attorney NDCA, 7 Dec 2022",
+   "pause": 0.2
+  },
+  {
+   "say": "In October, the Supreme Court refused to hear his case.",
+   "visual": {
+    "type": "timeline",
+    "date": "5 Oct 2026",
+    "text": "Supreme Court denies Balwani's petition",
+    "src": "US Supreme Court docket 25-1330"
+   },
+   "src": "US Supreme Court docket 25-1330",
+   "pause": 0.2
+  },
+  {
+   "say": "By the end, you'll see the one sentence that kept his conviction standing.",
+   "visual": {
+    "type": "quote",
+    "text": "We assume without deciding that the government had a duty to correct the inaccurate statement.",
+    "by": "Ninth Circuit, amended opinion",
+    "src": "9th Cir. amended opinion, 22 Dec 2025"
+   },
+   "src": "9th Cir. amended opinion, 22 Dec 2025",
+   "pause": 0.2
+  },
+  {
+   "say": "And there's a second puzzle.",
+   "visual": {
+    "type": "stat",
+    "value": "12 of 12",
+    "label": "counts on which Balwani was convicted",
+    "red": true,
+    "src": "US Attorney NDCA, 7 Dec 2022"
+   },
+   "src": "US Attorney NDCA, 7 Dec 2022",
+   "pause": 0.2
+  },
+  {
+   "say": "Elizabeth Holmes was acquitted of defrauding patients. Balwani was convicted of it.",
+   "visual": {
+    "type": "bars",
+    "title": "Patient fraud charges: guilty verdicts",
+    "items": [
+     [
+      "Elizabeth Holmes",
+      0.05,
+      "0"
+     ],
+     [
+      "Sunny Balwani",
+      1,
+      "All"
+     ]
+    ],
+    "hi": 1,
+    "src": "US Attorney NDCA, 7 Dec 2022"
+   },
+   "src": "US Attorney NDCA, 7 Dec 2022",
+   "pause": 0.2
+  },
+  {
+   "say": "Today you'll learn what he ran, what patients received, and how two juries reached two different results.",
+   "visual": {
+    "type": "list",
+    "title": "In this case file",
+    "items": [
+     "The lab he oversaw",
+     "What patients were told",
+     "Two trials, two verdicts",
+     "The false testimony"
+    ],
+    "src": "9th Cir. amended opinion, 22 Dec 2025; US Attorney NDCA, 7 Dec 2022"
+   },
+   "src": "9th Cir. amended opinion, 22 Dec 2025; US Attorney NDCA, 7 Dec 2022",
+   "pause": 0.3
+  },
+  {
+   "say": "Chapter one. The number two. Was Balwani really just Holmes's deputy?",
+   "visual": {
+    "type": "chapter",
+    "n": 1,
+    "text": "The number two",
+    "src": "9th Cir. amended opinion, 22 Dec 2025"
+   },
+   "src": "9th Cir. amended opinion, 22 Dec 2025",
+   "pause": 0.35,
+   "chapter": "The number two"
+  },
+  {
+   "say": "The appeals court says he and Holmes were in a romantic relationship from 2004 to 2016.",
+   "visual": {
+    "type": "timeline",
+    "date": "2004 - 2016",
+    "text": "Holmes and Balwani's relationship, per the court",
+    "src": "9th Cir. amended opinion, 22 Dec 2025"
+   },
+   "src": "9th Cir. amended opinion, 22 Dec 2025",
+   "pause": 0.35
+  },
+  {
+   "say": "He joined Theranos in 2009 and was later appointed its president and chief operating officer.",
+   "visual": {
+    "type": "document",
+    "header": "Ninth Circuit, amended opinion",
+    "title": "Ramesh 'Sunny' Balwani",
+    "lines": [
+     "Joined Theranos in 2009",
+     "!President and Chief Operating Officer"
+    ],
+    "src": "9th Cir. amended opinion, 22 Dec 2025"
+   },
+   "src": "9th Cir. amended opinion, 22 Dec 2025",
+   "pause": 0.35
+  },
+  {
+   "say": "Prosecutors say he worked there from September 2009 to July 2016, as board member, chief operating officer and president.",
+   "visual": {
+    "type": "stats",
+    "title": "Sep 2009 - Jul 2016, per prosecutors",
+    "items": [
+     [
+      "Board",
+      "member"
+     ],
+     [
+      "COO",
+      "operations"
+     ],
+     [
+      "President",
+      "of Theranos"
+     ]
+    ],
+    "src": "US Attorney NDCA, 7 Dec 2022"
+   },
+   "src": "US Attorney NDCA, 7 Dec 2022",
+   "pause": 0.35
+  },
+  {
+   "say": "And he had a stake. Nearly thirty million shares, more than six per cent of the company.",
+   "visual": {
+    "type": "stat",
+    "value": "6%+",
+    "label": "of Theranos owned by Balwani",
+    "sub": "nearly 30 million shares, per prosecutors",
+    "src": "US Attorney NDCA, 7 Dec 2022"
+   },
+   "src": "US Attorney NDCA, 7 Dec 2022",
+   "pause": 0.35
+  },
+  {
+   "say": "According to the court, he oversaw the patient-testing lab and was the main contact for the retail partners, Safeway and Walgreens.",
+   "visual": {
+    "type": "list",
+    "title": "What the court says he ran",
+    "items": [
+     "Operations in the patient-testing lab",
+     "The Safeway relationship",
+     "The Walgreens relationship"
+    ],
+    "src": "9th Cir. amended opinion, 22 Dec 2025"
+   },
+   "src": "9th Cir. amended opinion, 22 Dec 2025",
+   "pause": 0.35
+  },
+  {
+   "say": "The court adds that the exact split of duties between him and Holmes was disputed at trial.",
+   "visual": {
+    "type": "quote",
+    "text": "The precise division of responsibilities between Holmes and Balwani was disputed at trial.",
+    "by": "Ninth Circuit (paraphrased on screen)",
+    "src": "9th Cir. amended opinion, 22 Dec 2025"
+   },
+   "src": "9th Cir. amended opinion, 22 Dec 2025",
+   "pause": 0.35
+  },
+  {
+   "say": "His own words, shown to his jury, according to Fortune: I am responsible for everything at Theranos.",
+   "visual": {
+    "type": "quote",
+    "text": "I am responsible for everything at Theranos.",
+    "by": "Balwani, text to Holmes, as reported by Fortune",
+    "src": "Fortune, 14 Apr 2022"
+   },
+   "src": "Fortune, 14 Apr 2022",
+   "pause": 0.35
+  },
+  {
+   "say": "Chapter two. The lab. What did the man in charge of it know?",
+   "visual": {
+    "type": "chapter",
+    "n": 2,
+    "text": "The lab",
+    "src": "9th Cir. amended opinion, 22 Dec 2025"
+   },
+   "src": "9th Cir. amended opinion, 22 Dec 2025",
+   "pause": 0.35,
+   "chapter": "The lab"
+  },
+  {
+   "say": "Theranos promised fast blood tests from a few drops, run on its own machine, the Edison.",
+   "visual": {
+    "type": "document",
+    "header": "The pitch",
+    "title": "The Edison",
+    "lines": [
+     "A few drops of blood",
+     "!Run on Theranos's own device"
+    ],
+    "src": "9th Cir. amended opinion, 22 Dec 2025"
+   },
+   "src": "9th Cir. amended opinion, 22 Dec 2025",
+   "pause": 0.35
+  },
+  {
+   "say": "The court says Theranos developed three hundred small-sample tests. Only twelve were ever run on the Edison.",
+   "visual": {
+    "type": "bars",
+    "title": "Small-sample tests",
+    "items": [
+     [
+      "Developed",
+      300,
+      "300"
+     ],
+     [
+      "Ever run on the Edison",
+      12,
+      "12"
+     ]
+    ],
+    "hi": 1,
+    "src": "9th Cir. amended opinion, 22 Dec 2025"
+   },
+   "src": "9th Cir. amended opinion, 22 Dec 2025",
+   "pause": 0.35
+  },
+  {
+   "say": "For visiting investors, the court says, the device ran a null protocol, while some samples were secretly run on other companies' machines.",
+   "visual": {
+    "type": "list",
+    "title": "The VIP demo, per the court",
+    "items": [
+     "The Edison ran a 'null protocol'",
+     "Some samples went to third-party machines"
+    ],
+    "src": "9th Cir. amended opinion, 22 Dec 2025"
+   },
+   "src": "9th Cir. amended opinion, 22 Dec 2025",
+   "pause": 0.35
+  },
+  {
+   "say": "Former employees testified that the Edison consistently failed quality control checks. The court says they told Holmes and Balwani in real time.",
+   "visual": {
+    "type": "document",
+    "header": "Trial evidence, per the Ninth Circuit",
+    "title": "Inside the lab",
+    "lines": [
+     "Edison failed quality control checks",
+     "!Concerns raised with Holmes and Balwani"
+    ],
+    "src": "9th Cir. amended opinion, 22 Dec 2025"
+   },
+   "src": "9th Cir. amended opinion, 22 Dec 2025",
+   "pause": 0.35
+  },
+  {
+   "say": "In a text to Holmes, reported by NBC Bay Area, Balwani called a Theranos lab a disaster zone.",
+   "visual": {
+    "type": "quote",
+    "text": "...lab is a f-ing disaster zone.",
+    "by": "Balwani, text to Holmes, as reported by NBC Bay Area",
+    "src": "NBC Bay Area, 22 Sep 2021"
+   },
+   "src": "NBC Bay Area, 22 Sep 2021",
+   "pause": 0.35
+  },
+  {
+   "say": "Associated Press reporting dates that message to 2014.",
+   "visual": {
+    "type": "timeline",
+    "date": "2014",
+    "text": "The 'disaster zone' text",
+    "src": "AP, 21 Jun 2022"
+   },
+   "src": "AP, 21 Jun 2022",
+   "pause": 0.35
+  },
+  {
+   "say": "In late 2015, federal inspectors arrived unannounced. They found deficiencies posing immediate jeopardy to patient health.",
+   "visual": {
+    "type": "stat",
+    "value": "Immediate jeopardy",
+    "label": "to patient health, the regulator concluded",
+    "red": true,
+    "src": "9th Cir. amended opinion, 22 Dec 2025"
+   },
+   "src": "9th Cir. amended opinion, 22 Dec 2025",
+   "pause": 0.35
+  },
+  {
+   "say": "Here is the regulator's letter of March 2016. Look who it was addressed to.",
+   "visual": {
+    "type": "document",
+    "header": "CMS · 18 Mar 2016",
+    "title": "Proposed sanctions",
+    "lines": [
+     "Sunil Dhawan, M.D., Director",
+     "Elizabeth Holmes, Owner",
+     "!Ramesh Balwani, Owner"
+    ],
+    "stamp": "IMMEDIATE JEOPARDY",
+    "src": "CMS letter to Theranos, 18 Mar 2016"
+   },
+   "src": "CMS letter to Theranos, 18 Mar 2016",
+   "pause": 0.35
+  },
+  {
+   "say": "It proposed revoking the lab's licence, fines of ten thousand dollars a day, and a ban of at least two years on its owners and operators.",
+   "visual": {
+    "type": "stats",
+    "title": "Proposed by the regulator",
+    "items": [
+     [
+      "Revoke",
+      "lab certificate"
+     ],
+     [
+      "$10k",
+      "fine per day"
+     ],
+     [
+      "2 yrs+",
+      "ban on owners and operators"
+     ]
+    ],
+    "hi": 2,
+    "src": "CMS letter to Theranos, 18 Mar 2016"
+   },
+   "src": "CMS letter to Theranos, 18 Mar 2016",
+   "pause": 0.35
+  },
+  {
+   "say": "For several deficiencies, Theranos told the regulator no patient impact was expected. The agency said it gave no information on how it reached that conclusion.",
+   "visual": {
+    "type": "quote",
+    "text": "No patient impact is expected.",
+    "by": "Theranos submission, quoted by CMS",
+    "src": "CMS letter to Theranos, 18 Mar 2016"
+   },
+   "src": "CMS letter to Theranos, 18 Mar 2016",
+   "pause": 0.35
+  },
+  {
+   "say": "Chapter three. The patients. What happens when a blood test is wrong?",
+   "visual": {
+    "type": "chapter",
+    "n": 3,
+    "text": "The patients",
+    "src": "US Attorney NDCA, 7 Dec 2022"
+   },
+   "src": "US Attorney NDCA, 7 Dec 2022",
+   "pause": 0.35,
+   "chapter": "The patients"
+  },
+  {
+   "say": "Prosecutors laid it out after sentencing. A doctor received repeatedly elevated results on a test used to screen for prostate cancer.",
+   "visual": {
+    "type": "document",
+    "header": "US Attorney, Northern District of California",
+    "title": "Patient 1: PSA test",
+    "lines": [
+     "Repeatedly elevated results",
+     "!Later shown to be inaccurate"
+    ],
+    "src": "US Attorney NDCA, 7 Dec 2022"
+   },
+   "src": "US Attorney NDCA, 7 Dec 2022",
+   "pause": 0.35
+  },
+  {
+   "say": "Conventional tests approved by regulators later showed those results were inaccurate.",
+   "visual": {
+    "type": "stats",
+    "title": "PSA results",
+    "items": [
+     [
+      "Theranos",
+      "elevated"
+     ],
+     [
+      "Conventional lab",
+      "inaccurate result shown"
+     ]
+    ],
+    "hi": 0,
+    "src": "US Attorney NDCA, 7 Dec 2022"
+   },
+   "src": "US Attorney NDCA, 7 Dec 2022",
+   "pause": 0.35
+  },
+  {
+   "say": "Pregnant women received wrong pregnancy-hormone results. One was told she was likely miscarrying. Conventional tests showed a viable pregnancy.",
+   "visual": {
+    "type": "list",
+    "title": "Patient 2: pregnancy tests",
+    "items": [
+     "Wrong HCG results for pregnant women",
+     "One told she was likely miscarrying",
+     "Conventional test: viable pregnancy",
+     "She later delivered a healthy baby"
+    ],
+    "src": "US Attorney NDCA, 7 Dec 2022"
+   },
+   "src": "US Attorney NDCA, 7 Dec 2022",
+   "pause": 0.35
+  },
+  {
+   "say": "A Theranos employee on blood thinners got results far from earlier tests. A doctor changed the dose. A traditional lab later showed the change wasn't needed.",
+   "visual": {
+    "type": "timeline",
+    "date": "Patient 3",
+    "text": "Medication changed on a result later shown unnecessary",
+    "src": "US Attorney NDCA, 7 Dec 2022"
+   },
+   "src": "US Attorney NDCA, 7 Dec 2022",
+   "pause": 0.35
+  },
+  {
+   "say": "The court says evidence linked Balwani to sending out those inaccurate results, and to buying adverts for Theranos wellness centres in Arizona.",
+   "visual": {
+    "type": "list",
+    "title": "Linked to Balwani, per the court",
+    "items": [
+     "Transmission of inaccurate results",
+     "Adverts for Arizona wellness centres"
+    ],
+    "src": "9th Cir. amended opinion, 22 Dec 2025"
+   },
+   "src": "9th Cir. amended opinion, 22 Dec 2025",
+   "pause": 0.35
+  },
+  {
+   "say": "In the end, prosecutors say, Theranos itself concluded a patient impact existed for every test run on a patient, and it voided all tests run on its analyser.",
+   "visual": {
+    "type": "stat",
+    "value": "ALL",
+    "label": "patient tests on the Edison voided",
+    "red": true,
+    "src": "US Attorney NDCA, 7 Dec 2022"
+   },
+   "src": "US Attorney NDCA, 7 Dec 2022",
+   "pause": 0.35
+  },
+  {
+   "say": "The trial judge found that decision was not voluntary. The appeals court let that stand, and said at Holmes's trial it could show what she knew.",
+   "visual": {
+    "type": "quote",
+    "text": "Voiding every Edison result was probative of Holmes's knowledge.",
+    "by": "Ninth Circuit, on Holmes's trial (paraphrased)",
+    "src": "9th Cir. amended opinion, 22 Dec 2025"
+   },
+   "src": "9th Cir. amended opinion, 22 Dec 2025",
+   "pause": 0.35
+  },
+  {
+   "say": "Patient health, the US Attorney said, is the highest priority of our healthcare system. And of Balwani, she said: he chose deceit over candour with patients in need of medical care.",
+   "visual": {
+    "type": "quote",
+    "text": "He chose deceit over candor with patients in need of medical care.",
+    "by": "US Attorney Stephanie M. Hinds, 7 Dec 2022",
+    "src": "US Attorney NDCA, 7 Dec 2022"
+   },
+   "src": "US Attorney NDCA, 7 Dec 2022",
+   "pause": 0.35
+  },
+  {
+   "say": "Chapter four. The pitch. Why did so much money keep coming in?",
+   "visual": {
+    "type": "chapter",
+    "n": 4,
+    "text": "The pitch",
+    "src": "US Attorney NDCA, 7 Dec 2022"
+   },
+   "src": "US Attorney NDCA, 7 Dec 2022",
+   "pause": 0.35,
+   "chapter": "The pitch"
+  },
+  {
+   "say": "By March 2015, prosecutors say, Theranos had raised more than seven hundred and thirty million dollars in its Series C rounds.",
+   "visual": {
+    "type": "stat",
+    "value": "$730m+",
+    "label": "raised from Series C-1 and C-2 investors by March 2015",
+    "src": "US Attorney NDCA, 7 Dec 2022"
+   },
+   "src": "US Attorney NDCA, 7 Dec 2022",
+   "pause": 0.35
+  },
+  {
+   "say": "The court says Theranos had no revenue in 2012 or 2013, and lost fifty-seven million, then ninety-two million dollars.",
+   "visual": {
+    "type": "bars",
+    "title": "Net losses, per the court",
+    "items": [
+     [
+      "2012",
+      57,
+      "$57m"
+     ],
+     [
+      "2013",
+      92,
+      "$92m"
+     ]
+    ],
+    "hi": 1,
+    "src": "9th Cir. amended opinion, 22 Dec 2025"
+   },
+   "src": "9th Cir. amended opinion, 22 Dec 2025",
+   "pause": 0.35
+  },
+  {
+   "say": "In November 2013, Balwani told Holmes the company was down to fifteen million dollars in cash.",
+   "visual": {
+    "type": "document",
+    "header": "Trial evidence, per the Ninth Circuit",
+    "title": "Balwani to Holmes · Nov 2013",
+    "lines": [
+     "!Down to $15 million in cash"
+    ],
+    "src": "9th Cir. amended opinion, 22 Dec 2025"
+   },
+   "src": "9th Cir. amended opinion, 22 Dec 2025",
+   "pause": 0.35
+  },
+  {
+   "say": "Yet at Holmes's trial, one investor testified she was shown a projected profit of two hundred and thirty million dollars by the end of 2015.",
+   "visual": {
+    "type": "stats",
+    "title": "Told vs reported",
+    "items": [
+     [
+      "$230m",
+      "projected 2015 profit, one investor testified"
+     ],
+     [
+      "$1.94m",
+      "total income reported to the IRS for 2015"
+     ]
+    ],
+    "hi": 1,
+    "src": "9th Cir. amended opinion, 22 Dec 2025"
+   },
+   "src": "9th Cir. amended opinion, 22 Dec 2025",
+   "pause": 0.35
+  },
+  {
+   "say": "Investors were also led to believe the military used the device. At Holmes's trial, General James Mattis testified it was never fielded.",
+   "visual": {
+    "type": "stats",
+    "title": "The military claim",
+    "items": [
+     [
+      "Told",
+      "used by the military"
+     ],
+     [
+      "Mattis",
+      "never fielded"
+     ]
+    ],
+    "hi": 1,
+    "src": "9th Cir. amended opinion, 22 Dec 2025"
+   },
+   "src": "9th Cir. amended opinion, 22 Dec 2025",
+   "pause": 0.35
+  },
+  {
+   "say": "And reports carried the logos of drug companies that, their representatives said, had never validated the technology or allowed their logos to be used.",
+   "visual": {
+    "type": "document",
+    "header": "Trial evidence, per the Ninth Circuit",
+    "title": "Validation reports",
+    "lines": [
+     "Pharma logos added to reports",
+     "!Companies never validated or authorised it"
+    ],
+    "src": "9th Cir. amended opinion, 22 Dec 2025"
+   },
+   "src": "9th Cir. amended opinion, 22 Dec 2025",
+   "pause": 0.35
+  },
+  {
+   "say": "In the court's words, Holmes and Balwani painted a very different picture to investors.",
+   "visual": {
+    "type": "quote",
+    "text": "Holmes and Balwani painted a very different picture to investors.",
+    "by": "Ninth Circuit",
+    "src": "9th Cir. amended opinion, 22 Dec 2025"
+   },
+   "src": "9th Cir. amended opinion, 22 Dec 2025",
+   "pause": 0.35
+  },
+  {
+   "say": "Prosecutors say Balwani reviewed and approved a 2013 Wall Street Journal article calling the technology faster, cheaper and more accurate. They called that false and misleading.",
+   "visual": {
+    "type": "list",
+    "title": "2013 WSJ article, per prosecutors",
+    "items": [
+     "Reviewed and approved by Balwani",
+     "Claimed: faster, cheaper, more accurate",
+     "Government: false and misleading"
+    ],
+    "src": "US Attorney NDCA, 7 Dec 2022"
+   },
+   "src": "US Attorney NDCA, 7 Dec 2022",
+   "pause": 0.35
+  },
+  {
+   "say": "They also say the pair claimed Walgreens wellness centres would grow from a few dozen to nine hundred, while knowing the relationship was stagnating.",
+   "visual": {
+    "type": "bars",
+    "title": "Walgreens wellness centres, per prosecutors",
+    "items": [
+     [
+      "Actual: a few dozen",
+      40,
+      "dozens"
+     ],
+     [
+      "Claimed growth to",
+      900,
+      "900"
+     ]
+    ],
+    "hi": 1,
+    "src": "US Attorney NDCA, 7 Dec 2022"
+   },
+   "src": "US Attorney NDCA, 7 Dec 2022",
+   "pause": 0.35
+  },
+  {
+   "say": "The Securities and Exchange Commission also charged Balwani in 2018. Those are allegations; he chose to fight them in court.",
+   "visual": {
+    "type": "document",
+    "header": "SEC · 14 Mar 2018",
+    "title": "Press release 2018-41",
+    "lines": [
+     "Raised more than $700 million",
+     "!SEC will litigate its claims against Balwani"
+    ],
+    "src": "SEC press release 2018-41"
+   },
+   "src": "SEC press release 2018-41",
+   "pause": 0.35
+  },
+  {
+   "say": "Chapter five. Two trials. Same judge, same company. So why different verdicts?",
+   "visual": {
+    "type": "chapter",
+    "n": 5,
+    "text": "Two trials",
+    "src": "US Attorney NDCA, 7 Dec 2022"
+   },
+   "src": "US Attorney NDCA, 7 Dec 2022",
+   "pause": 0.35,
+   "chapter": "Two trials"
+  },
+  {
+   "say": "Holmes and Balwani were tried separately, both before Judge Edward Davila. The trials were split after Holmes accused him of abuse in their relationship, which he denied.",
+   "visual": {
+    "type": "stats",
+    "title": "Two trials, one judge",
+    "items": [
+     [
+      "2021",
+      "Holmes trial"
+     ],
+     [
+      "2022",
+      "Balwani trial"
+     ]
+    ],
+    "src": "US Attorney NDCA, 7 Dec 2022"
+   },
+   "src": "US Attorney NDCA, 7 Dec 2022",
+   "pause": 0.35
+  },
+  {
+   "say": "In January 2022, Holmes's jury convicted her on four investor counts, acquitted her on all four patient charges, and hung on three more.",
+   "visual": {
+    "type": "bars",
+    "title": "Holmes verdict, 3 Jan 2022",
+    "items": [
+     [
+      "Guilty (investors)",
+      4,
+      "4"
+     ],
+     [
+      "Not guilty (patients)",
+      4,
+      "4"
+     ],
+     [
+      "No verdict",
+      3,
+      "3"
+     ]
+    ],
+    "hi": 1,
+    "src": "US Attorney NDCA, 7 Dec 2022"
+   },
+   "src": "US Attorney NDCA, 7 Dec 2022",
+   "pause": 0.35
+  },
+  {
+   "say": "One clear difference: Holmes took the stand. Balwani did not.",
+   "visual": {
+    "type": "stats",
+    "title": "In the witness box",
+    "items": [
+     [
+      "Holmes",
+      "testified in her own defence"
+     ],
+     [
+      "Balwani",
+      "did not testify"
+     ]
+    ],
+    "hi": 1,
+    "src": "CNN, Jun 2022"
+   },
+   "src": "CNN, Jun 2022",
+   "pause": 0.35
+  },
+  {
+   "say": "His lawyer reminded jurors that silence was his constitutional right.",
+   "visual": {
+    "type": "quote",
+    "text": "That is his constitutional right, and it cannot be used in any way against him.",
+    "by": "Jeffrey Coopersmith, Balwani's lawyer, via CNN",
+    "src": "CNN, Jun 2022"
+   },
+   "src": "CNN, Jun 2022",
+   "pause": 0.35
+  },
+  {
+   "say": "The government called about two dozen witnesses: patients, investors, former employees and business partners. The defence called two.",
+   "visual": {
+    "type": "bars",
+    "title": "Witnesses called, per CNN",
+    "items": [
+     [
+      "Prosecution",
+      24,
+      "about 24"
+     ],
+     [
+      "Defence",
+      2,
+      "2"
+     ]
+    ],
+    "hi": 0,
+    "src": "CNN, Jun 2022"
+   },
+   "src": "CNN, Jun 2022",
+   "pause": 0.35
+  },
+  {
+   "say": "ABC's Rebecca Jarvis called it the biggest difference between the trials.",
+   "visual": {
+    "type": "quote",
+    "text": "The biggest difference is that he didn't take the stand to say, 'I didn't do this.'",
+    "by": "Rebecca Jarvis, ABC News",
+    "src": "ABC News, 8 Jul 2022"
+   },
+   "src": "ABC News, 8 Jul 2022",
+   "pause": 0.35
+  },
+  {
+   "say": "His defence leaned on missing evidence: a database of test results that no longer existed. In a scientific fraud case, his lawyer argued, you need the scientific data.",
+   "visual": {
+    "type": "document",
+    "header": "Defence closing, via CNN",
+    "title": "The missing database",
+    "lines": [
+     "\"In a scientific fraud case...",
+     "!...you need to have the scientific data.\""
+    ],
+    "src": "CNN, Jun 2022"
+   },
+   "src": "CNN, Jun 2022",
+   "pause": 0.35
+  },
+  {
+   "say": "The prosecutor called that speculation, and told jurors Balwani was no victim.",
+   "visual": {
+    "type": "quote",
+    "text": "Mr. Balwani is not a victim, he is the perpetrator of the fraud.",
+    "by": "Prosecutor Jeffrey Schenk, via AP",
+    "src": "AP, 21 Jun 2022; CNN, Jun 2022"
+   },
+   "src": "AP, 21 Jun 2022; CNN, Jun 2022",
+   "pause": 0.35
+  },
+  {
+   "say": "Closing arguments alone took nearly four days.",
+   "visual": {
+    "type": "timeline",
+    "date": "June 2022",
+    "text": "Closing arguments last nearly four days",
+    "src": "CNN, Jun 2022"
+   },
+   "src": "CNN, Jun 2022",
+   "pause": 0.35
+  },
+  {
+   "say": "On the seventh of July 2022, after a four-month trial, the jury convicted him on all twelve counts, investors and patients alike.",
+   "visual": {
+    "type": "document",
+    "header": "US Attorney, NDCA",
+    "title": "United States v. Balwani",
+    "lines": [
+     "Two conspiracy counts, ten wire fraud counts",
+     "!Guilty on all counts"
+    ],
+    "stamp": "GUILTY",
+    "src": "US Attorney NDCA, 7 Dec 2022"
+   },
+   "src": "US Attorney NDCA, 7 Dec 2022",
+   "pause": 0.35
+  },
+  {
+   "say": "A verdict gives no reasons, so we won't guess what either jury thought.",
+   "visual": {
+    "type": "list",
+    "title": "What we can say",
+    "items": [
+     "Verdicts don't explain themselves",
+     "Holmes testified; Balwani didn't",
+     "The court says he oversaw the lab"
+    ],
+    "src": "9th Cir. amended opinion, 22 Dec 2025; CNN, Jun 2022"
+   },
+   "src": "9th Cir. amended opinion, 22 Dec 2025; CNN, Jun 2022",
+   "pause": 0.35
+  },
+  {
+   "say": "In December, Judge Davila sentenced him to a hundred and fifty-five months. Twelve years and eleven months, longer than Holmes.",
+   "visual": {
+    "type": "bars",
+    "title": "Sentences",
+    "items": [
+     [
+      "Elizabeth Holmes",
+      135,
+      "135 months"
+     ],
+     [
+      "Sunny Balwani",
+      155,
+      "155 months"
+     ]
+    ],
+    "hi": 1,
+    "src": "US Attorney NDCA, 7 Dec 2022"
+   },
+   "src": "US Attorney NDCA, 7 Dec 2022",
+   "pause": 0.35
+  },
+  {
+   "say": "In May 2023, the court ordered the two of them, jointly, to repay four hundred and fifty-two million dollars.",
+   "visual": {
+    "type": "stat",
+    "value": "$452m",
+    "label": "restitution, owed jointly by Holmes and Balwani",
+    "sub": "incl. $54.5m to Safeway and Walgreens",
+    "src": "9th Cir. amended opinion, 22 Dec 2025; AP via WYPR, 17 May 2023"
+   },
+   "src": "9th Cir. amended opinion, 22 Dec 2025; AP via WYPR, 17 May 2023",
+   "pause": 0.35
+  },
+  {
+   "say": "Prosecutors had asked for about eight hundred million. Both defendants, AP reported, said they were nearly broke after their legal bills.",
+   "visual": {
+    "type": "stats",
+    "title": "Restitution",
+    "items": [
+     [
+      "~$800m",
+      "requested by prosecutors"
+     ],
+     [
+      "$452m",
+      "ordered"
+     ]
+    ],
+    "hi": 1,
+    "src": "AP via WYPR, 17 May 2023"
+   },
+   "src": "AP via WYPR, 17 May 2023",
+   "pause": 0.35
+  },
+  {
+   "say": "Chapter six. The false testimony. If a witness got it wrong, why didn't that matter?",
+   "visual": {
+    "type": "chapter",
+    "n": 6,
+    "text": "The false testimony",
+    "src": "9th Cir. amended opinion, 22 Dec 2025"
+   },
+   "src": "9th Cir. amended opinion, 22 Dec 2025",
+   "pause": 0.35,
+   "chapter": "The false testimony"
+  },
+  {
+   "say": "An investor witness, Bryan Tolbert, testified that Holmes said Theranos devices were used on military medevac helicopters.",
+   "visual": {
+    "type": "document",
+    "header": "Trial testimony, per the Ninth Circuit",
+    "title": "Witness: Bryan Tolbert",
+    "lines": [
+     "Theranos devices on medevac helicopters",
+     "!Court: \"actually false\""
+    ],
+    "src": "9th Cir. amended opinion, 22 Dec 2025"
+   },
+   "src": "9th Cir. amended opinion, 22 Dec 2025",
+   "pause": 0.35
+  },
+  {
+   "say": "The appeals court accepted that statement was actually false. On that point, it said, Balwani is technically correct.",
+   "visual": {
+    "type": "quote",
+    "text": "Balwani is technically correct.",
+    "by": "Ninth Circuit",
+    "src": "9th Cir. amended opinion, 22 Dec 2025"
+   },
+   "src": "9th Cir. amended opinion, 22 Dec 2025",
+   "pause": 0.35
+  },
+  {
+   "say": "Prosecutors have a duty not to let false testimony stand. The court assumed, without deciding, that the duty applied here.",
+   "visual": {
+    "type": "quote",
+    "text": "We assume without deciding that the government had a duty to correct the inaccurate statement.",
+    "by": "Ninth Circuit, amended opinion",
+    "src": "9th Cir. amended opinion, 22 Dec 2025"
+   },
+   "src": "9th Cir. amended opinion, 22 Dec 2025",
+   "pause": 0.35
+  },
+  {
+   "say": "Here's the sentence we promised. Because he didn't raise this objection at trial, the court reviewed it only for plain error, and found it did not seriously affect his rights.",
+   "visual": {
+    "type": "list",
+    "title": "Why the conviction stood",
+    "items": [
+     "Reviewed only for 'plain error'",
+     "Other witnesses gave similar testimony",
+     "He didn't use the recording to challenge Tolbert"
+    ],
+    "src": "9th Cir. amended opinion, 22 Dec 2025; Balwani cert. petition, 21 May 2026"
+   },
+   "src": "9th Cir. amended opinion, 22 Dec 2025; Balwani cert. petition, 21 May 2026",
+   "pause": 0.35
+  },
+  {
+   "say": "At least two other witnesses, the court said, gave similar testimony. And Balwani never used the recording of the 2013 call to challenge Tolbert.",
+   "visual": {
+    "type": "stats",
+    "title": "The court's reasons",
+    "items": [
+     [
+      "2+",
+      "other witnesses, similar testimony"
+     ],
+     [
+      "0",
+      "times the call recording was used to impeach"
+     ]
+    ],
+    "src": "9th Cir. amended opinion, 22 Dec 2025"
+   },
+   "src": "9th Cir. amended opinion, 22 Dec 2025",
+   "pause": 0.35
+  },
+  {
+   "say": "The court also found some lab directors gave expert opinions without being qualified as experts. Harmless, it said. They would have qualified anyway.",
+   "visual": {
+    "type": "document",
+    "header": "Ninth Circuit, amended opinion",
+    "title": "Lab directors' testimony",
+    "lines": [
+     "Some opinion was expert testimony",
+     "!Error harmless: they would have qualified"
+    ],
+    "src": "9th Cir. amended opinion, 22 Dec 2025"
+   },
+   "src": "9th Cir. amended opinion, 22 Dec 2025",
+   "pause": 0.35
+  },
+  {
+   "say": "In December 2025, it refused to rehear the case. No judge asked for a full-court vote.",
+   "visual": {
+    "type": "timeline",
+    "date": "22 Dec 2025",
+    "text": "Rehearing denied; amended opinion filed",
+    "src": "9th Cir. amended opinion, 22 Dec 2025"
+   },
+   "src": "9th Cir. amended opinion, 22 Dec 2025",
+   "pause": 0.35
+  },
+  {
+   "say": "His lawyers took both points to the Supreme Court. The government waived its right to respond.",
+   "visual": {
+    "type": "document",
+    "header": "Supreme Court of the United States",
+    "title": "Balwani v. United States",
+    "lines": [
+     "No. 25-1330",
+     "Jun 2026: US waives response",
+     "!5 Oct 2026: Petition denied"
+    ],
+    "stamp": "DENIED",
+    "src": "US Supreme Court docket 25-1330"
+   },
+   "src": "US Supreme Court docket 25-1330",
+   "pause": 0.35
+  },
+  {
+   "say": "On the fifth of October 2026, the petition was denied, without a word of explanation.",
+   "visual": {
+    "type": "stat",
+    "value": "DENIED",
+    "label": "Supreme Court, 5 October 2026",
+    "red": true,
+    "src": "US Supreme Court docket 25-1330"
+   },
+   "src": "US Supreme Court docket 25-1330",
+   "pause": 0.35
+  },
+  {
+   "say": "Our analysis. So why did the case against the number two hold where the case against the founder partly failed?",
+   "visual": {
+    "type": "chapter",
+    "n": 7,
+    "text": "Our analysis",
+    "src": "9th Cir. amended opinion, 22 Dec 2025"
+   },
+   "src": "9th Cir. amended opinion, 22 Dec 2025",
+   "pause": 0.35,
+   "chapter": "Our analysis"
+  },
+  {
+   "say": "This is our reading, not the court's. The patient case was about a lab, and the court record puts Balwani in charge of that lab.",
+   "visual": {
+    "type": "list",
+    "title": "Our reading",
+    "items": [
+     "The patient case was about the lab",
+     "The court says Balwani oversaw it",
+     "The regulator's letter named him as owner"
+    ],
+    "src": "9th Cir. amended opinion, 22 Dec 2025; CMS letter to Theranos, 18 Mar 2016"
+   },
+   "src": "9th Cir. amended opinion, 22 Dec 2025; CMS letter to Theranos, 18 Mar 2016",
+   "pause": 0.35
+  },
+  {
+   "say": "Holmes told her side for days. Balwani's jury heard no answer from him.",
+   "visual": {
+    "type": "stats",
+    "title": "In the witness box",
+    "items": [
+     [
+      "Holmes",
+      "testified"
+     ],
+     [
+      "Balwani",
+      "did not"
+     ]
+    ],
+    "hi": 1,
+    "src": "CNN, Jun 2022"
+   },
+   "src": "CNN, Jun 2022",
+   "pause": 0.35
+  },
+  {
+   "say": "And the false testimony? The courts didn't say it was harmless to tell it. They said it didn't change the outcome, given everything else.",
+   "visual": {
+    "type": "quote",
+    "text": "Did not seriously affect his substantial rights.",
+    "by": "Ninth Circuit (paraphrased on screen)",
+    "src": "9th Cir. amended opinion, 22 Dec 2025"
+   },
+   "src": "9th Cir. amended opinion, 22 Dec 2025",
+   "pause": 0.35
+  },
+  {
+   "say": "Who paid? Investors, who were owed three hundred and ninety-seven million dollars of the restitution. Walgreens and Safeway. And patients who were handed numbers they trusted about their own bodies.",
+   "visual": {
+    "type": "list",
+    "title": "Who paid",
+    "items": [
+     "Investors: $397m of the restitution",
+     "Safeway and Walgreens: $54.5m",
+     "Patients given wrong results"
+    ],
+    "src": "9th Cir. amended opinion, 22 Dec 2025; US Attorney NDCA, 7 Dec 2022"
+   },
+   "src": "9th Cir. amended opinion, 22 Dec 2025; US Attorney NDCA, 7 Dec 2022",
+   "pause": 0.35
+  },
+  {
+   "say": "Our verdict: Balwani was not a sidekick in this record. He was the person the paperwork kept naming.",
+   "visual": {
+    "type": "document",
+    "header": "Our verdict",
+    "title": "Sunny Balwani",
+    "lines": [
+     "Lab: overseen by him, per the court",
+     "!Convicted on every count"
+    ],
+    "stamp": "AFFIRMED",
+    "src": "9th Cir. amended opinion, 22 Dec 2025; US Attorney NDCA, 7 Dec 2022"
+   },
+   "src": "9th Cir. amended opinion, 22 Dec 2025; US Attorney NDCA, 7 Dec 2022",
+   "pause": 0.4
+  },
+  {
+   "say": "For the founder's side of this story, watch our Theranos episode, linked on screen.",
+   "visual": {
+    "type": "document",
+    "header": "Case file 003",
+    "title": "Theranos",
+    "lines": [
+     "What the jury actually decided",
+     "!The Holmes verdict, from the court record"
+    ],
+    "src": "Filed Under Failure, episode 3"
+   },
+   "src": "Filed Under Failure, episode 3",
+   "pause": 0.35
+  },
+  {
+   "say": "Next Saturday: Thomas Cook. The world's oldest travel firm collapsed overnight, leaving holidaymakers stranded abroad. Who paid to fly them home?",
+   "visual": {
+    "type": "title",
+    "kicker": "Next Saturday",
+    "text": "Thomas Cook",
+    "sub": "Who paid to fly them home?",
+    "src": "Filed Under Failure"
+   },
+   "src": "Filed Under Failure",
+   "pause": 0.35
+  },
+  {
+   "say": "Every fact here is sourced in the description. Subscribe so the next case file finds you.",
+   "visual": {
+    "type": "title",
+    "text": "Filed Under Failure",
+    "sub": "Business collapses, told from the paperwork",
+    "src": "Filed Under Failure"
+   },
+   "src": "Filed Under Failure",
+   "pause": 0.8
+  }
+ ],
+ "shorts": [
+  {
+   "id": "a",
+   "title": "Court: a witness at Sunny Balwani's trial gave false testimony. He's still in prison. #Shorts",
+   "hook": "False testimony. Still guilty.",
+   "blurb": "The Ninth Circuit accepted that investor witness Bryan Tolbert's medevac-helicopter statement at Sunny Balwani's Theranos trial was 'actually false'. It still affirmed his conviction (amended opinion, 22 Dec 2025), and the Supreme Court denied his petition on 5 Oct 2026.",
+   "scenes": [
+    {
+     "say": "An appeals court agreed that a witness at Sunny Balwani's Theranos trial gave false testimony.",
+     "caption": "\"Actually false\" - the court",
+     "visual": {
+      "type": "document",
+      "header": "Ninth Circuit",
+      "title": "United States v. Balwani",
+      "lines": [
+       "!Tolbert's statement was \"actually false\""
+      ],
+      "src": "9th Cir. amended opinion, 22 Dec 2025"
+     },
+     "pause": 0.25
+    },
+    {
+     "say": "The witness said Holmes claimed Theranos devices were used on military medevac helicopters.",
+     "caption": "Medevac helicopters?",
+     "visual": {
+      "type": "list",
+      "title": "The testimony",
+      "items": [
+       "Theranos devices",
+       "on military medevac helicopters"
+      ],
+      "src": "9th Cir. amended opinion, 22 Dec 2025"
+     },
+     "pause": 0.25
+    },
+    {
+     "say": "The court even wrote: Balwani is technically correct.",
+     "caption": "\"Technically correct\"",
+     "visual": {
+      "type": "quote",
+      "text": "Balwani is technically correct.",
+      "by": "Ninth Circuit",
+      "src": "9th Cir. amended opinion, 22 Dec 2025"
+     },
+     "pause": 0.25
+    },
+    {
+     "say": "He was sentenced to a hundred and fifty-five months, and his conviction still stands. In October, the Supreme Court refused to hear his case.",
+     "caption": "155 months. Petition denied.",
+     "visual": {
+      "type": "timeline",
+      "date": "5 Oct 2026",
+      "text": "Supreme Court denies Balwani's petition",
+      "src": "US Supreme Court docket 25-1330"
+     },
+     "pause": 0.25
+    },
+    {
+     "say": "So why didn't false testimony save him? The full story is in the video linked below.",
+     "caption": "Why? Full story below",
+     "visual": {
+      "type": "stats",
+      "title": "The question",
+      "items": [
+       [
+        "False",
+        "testimony"
+       ],
+       [
+        "Still",
+        "guilty"
+       ]
+      ],
+      "hi": 1,
+      "src": "9th Cir. amended opinion, 22 Dec 2025"
+     },
+     "pause": 0.5
+    }
+   ]
+  },
+  {
+   "id": "b",
+   "title": "The regulator's Theranos letter named 'Ramesh Balwani, Owner'. Here's what it said. #Shorts",
+   "hook": "Addressed to Balwani.",
+   "blurb": "The federal lab regulator's letter of 18 March 2016 proposing sanctions against Theranos's Newark lab was addressed to the lab director, Elizabeth Holmes and Ramesh Balwani as owners. It cited immediate jeopardy to patient health and proposed a ban of at least two years on owners and operators.",
+   "scenes": [
+    {
+     "say": "In March 2016, the federal lab regulator wrote to Theranos. One name on the letter was Ramesh Balwani, Owner.",
+     "caption": "\"Ramesh Balwani, Owner\"",
+     "visual": {
+      "type": "document",
+      "header": "CMS · 18 Mar 2016",
+      "title": "Proposed sanctions",
+      "lines": [
+       "Elizabeth Holmes, Owner",
+       "!Ramesh Balwani, Owner"
+      ],
+      "stamp": "IMMEDIATE JEOPARDY",
+      "src": "CMS letter to Theranos, 18 Mar 2016"
+     },
+     "pause": 0.25
+    },
+    {
+     "say": "Inspectors had found problems posing immediate jeopardy to patient health.",
+     "caption": "Immediate jeopardy",
+     "visual": {
+      "type": "stat",
+      "value": "Immediate jeopardy",
+      "label": "to patient health",
+      "red": true,
+      "src": "CMS letter to Theranos, 18 Mar 2016"
+     },
+     "pause": 0.25
+    },
+    {
+     "say": "The regulator proposed fines of ten thousand dollars a day, and a ban of at least two years on the lab's owners and operators.",
+     "caption": "$10,000 a day. 2-year ban.",
+     "visual": {
+      "type": "stats",
+      "title": "Proposed",
+      "items": [
+       [
+        "$10k",
+        "per day"
+       ],
+       [
+        "2 yrs+",
+        "ban on owners"
+       ]
+      ],
+      "hi": 1,
+      "src": "CMS letter to Theranos, 18 Mar 2016"
+     },
+     "pause": 0.25
+    },
+    {
+     "say": "Six years later, a jury decided what Balwani's role in that lab meant. The full story is in the video linked below.",
+     "caption": "What did the jury decide?",
+     "visual": {
+      "type": "timeline",
+      "date": "2016 to 2022",
+      "text": "From the regulator's letter to the jury's verdict",
+      "src": "US Attorney NDCA, 7 Dec 2022"
+     },
+     "pause": 0.5
+    }
+   ]
+  },
+  {
+   "id": "c",
+   "title": "Same company, same judge. Holmes was acquitted of patient fraud. Sunny Balwani wasn't. #Shorts",
+   "hook": "Same lab. Different verdict.",
+   "blurb": "Elizabeth Holmes was acquitted of the patient fraud charges in January 2022. In a separate trial before the same judge, Sunny Balwani was convicted on all twelve counts in July 2022, including the patient charges (US Attorney, NDCA).",
+   "scenes": [
+    {
+     "say": "Elizabeth Holmes was acquitted of defrauding Theranos patients. Sunny Balwani was convicted of it.",
+     "caption": "Acquitted vs convicted",
+     "visual": {
+      "type": "bars",
+      "title": "Patient fraud: guilty verdicts",
+      "items": [
+       [
+        "Holmes",
+        0.05,
+        "0"
+       ],
+       [
+        "Balwani",
+        1,
+        "All"
+       ]
+      ],
+      "hi": 1,
+      "src": "US Attorney NDCA, 7 Dec 2022"
+     },
+     "pause": 0.25
+    },
+    {
+     "say": "Same company. Same judge. Separate trials, six months apart. Holmes testified in her own defence. Balwani never took the stand.",
+     "caption": "Same judge. Separate trials.",
+     "visual": {
+      "type": "stats",
+      "title": "Two trials",
+      "items": [
+       [
+        "Jan 2022",
+        "Holmes verdict"
+       ],
+       [
+        "Jul 2022",
+        "Balwani verdict"
+       ]
+      ],
+      "src": "US Attorney NDCA, 7 Dec 2022"
+     },
+     "pause": 0.25
+    },
+    {
+     "say": "He was found guilty on all twelve counts, and got a longer sentence: a hundred and fifty-five months.",
+     "caption": "12 of 12. 155 months.",
+     "visual": {
+      "type": "bars",
+      "title": "Sentences",
+      "items": [
+       [
+        "Holmes",
+        135,
+        "135 mo"
+       ],
+       [
+        "Balwani",
+        155,
+        "155 mo"
+       ]
+      ],
+      "hi": 1,
+      "src": "US Attorney NDCA, 7 Dec 2022"
+     },
+     "pause": 0.25
+    },
+    {
+     "say": "So what did his jury see differently? The full story is in the video linked below.",
+     "caption": "What was different?",
+     "visual": {
+      "type": "document",
+      "header": "US Attorney, NDCA",
+      "title": "United States v. Balwani",
+      "lines": [
+       "!Guilty on all counts"
+      ],
+      "stamp": "GUILTY",
+      "src": "US Attorney NDCA, 7 Dec 2022"
+     },
+     "pause": 0.5
+    }
+   ]
+  }
+ ]
+}
