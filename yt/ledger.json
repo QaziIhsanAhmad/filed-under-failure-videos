@@ -1380,6 +1380,26 @@
    "publishAt": "2026-11-18T16:00:00Z",
    "verifiedAt": "2026-11-19T03:18:59.926496+05:00",
    "verification": "channel page"
+  },
+  {
+   "id": "a000-test",
+   "channel": "abl",
+   "lane": "api",
+   "status": "planned",
+   "type": "video",
+   "privacy": "private",
+   "date": "2026-11-19",
+   "time": "23:59",
+   "title": "AI Business Lab private upload check",
+   "file": "abl/a000/a000-upload-test.mp4",
+   "description": "Private check that uploads reach the AI Business Lab channel. This video stays private.",
+   "tags": [
+    "ai business lab"
+   ],
+   "altered": {
+    "disclose": false,
+    "reason": "plain text card"
+   }
   }
  ],
  "history": [

@@ -117,7 +117,9 @@ def build_queue(led, now, untitled):
             continue
         status = {"selfDeclaredMadeForKids": False,
                   "containsSyntheticMedia": bool((row.get("altered") or {}).get("disclose"))}
-        if slot > now + dt.timedelta(minutes=30):
+        if row.get("privacy") == "private":          # stays private (tests, held items): no publishAt
+            status["privacyStatus"] = "private"
+        elif slot > now + dt.timedelta(minutes=30):
             status.update(privacyStatus="private", publishAt=slot.astimezone(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"))
         else:
             status["privacyStatus"] = "public"
