@@ -1,1 +1,92 @@
-[]
+[
+ {
+  "id": "pi-007-emSqAKFYru0",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "body": "{\"snippet\": {\"playlistId\": \"PLe1kgF7CDmzY\", \"position\": 3, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"emSqAKFYru0\"}}}"
+ },
+ {
+  "id": "get-emSqAKFYru0",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=emSqAKFYru0",
+  "body": ""
+ },
+ {
+  "id": "pi-007-Kc2Rx21xxT4",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "body": "{\"snippet\": {\"playlistId\": \"PLe1kgF7CDmzY\", \"position\": 4, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"Kc2Rx21xxT4\"}}}"
+ },
+ {
+  "id": "get-Kc2Rx21xxT4",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=Kc2Rx21xxT4",
+  "body": ""
+ },
+ {
+  "id": "pl-008",
+  "method": "POST",
+  "path": "/v3/playlists?part=snippet,status",
+  "body": "{\"snippet\": {\"title\": \"Greensill Collapse Explained\", \"description\": \"What the record shows about the 2021 collapse of Greensill Capital: the full episode first, then the short case notes. From the regulator, parliamentary and court records.\", \"defaultLanguage\": \"en\"}, \"status\": {\"privacyStatus\": \"public\"}}"
+ },
+ {
+  "id": "pi-all-ByhDDIlrOPQ",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "body": "{\"snippet\": {\"playlistId\": \"PLcJ0qXrqBDRU\", \"position\": 0, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"ByhDDIlrOPQ\"}}}"
+ },
+ {
+  "id": "get-ByhDDIlrOPQ",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=ByhDDIlrOPQ",
+  "body": ""
+ },
+ {
+  "id": "get-dSbEkbcTIYs",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=dSbEkbcTIYs",
+  "body": ""
+ },
+ {
+  "id": "get-HyXhQ3j-hUQ",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=HyXhQ3j-hUQ",
+  "body": ""
+ },
+ {
+  "id": "get-FzMUMc3yeOw",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=FzMUMc3yeOw",
+  "body": ""
+ },
+ {
+  "id": "get-6f3vPXvPEGM",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=6f3vPXvPEGM",
+  "body": ""
+ },
+ {
+  "id": "pl-009",
+  "method": "POST",
+  "path": "/v3/playlists?part=snippet,status",
+  "body": "{\"snippet\": {\"title\": \"FTX Collapse Explained\", \"description\": \"What the record shows about the 2022 collapse of FTX: the full episode first, then the short case notes. From the court, bankruptcy and prosecution records.\", \"defaultLanguage\": \"en\"}, \"status\": {\"privacyStatus\": \"public\"}}"
+ },
+ {
+  "id": "pi-all-Hx17Rhhwn98",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "body": "{\"snippet\": {\"playlistId\": \"PLcJ0qXrqBDRU\", \"position\": 0, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"Hx17Rhhwn98\"}}}"
+ },
+ {
+  "id": "get-Hx17Rhhwn98",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=Hx17Rhhwn98",
+  "body": ""
+ },
+ {
+  "id": "get-FzDdH6cl2yk",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=FzDdH6cl2yk",
+  "body": ""
+ }
+]
