@@ -1,0 +1,18 @@
+                                                            QUERY PLAN                                                             
+-----------------------------------------------------------------------------------------------------------------------------------
+ Limit  (cost=27147.04..27149.37 rows=20 width=28) (actual time=41.805..43.114 rows=20 loops=1)
+   ->  Gather Merge  (cost=27147.04..27151.00 rows=34 width=28) (actual time=41.803..43.111 rows=20 loops=1)
+         Workers Planned: 2
+         Workers Launched: 2
+         ->  Sort  (cost=26147.01..26147.06 rows=17 width=28) (actual time=37.385..37.387 rows=13 loops=3)
+               Sort Key: created_at DESC
+               Sort Method: quicksort  Memory: 25kB
+               Worker 0:  Sort Method: quicksort  Memory: 25kB
+               Worker 1:  Sort Method: quicksort  Memory: 26kB
+               ->  Parallel Seq Scan on orders  (cost=0.00..26146.67 rows=17 width=28) (actual time=1.046..37.337 rows=15 loops=3)
+                     Filter: (customer_id = 4217)
+                     Rows Removed by Filter: 666652
+ Planning Time: 0.262 ms
+ Execution Time: 43.149 ms
+(14 rows)
+

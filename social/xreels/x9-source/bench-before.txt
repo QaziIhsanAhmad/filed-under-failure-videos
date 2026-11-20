@@ -1,0 +1,2 @@
+latency average = 152.412 ms
+tps = 26.244670 (without initial connection time)

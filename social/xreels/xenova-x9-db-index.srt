@@ -1,0 +1,32 @@
+1
+00:00:00,350 --> 00:00:07,881
+One line of SQL took this database from 26 order lookups a second to nearly 37,000.
+
+2
+00:00:08,331 --> 00:00:15,157
+The test: 2 million orders in Postgres. The My Orders page asks for one customer's latest 20.
+
+3
+00:00:15,607 --> 00:00:23,223
+With no index, Postgres reads every row. About 2 million checked to return 20 rows: 43 ms.
+
+4
+00:00:23,673 --> 00:00:27,428
+With 4 users at once: 26 lookups a second.
+
+5
+00:00:27,878 --> 00:00:34,406
+The fix: one index. The column the page filters by, then the sort order. Built in under a second.
+
+6
+00:00:34,856 --> 00:00:41,469
+Same query: under a tenth of a millisecond. Same load test: about 37,000 a second.
+
+7
+00:00:41,919 --> 00:00:49,109
+The catch: every index is updated on every write. So index what your slow queries need, not every column.
+
+8
+00:00:49,559 --> 00:00:53,996
+Slow app? Book a free 30-minute call with Xenova. Link in bio.
+
