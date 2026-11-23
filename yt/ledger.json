@@ -1499,14 +1499,16 @@
     "reason": "Generic synthetic narrator (Kokoro bm_george) not imitating any real person; quotes attributed by the narrator and shown as on-screen text; original code-generated charts, text graphics and music; no realistic synthetic imagery or altered real footage."
    },
    "apiApplied": [
-    "010-ep-a0"
+    "010-ep-a0",
+    "010-ep-thumb0"
    ],
    "videoId": "D0LStTL0p9E",
    "url": "https://www.youtube.com/watch?v=D0LStTL0p9E",
    "uploadedAt": "2026-11-21T13:14:11.844381+05:00",
    "publishAt": "2026-11-21T16:00:00Z",
    "verifiedAt": "2026-11-22T00:46:36.555018+05:00",
-   "verification": "channel page"
+   "verification": "channel page",
+   "thumbSet": true
   }
  ],
  "history": [
