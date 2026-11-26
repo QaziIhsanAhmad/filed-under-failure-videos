@@ -1474,7 +1474,7 @@
    "title": "Same company, same judge. Holmes was acquitted of patient fraud. Sunny Balwani wasn't. #Shorts",
    "file": "010/010-sunny-balwani-short-c.mp4",
    "lane": "api",
-   "status": "scheduled",
+   "status": "published",
    "description": "Elizabeth Holmes was acquitted of the patient fraud charges in January 2022. In a separate trial before the same judge, Sunny Balwani was convicted on all twelve counts in July 2022, including the patient charges (US Attorney, NDCA).\n\nFull episode: \"Sunny Balwani: The Other Theranos Conviction\" on Filed Under Failure.\nSources: US Court of Appeals for the Ninth Circuit, United States v. Holmes / United States v. Balwani, Nos. 22-10338 & 23-1166, order denying rehearing and amended opinion (22 Dec 2025); US Supreme Court, docket No. 25-1330, Balwani v. United States (petition denied 5 Oct 2026); Balwani petition for a writ of certiorari, No. 25-1330 (21 May 2026) (full list in the episode description).\nNarration uses a synthetic voice; graphics are our own.\n\n#Shorts #SunnyBalwani #Theranos #ElizabethHolmes",
    "altered": {
     "disclose": false,
@@ -1486,7 +1486,9 @@
    "videoId": "YpGTSrWqFDU",
    "url": "https://www.youtube.com/shorts/YpGTSrWqFDU",
    "uploadedAt": "2026-11-21T13:14:09.093971+05:00",
-   "publishAt": "2026-11-26T16:00:00Z"
+   "publishAt": "2026-11-26T16:00:00Z",
+   "verifiedAt": "2026-11-26T23:46:56.326589+05:00",
+   "verification": "channel page"
   },
   {
    "id": "010-ep",
