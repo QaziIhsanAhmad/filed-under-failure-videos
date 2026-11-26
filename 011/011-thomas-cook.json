@@ -308,7 +308,7 @@
    "visual": {
     "type": "document",
     "header": "Thomas Cook Group plc",
-    "title": "Results: six months to 31 March 2019",
+    "title": "Half-year results, 2019",
     "lines": [
      "!Loss before tax of £1,456 million",
      "after goodwill impairment"
@@ -830,7 +830,7 @@
     "title": "Customers without ATOL protection",
     "items": [
      [
-      "First assumed",
+      "First estimate (CAA)",
       40,
       "40%"
      ],
@@ -1444,7 +1444,7 @@
   {
    "id": "c",
    "title": "Most stranded Thomas Cook customers had no ATOL cover. Taxpayers paid an estimated £83m #Shorts",
-   "hook": "No ATOL. £83m bill.",
+   "hook": "No ATOL. ~£83m bill.",
    "blurb": "The National Audit Office found 55% of the Thomas Cook repatriation cost, £83m, fell on the Department for Transport because those customers had no ATOL protection. The department had first assumed 40%.",
    "scenes": [
     {
@@ -1461,7 +1461,7 @@
     },
     {
      "say": "So the taxpayer paid for their seats: an estimated eighty-three million pounds.",
-     "caption": "Taxpayer: £83m",
+     "caption": "Taxpayer: ~£83m (est.)",
      "visual": {
       "type": "document",
       "header": "National Audit Office",
