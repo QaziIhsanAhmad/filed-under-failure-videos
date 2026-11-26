@@ -1,1 +1,38 @@
-[]
+[
+ {
+  "id": "pl-010",
+  "method": "POST",
+  "path": "/v3/playlists?part=snippet,status",
+  "body": "{\"snippet\": {\"title\": \"Sunny Balwani and Theranos Explained\", \"description\": \"What the record shows about Sunny Balwani, the other Theranos conviction: the full episode first, then the short case notes. From the court and regulator records.\", \"defaultLanguage\": \"en\"}, \"status\": {\"privacyStatus\": \"public\"}}"
+ },
+ {
+  "id": "pi-all-D0LStTL0p9E",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "body": "{\"snippet\": {\"playlistId\": \"PLcJ0qXrqBDRU\", \"position\": 0, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"D0LStTL0p9E\"}}}"
+ },
+ {
+  "id": "get-D0LStTL0p9E",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=D0LStTL0p9E",
+  "body": ""
+ },
+ {
+  "id": "get-BUar6Y9qHKQ",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=BUar6Y9qHKQ",
+  "body": ""
+ },
+ {
+  "id": "get-ubM03Esema0",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=ubM03Esema0",
+  "body": ""
+ },
+ {
+  "id": "get-YpGTSrWqFDU",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=YpGTSrWqFDU",
+  "body": ""
+ }
+]
