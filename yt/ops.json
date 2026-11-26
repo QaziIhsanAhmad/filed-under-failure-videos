@@ -4014,5 +4014,263 @@
     "defaultAudioLanguage": "en"
    }
   }
+ },
+ {
+  "id": "pl-010",
+  "method": "POST",
+  "path": "/v3/playlists?part=snippet,status",
+  "body": {
+   "snippet": {
+    "title": "Sunny Balwani and Theranos Explained",
+    "description": "What the record shows about Sunny Balwani, the other Theranos conviction: the full episode first, then the short case notes. From the court and regulator records.",
+    "defaultLanguage": "en"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  }
+ },
+ {
+  "id": "pi-010-D0LStTL0p9E",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-010"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-010",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "D0LStTL0p9E"
+    }
+   }
+  }
+ },
+ {
+  "id": "pi-all-D0LStTL0p9E",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-all"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-all",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "D0LStTL0p9E"
+    }
+   }
+  }
+ },
+ {
+  "id": "get-D0LStTL0p9E",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=D0LStTL0p9E"
+ },
+ {
+  "id": "upd-D0LStTL0p9E",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "after": [
+   "get-D0LStTL0p9E",
+   "pl-010",
+   "pl-all"
+  ],
+  "transform": {
+   "kind": "none",
+   "append": "▶ Shorts from this case: https://www.youtube.com/playlist?list=@res:pl-010\n▶ All full episodes: https://www.youtube.com/playlist?list=@res:pl-all\n🔔 Subscribe for the next case file: https://www.youtube.com/@FiledUnderFailure-d6j?sub_confirmation=1"
+  },
+  "body": {
+   "id": "D0LStTL0p9E",
+   "snippet": {
+    "title": "Sunny Balwani: The Other Theranos Conviction",
+    "categoryId": "27",
+    "description": "@desc:get-D0LStTL0p9E",
+    "tags": [
+     "Sunny Balwani",
+     "Theranos",
+     "Elizabeth Holmes",
+     "Ramesh Balwani",
+     "Theranos trial",
+     "Theranos explained",
+     "business documentary",
+     "fraud case"
+    ],
+    "defaultLanguage": "en",
+    "defaultAudioLanguage": "en"
+   }
+  }
+ },
+ {
+  "id": "pi-010-BUar6Y9qHKQ",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-010"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-010",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "BUar6Y9qHKQ"
+    }
+   }
+  }
+ },
+ {
+  "id": "get-BUar6Y9qHKQ",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=BUar6Y9qHKQ"
+ },
+ {
+  "id": "upd-BUar6Y9qHKQ",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "after": [
+   "get-BUar6Y9qHKQ"
+  ],
+  "transform": {
+   "kind": "replace_line",
+   "prefix": "Full episode",
+   "text": "Full episode ▶ https://youtu.be/D0LStTL0p9E"
+  },
+  "body": {
+   "id": "BUar6Y9qHKQ",
+   "snippet": {
+    "title": "Court: a witness at Sunny Balwani's trial gave false testimony. His conviction still stands. #Shorts",
+    "categoryId": "27",
+    "description": "@desc:get-BUar6Y9qHKQ",
+    "tags": [
+     "Sunny Balwani",
+     "Theranos",
+     "Elizabeth Holmes",
+     "Ramesh Balwani",
+     "Theranos trial",
+     "Theranos explained",
+     "business documentary",
+     "fraud case"
+    ],
+    "defaultLanguage": "en",
+    "defaultAudioLanguage": "en"
+   }
+  }
+ },
+ {
+  "id": "pi-010-ubM03Esema0",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-010"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-010",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ubM03Esema0"
+    }
+   }
+  }
+ },
+ {
+  "id": "get-ubM03Esema0",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=ubM03Esema0"
+ },
+ {
+  "id": "upd-ubM03Esema0",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "after": [
+   "get-ubM03Esema0"
+  ],
+  "transform": {
+   "kind": "replace_line",
+   "prefix": "Full episode",
+   "text": "Full episode ▶ https://youtu.be/D0LStTL0p9E"
+  },
+  "body": {
+   "id": "ubM03Esema0",
+   "snippet": {
+    "title": "The regulator's Theranos letter named 'Ramesh Balwani, Owner'. Here's what it said. #Shorts",
+    "categoryId": "27",
+    "description": "@desc:get-ubM03Esema0",
+    "tags": [
+     "Sunny Balwani",
+     "Theranos",
+     "Elizabeth Holmes",
+     "Ramesh Balwani",
+     "Theranos trial",
+     "Theranos explained",
+     "business documentary",
+     "fraud case"
+    ],
+    "defaultLanguage": "en",
+    "defaultAudioLanguage": "en"
+   }
+  }
+ },
+ {
+  "id": "pi-010-YpGTSrWqFDU",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-010"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-010",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "YpGTSrWqFDU"
+    }
+   }
+  }
+ },
+ {
+  "id": "get-YpGTSrWqFDU",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=YpGTSrWqFDU"
+ },
+ {
+  "id": "upd-YpGTSrWqFDU",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "after": [
+   "get-YpGTSrWqFDU"
+  ],
+  "transform": {
+   "kind": "replace_line",
+   "prefix": "Full episode",
+   "text": "Full episode ▶ https://youtu.be/D0LStTL0p9E"
+  },
+  "body": {
+   "id": "YpGTSrWqFDU",
+   "snippet": {
+    "title": "Same company, same judge. Holmes was acquitted of patient fraud. Sunny Balwani wasn't. #Shorts",
+    "categoryId": "27",
+    "description": "@desc:get-YpGTSrWqFDU",
+    "tags": [
+     "Sunny Balwani",
+     "Theranos",
+     "Elizabeth Holmes",
+     "Ramesh Balwani",
+     "Theranos trial",
+     "Theranos explained",
+     "business documentary",
+     "fraud case"
+    ],
+    "defaultLanguage": "en",
+    "defaultAudioLanguage": "en"
+   }
+  }
  }
 ]
