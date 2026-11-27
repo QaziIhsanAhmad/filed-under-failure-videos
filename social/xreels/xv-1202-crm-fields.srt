@@ -1,0 +1,19 @@
+1
+00:00:00,250 --> 00:00:07,333
+Define these before importing anything. Five fields that decide whether your CRM stays clean.
+
+2
+00:00:08,183 --> 00:00:24,353
+One, a unique ID, like email or website domain, so duplicates get caught. Two, lifecycle stage, as a fixed dropdown. Three, an owner, one named person per record. Four, lead source. Five, a next step date, so no lead goes quiet.
+
+3
+00:00:25,203 --> 00:00:32,755
+Why dropdowns? Let people type freely, and qualified, hot and ready become three separate stages in your report.
+
+4
+00:00:33,605 --> 00:00:40,027
+Then import a small sample first. Check duplicates, stages and owners, then bring in the rest.
+
+5
+00:00:40,877 --> 00:00:49,858
+Moving to a new CRM? Get the fields right on day one. Book a free 30-minute scoping call at xenovasolutions.com.

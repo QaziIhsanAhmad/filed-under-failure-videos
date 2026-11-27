@@ -1,0 +1,19 @@
+1
+00:00:00,250 --> 00:00:07,653
+Half a day of reporting, gone. If your Monday starts with exporting spreadsheets, a live dashboard can do that job.
+
+2
+00:00:08,503 --> 00:00:16,929
+First, connect the sources. Sales, orders and support tickets are read straight from the systems you already use, on a schedule.
+
+3
+00:00:17,779 --> 00:00:27,678
+Second, define each metric once. One agreed formula for revenue, open tickets, or anything you report, so every team sees the same figure.
+
+4
+00:00:28,528 --> 00:00:40,987
+Then the data refreshes on its own, the dashboard is ready before anyone logs in, and alerts flag a number that moves out of range. Monday's meeting starts with decisions, not copy and paste.
+
+5
+00:00:41,837 --> 00:00:50,754
+Still building reports by hand? Let the dashboard do Mondays. Book a free 30-minute scoping call at xenovasolutions.com.

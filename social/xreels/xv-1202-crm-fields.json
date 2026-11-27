@@ -1,0 +1,74 @@
+{
+ "id": "xv-1202-crm-fields",
+ "cal": "xv-1202",
+ "date": "2026-12-02",
+ "scenes": [
+  {
+   "layout": "hook",
+   "kicker": "CRM setup, explained",
+   "title": "Define these *before importing anything.*",
+   "body": "Five fields that decide whether your CRM stays clean.",
+   "say": "Define these before importing anything. Five fields that decide whether your C R M stays clean.",
+   "sub": "Define these before importing anything. Five fields that decide whether your CRM stays clean."
+  },
+  {
+   "layout": "flow",
+   "kicker": "The five fields",
+   "title": "Agree these *first.*",
+   "nodes": [
+    {
+     "label": "Unique ID",
+     "sub": "email or website domain, to catch duplicates"
+    },
+    {
+     "label": "Lifecycle stage",
+     "sub": "a fixed dropdown, not free text"
+    },
+    {
+     "label": "Owner",
+     "sub": "one named person per record"
+    },
+    {
+     "label": "Lead source",
+     "sub": "where the contact came from"
+    },
+    {
+     "label": "Next step date",
+     "sub": "so no lead goes quiet"
+    }
+   ],
+   "say": "One, a unique I D, like email or website domain, so duplicates get caught. Two, lifecycle stage, as a fixed dropdown. Three, an owner, one named person per record. Four, lead source. Five, a next step date, so no lead goes quiet.",
+   "sub": "One, a unique ID, like email or website domain, so duplicates get caught. Two, lifecycle stage, as a fixed dropdown. Three, an owner, one named person per record. Four, lead source. Five, a next step date, so no lead goes quiet."
+  },
+  {
+   "layout": "step",
+   "n": "Tip",
+   "kicker": "Why dropdowns",
+   "title": "Free text breaks reports",
+   "body": "Let people type, and \"Qualified\", \"Hot\" and \"Ready\" become *three stages in your report.*",
+   "say": "Why dropdowns? Let people type freely, and qualified, hot and ready become three separate stages in your report."
+  },
+  {
+   "layout": "step",
+   "n": "Then",
+   "kicker": "Test the import",
+   "title": "Import a small sample first",
+   "body": "Check duplicates, stages and owners on a sample, *then bring in the rest.*",
+   "say": "Then import a small sample first. Check duplicates, stages and owners, then bring in the rest."
+  },
+  {
+   "layout": "cta",
+   "kicker": "Moving to a new CRM?",
+   "title": "Get the fields right *on day one.*",
+   "body": "Book a free 30-minute scoping call.",
+   "cta": "xenovasolutions.com/contact",
+   "say": "Moving to a new C R M? Get the fields right on day one. Book a free thirty minute scoping call at xenova solutions dot com.",
+   "sub": "Moving to a new CRM? Get the fields right on day one. Book a free 30-minute scoping call at xenovasolutions.com."
+  }
+ ],
+ "post": {
+  "yt_title": "5 CRM fields to define before you import anything #Shorts",
+  "caption": "Define these before importing anything.\n\n5 CRM fields that keep your data clean:\n01 Unique ID (email or domain) to catch duplicates\n02 Lifecycle stage as a fixed dropdown\n03 Owner: one named person per record\n04 Lead source\n05 Next step date, so no lead goes quiet\n\nMoving to a new CRM? Book a free 30-minute scoping call. Link in bio.\n\n#crm #salesops #dataquality #smallbusiness #automation #hubspot",
+  "yt_description": "Five CRM fields to define before you import any data: a unique ID (email or website domain) to catch duplicates, lifecycle stage as a fixed dropdown, a named owner per record, lead source, and a next step date. Then test the import on a small sample first.\n\nMoving to a new CRM? Book a free 30-minute scoping call with Xenova Solutions: https://xenovasolutions.com/contact\n\n#CRM #SalesOps #Shorts"
+ }
+}

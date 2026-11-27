@@ -1,0 +1,65 @@
+{
+ "id": "xv-1130-monday-dashboard",
+ "cal": "xv-1130",
+ "date": "2026-11-30",
+ "scenes": [
+  {
+   "layout": "hook",
+   "kicker": "Dashboards, explained",
+   "title": "Half a day of reporting, *gone.*",
+   "body": "If your Monday starts with exporting spreadsheets, a live dashboard can do that job.",
+   "say": "Half a day of reporting, gone. If your Monday starts with exporting spreadsheets, a live dashboard can do that job."
+  },
+  {
+   "layout": "step",
+   "n": "01",
+   "kicker": "Connect the sources",
+   "title": "Pull data where it lives",
+   "body": "Sales, orders and support tickets are read from the systems you already use, *on a schedule.*",
+   "say": "First, connect the sources. Sales, orders and support tickets are read straight from the systems you already use, on a schedule."
+  },
+  {
+   "layout": "step",
+   "n": "02",
+   "kicker": "Agree the numbers",
+   "title": "Define each metric once",
+   "body": "One agreed formula per number, so *every team sees the same figure.*",
+   "say": "Second, define each metric once. One agreed formula for revenue, open tickets, or anything you report, so every team sees the same figure."
+  },
+  {
+   "layout": "flow",
+   "kicker": "Monday morning, after",
+   "title": "The report is *already there.*",
+   "label": "Concept diagram, not a client system",
+   "nodes": [
+    {
+     "label": "Data refreshes",
+     "sub": "automatically, before the week starts"
+    },
+    {
+     "label": "Live dashboard",
+     "sub": "filter by team, product or week"
+    },
+    {
+     "label": "Alerts",
+     "sub": "flag a number that moves out of range"
+    }
+   ],
+   "say": "Then the data refreshes on its own, the dashboard is ready before anyone logs in, and alerts flag a number that moves out of range. Monday's meeting starts with decisions, not copy and paste."
+  },
+  {
+   "layout": "cta",
+   "kicker": "Still building reports by hand?",
+   "title": "Let the dashboard *do Mondays.*",
+   "body": "Book a free 30-minute scoping call.",
+   "cta": "xenovasolutions.com/contact",
+   "say": "Still building reports by hand? Let the dashboard do Mondays. Book a free thirty minute scoping call at xenova solutions dot com.",
+   "sub": "Still building reports by hand? Let the dashboard do Mondays. Book a free 30-minute scoping call at xenovasolutions.com."
+  }
+ ],
+ "post": {
+  "yt_title": "Replace your Monday report with a live dashboard #Shorts",
+  "caption": "Half a day of reporting, gone.\n\nIf Monday starts with exporting spreadsheets, a live dashboard can take that job:\n01 Connect your sales, orders and support data\n02 Define each metric once, so every team sees the same figure\n03 Data refreshes automatically, alerts flag what moved\n\nStill building reports by hand? Book a free 30-minute scoping call. Link in bio.\n\n#dashboard #businessintelligence #automation #reporting #smallbusiness #dataanalytics",
+  "yt_description": "How a live dashboard replaces the manual Monday report: connect your sales, orders and support data, define each metric once so every team sees the same figure, and let the data refresh automatically with alerts for numbers that move out of range. Concept explainer, not a client system.\n\nStill building reports by hand? Book a free 30-minute scoping call with Xenova Solutions: https://xenovasolutions.com/contact\n\n#Dashboard #Automation #Shorts"
+ }
+}

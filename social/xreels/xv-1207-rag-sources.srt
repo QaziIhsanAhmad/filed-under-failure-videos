@@ -1,0 +1,23 @@
+1
+00:00:00,250 --> 00:00:08,293
+The answer, with the paragraph it came from. Here's how a document Q&A system answers from your own PDFs.
+
+2
+00:00:09,143 --> 00:00:19,084
+First, your PDFs are split into short passages, and each one is stored as an embedding, so the system can search by meaning, not just keywords.
+
+3
+00:00:19,934 --> 00:00:25,694
+Second, when someone asks a question, the system retrieves the most relevant passages.
+
+4
+00:00:26,544 --> 00:00:34,672
+Third, a language model answers from those passages, and cites the document and paragraph it used, so anyone can check it.
+
+5
+00:00:35,522 --> 00:00:44,973
+We built a document Q&A system like this for a client in Finland. Question in, matching passages found, answer out, with its source.
+
+6
+00:00:45,823 --> 00:00:54,356
+Is your team always searching documents? Ask them instead. Book a free 30-minute scoping call at xenovasolutions.com.

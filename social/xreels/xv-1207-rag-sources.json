@@ -1,0 +1,76 @@
+{
+ "id": "xv-1207-rag-sources",
+ "cal": "xv-1207",
+ "date": "2026-12-07",
+ "scenes": [
+  {
+   "layout": "hook",
+   "kicker": "RAG, explained",
+   "title": "The answer, *with the paragraph it came from.*",
+   "body": "How a document Q&A system answers from your own PDFs.",
+   "say": "The answer, with the paragraph it came from. Here's how a document Q and A system answers from your own P D Fs.",
+   "sub": "The answer, with the paragraph it came from. Here's how a document Q&A system answers from your own PDFs."
+  },
+  {
+   "layout": "step",
+   "n": "01",
+   "kicker": "Split and index",
+   "title": "Your PDFs become searchable passages",
+   "body": "Text is split into short passages and stored as embeddings, *so meaning can be searched.*",
+   "say": "First, your P D Fs are split into short passages, and each one is stored as an embedding, so the system can search by meaning, not just keywords.",
+   "sub": "First, your PDFs are split into short passages, and each one is stored as an embedding, so the system can search by meaning, not just keywords."
+  },
+  {
+   "layout": "step",
+   "n": "02",
+   "kicker": "Retrieve",
+   "title": "Find the passages that match",
+   "body": "A question pulls back the *most relevant paragraphs* first.",
+   "say": "Second, when someone asks a question, the system retrieves the most relevant passages."
+  },
+  {
+   "layout": "step",
+   "n": "03",
+   "kicker": "Answer with sources",
+   "title": "Answer from those passages",
+   "body": "The answer cites the document and paragraph it used, *so anyone can check it.*",
+   "say": "Third, a language model answers from those passages, and cites the document and paragraph it used, so anyone can check it."
+  },
+  {
+   "layout": "flow",
+   "kicker": "Built for real",
+   "title": "We built one for *a client in Finland.*",
+   "label": "Concept diagram, not the client's system",
+   "nodes": [
+    {
+     "label": "Question",
+     "sub": "asked in plain language"
+    },
+    {
+     "label": "Matching passages",
+     "sub": "found in the documents"
+    },
+    {
+     "label": "Answer + source",
+     "sub": "document and paragraph shown"
+    }
+   ],
+   "say": "We built a document Q and A system like this for a client in Finland. Question in, matching passages found, answer out, with its source.",
+   "sub": "We built a document Q&A system like this for a client in Finland. Question in, matching passages found, answer out, with its source."
+  },
+  {
+   "layout": "cta",
+   "kicker": "Drowning in PDFs?",
+   "title": "Ask your documents *instead.*",
+   "body": "Book a free 30-minute scoping call.",
+   "cta": "xenovasolutions.com/contact",
+   "say": "Is your team always searching documents? Ask them instead. Book a free thirty minute scoping call at xenova solutions dot com.",
+   "sub": "Is your team always searching documents? Ask them instead. Book a free 30-minute scoping call at xenovasolutions.com."
+  }
+ ],
+ "post": {
+  "yt_title": "RAG explained: answers that show the paragraph they came from #Shorts",
+  "caption": "The answer, with the paragraph it came from.\n\nHow a RAG document Q&A system works:\n01 Your PDFs are split into passages and indexed by meaning\n02 A question retrieves the most relevant passages\n03 The AI answers from them and cites document and paragraph\n\nWe built one for a client in Finland. Want one for your documents? Book a free 30-minute scoping call. Link in bio.\n\n#rag #ai #generativeai #chatbot #knowledgemanagement #llm",
+  "yt_description": "How RAG (retrieval-augmented generation) answers questions from your own PDFs: documents are split into passages and stored as embeddings, a question retrieves the most relevant passages, and a language model answers from them, citing the document and paragraph so anyone can check it. Xenova Solutions built a document Q&A system like this for a client in Finland. Concept explainer with a diagram, not the client's system.\n\nWant to ask your own documents? Book a free 30-minute scoping call: https://xenovasolutions.com/contact\n\n#RAG #AI #Shorts"
+ }
+}
