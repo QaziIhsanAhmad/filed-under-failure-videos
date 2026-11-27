@@ -1,38 +1,50 @@
 [
  {
-  "id": "pl-010",
-  "method": "POST",
-  "path": "/v3/playlists?part=snippet,status",
-  "body": "{\"snippet\": {\"title\": \"Sunny Balwani and Theranos Explained\", \"description\": \"What the record shows about Sunny Balwani, the other Theranos conviction: the full episode first, then the short case notes. From the court and regulator records.\", \"defaultLanguage\": \"en\"}, \"status\": {\"privacyStatus\": \"public\"}}"
- },
- {
-  "id": "pi-all-D0LStTL0p9E",
+  "id": "pi-010-D0LStTL0p9E",
   "method": "POST",
   "path": "/v3/playlistItems?part=snippet",
-  "body": "{\"snippet\": {\"playlistId\": \"PLcJ0qXrqBDRU\", \"position\": 0, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"D0LStTL0p9E\"}}}"
+  "body": "{\"snippet\": {\"playlistId\": \"PLTWXEL5X0LQA\", \"position\": 0, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"D0LStTL0p9E\"}}}"
  },
  {
-  "id": "get-D0LStTL0p9E",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=D0LStTL0p9E",
-  "body": ""
+  "id": "upd-D0LStTL0p9E",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "body": "{\"id\": \"D0LStTL0p9E\", \"snippet\": {\"title\": \"Sunny Balwani: The Other Theranos Conviction\", \"categoryId\": \"27\", \"description\": \"Sunny Balwani and the Theranos collapse explained from the court record: why the other Theranos conviction stuck.\\n\\nElizabeth Holmes was acquitted of defrauding patients; her former number two, Ramesh 'Sunny' Balwani, was convicted on all twelve counts. An appeals court even agreed a witness at his trial gave 'actually false' testimony, and he still lost; on 5 October 2026 the Supreme Court declined to hear his case. Using the Ninth Circuit's December 2025 amended opinion, the Supreme Court docket, the US Attorney's sentencing release, the federal lab regulator's March 2016 sanctions letter and trial reporting, we follow the lab he oversaw, the patients, the pitch to investors, the two trials and the appeal. SEC claims are allegations; criminal findings are the jury's and the courts'. 'Our analysis' is labelled as our own reading.\\n\\nThe founder's side of the case: https://youtu.be/vdXslodih6A\\nSubscribe for the next case file: https://www.youtube.com/@FiledUnderFailure-d6j?sub_confirmation=1\\n\\nChapters\\n0:00 Cold open\\n0:35 The number two\\n1:39 The lab\\n3:12 The patients\\n4:41 The pitch\\n6:29 Two trials\\n8:31 The false testimony\\n10:01 Our analysis\\n\\nSources\\n[1] US Court of Appeals for the Ninth Circuit, United States v. Holmes / United States v. Balwani, Nos. 22-10338 & 23-1166, order denying rehearing and amended opinion (22 Dec 2025): https://cdn.ca9.uscourts.gov/datastore/opinions/2025/12/22/23-1166.pdf\\n[2] US Supreme Court, docket No. 25-1330, Balwani v. United States (petition denied 5 Oct 2026): https://www.supremecourt.gov/docket/docketfiles/html/public/25-1330.html\\n[3] Balwani petition for a writ of certiorari, No. 25-1330 (21 May 2026): https://www.supremecourt.gov/DocketPDF/25/25-1330/409549/20260521155125395_2026-05-21%20Petition.pdf\\n[4] US Attorney's Office, Northern District of California, 'Theranos President Sentenced To More Than 12 Years For Fraud That Jeopardized Patient Health And Bilked Investors' (7 Dec 2022): https://www.justice.gov/usao-ndca/pr/theranos-president-sentenced-more-12-years-fraud-jeopardized-patient-health-and-bilked\\n[5] Centers for Medicare & Medicaid Services, letter to Theranos Inc. (Sunil Dhawan, Elizabeth Holmes, Ramesh Balwani), 'Proposed sanctions - Conditions not met, immediate jeopardy' (18 Mar 2016): https://www.classaction.org/media/theranos-sanctions-letter.pdf\\n[6] SEC, 'Theranos, CEO Holmes, and Former President Balwani Charged With Massive Fraud', press release 2018-41 (14 Mar 2018): https://www.sec.gov/news/press-release/2018-41\\n[7] CNN (Sara Ashley O'Brien), 'The criminal fraud case of Elizabeth Holmes' former second-in-command heads to jury' (Jun 2022): https://ktvz.com/lifestyle/technology/cnn-social-media-technology/2022/06/24/the-criminal-fraud-case-of-elizabeth-holmes-former-second-in-command-heads-to-jury/\\n[8] Associated Press (Michael Liedtke), 'Final arguments unfold in second act of Theranos trial drama' (21 Jun 2022): https://www.startribune.com/trial-of-former-theranos-exec-sunny-balwani-nears-end/600183855\\n[9] ABC News via Yahoo (Ivan Pereira), 'How the two Theranos trials led to different outcomes for Elizabeth Holmes, Sunny Balwani' (8 Jul 2022): https://uk.news.yahoo.com/two-theranos-trials-led-different-204600059.html\\n[10] Fortune (Amiah Taylor), texts between Holmes and Balwani (14 Apr 2022): https://fortune.com/2022/04/14/elizabeth-holmes-sunny-balwani-text-messages-trial/\\n[11] NBC Bay Area (Scott Budman), 'Dramatic messages revealed during Elizabeth Holmes trial' (22 Sep 2021): https://www.nbcbayarea.com/news/local/elizabeth-holmes-trial/dramatic-messages-revealed-during-elizabeth-holmes-trial/2663841/\\n[12] Associated Press via WYPR, 'Elizabeth Holmes loses her latest bid to avoid prison' (17 May 2023): https://www.wypr.org/2023-05-17/elizabeth-holmes-loses-her-latest-bid-to-avoid-prison\\n\\nFiled Under Failure tells business collapses and comebacks from the public record. Findings and quotes are those of the bodies cited. Narration uses a synthetic voice; graphics are our own. Music: original.\\n\\n#SunnyBalwani #Theranos #ElizabethHolmes\\n\\n▶ Shorts from this case: https://www.youtube.com/playlist?list=PLTWXEL5X0LQA\\n▶ All full episodes: https://www.youtube.com/playlist?list=PLcJ0qXrqBDRU\\n🔔 Subscribe for the next case file: https://www.youtube.com/@FiledUnderFailure-d6j?sub_confirmation=1\", \"tags\": [\"Sunny Balwani\", \"Theranos\", \"Elizabeth Holmes\", \"Ramesh Balwani\", \"Theranos trial\", \"Theranos explained\", \"business documentary\", \"fraud case\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
  },
  {
-  "id": "get-BUar6Y9qHKQ",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=BUar6Y9qHKQ",
-  "body": ""
+  "id": "pi-010-BUar6Y9qHKQ",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "body": "{\"snippet\": {\"playlistId\": \"PLTWXEL5X0LQA\", \"position\": 1, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"BUar6Y9qHKQ\"}}}"
  },
  {
-  "id": "get-ubM03Esema0",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=ubM03Esema0",
-  "body": ""
+  "id": "upd-BUar6Y9qHKQ",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "body": "{\"id\": \"BUar6Y9qHKQ\", \"snippet\": {\"title\": \"Court: a witness at Sunny Balwani's trial gave false testimony. His conviction still stands. #Shorts\", \"categoryId\": \"27\", \"description\": \"Full episode ▶ https://youtu.be/D0LStTL0p9E\\n\\nThe Ninth Circuit accepted that investor witness Bryan Tolbert's medevac-helicopter statement at Sunny Balwani's Theranos trial was 'actually false'. It still affirmed his conviction (amended opinion, 22 Dec 2025), and the Supreme Court denied his petition on 5 Oct 2026.\\n\\nSources: US Court of Appeals for the Ninth Circuit, United States v. Holmes / United States v. Balwani, Nos. 22-10338 & 23-1166, order denying rehearing and amended opinion (22 Dec 2025); US Supreme Court, docket No. 25-1330, Balwani v. United States (petition denied 5 Oct 2026); Balwani petition for a writ of certiorari, No. 25-1330 (21 May 2026) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #SunnyBalwani #Theranos #ElizabethHolmes\", \"tags\": [\"Sunny Balwani\", \"Theranos\", \"Elizabeth Holmes\", \"Ramesh Balwani\", \"Theranos trial\", \"Theranos explained\", \"business documentary\", \"fraud case\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
  },
  {
-  "id": "get-YpGTSrWqFDU",
-  "method": "GET",
-  "path": "/v3/videos?part=snippet&id=YpGTSrWqFDU",
-  "body": ""
+  "id": "pi-010-ubM03Esema0",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "body": "{\"snippet\": {\"playlistId\": \"PLTWXEL5X0LQA\", \"position\": 2, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"ubM03Esema0\"}}}"
+ },
+ {
+  "id": "upd-ubM03Esema0",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "body": "{\"id\": \"ubM03Esema0\", \"snippet\": {\"title\": \"The regulator's Theranos letter named 'Ramesh Balwani, Owner'. Here's what it said. #Shorts\", \"categoryId\": \"27\", \"description\": \"Full episode ▶ https://youtu.be/D0LStTL0p9E\\n\\nThe federal lab regulator's letter of 18 March 2016 proposing sanctions against Theranos's Newark lab was addressed to the lab director, Elizabeth Holmes and Ramesh Balwani as owners. It cited immediate jeopardy to patient health and proposed a ban of at least two years on owners and operators.\\n\\nSources: US Court of Appeals for the Ninth Circuit, United States v. Holmes / United States v. Balwani, Nos. 22-10338 & 23-1166, order denying rehearing and amended opinion (22 Dec 2025); US Supreme Court, docket No. 25-1330, Balwani v. United States (petition denied 5 Oct 2026); Balwani petition for a writ of certiorari, No. 25-1330 (21 May 2026) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #SunnyBalwani #Theranos #ElizabethHolmes\", \"tags\": [\"Sunny Balwani\", \"Theranos\", \"Elizabeth Holmes\", \"Ramesh Balwani\", \"Theranos trial\", \"Theranos explained\", \"business documentary\", \"fraud case\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
+ },
+ {
+  "id": "pi-010-YpGTSrWqFDU",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "body": "{\"snippet\": {\"playlistId\": \"PLTWXEL5X0LQA\", \"position\": 3, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"YpGTSrWqFDU\"}}}"
+ },
+ {
+  "id": "upd-YpGTSrWqFDU",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "body": "{\"id\": \"YpGTSrWqFDU\", \"snippet\": {\"title\": \"Same company, same judge. Holmes was acquitted of patient fraud. Sunny Balwani wasn't. #Shorts\", \"categoryId\": \"27\", \"description\": \"Full episode ▶ https://youtu.be/D0LStTL0p9E\\n\\nElizabeth Holmes was acquitted of the patient fraud charges in January 2022. In a separate trial before the same judge, Sunny Balwani was convicted on all twelve counts in July 2022, including the patient charges (US Attorney, NDCA).\\n\\nSources: US Court of Appeals for the Ninth Circuit, United States v. Holmes / United States v. Balwani, Nos. 22-10338 & 23-1166, order denying rehearing and amended opinion (22 Dec 2025); US Supreme Court, docket No. 25-1330, Balwani v. United States (petition denied 5 Oct 2026); Balwani petition for a writ of certiorari, No. 25-1330 (21 May 2026) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #SunnyBalwani #Theranos #ElizabethHolmes\", \"tags\": [\"Sunny Balwani\", \"Theranos\", \"Elizabeth Holmes\", \"Ramesh Balwani\", \"Theranos trial\", \"Theranos explained\", \"business documentary\", \"fraud case\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
  }
 ]
