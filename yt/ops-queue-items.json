@@ -46,5 +46,41 @@
   "method": "PUT",
   "path": "/v3/videos?part=snippet",
   "body": "{\"id\": \"YpGTSrWqFDU\", \"snippet\": {\"title\": \"Same company, same judge. Holmes was acquitted of patient fraud. Sunny Balwani wasn't. #Shorts\", \"categoryId\": \"27\", \"description\": \"Full episode ▶ https://youtu.be/D0LStTL0p9E\\n\\nElizabeth Holmes was acquitted of the patient fraud charges in January 2022. In a separate trial before the same judge, Sunny Balwani was convicted on all twelve counts in July 2022, including the patient charges (US Attorney, NDCA).\\n\\nSources: US Court of Appeals for the Ninth Circuit, United States v. Holmes / United States v. Balwani, Nos. 22-10338 & 23-1166, order denying rehearing and amended opinion (22 Dec 2025); US Supreme Court, docket No. 25-1330, Balwani v. United States (petition denied 5 Oct 2026); Balwani petition for a writ of certiorari, No. 25-1330 (21 May 2026) (full list in the episode description).\\nNarration uses a synthetic voice; graphics are our own.\\n\\n#Shorts #SunnyBalwani #Theranos #ElizabethHolmes\", \"tags\": [\"Sunny Balwani\", \"Theranos\", \"Elizabeth Holmes\", \"Ramesh Balwani\", \"Theranos trial\", \"Theranos explained\", \"business documentary\", \"fraud case\"], \"defaultLanguage\": \"en\", \"defaultAudioLanguage\": \"en\"}}"
+ },
+ {
+  "id": "pl-011",
+  "method": "POST",
+  "path": "/v3/playlists?part=snippet,status",
+  "body": "{\"snippet\": {\"title\": \"Thomas Cook Collapse Explained\", \"description\": \"What the record shows about the Thomas Cook collapse and who paid to fly 140,000 people home: the full episode first, then the short case notes. From the National Audit Office and parliamentary records.\", \"defaultLanguage\": \"en\"}, \"status\": {\"privacyStatus\": \"public\"}}"
+ },
+ {
+  "id": "pi-all-qKxZdx3Sa8k",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "body": "{\"snippet\": {\"playlistId\": \"PLcJ0qXrqBDRU\", \"position\": 0, \"resourceId\": {\"kind\": \"youtube#video\", \"videoId\": \"qKxZdx3Sa8k\"}}}"
+ },
+ {
+  "id": "get-qKxZdx3Sa8k",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=qKxZdx3Sa8k",
+  "body": ""
+ },
+ {
+  "id": "get-ZcMQZQPnez0",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=ZcMQZQPnez0",
+  "body": ""
+ },
+ {
+  "id": "get-7MUGCkvftlI",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=7MUGCkvftlI",
+  "body": ""
+ },
+ {
+  "id": "get--gCRJB8fk-4",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=-gCRJB8fk-4",
+  "body": ""
  }
 ]
