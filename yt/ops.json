@@ -4272,5 +4272,263 @@
     "defaultAudioLanguage": "en"
    }
   }
+ },
+ {
+  "id": "pl-011",
+  "method": "POST",
+  "path": "/v3/playlists?part=snippet,status",
+  "body": {
+   "snippet": {
+    "title": "Thomas Cook Collapse Explained",
+    "description": "What the record shows about the Thomas Cook collapse and who paid to fly 140,000 people home: the full episode first, then the short case notes. From the National Audit Office and parliamentary records.",
+    "defaultLanguage": "en"
+   },
+   "status": {
+    "privacyStatus": "public"
+   }
+  }
+ },
+ {
+  "id": "pi-011-qKxZdx3Sa8k",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-011"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-011",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "qKxZdx3Sa8k"
+    }
+   }
+  }
+ },
+ {
+  "id": "pi-all-qKxZdx3Sa8k",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-all"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-all",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "qKxZdx3Sa8k"
+    }
+   }
+  }
+ },
+ {
+  "id": "get-qKxZdx3Sa8k",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=qKxZdx3Sa8k"
+ },
+ {
+  "id": "upd-qKxZdx3Sa8k",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "after": [
+   "get-qKxZdx3Sa8k",
+   "pl-011",
+   "pl-all"
+  ],
+  "transform": {
+   "kind": "none",
+   "append": "▶ Shorts from this case: https://www.youtube.com/playlist?list=@res:pl-011\n▶ All full episodes: https://www.youtube.com/playlist?list=@res:pl-all\n🔔 Subscribe for the next case file: https://www.youtube.com/@FiledUnderFailure-d6j?sub_confirmation=1"
+  },
+  "body": {
+   "id": "qKxZdx3Sa8k",
+   "snippet": {
+    "title": "Thomas Cook Collapse: Who Paid to Fly 140,000 Home?",
+    "categoryId": "27",
+    "description": "@desc:get-qKxZdx3Sa8k",
+    "tags": [
+     "Thomas Cook",
+     "Thomas Cook collapse",
+     "Peter Fankhauser",
+     "Operation Matterhorn",
+     "Thomas Cook explained",
+     "ATOL",
+     "business documentary",
+     "UK business collapse"
+    ],
+    "defaultLanguage": "en",
+    "defaultAudioLanguage": "en"
+   }
+  }
+ },
+ {
+  "id": "pi-011-ZcMQZQPnez0",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-011"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-011",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ZcMQZQPnez0"
+    }
+   }
+  }
+ },
+ {
+  "id": "get-ZcMQZQPnez0",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=ZcMQZQPnez0"
+ },
+ {
+  "id": "upd-ZcMQZQPnez0",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "after": [
+   "get-ZcMQZQPnez0"
+  ],
+  "transform": {
+   "kind": "replace_line",
+   "prefix": "Full episode",
+   "text": "Full episode ▶ https://youtu.be/qKxZdx3Sa8k"
+  },
+  "body": {
+   "id": "ZcMQZQPnez0",
+   "snippet": {
+    "title": "The UK approved Thomas Cook's rescue flights before the firm asked for help #Shorts",
+    "categoryId": "27",
+    "description": "@desc:get-ZcMQZQPnez0",
+    "tags": [
+     "Thomas Cook",
+     "Thomas Cook collapse",
+     "Peter Fankhauser",
+     "Operation Matterhorn",
+     "Thomas Cook explained",
+     "ATOL",
+     "business documentary",
+     "UK business collapse"
+    ],
+    "defaultLanguage": "en",
+    "defaultAudioLanguage": "en"
+   }
+  }
+ },
+ {
+  "id": "pi-011-7MUGCkvftlI",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-011"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-011",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "7MUGCkvftlI"
+    }
+   }
+  }
+ },
+ {
+  "id": "get-7MUGCkvftlI",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=7MUGCkvftlI"
+ },
+ {
+  "id": "upd-7MUGCkvftlI",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "after": [
+   "get-7MUGCkvftlI"
+  ],
+  "transform": {
+   "kind": "replace_line",
+   "prefix": "Full episode",
+   "text": "Full episode ▶ https://youtu.be/qKxZdx3Sa8k"
+  },
+  "body": {
+   "id": "7MUGCkvftlI",
+   "snippet": {
+    "title": "Fosun agreed to invest £450m in Thomas Cook. After the collapse it paid £11m for the brand #Shorts",
+    "categoryId": "27",
+    "description": "@desc:get-7MUGCkvftlI",
+    "tags": [
+     "Thomas Cook",
+     "Thomas Cook collapse",
+     "Peter Fankhauser",
+     "Operation Matterhorn",
+     "Thomas Cook explained",
+     "ATOL",
+     "business documentary",
+     "UK business collapse"
+    ],
+    "defaultLanguage": "en",
+    "defaultAudioLanguage": "en"
+   }
+  }
+ },
+ {
+  "id": "pi-011--gCRJB8fk-4",
+  "method": "POST",
+  "path": "/v3/playlistItems?part=snippet",
+  "after": [
+   "pl-011"
+  ],
+  "body": {
+   "snippet": {
+    "playlistId": "@res:pl-011",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "-gCRJB8fk-4"
+    }
+   }
+  }
+ },
+ {
+  "id": "get--gCRJB8fk-4",
+  "method": "GET",
+  "path": "/v3/videos?part=snippet&id=-gCRJB8fk-4"
+ },
+ {
+  "id": "upd--gCRJB8fk-4",
+  "method": "PUT",
+  "path": "/v3/videos?part=snippet",
+  "after": [
+   "get--gCRJB8fk-4"
+  ],
+  "transform": {
+   "kind": "replace_line",
+   "prefix": "Full episode",
+   "text": "Full episode ▶ https://youtu.be/qKxZdx3Sa8k"
+  },
+  "body": {
+   "id": "-gCRJB8fk-4",
+   "snippet": {
+    "title": "Most stranded Thomas Cook customers had no ATOL cover. Taxpayers paid an estimated £83m #Shorts",
+    "categoryId": "27",
+    "description": "@desc:get--gCRJB8fk-4",
+    "tags": [
+     "Thomas Cook",
+     "Thomas Cook collapse",
+     "Peter Fankhauser",
+     "Operation Matterhorn",
+     "Thomas Cook explained",
+     "ATOL",
+     "business documentary",
+     "UK business collapse"
+    ],
+    "defaultLanguage": "en",
+    "defaultAudioLanguage": "en"
+   }
+  }
  }
 ]
